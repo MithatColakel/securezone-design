@@ -3103,6 +3103,22 @@
       "h": 700,
       "page": "mac",
       "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: no macOS prompt (macOS error), help with the settings path · AR"
+    },
+    "iPad-MainWindow589-NoPremium785-EN.dc.html": {
+      "x": 0,
+      "y": 54284,
+      "w": 785,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle · 785 pt window · EN"
+    },
+    "iPad-MainWindow589-NoPremium785-AR.dc.html": {
+      "x": 865,
+      "y": 54284,
+      "w": 785,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle · 785 pt window · AR (Arabic system: the window buttons at the top right)"
     }
   },
   "order": [
@@ -3477,6 +3493,8 @@
     "iPad-VPNPermission817-Prompt-AR.dc.html",
     "iPad-VPNPermission817-Help-AR.dc.html",
     "iPad-VPNPermission817-NoPrompt-AR.dc.html",
+    "iPad-MainWindow589-NoPremium785-EN.dc.html",
+    "iPad-MainWindow589-NoPremium785-AR.dc.html",
     "Mac-PrimaryButton-Normal-EN.dc.html",
     "Mac-PrimaryButton-Pressed-EN.dc.html",
     "Mac-PrimaryButton-Disabled-EN.dc.html",
@@ -4355,6 +4373,32 @@
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-855 (below): the \"VPN permission\" frames (Mac-FirstLaunch-Permission EN and AR) leave the flow: Connect opens the macOS prompt at once. The \"permission denied\" frames (Mac-FirstLaunch-Denied EN and AR) are replaced by the help page. Privacy stays. These frames stay as approved until the board approves and the change is on the default branch."
+    },
+    "ipad-blk-ProposalVPN589window": {
+      "x": 0,
+      "y": 53284,
+      "text": "Proposal — VPN-589 window",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "blue"
+    },
+    "ipad-ProposalVPN589window-Main": {
+      "x": 0,
+      "y": 53984,
+      "text": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle",
+      "kind": "title1",
+      "maxW": 1650,
+      "page": "ipad"
+    },
+    "ipad-ProposalVPN589window-rule": {
+      "x": 1730,
+      "y": 54284,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Get Premium capsule in a wide window (QA O-B, design review of 2026-11-16).\nToday (build 23780acc): the capsule is at most the main column less 2 × 68 pt (English) or 2 × 48 pt (Arabic). When the texts do not fit, the subtitle is cut with \"…\". English: cut in windows of 700–814 pt (\"No Ads,…\" at 700 pt). Arabic: cut in windows of 700–858 pt.\nProposal: the capsule shows the subtitle only when the whole capsule fits. When it does not fit, the capsule shows the diamond, \"Get Premium\" / \"تمتع بالأفضل\" and the chevron (about 177 pt wide). No subtitle and no \"…\". The tap, the colours, the 42 pt height and the maximum width do not change.\nNo change: full screen (the whole capsule fits), windows narrower than 700 pt (the iPhone banner), the iPhone.\nFrames: a 785 × 1307 pt window at the top of the screen; the status bar covers the top 32 pt. The window buttons are the system's closed controls, drawn as a stand-in. They are not an app element. The column under them starts below them (build 23780acc, design PASS); the other column does not move. The vertical spacing follows the approved VPN-589 wide-window frames."
     }
   }
 }
