@@ -1,0 +1,4235 @@
+{
+  "v": 3,
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-11-12T07:24:27Z"
+  },
+  "title": "Securezone VPN Ekranları",
+  "launch": {
+    "view": "canvas",
+    "page": "iphone"
+  },
+  "pages": [
+    {
+      "id": "iphone",
+      "name": "iPhone"
+    },
+    {
+      "id": "ipad",
+      "name": "iPad"
+    },
+    {
+      "id": "mac",
+      "name": "Mac"
+    }
+  ],
+  "boards": {
+    "Main.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 880,
+      "h": 560,
+      "page": "iphone",
+      "title": "Securezone VPN Ekranları"
+    },
+    "iPhone-Splash-FirstFrames-EN.dc.html": {
+      "x": 0,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · first frames · EN"
+    },
+    "iPhone-Splash-Bar40-EN.dc.html": {
+      "x": 482,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · bar at 40 % · EN"
+    },
+    "iPhone-Splash-Bar100-EN.dc.html": {
+      "x": 964,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · bar at 100 % · EN"
+    },
+    "iPhone-Splash-NoticeUnreachable-EN.dc.html": {
+      "x": 1446,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · notice: server not reachable · EN"
+    },
+    "iPhone-Splash-NoticeOffline-EN.dc.html": {
+      "x": 1928,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · notice: offline · EN"
+    },
+    "iPhone-Splash-FirstFrames-AR.dc.html": {
+      "x": 2410,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · first frames · AR"
+    },
+    "iPhone-Splash-Bar40-AR.dc.html": {
+      "x": 2892,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · bar at 40 % · AR"
+    },
+    "iPhone-Splash-Bar100-AR.dc.html": {
+      "x": 3374,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · bar at 100 % · AR"
+    },
+    "iPhone-Splash-NoticeUnreachable-AR.dc.html": {
+      "x": 3856,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · notice: server not reachable · AR"
+    },
+    "iPhone-Splash-NoticeOffline-AR.dc.html": {
+      "x": 4338,
+      "y": 960,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Splash and boot notice · notice: offline · AR"
+    },
+    "iPhone-Agreement-Ticked-EN.dc.html": {
+      "x": 0,
+      "y": 2234,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Agreement · box ticked · EN"
+    },
+    "iPhone-Agreement-Unticked-EN.dc.html": {
+      "x": 482,
+      "y": 2234,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Agreement · unticked after Confirm · EN"
+    },
+    "iPhone-Agreement-Ticked-AR.dc.html": {
+      "x": 964,
+      "y": 2234,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Agreement · box ticked · AR"
+    },
+    "iPhone-Agreement-Unticked-AR.dc.html": {
+      "x": 1446,
+      "y": 2234,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Agreement · unticked after Confirm · AR"
+    },
+    "iPhone-Onboarding-Page1-EN.dc.html": {
+      "x": 0,
+      "y": 3508,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Onboarding · page 1 · EN"
+    },
+    "iPhone-Onboarding-Page2-EN.dc.html": {
+      "x": 482,
+      "y": 3508,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Onboarding · page 2 · EN"
+    },
+    "iPhone-Onboarding-Page3-EN.dc.html": {
+      "x": 964,
+      "y": 3508,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Onboarding · page 3 · EN"
+    },
+    "iPhone-Onboarding-Page1-AR.dc.html": {
+      "x": 1446,
+      "y": 3508,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Onboarding · page 1 · AR"
+    },
+    "iPhone-Onboarding-Page2-AR.dc.html": {
+      "x": 1928,
+      "y": 3508,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Onboarding · page 2 · AR"
+    },
+    "iPhone-Onboarding-Page3-AR.dc.html": {
+      "x": 2410,
+      "y": 3508,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Onboarding · page 3 · AR"
+    },
+    "iPhone-VPNPermission-Primer-EN.dc.html": {
+      "x": 0,
+      "y": 4782,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "VPN permission · before the iOS prompt · EN"
+    },
+    "iPhone-VPNPermission-Denied-EN.dc.html": {
+      "x": 482,
+      "y": 4782,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "VPN permission · after a refusal · EN"
+    },
+    "iPhone-VPNPermission-Primer-AR.dc.html": {
+      "x": 964,
+      "y": 4782,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "VPN permission · before the iOS prompt · AR"
+    },
+    "iPhone-VPNPermission-Denied-AR.dc.html": {
+      "x": 1446,
+      "y": 4782,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "VPN permission · after a refusal · AR"
+    },
+    "iPhone-HomeFree-Idle-EN.dc.html": {
+      "x": 0,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · idle · EN"
+    },
+    "iPhone-HomeFree-Connecting-EN.dc.html": {
+      "x": 482,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · connecting · EN"
+    },
+    "iPhone-HomeFree-ConnectingHint-EN.dc.html": {
+      "x": 964,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · connecting, after 5 s · EN"
+    },
+    "iPhone-HomeFree-Connected-EN.dc.html": {
+      "x": 1446,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · connected · EN"
+    },
+    "iPhone-HomeFree-Disconnecting-EN.dc.html": {
+      "x": 1928,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · disconnecting · EN"
+    },
+    "iPhone-HomeFree-NoTimeLeft-EN.dc.html": {
+      "x": 2410,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · no free time left · EN"
+    },
+    "iPhone-HomeFree-GiftActive-EN.dc.html": {
+      "x": 2892,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · gift active · EN"
+    },
+    "iPhone-HomeFree-Idle-AR.dc.html": {
+      "x": 3374,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · idle · AR"
+    },
+    "iPhone-HomeFree-Connecting-AR.dc.html": {
+      "x": 3856,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · connecting · AR"
+    },
+    "iPhone-HomeFree-ConnectingHint-AR.dc.html": {
+      "x": 4338,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · connecting, after 5 s · AR"
+    },
+    "iPhone-HomeFree-Connected-AR.dc.html": {
+      "x": 4820,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · connected · AR"
+    },
+    "iPhone-HomeFree-Disconnecting-AR.dc.html": {
+      "x": 5302,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · disconnecting · AR"
+    },
+    "iPhone-HomeFree-NoTimeLeft-AR.dc.html": {
+      "x": 5784,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · no free time left · AR"
+    },
+    "iPhone-HomeFree-GiftActive-AR.dc.html": {
+      "x": 6266,
+      "y": 6056,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — free user · gift active · AR"
+    },
+    "iPhone-HomePremium-Idle-EN.dc.html": {
+      "x": 0,
+      "y": 7330,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — premium user · idle · EN"
+    },
+    "iPhone-HomePremium-Connected-EN.dc.html": {
+      "x": 482,
+      "y": 7330,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — premium user · connected · EN"
+    },
+    "iPhone-HomePremium-Idle-AR.dc.html": {
+      "x": 964,
+      "y": 7330,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — premium user · idle · AR"
+    },
+    "iPhone-HomePremium-Connected-AR.dc.html": {
+      "x": 1446,
+      "y": 7330,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — premium user · connected · AR"
+    },
+    "iPhone-HomeNotices-NoticeFree-EN.dc.html": {
+      "x": 0,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · notice band, free · EN"
+    },
+    "iPhone-HomeNotices-NoticePremium-EN.dc.html": {
+      "x": 482,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · notice band, premium · EN"
+    },
+    "iPhone-HomeNotices-NoInternet-EN.dc.html": {
+      "x": 964,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · no-internet banner · EN"
+    },
+    "iPhone-HomeNotices-Spinner-EN.dc.html": {
+      "x": 1446,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · page spinner · EN"
+    },
+    "iPhone-HomeNotices-NoticeFree-AR.dc.html": {
+      "x": 1928,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · notice band, free · AR"
+    },
+    "iPhone-HomeNotices-NoticePremium-AR.dc.html": {
+      "x": 2410,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · notice band, premium · AR"
+    },
+    "iPhone-HomeNotices-NoInternet-AR.dc.html": {
+      "x": 2892,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · no-internet banner · AR"
+    },
+    "iPhone-HomeNotices-Spinner-AR.dc.html": {
+      "x": 3374,
+      "y": 8604,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — notices · page spinner · AR"
+    },
+    "iPhone-NetworkBlocked-RetryReady-EN.dc.html": {
+      "x": 0,
+      "y": 11152,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Network blocked · Retry ready · EN"
+    },
+    "iPhone-NetworkBlocked-RetryCountdown-EN.dc.html": {
+      "x": 482,
+      "y": 11152,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Network blocked · Retry counting down · EN"
+    },
+    "iPhone-NetworkBlocked-RetryReady-AR.dc.html": {
+      "x": 964,
+      "y": 11152,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Network blocked · Retry ready · AR"
+    },
+    "iPhone-NetworkBlocked-RetryCountdown-AR.dc.html": {
+      "x": 1446,
+      "y": 11152,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Network blocked · Retry counting down · AR"
+    },
+    "iPhone-ServerList-Free-EN.dc.html": {
+      "x": 0,
+      "y": 12426,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Server list · free user · EN"
+    },
+    "iPhone-ServerList-PremiumGermany-EN.dc.html": {
+      "x": 482,
+      "y": 12426,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Server list · premium, Germany · EN"
+    },
+    "iPhone-ServerList-PremiumAuto-EN.dc.html": {
+      "x": 964,
+      "y": 12426,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Server list · premium, Auto · EN"
+    },
+    "iPhone-ServerList-Free-AR.dc.html": {
+      "x": 1446,
+      "y": 12426,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Server list · free user · AR"
+    },
+    "iPhone-ServerList-PremiumGermany-AR.dc.html": {
+      "x": 1928,
+      "y": 12426,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Server list · premium, Germany · AR"
+    },
+    "iPhone-ServerList-PremiumAuto-AR.dc.html": {
+      "x": 2410,
+      "y": 12426,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Server list · premium, Auto · AR"
+    },
+    "iPhone-Report-NotConnected-EN.dc.html": {
+      "x": 0,
+      "y": 13700,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Report an Issue · not connected · EN"
+    },
+    "iPhone-Report-Connected-EN.dc.html": {
+      "x": 482,
+      "y": 13700,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Report an Issue · connected · EN"
+    },
+    "iPhone-Report-NotConnected-AR.dc.html": {
+      "x": 964,
+      "y": 13700,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Report an Issue · not connected · AR"
+    },
+    "iPhone-Report-Connected-AR.dc.html": {
+      "x": 1446,
+      "y": 13700,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Report an Issue · connected · AR"
+    },
+    "iPhone-ConnectionRating-Untouched-EN.dc.html": {
+      "x": 0,
+      "y": 14974,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Connection rating · untouched · EN"
+    },
+    "iPhone-ConnectionRating-TwoStars-EN.dc.html": {
+      "x": 482,
+      "y": 14974,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Connection rating · 2 stars, reasons · EN"
+    },
+    "iPhone-ConnectionRating-FiveStars-EN.dc.html": {
+      "x": 964,
+      "y": 14974,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Connection rating · 5 stars · EN"
+    },
+    "iPhone-ConnectionRating-Untouched-AR.dc.html": {
+      "x": 1446,
+      "y": 14974,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Connection rating · untouched · AR"
+    },
+    "iPhone-ConnectionRating-TwoStars-AR.dc.html": {
+      "x": 1928,
+      "y": 14974,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Connection rating · 2 stars, reasons · AR"
+    },
+    "iPhone-ConnectionRating-FiveStars-AR.dc.html": {
+      "x": 2410,
+      "y": 14974,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Connection rating · 5 stars · AR"
+    },
+    "iPhone-RateUs-Default-EN.dc.html": {
+      "x": 0,
+      "y": 16248,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Rate us · drawer · EN"
+    },
+    "iPhone-RateUs-Default-AR.dc.html": {
+      "x": 482,
+      "y": 16248,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Rate us · drawer · AR"
+    },
+    "iPhone-RewardPanel-ZeroOfThree-EN.dc.html": {
+      "x": 0,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · 0 of 3 · EN"
+    },
+    "iPhone-RewardPanel-Progress-EN.dc.html": {
+      "x": 482,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · 1 of 3 · EN"
+    },
+    "iPhone-RewardPanel-Claim-EN.dc.html": {
+      "x": 964,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · 3 of 3, Claim · EN"
+    },
+    "iPhone-RewardPanel-AdLoading-EN.dc.html": {
+      "x": 1446,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · ad loading · EN"
+    },
+    "iPhone-RewardPanel-NoAd-EN.dc.html": {
+      "x": 1928,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · no ad could load · EN"
+    },
+    "iPhone-RewardPanel-ZeroOfThree-AR.dc.html": {
+      "x": 2410,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · 0 of 3 · AR"
+    },
+    "iPhone-RewardPanel-Progress-AR.dc.html": {
+      "x": 2892,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · 1 of 3 · AR"
+    },
+    "iPhone-RewardPanel-Claim-AR.dc.html": {
+      "x": 3374,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · 3 of 3, Claim · AR"
+    },
+    "iPhone-RewardPanel-AdLoading-AR.dc.html": {
+      "x": 3856,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · ad loading · AR"
+    },
+    "iPhone-RewardPanel-NoAd-AR.dc.html": {
+      "x": 4338,
+      "y": 17522,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Reward panel · no ad could load · AR"
+    },
+    "iPhone-NoTimeLeft-Trial-EN.dc.html": {
+      "x": 0,
+      "y": 18796,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "No time left · trial available · EN"
+    },
+    "iPhone-NoTimeLeft-NoTrial-EN.dc.html": {
+      "x": 482,
+      "y": 18796,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "No time left · no trial · EN"
+    },
+    "iPhone-NoTimeLeft-Trial-AR.dc.html": {
+      "x": 964,
+      "y": 18796,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "No time left · trial available · AR"
+    },
+    "iPhone-NoTimeLeft-NoTrial-AR.dc.html": {
+      "x": 1446,
+      "y": 18796,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "No time left · no trial · AR"
+    },
+    "iPhone-Gift-Default-EN.dc.html": {
+      "x": 0,
+      "y": 20070,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Gift · welcome gift · EN"
+    },
+    "iPhone-Gift-Default-AR.dc.html": {
+      "x": 482,
+      "y": 20070,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Gift · welcome gift · AR"
+    },
+    "iPhone-Settings-Default-EN.dc.html": {
+      "x": 0,
+      "y": 21944,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Settings tab · default · EN"
+    },
+    "iPhone-Settings-UnderNotice-EN.dc.html": {
+      "x": 482,
+      "y": 21944,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Settings tab · under the notice band · EN"
+    },
+    "iPhone-Settings-Default-AR.dc.html": {
+      "x": 964,
+      "y": 21944,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Settings tab · default · AR"
+    },
+    "iPhone-Settings-UnderNotice-AR.dc.html": {
+      "x": 1446,
+      "y": 21944,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Settings tab · under the notice band · AR"
+    },
+    "iPhone-Profile-Free-EN.dc.html": {
+      "x": 0,
+      "y": 23218,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Profile tab · free user · EN"
+    },
+    "iPhone-Profile-Premium-EN.dc.html": {
+      "x": 482,
+      "y": 23218,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Profile tab · premium user · EN"
+    },
+    "iPhone-Profile-UnderNotice-EN.dc.html": {
+      "x": 964,
+      "y": 23218,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Profile tab · under the notice band · EN"
+    },
+    "iPhone-Profile-Free-AR.dc.html": {
+      "x": 1446,
+      "y": 23218,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Profile tab · free user · AR"
+    },
+    "iPhone-Profile-Premium-AR.dc.html": {
+      "x": 1928,
+      "y": 23218,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Profile tab · premium user · AR"
+    },
+    "iPhone-Profile-UnderNotice-AR.dc.html": {
+      "x": 2410,
+      "y": 23218,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Profile tab · under the notice band · AR"
+    },
+    "iPhone-Protocols-Default-EN.dc.html": {
+      "x": 0,
+      "y": 24492,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Protocols · default · EN"
+    },
+    "iPhone-Protocols-Pinned-EN.dc.html": {
+      "x": 482,
+      "y": 24492,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Protocols · OpenVPN pinned, WireGuard blocked · EN"
+    },
+    "iPhone-Protocols-Default-AR.dc.html": {
+      "x": 964,
+      "y": 24492,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Protocols · default · AR"
+    },
+    "iPhone-Protocols-Pinned-AR.dc.html": {
+      "x": 1446,
+      "y": 24492,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Protocols · OpenVPN pinned, WireGuard blocked · AR"
+    },
+    "iPhone-Account-Free-EN.dc.html": {
+      "x": 0,
+      "y": 25766,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Account · free user · EN"
+    },
+    "iPhone-Account-Premium-EN.dc.html": {
+      "x": 482,
+      "y": 25766,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Account · premium weekly · EN"
+    },
+    "iPhone-Account-BillingIssue-EN.dc.html": {
+      "x": 964,
+      "y": 25766,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Account · failed charge open · EN"
+    },
+    "iPhone-Account-Free-AR.dc.html": {
+      "x": 1446,
+      "y": 25766,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Account · free user · AR"
+    },
+    "iPhone-Account-Premium-AR.dc.html": {
+      "x": 1928,
+      "y": 25766,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Account · premium weekly · AR"
+    },
+    "iPhone-Account-BillingIssue-AR.dc.html": {
+      "x": 2410,
+      "y": 25766,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Account · failed charge open · AR"
+    },
+    "iPhone-BillingGrace-Grace-EN.dc.html": {
+      "x": 0,
+      "y": 27040,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Billing grace and paused · grace period · EN"
+    },
+    "iPhone-BillingGrace-Paused-EN.dc.html": {
+      "x": 482,
+      "y": 27040,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Billing grace and paused · premium paused · EN"
+    },
+    "iPhone-BillingGrace-Grace-AR.dc.html": {
+      "x": 964,
+      "y": 27040,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Billing grace and paused · grace period · AR"
+    },
+    "iPhone-BillingGrace-Paused-AR.dc.html": {
+      "x": 1446,
+      "y": 27040,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Billing grace and paused · premium paused · AR"
+    },
+    "iPhone-Others-Default-EN.dc.html": {
+      "x": 0,
+      "y": 28314,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Others · default · EN"
+    },
+    "iPhone-Others-Default-AR.dc.html": {
+      "x": 482,
+      "y": 28314,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Others · default · AR"
+    },
+    "iPhone-Support-Empty-EN.dc.html": {
+      "x": 0,
+      "y": 29588,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Support · empty form · EN"
+    },
+    "iPhone-Support-Errors-EN.dc.html": {
+      "x": 482,
+      "y": 29588,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Support · validation errors · EN"
+    },
+    "iPhone-Support-Sent-EN.dc.html": {
+      "x": 964,
+      "y": 29588,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Support · sent · EN"
+    },
+    "iPhone-Support-Empty-AR.dc.html": {
+      "x": 1446,
+      "y": 29588,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Support · empty form · AR"
+    },
+    "iPhone-Support-Errors-AR.dc.html": {
+      "x": 1928,
+      "y": 29588,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Support · validation errors · AR"
+    },
+    "iPhone-Support-Sent-AR.dc.html": {
+      "x": 2410,
+      "y": 29588,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Support · sent · AR"
+    },
+    "iPhone-UpdateRequired-Default-EN.dc.html": {
+      "x": 0,
+      "y": 30862,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Update required · update required · EN"
+    },
+    "iPhone-UpdateRequired-Default-AR.dc.html": {
+      "x": 482,
+      "y": 30862,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Update required · update required · AR"
+    },
+    "iPad-Splash-FirstFrames-EN.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · first frames · EN"
+    },
+    "iPad-Splash-Bar40-EN.dc.html": {
+      "x": 1112,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · bar at 40 % · EN"
+    },
+    "iPad-Splash-Bar100-EN.dc.html": {
+      "x": 2224,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · bar at 100 % · EN"
+    },
+    "iPad-Splash-NoticeUnreachable-EN.dc.html": {
+      "x": 3336,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · notice: server not reachable · EN"
+    },
+    "iPad-Splash-NoticeOffline-EN.dc.html": {
+      "x": 4448,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · notice: offline · EN"
+    },
+    "iPad-Splash-FirstFrames-AR.dc.html": {
+      "x": 5560,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · first frames · AR"
+    },
+    "iPad-Splash-Bar40-AR.dc.html": {
+      "x": 6672,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · bar at 40 % · AR"
+    },
+    "iPad-Splash-Bar100-AR.dc.html": {
+      "x": 7784,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · bar at 100 % · AR"
+    },
+    "iPad-Splash-NoticeUnreachable-AR.dc.html": {
+      "x": 8896,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · notice: server not reachable · AR"
+    },
+    "iPad-Splash-NoticeOffline-AR.dc.html": {
+      "x": 10008,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Splash and boot notice · notice: offline · AR"
+    },
+    "iPad-Agreement-Ticked-EN.dc.html": {
+      "x": 0,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Agreement · box ticked · EN"
+    },
+    "iPad-Agreement-Unticked-EN.dc.html": {
+      "x": 1112,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Agreement · unticked after Confirm · EN"
+    },
+    "iPad-Agreement-Ticked-AR.dc.html": {
+      "x": 2224,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Agreement · box ticked · AR"
+    },
+    "iPad-Agreement-Unticked-AR.dc.html": {
+      "x": 3336,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Agreement · unticked after Confirm · AR"
+    },
+    "iPad-Onboarding-Page1-EN.dc.html": {
+      "x": 0,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Onboarding · page 1 · EN"
+    },
+    "iPad-Onboarding-Page2-EN.dc.html": {
+      "x": 1112,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Onboarding · page 2 · EN"
+    },
+    "iPad-Onboarding-Page3-EN.dc.html": {
+      "x": 2224,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Onboarding · page 3 · EN"
+    },
+    "iPad-Onboarding-Page1-AR.dc.html": {
+      "x": 3336,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Onboarding · page 1 · AR"
+    },
+    "iPad-Onboarding-Page2-AR.dc.html": {
+      "x": 4448,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Onboarding · page 2 · AR"
+    },
+    "iPad-Onboarding-Page3-AR.dc.html": {
+      "x": 5560,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Onboarding · page 3 · AR"
+    },
+    "iPad-VPNPermission-Primer-EN.dc.html": {
+      "x": 0,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "VPN permission · before the iOS prompt · EN"
+    },
+    "iPad-VPNPermission-Denied-EN.dc.html": {
+      "x": 1112,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "VPN permission · after a refusal · EN"
+    },
+    "iPad-VPNPermission-Primer-AR.dc.html": {
+      "x": 2224,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "VPN permission · before the iOS prompt · AR"
+    },
+    "iPad-VPNPermission-Denied-AR.dc.html": {
+      "x": 3336,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "VPN permission · after a refusal · AR"
+    },
+    "iPad-HomeFree-Idle-EN.dc.html": {
+      "x": 0,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · idle · EN"
+    },
+    "iPad-HomeFree-Connecting-EN.dc.html": {
+      "x": 1112,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · connecting · EN"
+    },
+    "iPad-HomeFree-ConnectingHint-EN.dc.html": {
+      "x": 2224,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · connecting, after 5 s · EN"
+    },
+    "iPad-HomeFree-Connected-EN.dc.html": {
+      "x": 3336,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · connected · EN"
+    },
+    "iPad-HomeFree-Disconnecting-EN.dc.html": {
+      "x": 4448,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · disconnecting · EN"
+    },
+    "iPad-HomeFree-NoTimeLeft-EN.dc.html": {
+      "x": 5560,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · no free time left · EN"
+    },
+    "iPad-HomeFree-GiftActive-EN.dc.html": {
+      "x": 6672,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · gift active · EN"
+    },
+    "iPad-HomeFree-Idle-AR.dc.html": {
+      "x": 7784,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · idle · AR"
+    },
+    "iPad-HomeFree-Connecting-AR.dc.html": {
+      "x": 8896,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · connecting · AR"
+    },
+    "iPad-HomeFree-ConnectingHint-AR.dc.html": {
+      "x": 10008,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · connecting, after 5 s · AR"
+    },
+    "iPad-HomeFree-Connected-AR.dc.html": {
+      "x": 11120,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · connected · AR"
+    },
+    "iPad-HomeFree-Disconnecting-AR.dc.html": {
+      "x": 12232,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · disconnecting · AR"
+    },
+    "iPad-HomeFree-NoTimeLeft-AR.dc.html": {
+      "x": 13344,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · no free time left · AR"
+    },
+    "iPad-HomeFree-GiftActive-AR.dc.html": {
+      "x": 14456,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — free user · gift active · AR"
+    },
+    "iPad-HomePremium-Idle-EN.dc.html": {
+      "x": 0,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — premium user · idle · EN"
+    },
+    "iPad-HomePremium-Connected-EN.dc.html": {
+      "x": 1112,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — premium user · connected · EN"
+    },
+    "iPad-HomePremium-Idle-AR.dc.html": {
+      "x": 2224,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — premium user · idle · AR"
+    },
+    "iPad-HomePremium-Connected-AR.dc.html": {
+      "x": 3336,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — premium user · connected · AR"
+    },
+    "iPad-HomeNotices-NoticeFree-EN.dc.html": {
+      "x": 0,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · notice band, free · EN"
+    },
+    "iPad-HomeNotices-NoticePremium-EN.dc.html": {
+      "x": 1112,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · notice band, premium · EN"
+    },
+    "iPad-HomeNotices-NoInternet-EN.dc.html": {
+      "x": 2224,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · no-internet banner · EN"
+    },
+    "iPad-HomeNotices-Spinner-EN.dc.html": {
+      "x": 3336,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · page spinner · EN"
+    },
+    "iPad-HomeNotices-NoticeFree-AR.dc.html": {
+      "x": 4448,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · notice band, free · AR"
+    },
+    "iPad-HomeNotices-NoticePremium-AR.dc.html": {
+      "x": 5560,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · notice band, premium · AR"
+    },
+    "iPad-HomeNotices-NoInternet-AR.dc.html": {
+      "x": 6672,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · no-internet banner · AR"
+    },
+    "iPad-HomeNotices-Spinner-AR.dc.html": {
+      "x": 7784,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Home — notices · page spinner · AR"
+    },
+    "iPad-NetworkBlocked-RetryReady-EN.dc.html": {
+      "x": 0,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Network blocked · Retry ready · EN"
+    },
+    "iPad-NetworkBlocked-RetryCountdown-EN.dc.html": {
+      "x": 1112,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Network blocked · Retry counting down · EN"
+    },
+    "iPad-NetworkBlocked-RetryReady-AR.dc.html": {
+      "x": 2224,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Network blocked · Retry ready · AR"
+    },
+    "iPad-NetworkBlocked-RetryCountdown-AR.dc.html": {
+      "x": 3336,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Network blocked · Retry counting down · AR"
+    },
+    "iPad-Report-NotConnected-EN.dc.html": {
+      "x": 0,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Report an Issue · not connected · EN"
+    },
+    "iPad-Report-Connected-EN.dc.html": {
+      "x": 1112,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Report an Issue · connected · EN"
+    },
+    "iPad-Report-NotConnected-AR.dc.html": {
+      "x": 2224,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Report an Issue · not connected · AR"
+    },
+    "iPad-Report-Connected-AR.dc.html": {
+      "x": 3336,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Report an Issue · connected · AR"
+    },
+    "iPad-Gift-Default-EN.dc.html": {
+      "x": 0,
+      "y": 24864,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Gift · welcome gift · EN"
+    },
+    "iPad-Gift-Default-AR.dc.html": {
+      "x": 1112,
+      "y": 24864,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Gift · welcome gift · AR"
+    },
+    "iPad-Settings-Default-EN.dc.html": {
+      "x": 0,
+      "y": 27240,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Settings tab · default · EN"
+    },
+    "iPad-Settings-UnderNotice-EN.dc.html": {
+      "x": 1112,
+      "y": 27240,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Settings tab · under the notice band · EN"
+    },
+    "iPad-Settings-Default-AR.dc.html": {
+      "x": 2224,
+      "y": 27240,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Settings tab · default · AR"
+    },
+    "iPad-Settings-UnderNotice-AR.dc.html": {
+      "x": 3336,
+      "y": 27240,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Settings tab · under the notice band · AR"
+    },
+    "iPad-Profile-Free-EN.dc.html": {
+      "x": 0,
+      "y": 29016,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Profile tab · free user · EN"
+    },
+    "iPad-Profile-Premium-EN.dc.html": {
+      "x": 1112,
+      "y": 29016,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Profile tab · premium user · EN"
+    },
+    "iPad-Profile-UnderNotice-EN.dc.html": {
+      "x": 2224,
+      "y": 29016,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Profile tab · under the notice band · EN"
+    },
+    "iPad-Profile-Free-AR.dc.html": {
+      "x": 3336,
+      "y": 29016,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Profile tab · free user · AR"
+    },
+    "iPad-Profile-Premium-AR.dc.html": {
+      "x": 4448,
+      "y": 29016,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Profile tab · premium user · AR"
+    },
+    "iPad-Profile-UnderNotice-AR.dc.html": {
+      "x": 5560,
+      "y": 29016,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Profile tab · under the notice band · AR"
+    },
+    "iPad-Protocols-Default-EN.dc.html": {
+      "x": 0,
+      "y": 30792,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Protocols · default · EN"
+    },
+    "iPad-Protocols-Pinned-EN.dc.html": {
+      "x": 1112,
+      "y": 30792,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Protocols · OpenVPN pinned, WireGuard blocked by policy · EN"
+    },
+    "iPad-Protocols-Default-AR.dc.html": {
+      "x": 2224,
+      "y": 30792,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Protocols · default · AR"
+    },
+    "iPad-Protocols-Pinned-AR.dc.html": {
+      "x": 3336,
+      "y": 30792,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Protocols · OpenVPN pinned, WireGuard blocked by policy · AR"
+    },
+    "iPad-Account-Free-EN.dc.html": {
+      "x": 0,
+      "y": 32568,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Account · free user · EN"
+    },
+    "iPad-Account-Premium-EN.dc.html": {
+      "x": 1112,
+      "y": 32568,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Account · premium weekly · EN"
+    },
+    "iPad-Account-BillingIssue-EN.dc.html": {
+      "x": 2224,
+      "y": 32568,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Account · failed charge open · EN"
+    },
+    "iPad-Account-Free-AR.dc.html": {
+      "x": 3336,
+      "y": 32568,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Account · free user · AR"
+    },
+    "iPad-Account-Premium-AR.dc.html": {
+      "x": 4448,
+      "y": 32568,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Account · premium weekly · AR"
+    },
+    "iPad-Account-BillingIssue-AR.dc.html": {
+      "x": 5560,
+      "y": 32568,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Account · failed charge open · AR"
+    },
+    "iPad-Others-Default-EN.dc.html": {
+      "x": 0,
+      "y": 36120,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Others · default · EN"
+    },
+    "iPad-Others-Default-AR.dc.html": {
+      "x": 1112,
+      "y": 36120,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Others · default · AR"
+    },
+    "iPad-Support-Empty-EN.dc.html": {
+      "x": 0,
+      "y": 37896,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Support · empty form · EN"
+    },
+    "iPad-Support-Errors-EN.dc.html": {
+      "x": 1112,
+      "y": 37896,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Support · validation errors · EN"
+    },
+    "iPad-Support-Sent-EN.dc.html": {
+      "x": 2224,
+      "y": 37896,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Support · sent · EN"
+    },
+    "iPad-Support-Empty-AR.dc.html": {
+      "x": 3336,
+      "y": 37896,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Support · empty form · AR"
+    },
+    "iPad-Support-Errors-AR.dc.html": {
+      "x": 4448,
+      "y": 37896,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Support · validation errors · AR"
+    },
+    "iPad-Support-Sent-AR.dc.html": {
+      "x": 5560,
+      "y": 37896,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Support · sent · AR"
+    },
+    "iPad-UpdateRequired-Default-EN.dc.html": {
+      "x": 0,
+      "y": 39672,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Update required · update required · EN"
+    },
+    "iPad-UpdateRequired-Default-AR.dc.html": {
+      "x": 1112,
+      "y": 39672,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Update required · update required · AR"
+    },
+    "iPad-Main-LandscapePremium-EN.dc.html": {
+      "x": 0,
+      "y": 42648,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, premium · EN"
+    },
+    "iPad-Main-LandscapeNoPremium-EN.dc.html": {
+      "x": 1456,
+      "y": 42648,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, no premium · EN"
+    },
+    "iPad-Main-LandscapeSearch-EN.dc.html": {
+      "x": 2912,
+      "y": 42648,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, search · EN"
+    },
+    "iPad-Main-PortraitPremium-EN.dc.html": {
+      "x": 4368,
+      "y": 42648,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · portrait, premium · EN"
+    },
+    "iPad-Main-LandscapePremium-AR.dc.html": {
+      "x": 5480,
+      "y": 42648,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, premium · AR"
+    },
+    "iPad-Main-LandscapeNoPremium-AR.dc.html": {
+      "x": 6936,
+      "y": 42648,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, no premium · AR"
+    },
+    "iPad-SettingsSheet-Connection-EN.dc.html": {
+      "x": 0,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Connection · EN"
+    },
+    "iPad-SettingsSheet-Protocols-EN.dc.html": {
+      "x": 1456,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Protocols · EN"
+    },
+    "iPad-SettingsSheet-Account-EN.dc.html": {
+      "x": 2912,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Account · EN"
+    },
+    "iPad-SettingsSheet-Support-EN.dc.html": {
+      "x": 4368,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Support · EN"
+    },
+    "iPad-SettingsSheet-Others-EN.dc.html": {
+      "x": 5824,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Others · EN"
+    },
+    "iPad-SettingsSheet-NoPremium-EN.dc.html": {
+      "x": 7280,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · no premium · EN"
+    },
+    "iPad-SettingsSheet-Connection-AR.dc.html": {
+      "x": 8736,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Connection · AR"
+    },
+    "iPad-SettingsSheet-Protocols-AR.dc.html": {
+      "x": 10192,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Protocols · AR"
+    },
+    "iPad-SettingsSheet-Account-AR.dc.html": {
+      "x": 11648,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Account · AR"
+    },
+    "iPad-SettingsSheet-Support-AR.dc.html": {
+      "x": 13104,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Support · AR"
+    },
+    "iPad-SettingsSheet-Others-AR.dc.html": {
+      "x": 14560,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Others · AR"
+    },
+    "iPad-ReportSheet-Portrait-EN.dc.html": {
+      "x": 0,
+      "y": 46556,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad Report form sheet · portrait · EN"
+    },
+    "iPad-ReportSheet-Landscape-EN.dc.html": {
+      "x": 1112,
+      "y": 46556,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad Report form sheet · landscape · EN"
+    },
+    "iPad-ReportSheet-Portrait-AR.dc.html": {
+      "x": 2568,
+      "y": 46556,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad Report form sheet · portrait · AR"
+    },
+    "iPad-FirstLaunch-Agreement-EN.dc.html": {
+      "x": 0,
+      "y": 48332,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad first launch · agreement · EN"
+    },
+    "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html": {
+      "x": 1112,
+      "y": 48332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad first launch · onboarding, landscape · EN"
+    },
+    "iPad-FirstLaunch-Agreement-AR.dc.html": {
+      "x": 2568,
+      "y": 48332,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad first launch · agreement · AR"
+    },
+    "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html": {
+      "x": 3680,
+      "y": 48332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad first launch · onboarding, landscape · AR"
+    },
+    "Mac-MenuBar-Connected-EN.dc.html": {
+      "x": 0,
+      "y": 700,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · connected · EN"
+    },
+    "Mac-MenuBar-Connecting-EN.dc.html": {
+      "x": 500,
+      "y": 700,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · connecting · EN"
+    },
+    "Mac-MenuBar-Disconnected-EN.dc.html": {
+      "x": 1000,
+      "y": 700,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · disconnected · EN"
+    },
+    "Mac-MenuBar-NoPremium-EN.dc.html": {
+      "x": 1500,
+      "y": 700,
+      "w": 420,
+      "h": 470,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium · EN"
+    },
+    "Mac-MenuBar-Locations-EN.dc.html": {
+      "x": 2000,
+      "y": 700,
+      "w": 420,
+      "h": 620,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · location choice · EN"
+    },
+    "Mac-MenuBar-Search-EN.dc.html": {
+      "x": 2500,
+      "y": 700,
+      "w": 420,
+      "h": 620,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · search · EN"
+    },
+    "Mac-MenuBar-NoPremiumList-EN.dc.html": {
+      "x": 3000,
+      "y": 700,
+      "w": 420,
+      "h": 620,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium list · EN"
+    },
+    "Mac-MenuBar-Connected-AR.dc.html": {
+      "x": 3500,
+      "y": 700,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · connected · AR"
+    },
+    "Mac-MenuBar-Connecting-AR.dc.html": {
+      "x": 4000,
+      "y": 700,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · connecting · AR"
+    },
+    "Mac-MenuBar-Disconnected-AR.dc.html": {
+      "x": 4500,
+      "y": 700,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · disconnected · AR"
+    },
+    "Mac-MenuBar-NoPremium-AR.dc.html": {
+      "x": 5000,
+      "y": 700,
+      "w": 420,
+      "h": 470,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium · AR"
+    },
+    "Mac-MenuBar-Locations-AR.dc.html": {
+      "x": 5500,
+      "y": 700,
+      "w": 420,
+      "h": 620,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · location choice · AR"
+    },
+    "Mac-MenuBar-Search-AR.dc.html": {
+      "x": 6000,
+      "y": 700,
+      "w": 420,
+      "h": 620,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · search · AR"
+    },
+    "Mac-MenuBar-NoPremiumList-AR.dc.html": {
+      "x": 6500,
+      "y": 700,
+      "w": 420,
+      "h": 620,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium list · AR"
+    },
+    "Mac-WindowHome-HomeConnected-EN.dc.html": {
+      "x": 0,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · home, connected · EN"
+    },
+    "Mac-WindowHome-HomeDisconnected-EN.dc.html": {
+      "x": 600,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · home, disconnected · EN"
+    },
+    "Mac-WindowHome-HomeNoPremium-EN.dc.html": {
+      "x": 1200,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · home, no premium · EN"
+    },
+    "Mac-WindowHome-Locations-EN.dc.html": {
+      "x": 1800,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · locations · EN"
+    },
+    "Mac-WindowHome-LocationsSearch-EN.dc.html": {
+      "x": 2400,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, search · EN"
+    },
+    "Mac-WindowHome-LocationsNoPremium-EN.dc.html": {
+      "x": 3000,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, no premium · EN"
+    },
+    "Mac-WindowHome-HomeConnected-AR.dc.html": {
+      "x": 3600,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · home, connected · AR"
+    },
+    "Mac-WindowHome-HomeDisconnected-AR.dc.html": {
+      "x": 4200,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · home, disconnected · AR"
+    },
+    "Mac-WindowHome-HomeNoPremium-AR.dc.html": {
+      "x": 4800,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · home, no premium · AR"
+    },
+    "Mac-WindowHome-Locations-AR.dc.html": {
+      "x": 5400,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · locations · AR"
+    },
+    "Mac-WindowHome-LocationsSearch-AR.dc.html": {
+      "x": 6000,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, search · AR"
+    },
+    "Mac-WindowHome-LocationsNoPremium-AR.dc.html": {
+      "x": 6600,
+      "y": 1720,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, no premium · AR"
+    },
+    "Mac-FirstLaunch-Privacy-EN.dc.html": {
+      "x": 0,
+      "y": 2820,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: first launch · privacy · EN"
+    },
+    "Mac-FirstLaunch-Permission-EN.dc.html": {
+      "x": 600,
+      "y": 2820,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: first launch · VPN permission · EN"
+    },
+    "Mac-FirstLaunch-Denied-EN.dc.html": {
+      "x": 1200,
+      "y": 2820,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: first launch · permission denied · EN"
+    },
+    "Mac-FirstLaunch-Privacy-AR.dc.html": {
+      "x": 1800,
+      "y": 2820,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: first launch · privacy · AR"
+    },
+    "Mac-FirstLaunch-Permission-AR.dc.html": {
+      "x": 2400,
+      "y": 2820,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: first launch · VPN permission · AR"
+    },
+    "Mac-FirstLaunch-Denied-AR.dc.html": {
+      "x": 3000,
+      "y": 2820,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: first launch · permission denied · AR"
+    },
+    "Mac-Report-Slow-EN.dc.html": {
+      "x": 0,
+      "y": 4520,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Report an Issue · connection is slow · EN"
+    },
+    "Mac-Report-Slow-AR.dc.html": {
+      "x": 600,
+      "y": 4520,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Report an Issue · connection is slow · AR"
+    },
+    "Mac-Settings-General-EN.dc.html": {
+      "x": 0,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · General · EN"
+    },
+    "Mac-Settings-Protocols-EN.dc.html": {
+      "x": 600,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Protocols · EN"
+    },
+    "Mac-Settings-Account-EN.dc.html": {
+      "x": 1200,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Account · EN"
+    },
+    "Mac-Settings-Support-EN.dc.html": {
+      "x": 1800,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Support · EN"
+    },
+    "Mac-Settings-Shortcuts-EN.dc.html": {
+      "x": 2400,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Shortcuts · EN"
+    },
+    "Mac-Settings-General-AR.dc.html": {
+      "x": 3000,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · General · AR"
+    },
+    "Mac-Settings-Protocols-AR.dc.html": {
+      "x": 3600,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Protocols · AR"
+    },
+    "Mac-Settings-Account-AR.dc.html": {
+      "x": 4200,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Account · AR"
+    },
+    "Mac-Settings-Support-AR.dc.html": {
+      "x": 4800,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Support · AR"
+    },
+    "Mac-Settings-Shortcuts-AR.dc.html": {
+      "x": 5400,
+      "y": 5620,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: Settings · Shortcuts · AR"
+    },
+    "Mac-MenuBar-NoPremiumFooter-EN.dc.html": {
+      "x": 0,
+      "y": 7420,
+      "w": 420,
+      "h": 470,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond · no premium, footer · EN"
+    },
+    "Mac-MenuBar-NoPremiumFooter-AR.dc.html": {
+      "x": 500,
+      "y": 7420,
+      "w": 420,
+      "h": 470,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond · no premium, footer · AR"
+    },
+    "Mac-Settings-AccountNoPremium-EN.dc.html": {
+      "x": 0,
+      "y": 8290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 review · Settings › Account without premium · Account, no premium · EN"
+    },
+    "Mac-Settings-AccountNoPremium-AR.dc.html": {
+      "x": 600,
+      "y": 8290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 review · Settings › Account without premium · Account, no premium · AR"
+    },
+    "Mac-Launch-Loading-EN.dc.html": {
+      "x": 0,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · loading · EN"
+    },
+    "Mac-Launch-Unreachable-EN.dc.html": {
+      "x": 600,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · server not reachable · EN"
+    },
+    "Mac-Launch-Offline-EN.dc.html": {
+      "x": 1200,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · offline · EN"
+    },
+    "Mac-Launch-UpdateRequired-EN.dc.html": {
+      "x": 1800,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · update required · EN"
+    },
+    "Mac-Launch-NetworkBlocked-EN.dc.html": {
+      "x": 2400,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · network blocks VPN · EN"
+    },
+    "Mac-Launch-Loading-AR.dc.html": {
+      "x": 3000,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · loading · AR"
+    },
+    "Mac-Launch-Unreachable-AR.dc.html": {
+      "x": 3600,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · server not reachable · AR"
+    },
+    "Mac-Launch-Offline-AR.dc.html": {
+      "x": 4200,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · offline · AR"
+    },
+    "Mac-Launch-UpdateRequired-AR.dc.html": {
+      "x": 4800,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · update required · AR"
+    },
+    "Mac-Launch-NetworkBlocked-AR.dc.html": {
+      "x": 5400,
+      "y": 10090,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M1 launch and blocking states · network blocks VPN · AR"
+    },
+    "Mac-Notices-NoticeBand-EN.dc.html": {
+      "x": 0,
+      "y": 11190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M2 notices in the window · server notice band · EN"
+    },
+    "Mac-Notices-NoInternet-EN.dc.html": {
+      "x": 600,
+      "y": 11190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M2 notices in the window · no internet · EN"
+    },
+    "Mac-Notices-NoticeBand-AR.dc.html": {
+      "x": 1200,
+      "y": 11190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M2 notices in the window · server notice band · AR"
+    },
+    "Mac-Notices-NoInternet-AR.dc.html": {
+      "x": 1800,
+      "y": 11190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M2 notices in the window · no internet · AR"
+    },
+    "Mac-Rating-Untouched-EN.dc.html": {
+      "x": 0,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · untouched · EN"
+    },
+    "Mac-Rating-Low-EN.dc.html": {
+      "x": 600,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · 2 stars, reasons · EN"
+    },
+    "Mac-Rating-High-EN.dc.html": {
+      "x": 1200,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · 5 stars · EN"
+    },
+    "Mac-Rating-RateUs-EN.dc.html": {
+      "x": 1800,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · rate us · EN"
+    },
+    "Mac-Rating-Untouched-AR.dc.html": {
+      "x": 2400,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · untouched · AR"
+    },
+    "Mac-Rating-Low-AR.dc.html": {
+      "x": 3000,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · 2 stars, reasons · AR"
+    },
+    "Mac-Rating-High-AR.dc.html": {
+      "x": 3600,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · 5 stars · AR"
+    },
+    "Mac-Rating-RateUs-AR.dc.html": {
+      "x": 4200,
+      "y": 12290,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M3 after a session · rate us · AR"
+    },
+    "Mac-Billing-Grace-EN.dc.html": {
+      "x": 0,
+      "y": 13390,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M4 billing problems · grace period · EN"
+    },
+    "Mac-Billing-Paused-EN.dc.html": {
+      "x": 600,
+      "y": 13390,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M4 billing problems · premium paused · EN"
+    },
+    "Mac-Billing-Grace-AR.dc.html": {
+      "x": 1200,
+      "y": 13390,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M4 billing problems · grace period · AR"
+    },
+    "Mac-Billing-Paused-AR.dc.html": {
+      "x": 1800,
+      "y": 13390,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M4 billing problems · premium paused · AR"
+    },
+    "iPad-ServerList-Free-EN.dc.html": {
+      "x": 0,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Server list · free user · EN"
+    },
+    "iPad-ServerList-PremiumGermany-EN.dc.html": {
+      "x": 1112,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Server list · premium, Germany · EN"
+    },
+    "iPad-ServerList-PremiumAuto-EN.dc.html": {
+      "x": 2224,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Server list · premium, Auto · EN"
+    },
+    "iPad-ServerList-Free-AR.dc.html": {
+      "x": 3336,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Server list · free user · AR"
+    },
+    "iPad-ServerList-PremiumGermany-AR.dc.html": {
+      "x": 4448,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Server list · premium, Germany · AR"
+    },
+    "iPad-ServerList-PremiumAuto-AR.dc.html": {
+      "x": 5560,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Server list · premium, Auto · AR"
+    },
+    "iPad-ConnectionRating-Untouched-EN.dc.html": {
+      "x": 0,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Connection rating · untouched · EN"
+    },
+    "iPad-ConnectionRating-TwoStars-EN.dc.html": {
+      "x": 1112,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Connection rating · 2 stars, reasons · EN"
+    },
+    "iPad-ConnectionRating-FiveStars-EN.dc.html": {
+      "x": 2224,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Connection rating · 5 stars · EN"
+    },
+    "iPad-ConnectionRating-Untouched-AR.dc.html": {
+      "x": 3336,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Connection rating · untouched · AR"
+    },
+    "iPad-ConnectionRating-TwoStars-AR.dc.html": {
+      "x": 4448,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Connection rating · 2 stars, reasons · AR"
+    },
+    "iPad-ConnectionRating-FiveStars-AR.dc.html": {
+      "x": 5560,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Connection rating · 5 stars · AR"
+    },
+    "iPad-RateUs-Default-EN.dc.html": {
+      "x": 0,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Rate us · drawer · EN"
+    },
+    "iPad-RateUs-Default-AR.dc.html": {
+      "x": 1112,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Rate us · drawer · AR"
+    },
+    "iPad-RewardPanel-ZeroOfThree-EN.dc.html": {
+      "x": 0,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · 0 of 3 · EN"
+    },
+    "iPad-RewardPanel-Progress-EN.dc.html": {
+      "x": 1112,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · 1 of 3 · EN"
+    },
+    "iPad-RewardPanel-Claim-EN.dc.html": {
+      "x": 2224,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · 3 of 3, Claim · EN"
+    },
+    "iPad-RewardPanel-AdLoading-EN.dc.html": {
+      "x": 3336,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · ad loading · EN"
+    },
+    "iPad-RewardPanel-NoAd-EN.dc.html": {
+      "x": 4448,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · no ad could load · EN"
+    },
+    "iPad-RewardPanel-ZeroOfThree-AR.dc.html": {
+      "x": 5560,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · 0 of 3 · AR"
+    },
+    "iPad-RewardPanel-Progress-AR.dc.html": {
+      "x": 6672,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · 1 of 3 · AR"
+    },
+    "iPad-RewardPanel-Claim-AR.dc.html": {
+      "x": 7784,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · 3 of 3, Claim · AR"
+    },
+    "iPad-RewardPanel-AdLoading-AR.dc.html": {
+      "x": 8896,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · ad loading · AR"
+    },
+    "iPad-RewardPanel-NoAd-AR.dc.html": {
+      "x": 10008,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Reward panel · no ad could load · AR"
+    },
+    "iPad-NoTimeLeft-Trial-EN.dc.html": {
+      "x": 0,
+      "y": 23088,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "No time left · trial available · EN"
+    },
+    "iPad-NoTimeLeft-NoTrial-EN.dc.html": {
+      "x": 1112,
+      "y": 23088,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "No time left · no trial · EN"
+    },
+    "iPad-NoTimeLeft-Trial-AR.dc.html": {
+      "x": 2224,
+      "y": 23088,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "No time left · trial available · AR"
+    },
+    "iPad-NoTimeLeft-NoTrial-AR.dc.html": {
+      "x": 3336,
+      "y": 23088,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "No time left · no trial · AR"
+    },
+    "iPad-BillingGrace-Grace-EN.dc.html": {
+      "x": 0,
+      "y": 34344,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Billing grace and paused · grace period · EN"
+    },
+    "iPad-BillingGrace-Paused-EN.dc.html": {
+      "x": 1112,
+      "y": 34344,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Billing grace and paused · premium paused · EN"
+    },
+    "iPad-BillingGrace-Grace-AR.dc.html": {
+      "x": 2224,
+      "y": 34344,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Billing grace and paused · grace period · AR"
+    },
+    "iPad-BillingGrace-Paused-AR.dc.html": {
+      "x": 3336,
+      "y": 34344,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Billing grace and paused · premium paused · AR"
+    },
+    "iPad-Main-LandscapeSearch-AR.dc.html": {
+      "x": 8392,
+      "y": 42648,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, search · AR"
+    },
+    "iPad-Main-PortraitPremium-AR.dc.html": {
+      "x": 9848,
+      "y": 42648,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad main, wide window · portrait, premium · AR"
+    },
+    "iPad-ReportSheet-Landscape-AR.dc.html": {
+      "x": 3680,
+      "y": 46556,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-359 · iPad Report form sheet · landscape · AR"
+    },
+    "iPad-SettingsSheet-NoPremium-AR.dc.html": {
+      "x": 16016,
+      "y": 44424,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · iPad Settings sheet · no premium · AR"
+    },
+    "iPhone-HomeNetworkProblem-Toast-EN.dc.html": {
+      "x": 0,
+      "y": 9878,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — network problem · toast · EN"
+    },
+    "iPhone-HomeNetworkProblem-Toast-AR.dc.html": {
+      "x": 482,
+      "y": 9878,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Home — network problem · toast · AR"
+    },
+    "iPhone-HomeServerProblem-ToastA-EN.dc.html": {
+      "x": 1644,
+      "y": 9878,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-768 · Home toast text, option A · server or API failed · EN"
+    },
+    "iPhone-HomeServerProblem-ToastB-EN.dc.html": {
+      "x": 2126,
+      "y": 9878,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-768 · Home toast text, option B · one text for every failed walk · EN"
+    },
+    "iPhone-HomeServerProblem-ToastA-AR.dc.html": {
+      "x": 2608,
+      "y": 9878,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-768 · Home toast text, option A · server or API failed · AR"
+    },
+    "iPhone-HomeServerProblem-ToastB-AR.dc.html": {
+      "x": 3090,
+      "y": 9878,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-768 · Home toast text, option B · one text for every failed walk · AR"
+    },
+    "Mac-UpdateRequired-Window-EN.dc.html": {
+      "x": 0,
+      "y": 15190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-768 · Mac update required · window, forced · EN"
+    },
+    "Mac-UpdateRequired-MenuBar-EN.dc.html": {
+      "x": 600,
+      "y": 15190,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Proposal — VPN-768 · Mac update required · menu bar panel, forced · EN"
+    },
+    "Mac-UpdateRecommended-WindowBand-EN.dc.html": {
+      "x": 1100,
+      "y": 15190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-768 · Mac update required · window, optional update band · EN"
+    },
+    "Mac-UpdateRequired-Window-AR.dc.html": {
+      "x": 1700,
+      "y": 15190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-768 · Mac update required · window, forced · AR"
+    },
+    "Mac-UpdateRequired-MenuBar-AR.dc.html": {
+      "x": 2300,
+      "y": 15190,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Proposal — VPN-768 · Mac update required · menu bar panel, forced · AR"
+    },
+    "Mac-UpdateRecommended-WindowBand-AR.dc.html": {
+      "x": 2800,
+      "y": 15190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-768 · Mac update required · window, optional update band · AR"
+    },
+    "iPhone-VPNPermission817-Prompt-EN.dc.html": {
+      "x": 0,
+      "y": 33336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · Connect, no VPN configuration: the iOS prompt at once · EN"
+    },
+    "iPhone-VPNPermission817-Help-EN.dc.html": {
+      "x": 482,
+      "y": 33336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · after a decline: help screen · EN"
+    },
+    "iPhone-VPNPermission817-NoPrompt-EN.dc.html": {
+      "x": 964,
+      "y": 33336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · no iOS prompt (iOS error): help screen · EN"
+    },
+    "iPhone-VPNPermission817-Prompt-AR.dc.html": {
+      "x": 1446,
+      "y": 33336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · Connect, no VPN configuration: the iOS prompt at once · AR"
+    },
+    "iPhone-VPNPermission817-Help-AR.dc.html": {
+      "x": 1928,
+      "y": 33336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · after a decline: help screen · AR"
+    },
+    "iPhone-VPNPermission817-NoPrompt-AR.dc.html": {
+      "x": 2410,
+      "y": 33336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · no iOS prompt (iOS error): help screen · AR"
+    },
+    "iPad-VPNPermission817-Prompt-EN.dc.html": {
+      "x": 0,
+      "y": 51308,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · Connect, no VPN configuration: the iOS prompt at once · EN"
+    },
+    "iPad-VPNPermission817-Help-EN.dc.html": {
+      "x": 1112,
+      "y": 51308,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · after a decline: help screen · EN"
+    },
+    "iPad-VPNPermission817-NoPrompt-EN.dc.html": {
+      "x": 2224,
+      "y": 51308,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · no iOS prompt (iOS error): help screen · EN"
+    },
+    "iPad-VPNPermission817-Prompt-AR.dc.html": {
+      "x": 3336,
+      "y": 51308,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · Connect, no VPN configuration: the iOS prompt at once · AR"
+    },
+    "iPad-VPNPermission817-Help-AR.dc.html": {
+      "x": 4448,
+      "y": 51308,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · after a decline: help screen · AR"
+    },
+    "iPad-VPNPermission817-NoPrompt-AR.dc.html": {
+      "x": 5560,
+      "y": 51308,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · no iOS prompt (iOS error): help screen · AR"
+    },
+    "Mac-PrimaryButton-Normal-EN.dc.html": {
+      "x": 0,
+      "y": 16990,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-827 · Mac primary button · normal · EN"
+    },
+    "Mac-PrimaryButton-Pressed-EN.dc.html": {
+      "x": 600,
+      "y": 16990,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-827 · Mac primary button · pressed · EN"
+    },
+    "Mac-PrimaryButton-Disabled-EN.dc.html": {
+      "x": 1200,
+      "y": 16990,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-827 · Mac primary button · disabled, Retry counts down · EN"
+    },
+    "Mac-PrimaryButton-Normal-AR.dc.html": {
+      "x": 1800,
+      "y": 16990,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-827 · Mac primary button · normal · AR"
+    },
+    "Mac-PrimaryButton-Pressed-AR.dc.html": {
+      "x": 2400,
+      "y": 16990,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-827 · Mac primary button · pressed · AR"
+    },
+    "Mac-PrimaryButton-Disabled-AR.dc.html": {
+      "x": 3000,
+      "y": 16990,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-827 · Mac primary button · disabled, Retry counts down · AR"
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "iPhone-Splash-FirstFrames-EN.dc.html",
+    "iPhone-Splash-Bar40-EN.dc.html",
+    "iPhone-Splash-Bar100-EN.dc.html",
+    "iPhone-Splash-NoticeUnreachable-EN.dc.html",
+    "iPhone-Splash-NoticeOffline-EN.dc.html",
+    "iPhone-Splash-FirstFrames-AR.dc.html",
+    "iPhone-Splash-Bar40-AR.dc.html",
+    "iPhone-Splash-Bar100-AR.dc.html",
+    "iPhone-Splash-NoticeUnreachable-AR.dc.html",
+    "iPhone-Splash-NoticeOffline-AR.dc.html",
+    "iPhone-Agreement-Ticked-EN.dc.html",
+    "iPhone-Agreement-Unticked-EN.dc.html",
+    "iPhone-Agreement-Ticked-AR.dc.html",
+    "iPhone-Agreement-Unticked-AR.dc.html",
+    "iPhone-Onboarding-Page1-EN.dc.html",
+    "iPhone-Onboarding-Page2-EN.dc.html",
+    "iPhone-Onboarding-Page3-EN.dc.html",
+    "iPhone-Onboarding-Page1-AR.dc.html",
+    "iPhone-Onboarding-Page2-AR.dc.html",
+    "iPhone-Onboarding-Page3-AR.dc.html",
+    "iPhone-VPNPermission-Primer-EN.dc.html",
+    "iPhone-VPNPermission-Denied-EN.dc.html",
+    "iPhone-VPNPermission-Primer-AR.dc.html",
+    "iPhone-VPNPermission-Denied-AR.dc.html",
+    "iPhone-HomeFree-Idle-EN.dc.html",
+    "iPhone-HomeFree-Connecting-EN.dc.html",
+    "iPhone-HomeFree-ConnectingHint-EN.dc.html",
+    "iPhone-HomeFree-Connected-EN.dc.html",
+    "iPhone-HomeFree-Disconnecting-EN.dc.html",
+    "iPhone-HomeFree-NoTimeLeft-EN.dc.html",
+    "iPhone-HomeFree-GiftActive-EN.dc.html",
+    "iPhone-HomeFree-Idle-AR.dc.html",
+    "iPhone-HomeFree-Connecting-AR.dc.html",
+    "iPhone-HomeFree-ConnectingHint-AR.dc.html",
+    "iPhone-HomeFree-Connected-AR.dc.html",
+    "iPhone-HomeFree-Disconnecting-AR.dc.html",
+    "iPhone-HomeFree-NoTimeLeft-AR.dc.html",
+    "iPhone-HomeFree-GiftActive-AR.dc.html",
+    "iPhone-HomePremium-Idle-EN.dc.html",
+    "iPhone-HomePremium-Connected-EN.dc.html",
+    "iPhone-HomePremium-Idle-AR.dc.html",
+    "iPhone-HomePremium-Connected-AR.dc.html",
+    "iPhone-HomeNotices-NoticeFree-EN.dc.html",
+    "iPhone-HomeNotices-NoticePremium-EN.dc.html",
+    "iPhone-HomeNotices-NoInternet-EN.dc.html",
+    "iPhone-HomeNotices-Spinner-EN.dc.html",
+    "iPhone-HomeNotices-NoticeFree-AR.dc.html",
+    "iPhone-HomeNotices-NoticePremium-AR.dc.html",
+    "iPhone-HomeNotices-NoInternet-AR.dc.html",
+    "iPhone-HomeNotices-Spinner-AR.dc.html",
+    "iPhone-HomeNetworkProblem-Toast-EN.dc.html",
+    "iPhone-HomeNetworkProblem-Toast-AR.dc.html",
+    "iPhone-HomeServerProblem-ToastA-EN.dc.html",
+    "iPhone-HomeServerProblem-ToastB-EN.dc.html",
+    "iPhone-HomeServerProblem-ToastA-AR.dc.html",
+    "iPhone-HomeServerProblem-ToastB-AR.dc.html",
+    "iPhone-NetworkBlocked-RetryReady-EN.dc.html",
+    "iPhone-NetworkBlocked-RetryCountdown-EN.dc.html",
+    "iPhone-NetworkBlocked-RetryReady-AR.dc.html",
+    "iPhone-NetworkBlocked-RetryCountdown-AR.dc.html",
+    "iPhone-ServerList-Free-EN.dc.html",
+    "iPhone-ServerList-PremiumGermany-EN.dc.html",
+    "iPhone-ServerList-PremiumAuto-EN.dc.html",
+    "iPhone-ServerList-Free-AR.dc.html",
+    "iPhone-ServerList-PremiumGermany-AR.dc.html",
+    "iPhone-ServerList-PremiumAuto-AR.dc.html",
+    "iPhone-Report-NotConnected-EN.dc.html",
+    "iPhone-Report-Connected-EN.dc.html",
+    "iPhone-Report-NotConnected-AR.dc.html",
+    "iPhone-Report-Connected-AR.dc.html",
+    "iPhone-ConnectionRating-Untouched-EN.dc.html",
+    "iPhone-ConnectionRating-TwoStars-EN.dc.html",
+    "iPhone-ConnectionRating-FiveStars-EN.dc.html",
+    "iPhone-ConnectionRating-Untouched-AR.dc.html",
+    "iPhone-ConnectionRating-TwoStars-AR.dc.html",
+    "iPhone-ConnectionRating-FiveStars-AR.dc.html",
+    "iPhone-RateUs-Default-EN.dc.html",
+    "iPhone-RateUs-Default-AR.dc.html",
+    "iPhone-RewardPanel-ZeroOfThree-EN.dc.html",
+    "iPhone-RewardPanel-Progress-EN.dc.html",
+    "iPhone-RewardPanel-Claim-EN.dc.html",
+    "iPhone-RewardPanel-AdLoading-EN.dc.html",
+    "iPhone-RewardPanel-NoAd-EN.dc.html",
+    "iPhone-RewardPanel-ZeroOfThree-AR.dc.html",
+    "iPhone-RewardPanel-Progress-AR.dc.html",
+    "iPhone-RewardPanel-Claim-AR.dc.html",
+    "iPhone-RewardPanel-AdLoading-AR.dc.html",
+    "iPhone-RewardPanel-NoAd-AR.dc.html",
+    "iPhone-NoTimeLeft-Trial-EN.dc.html",
+    "iPhone-NoTimeLeft-NoTrial-EN.dc.html",
+    "iPhone-NoTimeLeft-Trial-AR.dc.html",
+    "iPhone-NoTimeLeft-NoTrial-AR.dc.html",
+    "iPhone-Gift-Default-EN.dc.html",
+    "iPhone-Gift-Default-AR.dc.html",
+    "iPhone-Settings-Default-EN.dc.html",
+    "iPhone-Settings-UnderNotice-EN.dc.html",
+    "iPhone-Settings-Default-AR.dc.html",
+    "iPhone-Settings-UnderNotice-AR.dc.html",
+    "iPhone-Profile-Free-EN.dc.html",
+    "iPhone-Profile-Premium-EN.dc.html",
+    "iPhone-Profile-UnderNotice-EN.dc.html",
+    "iPhone-Profile-Free-AR.dc.html",
+    "iPhone-Profile-Premium-AR.dc.html",
+    "iPhone-Profile-UnderNotice-AR.dc.html",
+    "iPhone-Protocols-Default-EN.dc.html",
+    "iPhone-Protocols-Pinned-EN.dc.html",
+    "iPhone-Protocols-Default-AR.dc.html",
+    "iPhone-Protocols-Pinned-AR.dc.html",
+    "iPhone-Account-Free-EN.dc.html",
+    "iPhone-Account-Premium-EN.dc.html",
+    "iPhone-Account-BillingIssue-EN.dc.html",
+    "iPhone-Account-Free-AR.dc.html",
+    "iPhone-Account-Premium-AR.dc.html",
+    "iPhone-Account-BillingIssue-AR.dc.html",
+    "iPhone-BillingGrace-Grace-EN.dc.html",
+    "iPhone-BillingGrace-Paused-EN.dc.html",
+    "iPhone-BillingGrace-Grace-AR.dc.html",
+    "iPhone-BillingGrace-Paused-AR.dc.html",
+    "iPhone-Others-Default-EN.dc.html",
+    "iPhone-Others-Default-AR.dc.html",
+    "iPhone-Support-Empty-EN.dc.html",
+    "iPhone-Support-Errors-EN.dc.html",
+    "iPhone-Support-Sent-EN.dc.html",
+    "iPhone-Support-Empty-AR.dc.html",
+    "iPhone-Support-Errors-AR.dc.html",
+    "iPhone-Support-Sent-AR.dc.html",
+    "iPhone-UpdateRequired-Default-EN.dc.html",
+    "iPhone-UpdateRequired-Default-AR.dc.html",
+    "iPad-Splash-FirstFrames-EN.dc.html",
+    "iPad-Splash-Bar40-EN.dc.html",
+    "iPad-Splash-Bar100-EN.dc.html",
+    "iPad-Splash-NoticeUnreachable-EN.dc.html",
+    "iPad-Splash-NoticeOffline-EN.dc.html",
+    "iPad-Splash-FirstFrames-AR.dc.html",
+    "iPad-Splash-Bar40-AR.dc.html",
+    "iPad-Splash-Bar100-AR.dc.html",
+    "iPad-Splash-NoticeUnreachable-AR.dc.html",
+    "iPad-Splash-NoticeOffline-AR.dc.html",
+    "iPad-Agreement-Ticked-EN.dc.html",
+    "iPad-Agreement-Unticked-EN.dc.html",
+    "iPad-Agreement-Ticked-AR.dc.html",
+    "iPad-Agreement-Unticked-AR.dc.html",
+    "iPad-Onboarding-Page1-EN.dc.html",
+    "iPad-Onboarding-Page2-EN.dc.html",
+    "iPad-Onboarding-Page3-EN.dc.html",
+    "iPad-Onboarding-Page1-AR.dc.html",
+    "iPad-Onboarding-Page2-AR.dc.html",
+    "iPad-Onboarding-Page3-AR.dc.html",
+    "iPad-VPNPermission-Primer-EN.dc.html",
+    "iPad-VPNPermission-Denied-EN.dc.html",
+    "iPad-VPNPermission-Primer-AR.dc.html",
+    "iPad-VPNPermission-Denied-AR.dc.html",
+    "iPad-HomeFree-Idle-EN.dc.html",
+    "iPad-HomeFree-Connecting-EN.dc.html",
+    "iPad-HomeFree-ConnectingHint-EN.dc.html",
+    "iPad-HomeFree-Connected-EN.dc.html",
+    "iPad-HomeFree-Disconnecting-EN.dc.html",
+    "iPad-HomeFree-NoTimeLeft-EN.dc.html",
+    "iPad-HomeFree-GiftActive-EN.dc.html",
+    "iPad-HomeFree-Idle-AR.dc.html",
+    "iPad-HomeFree-Connecting-AR.dc.html",
+    "iPad-HomeFree-ConnectingHint-AR.dc.html",
+    "iPad-HomeFree-Connected-AR.dc.html",
+    "iPad-HomeFree-Disconnecting-AR.dc.html",
+    "iPad-HomeFree-NoTimeLeft-AR.dc.html",
+    "iPad-HomeFree-GiftActive-AR.dc.html",
+    "iPad-HomePremium-Idle-EN.dc.html",
+    "iPad-HomePremium-Connected-EN.dc.html",
+    "iPad-HomePremium-Idle-AR.dc.html",
+    "iPad-HomePremium-Connected-AR.dc.html",
+    "iPad-HomeNotices-NoticeFree-EN.dc.html",
+    "iPad-HomeNotices-NoticePremium-EN.dc.html",
+    "iPad-HomeNotices-NoInternet-EN.dc.html",
+    "iPad-HomeNotices-Spinner-EN.dc.html",
+    "iPad-HomeNotices-NoticeFree-AR.dc.html",
+    "iPad-HomeNotices-NoticePremium-AR.dc.html",
+    "iPad-HomeNotices-NoInternet-AR.dc.html",
+    "iPad-HomeNotices-Spinner-AR.dc.html",
+    "iPad-NetworkBlocked-RetryReady-EN.dc.html",
+    "iPad-NetworkBlocked-RetryCountdown-EN.dc.html",
+    "iPad-NetworkBlocked-RetryReady-AR.dc.html",
+    "iPad-NetworkBlocked-RetryCountdown-AR.dc.html",
+    "iPad-ServerList-Free-EN.dc.html",
+    "iPad-ServerList-PremiumGermany-EN.dc.html",
+    "iPad-ServerList-PremiumAuto-EN.dc.html",
+    "iPad-ServerList-Free-AR.dc.html",
+    "iPad-ServerList-PremiumGermany-AR.dc.html",
+    "iPad-ServerList-PremiumAuto-AR.dc.html",
+    "iPad-Report-NotConnected-EN.dc.html",
+    "iPad-Report-Connected-EN.dc.html",
+    "iPad-Report-NotConnected-AR.dc.html",
+    "iPad-Report-Connected-AR.dc.html",
+    "iPad-ConnectionRating-Untouched-EN.dc.html",
+    "iPad-ConnectionRating-TwoStars-EN.dc.html",
+    "iPad-ConnectionRating-FiveStars-EN.dc.html",
+    "iPad-ConnectionRating-Untouched-AR.dc.html",
+    "iPad-ConnectionRating-TwoStars-AR.dc.html",
+    "iPad-ConnectionRating-FiveStars-AR.dc.html",
+    "iPad-RateUs-Default-EN.dc.html",
+    "iPad-RateUs-Default-AR.dc.html",
+    "iPad-RewardPanel-ZeroOfThree-EN.dc.html",
+    "iPad-RewardPanel-Progress-EN.dc.html",
+    "iPad-RewardPanel-Claim-EN.dc.html",
+    "iPad-RewardPanel-AdLoading-EN.dc.html",
+    "iPad-RewardPanel-NoAd-EN.dc.html",
+    "iPad-RewardPanel-ZeroOfThree-AR.dc.html",
+    "iPad-RewardPanel-Progress-AR.dc.html",
+    "iPad-RewardPanel-Claim-AR.dc.html",
+    "iPad-RewardPanel-AdLoading-AR.dc.html",
+    "iPad-RewardPanel-NoAd-AR.dc.html",
+    "iPad-NoTimeLeft-Trial-EN.dc.html",
+    "iPad-NoTimeLeft-NoTrial-EN.dc.html",
+    "iPad-NoTimeLeft-Trial-AR.dc.html",
+    "iPad-NoTimeLeft-NoTrial-AR.dc.html",
+    "iPad-Gift-Default-EN.dc.html",
+    "iPad-Gift-Default-AR.dc.html",
+    "iPad-Settings-Default-EN.dc.html",
+    "iPad-Settings-UnderNotice-EN.dc.html",
+    "iPad-Settings-Default-AR.dc.html",
+    "iPad-Settings-UnderNotice-AR.dc.html",
+    "iPad-Profile-Free-EN.dc.html",
+    "iPad-Profile-Premium-EN.dc.html",
+    "iPad-Profile-UnderNotice-EN.dc.html",
+    "iPad-Profile-Free-AR.dc.html",
+    "iPad-Profile-Premium-AR.dc.html",
+    "iPad-Profile-UnderNotice-AR.dc.html",
+    "iPad-Protocols-Default-EN.dc.html",
+    "iPad-Protocols-Pinned-EN.dc.html",
+    "iPad-Protocols-Default-AR.dc.html",
+    "iPad-Protocols-Pinned-AR.dc.html",
+    "iPad-Account-Free-EN.dc.html",
+    "iPad-Account-Premium-EN.dc.html",
+    "iPad-Account-BillingIssue-EN.dc.html",
+    "iPad-Account-Free-AR.dc.html",
+    "iPad-Account-Premium-AR.dc.html",
+    "iPad-Account-BillingIssue-AR.dc.html",
+    "iPad-BillingGrace-Grace-EN.dc.html",
+    "iPad-BillingGrace-Paused-EN.dc.html",
+    "iPad-BillingGrace-Grace-AR.dc.html",
+    "iPad-BillingGrace-Paused-AR.dc.html",
+    "iPad-Others-Default-EN.dc.html",
+    "iPad-Others-Default-AR.dc.html",
+    "iPad-Support-Empty-EN.dc.html",
+    "iPad-Support-Errors-EN.dc.html",
+    "iPad-Support-Sent-EN.dc.html",
+    "iPad-Support-Empty-AR.dc.html",
+    "iPad-Support-Errors-AR.dc.html",
+    "iPad-Support-Sent-AR.dc.html",
+    "iPad-UpdateRequired-Default-EN.dc.html",
+    "iPad-UpdateRequired-Default-AR.dc.html",
+    "iPad-Main-LandscapePremium-EN.dc.html",
+    "iPad-Main-LandscapeNoPremium-EN.dc.html",
+    "iPad-Main-LandscapeSearch-EN.dc.html",
+    "iPad-Main-PortraitPremium-EN.dc.html",
+    "iPad-Main-LandscapePremium-AR.dc.html",
+    "iPad-Main-LandscapeNoPremium-AR.dc.html",
+    "iPad-Main-LandscapeSearch-AR.dc.html",
+    "iPad-Main-PortraitPremium-AR.dc.html",
+    "iPad-SettingsSheet-Connection-EN.dc.html",
+    "iPad-SettingsSheet-Protocols-EN.dc.html",
+    "iPad-SettingsSheet-Account-EN.dc.html",
+    "iPad-SettingsSheet-Support-EN.dc.html",
+    "iPad-SettingsSheet-Others-EN.dc.html",
+    "iPad-SettingsSheet-NoPremium-EN.dc.html",
+    "iPad-SettingsSheet-Connection-AR.dc.html",
+    "iPad-SettingsSheet-Protocols-AR.dc.html",
+    "iPad-SettingsSheet-Account-AR.dc.html",
+    "iPad-SettingsSheet-Support-AR.dc.html",
+    "iPad-SettingsSheet-Others-AR.dc.html",
+    "iPad-SettingsSheet-NoPremium-AR.dc.html",
+    "iPad-ReportSheet-Portrait-EN.dc.html",
+    "iPad-ReportSheet-Landscape-EN.dc.html",
+    "iPad-ReportSheet-Portrait-AR.dc.html",
+    "iPad-ReportSheet-Landscape-AR.dc.html",
+    "iPad-FirstLaunch-Agreement-EN.dc.html",
+    "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html",
+    "iPad-FirstLaunch-Agreement-AR.dc.html",
+    "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html",
+    "Mac-MenuBar-Connected-EN.dc.html",
+    "Mac-MenuBar-Connecting-EN.dc.html",
+    "Mac-MenuBar-Disconnected-EN.dc.html",
+    "Mac-MenuBar-NoPremium-EN.dc.html",
+    "Mac-MenuBar-Locations-EN.dc.html",
+    "Mac-MenuBar-Search-EN.dc.html",
+    "Mac-MenuBar-NoPremiumList-EN.dc.html",
+    "Mac-MenuBar-Connected-AR.dc.html",
+    "Mac-MenuBar-Connecting-AR.dc.html",
+    "Mac-MenuBar-Disconnected-AR.dc.html",
+    "Mac-MenuBar-NoPremium-AR.dc.html",
+    "Mac-MenuBar-Locations-AR.dc.html",
+    "Mac-MenuBar-Search-AR.dc.html",
+    "Mac-MenuBar-NoPremiumList-AR.dc.html",
+    "Mac-WindowHome-HomeConnected-EN.dc.html",
+    "Mac-WindowHome-HomeDisconnected-EN.dc.html",
+    "Mac-WindowHome-HomeNoPremium-EN.dc.html",
+    "Mac-WindowHome-Locations-EN.dc.html",
+    "Mac-WindowHome-LocationsSearch-EN.dc.html",
+    "Mac-WindowHome-LocationsNoPremium-EN.dc.html",
+    "Mac-WindowHome-HomeConnected-AR.dc.html",
+    "Mac-WindowHome-HomeDisconnected-AR.dc.html",
+    "Mac-WindowHome-HomeNoPremium-AR.dc.html",
+    "Mac-WindowHome-Locations-AR.dc.html",
+    "Mac-WindowHome-LocationsSearch-AR.dc.html",
+    "Mac-WindowHome-LocationsNoPremium-AR.dc.html",
+    "Mac-FirstLaunch-Privacy-EN.dc.html",
+    "Mac-FirstLaunch-Permission-EN.dc.html",
+    "Mac-FirstLaunch-Denied-EN.dc.html",
+    "Mac-FirstLaunch-Privacy-AR.dc.html",
+    "Mac-FirstLaunch-Permission-AR.dc.html",
+    "Mac-FirstLaunch-Denied-AR.dc.html",
+    "Mac-Report-Slow-EN.dc.html",
+    "Mac-Report-Slow-AR.dc.html",
+    "Mac-Settings-General-EN.dc.html",
+    "Mac-Settings-Protocols-EN.dc.html",
+    "Mac-Settings-Account-EN.dc.html",
+    "Mac-Settings-Support-EN.dc.html",
+    "Mac-Settings-Shortcuts-EN.dc.html",
+    "Mac-Settings-General-AR.dc.html",
+    "Mac-Settings-Protocols-AR.dc.html",
+    "Mac-Settings-Account-AR.dc.html",
+    "Mac-Settings-Support-AR.dc.html",
+    "Mac-Settings-Shortcuts-AR.dc.html",
+    "Mac-MenuBar-NoPremiumFooter-EN.dc.html",
+    "Mac-MenuBar-NoPremiumFooter-AR.dc.html",
+    "Mac-Settings-AccountNoPremium-EN.dc.html",
+    "Mac-Settings-AccountNoPremium-AR.dc.html",
+    "Mac-Launch-Loading-EN.dc.html",
+    "Mac-Launch-Unreachable-EN.dc.html",
+    "Mac-Launch-Offline-EN.dc.html",
+    "Mac-Launch-UpdateRequired-EN.dc.html",
+    "Mac-Launch-NetworkBlocked-EN.dc.html",
+    "Mac-Launch-Loading-AR.dc.html",
+    "Mac-Launch-Unreachable-AR.dc.html",
+    "Mac-Launch-Offline-AR.dc.html",
+    "Mac-Launch-UpdateRequired-AR.dc.html",
+    "Mac-Launch-NetworkBlocked-AR.dc.html",
+    "Mac-Notices-NoticeBand-EN.dc.html",
+    "Mac-Notices-NoInternet-EN.dc.html",
+    "Mac-Notices-NoticeBand-AR.dc.html",
+    "Mac-Notices-NoInternet-AR.dc.html",
+    "Mac-Rating-Untouched-EN.dc.html",
+    "Mac-Rating-Low-EN.dc.html",
+    "Mac-Rating-High-EN.dc.html",
+    "Mac-Rating-RateUs-EN.dc.html",
+    "Mac-Rating-Untouched-AR.dc.html",
+    "Mac-Rating-Low-AR.dc.html",
+    "Mac-Rating-High-AR.dc.html",
+    "Mac-Rating-RateUs-AR.dc.html",
+    "Mac-Billing-Grace-EN.dc.html",
+    "Mac-Billing-Paused-EN.dc.html",
+    "Mac-Billing-Grace-AR.dc.html",
+    "Mac-Billing-Paused-AR.dc.html",
+    "Mac-UpdateRequired-Window-EN.dc.html",
+    "Mac-UpdateRequired-MenuBar-EN.dc.html",
+    "Mac-UpdateRecommended-WindowBand-EN.dc.html",
+    "Mac-UpdateRequired-Window-AR.dc.html",
+    "Mac-UpdateRequired-MenuBar-AR.dc.html",
+    "Mac-UpdateRecommended-WindowBand-AR.dc.html",
+    "iPhone-VPNPermission817-Prompt-EN.dc.html",
+    "iPhone-VPNPermission817-Help-EN.dc.html",
+    "iPhone-VPNPermission817-NoPrompt-EN.dc.html",
+    "iPhone-VPNPermission817-Prompt-AR.dc.html",
+    "iPhone-VPNPermission817-Help-AR.dc.html",
+    "iPhone-VPNPermission817-NoPrompt-AR.dc.html",
+    "iPad-VPNPermission817-Prompt-EN.dc.html",
+    "iPad-VPNPermission817-Help-EN.dc.html",
+    "iPad-VPNPermission817-NoPrompt-EN.dc.html",
+    "iPad-VPNPermission817-Prompt-AR.dc.html",
+    "iPad-VPNPermission817-Help-AR.dc.html",
+    "iPad-VPNPermission817-NoPrompt-AR.dc.html",
+    "Mac-PrimaryButton-Normal-EN.dc.html",
+    "Mac-PrimaryButton-Pressed-EN.dc.html",
+    "Mac-PrimaryButton-Disabled-EN.dc.html",
+    "Mac-PrimaryButton-Normal-AR.dc.html",
+    "Mac-PrimaryButton-Pressed-AR.dc.html",
+    "Mac-PrimaryButton-Disabled-AR.dc.html"
+  ],
+  "notes": {
+    "iphone-Splash": {
+      "x": 0,
+      "y": 660,
+      "text": "Splash and boot notice",
+      "kind": "title1",
+      "maxW": 4740,
+      "page": "iphone"
+    },
+    "iphone-Agreement": {
+      "x": 0,
+      "y": 1934,
+      "text": "Agreement",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-Onboarding": {
+      "x": 0,
+      "y": 3208,
+      "text": "Onboarding",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-VPNPermission": {
+      "x": 0,
+      "y": 4482,
+      "text": "VPN permission",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-HomeFree": {
+      "x": 0,
+      "y": 5756,
+      "text": "Home — free user",
+      "kind": "title1",
+      "maxW": 6668,
+      "page": "iphone"
+    },
+    "iphone-HomePremium": {
+      "x": 0,
+      "y": 7030,
+      "text": "Home — premium user",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-HomeNotices": {
+      "x": 0,
+      "y": 8304,
+      "text": "Home — notices",
+      "kind": "title1",
+      "maxW": 3776,
+      "page": "iphone"
+    },
+    "iphone-NetworkBlocked": {
+      "x": 0,
+      "y": 10852,
+      "text": "Network blocked",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-ServerList": {
+      "x": 0,
+      "y": 12126,
+      "text": "Server list",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-Report": {
+      "x": 0,
+      "y": 13400,
+      "text": "Report an Issue",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-ConnectionRating": {
+      "x": 0,
+      "y": 14674,
+      "text": "Connection rating",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-RateUs": {
+      "x": 0,
+      "y": 15948,
+      "text": "Rate us",
+      "kind": "title1",
+      "maxW": 900,
+      "page": "iphone"
+    },
+    "iphone-RewardPanel": {
+      "x": 0,
+      "y": 17222,
+      "text": "Reward panel",
+      "kind": "title1",
+      "maxW": 4740,
+      "page": "iphone"
+    },
+    "iphone-NoTimeLeft": {
+      "x": 0,
+      "y": 18496,
+      "text": "No time left",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-Gift": {
+      "x": 0,
+      "y": 19770,
+      "text": "Gift",
+      "kind": "title1",
+      "maxW": 900,
+      "page": "iphone"
+    },
+    "iphone-Settings": {
+      "x": 0,
+      "y": 21644,
+      "text": "Settings tab",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-Profile": {
+      "x": 0,
+      "y": 22918,
+      "text": "Profile tab",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-Protocols": {
+      "x": 0,
+      "y": 24192,
+      "text": "Protocols",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-Account": {
+      "x": 0,
+      "y": 25466,
+      "text": "Account",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-BillingGrace": {
+      "x": 0,
+      "y": 26740,
+      "text": "Billing grace and paused",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-Others": {
+      "x": 0,
+      "y": 28014,
+      "text": "Others",
+      "kind": "title1",
+      "maxW": 900,
+      "page": "iphone"
+    },
+    "iphone-Support": {
+      "x": 0,
+      "y": 29288,
+      "text": "Support",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-UpdateRequired": {
+      "x": 0,
+      "y": 30562,
+      "text": "Update required",
+      "kind": "title1",
+      "maxW": 900,
+      "page": "iphone"
+    },
+    "ipad-blk-ApprovednotbuiltVPN589": {
+      "x": 0,
+      "y": 41648,
+      "text": "Approved, not built — VPN-589",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "orange"
+    },
+    "ipad-tbuiltVPN589-Main": {
+      "x": 0,
+      "y": 42348,
+      "text": "Approved, not built — VPN-589 · iPad main, wide window",
+      "kind": "title1",
+      "maxW": 10880,
+      "page": "ipad"
+    },
+    "ipad-tbuiltVPN589-SettingsSheet": {
+      "x": 0,
+      "y": 44124,
+      "text": "Approved, not built — VPN-589 · iPad Settings sheet",
+      "kind": "title1",
+      "maxW": 17392,
+      "page": "ipad"
+    },
+    "ipad-blk-ApprovednotbuiltVPN359": {
+      "x": 0,
+      "y": 45556,
+      "text": "Approved, not built — VPN-359",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "orange"
+    },
+    "ipad-tbuiltVPN359-ReportSheet": {
+      "x": 0,
+      "y": 46256,
+      "text": "Approved, not built — VPN-359 · iPad Report form sheet",
+      "kind": "title1",
+      "maxW": 5056,
+      "page": "ipad"
+    },
+    "ipad-tbuiltVPN359-FirstLaunch": {
+      "x": 0,
+      "y": 48032,
+      "text": "Approved, not built — VPN-359 · iPad first launch",
+      "kind": "title1",
+      "maxW": 5056,
+      "page": "ipad"
+    },
+    "mac-blk-ApprovednotbuiltVPN589": {
+      "x": 0,
+      "y": -300,
+      "text": "Approved, not built — VPN-589",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "orange"
+    },
+    "mac-tbuiltVPN589-MenuBar": {
+      "x": 0,
+      "y": 400,
+      "text": "Approved, not built — VPN-589 · Menu bar panel",
+      "kind": "title1",
+      "maxW": 6920,
+      "page": "mac"
+    },
+    "mac-tbuiltVPN589-WindowHome": {
+      "x": 0,
+      "y": 1420,
+      "text": "Approved, not built — VPN-589 · Window: home and locations",
+      "kind": "title1",
+      "maxW": 7120,
+      "page": "mac"
+    },
+    "mac-tbuiltVPN589-FirstLaunch": {
+      "x": 0,
+      "y": 2520,
+      "text": "Approved, not built — VPN-589 · Window: first launch",
+      "kind": "title1",
+      "maxW": 3520,
+      "page": "mac"
+    },
+    "mac-tbuiltVPN589-Report": {
+      "x": 0,
+      "y": 4220,
+      "text": "Approved, not built — VPN-589 · Window: Report an Issue",
+      "kind": "title1",
+      "maxW": 1120,
+      "page": "mac"
+    },
+    "mac-tbuiltVPN589-Settings": {
+      "x": 0,
+      "y": 5320,
+      "text": "Approved, not built — VPN-589 · Window: Settings",
+      "kind": "title1",
+      "maxW": 5920,
+      "page": "mac"
+    },
+    "mac-blk-ProposalVPN589review": {
+      "x": 0,
+      "y": 6420,
+      "text": "Approved, not built — VPN-589 review",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "orange"
+    },
+    "mac-VPN589review-MenuBar": {
+      "x": 0,
+      "y": 7120,
+      "text": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond",
+      "kind": "title1",
+      "maxW": 920,
+      "page": "mac"
+    },
+    "mac-VPN589review-Settings": {
+      "x": 0,
+      "y": 7990,
+      "text": "Approved, not built — VPN-589 review · Settings › Account without premium",
+      "kind": "title1",
+      "maxW": 1120,
+      "page": "mac"
+    },
+    "mac-blk-ProposalVPN710": {
+      "x": 0,
+      "y": 9090,
+      "text": "Proposal — VPN-710",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-oposalVPN710-Launch": {
+      "x": 0,
+      "y": 9790,
+      "text": "Proposal — VPN-710 · M1 launch and blocking states",
+      "kind": "title1",
+      "maxW": 5920,
+      "page": "mac"
+    },
+    "mac-oposalVPN710-Notices": {
+      "x": 0,
+      "y": 10890,
+      "text": "Proposal — VPN-710 · M2 notices in the window",
+      "kind": "title1",
+      "maxW": 2320,
+      "page": "mac"
+    },
+    "mac-oposalVPN710-Rating": {
+      "x": 0,
+      "y": 11990,
+      "text": "Proposal — VPN-710 · M3 after a session",
+      "kind": "title1",
+      "maxW": 4720,
+      "page": "mac"
+    },
+    "mac-oposalVPN710-Billing": {
+      "x": 0,
+      "y": 13090,
+      "text": "Proposal — VPN-710 · M4 billing problems",
+      "kind": "title1",
+      "maxW": 2320,
+      "page": "mac"
+    },
+    "ipad-Splash": {
+      "x": 0,
+      "y": -300,
+      "text": "Splash and boot notice",
+      "kind": "title1",
+      "maxW": 11040,
+      "page": "ipad"
+    },
+    "ipad-Agreement": {
+      "x": 0,
+      "y": 1476,
+      "text": "Agreement",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-Onboarding": {
+      "x": 0,
+      "y": 3252,
+      "text": "Onboarding",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-VPNPermission": {
+      "x": 0,
+      "y": 5028,
+      "text": "VPN permission",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-HomeFree": {
+      "x": 0,
+      "y": 6804,
+      "text": "Home — free user",
+      "kind": "title1",
+      "maxW": 15488,
+      "page": "ipad"
+    },
+    "ipad-HomePremium": {
+      "x": 0,
+      "y": 8580,
+      "text": "Home — premium user",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-HomeNotices": {
+      "x": 0,
+      "y": 10356,
+      "text": "Home — notices",
+      "kind": "title1",
+      "maxW": 8816,
+      "page": "ipad"
+    },
+    "ipad-NetworkBlocked": {
+      "x": 0,
+      "y": 12132,
+      "text": "Network blocked",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-ServerList": {
+      "x": 0,
+      "y": 13908,
+      "text": "Server list",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-Report": {
+      "x": 0,
+      "y": 15684,
+      "text": "Report an Issue",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-ConnectionRating": {
+      "x": 0,
+      "y": 17460,
+      "text": "Connection rating",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-RateUs": {
+      "x": 0,
+      "y": 19236,
+      "text": "Rate us",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-RewardPanel": {
+      "x": 0,
+      "y": 21012,
+      "text": "Reward panel",
+      "kind": "title1",
+      "maxW": 11040,
+      "page": "ipad"
+    },
+    "ipad-NoTimeLeft": {
+      "x": 0,
+      "y": 22788,
+      "text": "No time left",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-Gift": {
+      "x": 0,
+      "y": 24564,
+      "text": "Gift",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-Settings": {
+      "x": 0,
+      "y": 26940,
+      "text": "Settings tab",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-Profile": {
+      "x": 0,
+      "y": 28716,
+      "text": "Profile tab",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-Protocols": {
+      "x": 0,
+      "y": 30492,
+      "text": "Protocols",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-Account": {
+      "x": 0,
+      "y": 32268,
+      "text": "Account",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-BillingGrace": {
+      "x": 0,
+      "y": 34044,
+      "text": "Billing grace and paused",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-Others": {
+      "x": 0,
+      "y": 35820,
+      "text": "Others",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-Support": {
+      "x": 0,
+      "y": 37596,
+      "text": "Support",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-UpdateRequired": {
+      "x": 0,
+      "y": 39372,
+      "text": "Update required",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "iphone-PaywallsMoved": {
+      "x": 0,
+      "y": 21044,
+      "w": 1400,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "xl",
+      "bold": true,
+      "text": "Paywalls and offers: see the paywall canvas"
+    },
+    "ipad-PaywallsMoved": {
+      "x": 0,
+      "y": 26340,
+      "w": 1400,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "xl",
+      "bold": true,
+      "text": "Paywalls and offers: see the paywall canvas"
+    },
+    "ipad-tbuiltVPN589-Main-search": {
+      "x": 10920,
+      "y": 42648,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Search: the list keeps the locations whose shown name contains the text. English \"an\" keeps Germany, Netherlands, Japan, France and Canada. Arabic \"ان\" keeps ألمانيا and اليابان."
+    },
+    "iphone-RewardPanel-lottie": {
+      "x": 4780,
+      "y": 17522,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Lottie animation (not drawn in a static frame): ProgressBarNogradient.json, 132 pt, 50 pt up; and Lottie_Gift_Revision.json on top, 140 pt, 25 pt down."
+    },
+    "iphone-Splash-lottie": {
+      "x": 4780,
+      "y": 960,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Lottie animation (not drawn in a static frame): assets/Lottie/JSON.json, a 200 × 600 pt frame, centred, over the bar, speed 1.5. First frames: the shield outline starts to draw."
+    },
+    "ipad-RewardPanel-lottie": {
+      "x": 11080,
+      "y": 21312,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Lottie animation (not drawn in a static frame): ProgressBarNogradient.json, 132 pt, 50 pt up; and Lottie_Gift_Revision.json on top, 140 pt, 25 pt down."
+    },
+    "ipad-Splash-lottie": {
+      "x": 11080,
+      "y": 0,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Lottie animation (not drawn in a static frame): assets/Lottie/JSON.json, a 200 × 600 pt frame, centred, over the bar, speed 1.5. First frames: the shield outline starts to draw."
+    },
+    "mac-PaywallsMoved": {
+      "x": 0,
+      "y": 3620,
+      "w": 1400,
+      "page": "mac",
+      "fill": "gray",
+      "size": "xl",
+      "bold": true,
+      "text": "Paywalls and offers: see the paywall canvas"
+    },
+    "iphone-HomeNetworkProblem": {
+      "x": 0,
+      "y": 9578,
+      "kind": "title1",
+      "maxW": 900,
+      "page": "iphone",
+      "text": "Home — network problem"
+    },
+    "iphone-HomeNetworkProblem-motion": {
+      "x": 924,
+      "y": 9878,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Motion (not drawn in a static frame). After a failed walk the toast slides down from under the top bar in 0.5 s. A swipe up of more than 21 pt slides it away and starts no walk. Try now or Connect starts a new walk at once (6-per-minute cap). It goes away on Try now, Connect or a connection. No automatic retry, no countdown."
+    },
+    "iphone-HomeNetworkProblem-measure": {
+      "x": 924,
+      "y": 10298,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Measured on the build (PR #41, 5.0.7 (654.1)), in pt from the top of the screen.\niPhone 17 Pro: toast 154–204, in the middle of grid row 2 (145–213). Connect row starts at 323.\niPhone SE (375 × 667): Get Premium bar ends at 84, toast 85.5–135.5.\nPremium user: just under the Premium pill.\nWidth: 90 % of the row; on iPad at most 420 pt."
+    },
+    "iphone-ProposalVPN768-Toast": {
+      "x": 1644,
+      "y": 9578,
+      "text": "Proposal — VPN-768 · Home toast text for server or API failures",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-ProposalVPN768-Toast-note": {
+      "x": 3572,
+      "y": 9878,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Option A: a second text, shown only when the walk failed because the server or the API failed. The network text (left) stays for network failures. Title reuses BOOT.UNREACHABLE_TITLE. Icon: warning.png (the report button icon), tinted white as there. Needs the app to know the cause of the failure.\nOption B: one text for every failed walk, in place of the network text. Title reuses ALERTS.PROTOCOL_PARTLY_RETIRED_TITLE. Icon stays wifilow.png. Needs no new logic.\nSame toast in both: size, place, motion and Try now as in the current row. New strings: the second lines (EN and AR)."
+    },
+    "mac-blk-ProposalVPN768": {
+      "x": 0,
+      "y": 14190,
+      "text": "Proposal — VPN-768",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-ProposalVPN768-Update": {
+      "x": 0,
+      "y": 14890,
+      "text": "Proposal — VPN-768 · Mac update required",
+      "kind": "title1",
+      "maxW": 3320,
+      "page": "mac"
+    },
+    "mac-ProposalVPN768-Update-note": {
+      "x": 3400,
+      "y": 15190,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Forced: the Mac app asks /app-management/app-version/macos once per launch, as iOS asks its route. If this build is below the minimum, the window and the menu bar panel show only this card. Card values and strings are the iOS update page (UpdateRequiredView, UPDATE_REQUIRED.*). Update opens the app's store page. The ✕ closes the window only; the app stays blocked.\nOptional: iOS has no optional update page. It shows the server notice band \"update-recommended\" (ClientNoticeBandView, CLIENT_NOTICE.*). The Mac shows the same band at the top of the window home. ✕ hides it.\nThese frames replace \"update required\" in Proposal — VPN-710 M1 if the board approves them."
+    },
+    "iphone-blk-ProposalVPN817": {
+      "x": 0,
+      "y": 32336,
+      "text": "Proposal — VPN-817",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-ProposalVPN817-Permission": {
+      "x": 0,
+      "y": 33036,
+      "text": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-ProposalVPN817-flow": {
+      "x": 2892,
+      "y": 33336,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Flow (board, approval 6501f8fe items 8 + 9). Replaces the VPN-225 flow.\n1. Prompt: Connect with no VPN configuration. The button turns Connecting and iOS shows its prompt at once. No primer screen. The prompt is iOS's own; the app draws nothing over it.\n2. Allow, then the passcode: the press goes on and connects, as today.\n3. Help: \"Don't Allow\" (iOS answers \"denied\"). A full-screen help screen opens over the top-most view, like \"Network blocked\" (NSButton blue Try Again, plain Not Now, board card, Palette colours). The picture shows the iOS prompt with Allow ringed in buttonYellow #ffc700; step 2 is the passcode. Try Again asks iOS again at once (a new prompt, no primer, no ad). Not Now closes the screen; Home stays Disconnected.\n4. NoPrompt: iOS gave an error and showed no prompt (\"load_error\" or \"error\"; today the tap shows nothing, VPN-159). Same screen, with an icon instead of the picture and the Settings path. Try Again asks iOS again.\nQuestion for SecurezoneiOS: a management profile can refuse at once without a prompt, and that comes back as \"denied\" (1 of the 4 AE users). Can the app tell this apart (for example \"denied\" in under 1 s)? If yes, show NoPrompt for it; if no, Help.\nPicture of the iOS prompt: the drawing in these frames is a stand-in. Before the build, take the real prompt on the board's test iPhone (and an iPad) in English and Arabic and use those images. The Arabic iOS text in the stand-in is not checked against iOS.\niPad: the help screen content is at most 560 pt wide and centred (new; \"Network blocked\" is full width).\nMac: should follow. The Mac window's \"VPN permission\" step (Approved, not built — VPN-589, Mac-FirstLaunch-Permission) is the same kind of primer. Proposal: Connect opens the macOS prompt at once, and Mac-FirstLaunch-Denied becomes this help screen. No Mac frames now; I add them if the board wants the Mac in this change.\n"
+    },
+    "iphone-ProposalVPN817-texts": {
+      "x": 3612,
+      "y": 33336,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. NEW = a new user text for the board to approve.\nHelp screen\n- Title: ALERTS.VPN_PERMISSION_DENIED_TITLE \"VPN configuration not added\" (existing).\n- Message: \"Securezone VPN can't connect without a VPN configuration.\" NEW key; the words are the first sentence of ALERTS.VPN_PERMISSION_DENIED_MESSAGE (existing EN and AR).\n- Step 1: \"Tap Try Again, then tap Allow.\" NEW. AR: \"اضغط على «إعادة المحاولة» ثم على «السماح».\" NEW.\n- Step 2: \"Enter your iPhone passcode.\" NEW (iPhone / iPad). AR: \"أدخل رمز مرور iPhone.\" NEW.\n- Buttons: ALERTS.VPN_PERMISSION_DENIED_RETRY \"Try Again\", ALERTS.VPN_PERMISSION_DENIED_CANCEL \"Not Now\" (existing).\nNo-prompt screen\n- Title: \"iOS did not show the VPN prompt\" NEW. AR: \"لم يعرض iOS نافذة إذن VPN\" NEW.\n- Message: \"New VPN configurations may be blocked on this device.\" NEW key; words from ALERTS.VPN_PERMISSION_DENIED_MESSAGE.\n- Tip: \"See Settings › General › VPN & Device Management. Then tap Try Again.\" NEW key; the path is from ALERTS.VPN_PERMISSION_DENIED_MESSAGE, \"Then tap …\" as in ALERTS.NETWORK_BLOCKED tips.\n- Buttons: Try Again, Not Now (existing).\nLeave the app: ALERTS.VPN_PERMISSION_PRIMER_TITLE, _MESSAGE, _CONTINUE, _NOT_NOW (no longer shown). ALERTS.VPN_PERMISSION_DENIED_MESSAGE is no longer shown in full.\niOS prompt texts (\"Would Like to Add VPN Configurations\", \"Allow\", \"Don't Allow\") are iOS's, not ours.\nTokens: background #080b13, bar #171d2e, board #131724, blue #839ff2, buttonYellow #ffc700, text #ffffff, cGray #b3b7c3, radius 18. New component: VPNPermissionHelpView (same parts as NetworkBlockedView). New icon on the no-prompt screen: SF Symbol \"exclamationmark.triangle\", 64 pt, blue, in the 128 pt bar circle as on \"Network blocked\" (drawn here with the Font Awesome triangle).\n"
+    },
+    "iphone-ProposalVPN817-popups": {
+      "x": 4332,
+      "y": 33336,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Popups (Gift, rating, offers, paywalls, ads) and the permission flow.\nToday: one AE user's Try Again and a Gift popup came in the same second, and the press never reached iOS. A Connect press while a popup is on screen closes the popup and does not connect.\nRule (proposal):\n1. Hold: from the Connect press until the permission flow ends, the popup queue shows nothing, priority popups too. They wait in the queue in their order. No interstitial or App Open ad.\n2. The flow ends when: iOS says Allow and the press goes on; or the user taps Not Now; or the help screen closes in any other way.\n3. While iOS's prompt is up the app is inactive; popups that arrive wait (rule 1).\n4. The help screen is full screen and counts as \"a popup on screen\", so ads and the queue stay off while it is up.\n5. Try Again on the help screen asks iOS directly. It does not go through the Connect button, so an open popup can never take the tap. A second tap while iOS is asking does nothing.\n6. After the flow ends, the queue opens its next popup with the normal 700 ms after-close wait. If the press connects, the popups wait until the button shows Connected.\nQuestion for SecurezoneiOS: which popup was the \"Gift popup\" on 11-13 (Gift sheet, reward panel or an offer), and did it come from the queue or from the ad layer? The hold must cover that path.\n"
+    },
+    "iphone-VPNPermission-VPN817": {
+      "x": 1928,
+      "y": 4782,
+      "w": 520,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-817 (below): the two \"before the iOS prompt\" frames (EN and AR) leave the flow: Connect opens the iOS prompt at once. The \"after a refusal\" alert frames are replaced by a full-screen help screen. These frames stay as built until the board approves and the change is on the default branch."
+    },
+    "ipad-blk-ProposalVPN817": {
+      "x": 0,
+      "y": 50308,
+      "text": "Proposal — VPN-817",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "blue"
+    },
+    "ipad-ProposalVPN817-Permission": {
+      "x": 0,
+      "y": 51008,
+      "text": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-ProposalVPN817-flow": {
+      "x": 6672,
+      "y": 51308,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Flow (board, approval 6501f8fe items 8 + 9). Replaces the VPN-225 flow.\n1. Prompt: Connect with no VPN configuration. The button turns Connecting and iOS shows its prompt at once. No primer screen. The prompt is iOS's own; the app draws nothing over it.\n2. Allow, then the passcode: the press goes on and connects, as today.\n3. Help: \"Don't Allow\" (iOS answers \"denied\"). A full-screen help screen opens over the top-most view, like \"Network blocked\" (NSButton blue Try Again, plain Not Now, board card, Palette colours). The picture shows the iOS prompt with Allow ringed in buttonYellow #ffc700; step 2 is the passcode. Try Again asks iOS again at once (a new prompt, no primer, no ad). Not Now closes the screen; Home stays Disconnected.\n4. NoPrompt: iOS gave an error and showed no prompt (\"load_error\" or \"error\"; today the tap shows nothing, VPN-159). Same screen, with an icon instead of the picture and the Settings path. Try Again asks iOS again.\nQuestion for SecurezoneiOS: a management profile can refuse at once without a prompt, and that comes back as \"denied\" (1 of the 4 AE users). Can the app tell this apart (for example \"denied\" in under 1 s)? If yes, show NoPrompt for it; if no, Help.\nPicture of the iOS prompt: the drawing in these frames is a stand-in. Before the build, take the real prompt on the board's test iPhone (and an iPad) in English and Arabic and use those images. The Arabic iOS text in the stand-in is not checked against iOS.\niPad: the help screen content is at most 560 pt wide and centred (new; \"Network blocked\" is full width).\nMac: should follow. The Mac window's \"VPN permission\" step (Approved, not built — VPN-589, Mac-FirstLaunch-Permission) is the same kind of primer. Proposal: Connect opens the macOS prompt at once, and Mac-FirstLaunch-Denied becomes this help screen. No Mac frames now; I add them if the board wants the Mac in this change.\n"
+    },
+    "ipad-ProposalVPN817-texts": {
+      "x": 7392,
+      "y": 51308,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. NEW = a new user text for the board to approve.\nHelp screen\n- Title: ALERTS.VPN_PERMISSION_DENIED_TITLE \"VPN configuration not added\" (existing).\n- Message: \"Securezone VPN can't connect without a VPN configuration.\" NEW key; the words are the first sentence of ALERTS.VPN_PERMISSION_DENIED_MESSAGE (existing EN and AR).\n- Step 1: \"Tap Try Again, then tap Allow.\" NEW. AR: \"اضغط على «إعادة المحاولة» ثم على «السماح».\" NEW.\n- Step 2: \"Enter your iPad passcode.\" NEW (iPhone / iPad). AR: \"أدخل رمز مرور iPad.\" NEW.\n- Buttons: ALERTS.VPN_PERMISSION_DENIED_RETRY \"Try Again\", ALERTS.VPN_PERMISSION_DENIED_CANCEL \"Not Now\" (existing).\nNo-prompt screen\n- Title: \"iOS did not show the VPN prompt\" NEW. AR: \"لم يعرض iOS نافذة إذن VPN\" NEW.\n- Message: \"New VPN configurations may be blocked on this device.\" NEW key; words from ALERTS.VPN_PERMISSION_DENIED_MESSAGE.\n- Tip: \"See Settings › General › VPN & Device Management. Then tap Try Again.\" NEW key; the path is from ALERTS.VPN_PERMISSION_DENIED_MESSAGE, \"Then tap …\" as in ALERTS.NETWORK_BLOCKED tips.\n- Buttons: Try Again, Not Now (existing).\nLeave the app: ALERTS.VPN_PERMISSION_PRIMER_TITLE, _MESSAGE, _CONTINUE, _NOT_NOW (no longer shown). ALERTS.VPN_PERMISSION_DENIED_MESSAGE is no longer shown in full.\niOS prompt texts (\"Would Like to Add VPN Configurations\", \"Allow\", \"Don't Allow\") are iOS's, not ours.\nTokens: background #080b13, bar #171d2e, board #131724, blue #839ff2, buttonYellow #ffc700, text #ffffff, cGray #b3b7c3, radius 18. New component: VPNPermissionHelpView (same parts as NetworkBlockedView). New icon on the no-prompt screen: SF Symbol \"exclamationmark.triangle\", 64 pt, blue, in the 128 pt bar circle as on \"Network blocked\" (drawn here with the Font Awesome triangle).\n"
+    },
+    "ipad-ProposalVPN817-popups": {
+      "x": 8112,
+      "y": 51308,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Popups (Gift, rating, offers, paywalls, ads) and the permission flow.\nToday: one AE user's Try Again and a Gift popup came in the same second, and the press never reached iOS. A Connect press while a popup is on screen closes the popup and does not connect.\nRule (proposal):\n1. Hold: from the Connect press until the permission flow ends, the popup queue shows nothing, priority popups too. They wait in the queue in their order. No interstitial or App Open ad.\n2. The flow ends when: iOS says Allow and the press goes on; or the user taps Not Now; or the help screen closes in any other way.\n3. While iOS's prompt is up the app is inactive; popups that arrive wait (rule 1).\n4. The help screen is full screen and counts as \"a popup on screen\", so ads and the queue stay off while it is up.\n5. Try Again on the help screen asks iOS directly. It does not go through the Connect button, so an open popup can never take the tap. A second tap while iOS is asking does nothing.\n6. After the flow ends, the queue opens its next popup with the normal 700 ms after-close wait. If the press connects, the popups wait until the button shows Connected.\nQuestion for SecurezoneiOS: which popup was the \"Gift popup\" on 11-13 (Gift sheet, reward panel or an offer), and did it come from the queue or from the ad layer? The hold must cover that path.\n"
+    },
+    "ipad-VPNPermission-VPN817": {
+      "x": 4448,
+      "y": 5328,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-817 (below): the two \"before the iOS prompt\" frames (EN and AR) leave the flow: Connect opens the iOS prompt at once. The \"after a refusal\" alert frames are replaced by a full-screen help screen. These frames stay as built until the board approves and the change is on the default branch."
+    },
+    "mac-blk-ProposalVPN827": {
+      "x": 0,
+      "y": 15990,
+      "text": "Proposal — VPN-827",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-ProposalVPN827-Button": {
+      "x": 0,
+      "y": 16690,
+      "text": "Proposal — VPN-827 · Mac primary button (text contrast 4.5:1), shown on \"Network blocked\"",
+      "kind": "title1",
+      "maxW": 3520,
+      "page": "mac"
+    },
+    "mac-ProposalVPN827-Button-note": {
+      "x": 3600,
+      "y": 16990,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Mac primary button (.m-btn.blue): 44 high, radius 22, 14 bold, padding 0 28. Shape, size and gradient stay.\nToday: white #ffffff on the gradient #5db9eb → #6f8fee (connectGradientTop / connectGradientBottom) = 2.19:1 to 3.07:1. Fails 4.5:1.\nProposal (contrast measured, WCAG 2 formula, at both gradient ends):\n- Normal: text #080b13 (background token) on #5db9eb → #6f8fee = 9.00:1 to 6.41:1.\n- Pressed: the gradient with 15% white on top, #75c4ee → #85a0f1, text #080b13 = 10.20:1 to 7.77:1. A lighter press, as dark-mode Mac buttons do. Not opacity 0.5 (the iOS press), because that drops the text below 4.5:1.\n- Disabled: #3c4970 (buttonDisabled token), text #ffffff = 8.83:1. Not opacity 0.5. Example: Retry counts down (ALERTS.NETWORK_BLOCKED_RETRY_IN \"Retry in %@\" / \"إعادة المحاولة بعد %@\").\n- An icon in the button (Settings › Support \"Report an Issue\") takes the text colour: same ratios, at least 3:1.\nPrecedent: dark text on light blue is in the app already: the update page button #0b1020 on #839ff2 = 7.40:1; the yellow premium button #080b13 on #ffc700.\nNot proposed: white text would need the gradient about 35% darker (#3c7899 → #485d9b, 4.84:1 to 6.34:1). That changes the brand colour.\nNew tokens: none. New values: pressed gradient #75c4ee → #85a0f1 (gradient + 15% #ffffff).\nMac frames that use this button (screen canvas, 30): Mac-FirstLaunch-Privacy (Confirm Agreement), Mac-FirstLaunch-Permission (Continue), Mac-FirstLaunch-Denied (Try Again), Mac-Launch-Offline (Try again), Mac-Launch-Unreachable (Try again), Mac-Launch-NetworkBlocked (Retry), Mac-Launch-UpdateRequired (Update), Mac-Rating-High and Mac-Rating-Low (Send feedback), Mac-Rating-RateUs (YES), Mac-Report-Slow (Send), Mac-Billing-Grace and Mac-Billing-Paused (Update payment), Mac-Settings-Account (Manage Subscription), Mac-Settings-Support (Report an Issue, Send); each EN and AR.\nPaywall canvas (6): Mac-NoPlacement-G1PremiumActive-Default, -G4LowRating-Default, -P7TrialTimeline-Default, EN and AR.\nNot this button: Mac-UpdateRequired-Window / -MenuBar (VPN-768) use the update page button (#0b1020 on #839ff2, passes)."
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-11-09T12:35:27Z"
+  },
+  "title": "Securezone VPN",
+  "namespace": "SecurezoneVPN",
+  "libraries": [
+    {
+      "name": "react",
+      "version": "18"
+    },
+    {
+      "name": "react-dom",
+      "version": "18"
+    }
+  ],
+  "sections": {},
+  "groups": [
+    "Logos",
+    "Icons",
+    "Illustrations",
+    "Flags",
+    "Launch",
+    "Lottie"
+  ],
+  "assetGroups": {
+    "Logos": {
+      "name": "Logos",
+      "tile": "l",
+      "order": [],
+      "files": {}
+    },
+    "Icons": {
+      "name": "Icons",
+      "tile": "l",
+      "order": [],
+      "files": {}
+    },
+    "Illustrations": {
+      "name": "Illustrations",
+      "tile": "l",
+      "order": [],
+      "files": {}
+    },
+    "Flags": {
+      "name": "Flags",
+      "tile": "l",
+      "order": [],
+      "files": {}
+    },
+    "Launch": {
+      "name": "Launch",
+      "tile": "l",
+      "order": [],
+      "files": {}
+    },
+    "Lottie": {
+      "name": "Lottie",
+      "tile": "l",
+      "order": [],
+      "files": {}
+    }
+  },
+  "blobs": {},
+  "docs": {
+    "readme": "project/README.md",
+    "sections": []
+  }
+}

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<title>Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt · after a decline: help screen · AR</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+body{margin:0}
+@font-face{font-family:'Righteous';src:url('../../design-system/project/fonts/Righteous-Regular.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Solid';src:url('../../design-system/project/fonts/fa-solid-900.ttf');font-weight:900;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Regular';src:url('../../design-system/project/fonts/fa-regular-400.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Brands';src:url('../../design-system/project/fonts/fa-brands-400.ttf');font-weight:400;font-style:normal}
+:where(.f-16-fw-600){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:16px;font-weight:600}
+:where(.f-17-fw-600){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:17px;font-weight:600}
+*{box-sizing:border-box}
+.phone{position:relative;overflow:hidden;outline:0}
+.abs{position:absolute}
+.sb{position:absolute;left:24px;top:0;height:32px;display:flex;align-items:center;justify-content:flex-start;padding-top:0;gap:10px;font-size:15px !important;color:#ffffff;direction:ltr;pointer-events:none}
+.k-NetworkBlockedView .nb{padding:24px 28px 16px;text-align:center}
+.k-NetworkBlockedView .nb-ic{width:128px;height:128px;border-radius:50%;background:#171d2e;margin:0 auto;display:flex;align-items:center;justify-content:center}
+.k-NetworkBlockedView .nb-t{font:700 24px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff;margin-top:32px}
+.k-NetworkBlockedView .nb-m{font:400 16px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#b3b7c3;margin-top:16px}
+.k-NetworkBlockedView .nb-tips{font:400 15px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff;background:#131724;border-radius:18px;padding:16px;margin-top:24px}
+.k-NetworkBlockedView .nb-gap{height:24px}
+.k-NetworkBlockedView .btn{display:flex;align-items:center;justify-content:center;padding:0 5px;width:100%}
+.k-NetworkBlockedView .btn span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.k-NetworkBlockedView .k-blue{background:#839ff2;color:#ffffff}
+.full>div{height:100%}
+.k-NetworkBlockedView{height:100%}
+.k-NetworkBlockedView .nb{display:flex;flex-direction:column;height:100%;box-sizing:border-box;padding:0 28px 16px}
+.k-NetworkBlockedView .nb-sp,.k-NetworkBlockedView .nb-gap{flex:1 1 0;min-height:24px;height:auto}
+.k-NetworkBlockedView .nb-ic .sf{font-family:"Font Awesome 5 Free Solid";font-weight:900;font-size:58px;line-height:1;color:#839ff2;position:relative}
+.k-NetworkBlockedView .nb-ic .sf b{position:absolute;left:50%;top:6px;transform:translateX(-50%);font-size:34px;color:#839ff2;-webkit-text-stroke:8px #171d2e;paint-order:stroke}
+
+.k-VPNPermissionHelpView{height:100%}
+.k-VPNPermissionHelpView .vh{display:flex;flex-direction:column;height:100%;box-sizing:border-box;padding:0 28px 16px;text-align:center;margin:0 auto}
+.k-VPNPermissionHelpView .vh-sp{flex:1 1 0;min-height:24px}
+.k-VPNPermissionHelpView .vh-t{font:700 24px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff;margin-top:28px}
+.k-VPNPermissionHelpView .vh-m{font:400 16px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#b3b7c3;margin-top:12px}
+.k-VPNPermissionHelpView .vh-steps{background:#131724;border-radius:18px;padding:16px;margin-top:20px;display:flex;flex-direction:column;gap:14px;text-align:start}
+.k-VPNPermissionHelpView .st{display:flex;align-items:center;gap:12px;font:400 15px/1.4 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff}
+.k-VPNPermissionHelpView .st .n{flex:none;width:26px;height:26px;border-radius:13px;background:#171d2e;color:#ffc700;font:700 14px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;display:flex;align-items:center;justify-content:center}
+.k-VPNPermissionHelpView .st .tx{flex:1}
+.k-VPNPermissionHelpView .st .dots{flex:none;display:flex;gap:6px;direction:ltr}
+.k-VPNPermissionHelpView .st .dots i{width:10px;height:10px;border-radius:5px;border:1.5px solid #ffffff;box-sizing:border-box}
+.k-VPNPermissionHelpView .st .dots i.f{background:#ffffff}
+.k-VPNPermissionHelpView .pic{width:270px;margin:0 auto;border-radius:28px;background:#1f1f24;padding:16px 0 12px;text-align:start;box-shadow:0 0 0 1px #2f3442}
+.k-VPNPermissionHelpView .pic .pt{padding:0 22px;font:600 14px/18px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff}
+.k-VPNPermissionHelpView .pic .pm{padding:4px 22px 14px;font:400 12px/16px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff}
+.k-VPNPermissionHelpView .pic .pb{display:flex;gap:8px;padding:0 12px}
+.k-VPNPermissionHelpView .pic .pb div{flex:1;height:38px;border-radius:19px;background:#3a3a40;display:flex;align-items:center;justify-content:center;font:500 14px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff}
+.k-VPNPermissionHelpView .pic .pb .mark{outline:3px solid #ffc700;outline-offset:3px}
+.k-VPNPermissionHelpView .ic{width:128px;height:128px;border-radius:50%;background:#171d2e;margin:0 auto;display:flex;align-items:center;justify-content:center}
+.k-VPNPermissionHelpView .ic .sf{font-family:"Font Awesome 5 Free Solid";font-weight:900;font-size:56px;line-height:1;color:#839ff2;position:relative;top:-3px}
+.k-VPNPermissionHelpView .tips{font:400 15px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff;background:#131724;border-radius:18px;padding:16px;margin-top:24px}
+.k-VPNPermissionHelpView .btn{display:flex;align-items:center;justify-content:center;padding:0 5px;width:100%;font:600 16px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif}
+.k-VPNPermissionHelpView .btn span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.k-VPNPermissionHelpView .k-blue{background:#839ff2;color:#ffffff}
+</style>
+</helmet>
+<div class="phone" dir="ltr" style="position:relative;overflow:hidden;box-sizing:border-box;color:#ffffff;font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;font-size:12px;width:1032px;height:1376px;background:#080b13"><div class="abs full" style="left:0px;top:32px;width:1032px;height:1324px;overflow:hidden"><div class="k-VPNPermissionHelpView"><div class="vh" dir="rtl" style="max-width:560px;"><div class="vh-sp"></div><div class="pic" dir="rtl"><div class="pt">يود «Securezone VPN» إضافة تكوينات VPN</div><div class="pm">قد تتم تصفية كل نشاط الشبكة على هذا الـ iPad أو مراقبته عند استخدام VPN.</div><div class="pb" dir="rtl"><div class="mark">السماح</div><div>عدم السماح</div></div></div><div class="vh-t">لم تتم إضافة إعداد VPN</div><div class="vh-m">لا يمكن لـ Securezone VPN الاتصال بدون إعداد VPN.</div><div class="vh-steps"><div class="st"><span class="n">1</span><span class="tx">اضغط على «إعادة المحاولة» ثم على <b>«السماح»</b>.</span></div><div class="st"><span class="n">2</span><span class="tx">أدخل رمز مرور iPad.</span><span class="dots"><i class="f"></i><i class="f"></i><i class="f"></i><i></i><i></i><i></i></span></div></div><div class="vh-sp"></div><div class="btn k-blue" style="height:55px;border-radius:18px"><span>إعادة المحاولة</span></div><div class="btn" style="height:50px;border-radius:18px;color:#b3b7c3;margin-top:8px"><span>ليس الآن</span></div></div></div></div><div class="sb f-17-fw-600">9:41<span>Tue Nov 10</span></div></div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview": {"width": 1032, "height": 1376}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

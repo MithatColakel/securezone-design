@@ -1,0 +1,125 @@
+<!-- @dsCard group="Onboarding" height=3300 subtitle="Boot notice over the splash: unreachable / offline, Try again" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<title>BootNoticeView — preview</title>
+<style>
+:where(:root){--background:#080b13;--bar:#171d2e;--gray:#1b1f26;--darkBlue:#1b1c4c;--blue:#839ff2;--board:#131724;--noTimePanelSheet:#3a3f4c;--tabContent:#1b2027;--splashTop:#7691e8;--splashBottom:#2c40a2;--buttonYellow:#ffc700;--buttonGray:#2f3442;--buttonDisabled:#3c4970;--buttonTitleDefault:#56a3f2;--noTimePanelWatchButton:#4e515e;--text:#ffffff;--black:#000000;--yellow:#ffc700;--cBlue:#7f9fef;--red:#ff0000;--turkuaz:#5edfda;--dark:#5e5e5e;--cGray:#b3b7c3;--darkLight:#6e6e6e;--green:#7ae2da;--proceed:#2fa6f8;--tabBar:#080b13;--tabSelected:#ffffff;--tabUnselected:#807e7e;--connectGradientTop:#5db9eb;--connectGradientBottom:#6f8fee;--connectAccent:#6f8fee;--connectRingLight:#e9f1fd;--connectConnectedRing:#7ae2da;--connectConnectedText:#5edfda;--star:#94dfd9;--slideDotActive:#ffffff;--slideDotPassive:#707070;--spinnerScrim:rgba(0, 0, 0, 0.703);--bootNoticeBody:#9aa3b8;--bootNoticeButtonTitle:#0b1020;--ratingSheetStops-0:#161d33;--ratingSheetStops-1:#0b1020;--ratingSheetStops-2:#080b14;--ratingCTATop:#93abff;--ratingCTABottom:#6d86e8;--switch-thumb:#ffffff;--switch-trackOff:rgba(74, 74, 74, 0.4);--switch-trackOnWhite:#81cafa;--switch-thumbDisabled:#cccccc;--switch-trackDisabled:rgba(51, 51, 51, 0.3);--splashBar-track:#4e66ba;--splashBar-fill:#7bc5f5;--agreement-errorDot:#4f5e70;--promotionDeal-countdownTrack:#4c4e54;--connect-progressRing:#3d8ff4;--connect-innerBox:rgba(255, 255, 255, 0.102);--giftBar-ringTrack:#515151;--giftBar-ringAlternative:#fec800;--connectionFailed-background:#ff1205;--protocolCard-selectedBackground:#182644;--protocolCard-ring:#00ffff;--protocolCard-discouragedRing:#e5484d;--rateUs-noButton:#212a41;--rateUs-yesButton:#5990fe;--supportInput-textColor:#d7d8f4;--supportInput-placeholderColor:#86898f;--rating-grabber:rgba(255, 255, 255, 0.22);--rating-tapHint:#5f677d;--rating-reasonsTitle:#8b93a7;--rating-successTick:#4caf7d;--rating-successFill:#3ddc84;--rating-subtitle:#aeb7cd;--rating-pill:rgba(255, 255, 255, 0.06);--rating-starFilled:#ffc700;--rating-starEmpty:#2e3853;--reasonChip-textSelected:#e2e9ff;--reasonChip-text:#cfd6e6;--reasonChip-backgroundSelected:#26356a;--reasonChip-background:#141a2b;--reasonChip-borderSelected:#7f9bf5;--reasonChip-border:#2a3346;--report-scrim:rgba(0, 0, 0, 0.5);--reportRow-lastBorder:#ffdf5c;--reportRow-lastTitle:#1a1e29;--drawerBackdrop:rgba(0, 0, 0, 0.7);--billingGrace-body:rgba(255, 255, 255, 0.85);--billingGrace-footnote:rgba(255, 255, 255, 0.6);--labelVerticalPadding:2px;--buttonHorizontalPadding:5px;--buttonMargin-vertical:8px;--buttonMargin-horizontal:16px;--switchTrailingMargin:10px;--bootNoticeMargin:24px;--bootNoticePadding:20px;--rowWidthFraction:90%;--buttonWidthFraction:85%;--radiusL:5px;--radiusM:10px;--radius:18px;--radiusB:20px;--roundedTop:15px;--topBarBottom:12px;--bootNoticeRadius:16px;--bootNoticeButtonRadius:12px;--buttonDefaultRadius:0;--switchTrack:15.5px;--switchThumb:0 2px 4px rgba(0, 0, 0, 0.2);--agreementHeader:0 6px 18px rgba(0, 0, 0, 0.55);--agreementFooter:0 -6px 18px rgba(0, 0, 0, 0.55);--ratingCTA:0 12px 26px rgba(96, 124, 232, 0.4);--diamondGlow:0 0 20px rgba(255, 199, 0, 0.7);--ratingStarGlow:0 0 28px rgba(255, 199, 0, 0.2025);--disabledOpacity:0.5;--pressedOpacity:0.5;--buttonDefaultHeight:40px;--buttonMinWidth:64px;--selectableBarHeight:52.5px;--serverRowHeight:50px;--serverSelectHeight:65px;--premiumTrialBarHeight:90px;--pageTitleBarHeight:45px;--closeButtonSize:19px;--rowArrowSize:20px;--flagSize:30px;--activityIndicatorSize:30px;--font-system:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;--font-righteous:Righteous, -apple-system, sans-serif;--font-faSolid:"Font Awesome 5 Free Solid";--font-faRegular:"Font Awesome 5 Free Regular";--font-faBrands:"Font Awesome 5 Brands"}
+@font-face{font-family:'Righteous';src:url('../../fonts/Righteous-Regular.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Solid';src:url('../../fonts/fa-solid-900.ttf');font-weight:900;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Regular';src:url('../../fonts/fa-regular-400.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Brands';src:url('../../fonts/fa-brands-400.ttf');font-weight:400;font-style:normal}
+:where(.f-10-fw-300){font-family:var(--font-system);font-size:10px;font-weight:300}
+:where(.f-10-fw-400){font-family:var(--font-system);font-size:10px;font-weight:400}
+:where(.f-11-fw-300){font-family:var(--font-system);font-size:11px;font-weight:300}
+:where(.f-11-fw-400){font-family:var(--font-system);font-size:11px;font-weight:400}
+:where(.f-11-fw-500){font-family:var(--font-system);font-size:11px;font-weight:500}
+:where(.f-11-fw-600){font-family:var(--font-system);font-size:11px;font-weight:600}
+:where(.f-12-fw-300){font-family:var(--font-system);font-size:12px;font-weight:300}
+:where(.f-12-fw-400){font-family:var(--font-system);font-size:12px;font-weight:400}
+:where(.f-12-fw-500){font-family:var(--font-system);font-size:12px;font-weight:500}
+:where(.f-12-fw-600){font-family:var(--font-system);font-size:12px;font-weight:600}
+:where(.f-13-fw-300){font-family:var(--font-system);font-size:13px;font-weight:300}
+:where(.f-13-fw-400){font-family:var(--font-system);font-size:13px;font-weight:400}
+:where(.f-13-fw-600){font-family:var(--font-system);font-size:13px;font-weight:600}
+:where(.f-13-fw-700){font-family:var(--font-system);font-size:13px;font-weight:700}
+:where(.f-13-fw-800){font-family:var(--font-system);font-size:13px;font-weight:800}
+:where(.f-14-fw-300){font-family:var(--font-system);font-size:14px;font-weight:300}
+:where(.f-14-fw-400){font-family:var(--font-system);font-size:14px;font-weight:400}
+:where(.f-14-fw-500){font-family:var(--font-system);font-size:14px;font-weight:500}
+:where(.f-14-fw-600){font-family:var(--font-system);font-size:14px;font-weight:600}
+:where(.f-14-fw-800){font-family:var(--font-system);font-size:14px;font-weight:800}
+:where(.f-15-fw-400){font-family:var(--font-system);font-size:15px;font-weight:400}
+:where(.f-15-fw-500){font-family:var(--font-system);font-size:15px;font-weight:500}
+:where(.f-15-fw-600){font-family:var(--font-system);font-size:15px;font-weight:600}
+:where(.f-16-fw-300){font-family:var(--font-system);font-size:16px;font-weight:300}
+:where(.f-16-fw-400){font-family:var(--font-system);font-size:16px;font-weight:400}
+:where(.f-16-fw-500){font-family:var(--font-system);font-size:16px;font-weight:500}
+:where(.f-16-fw-600){font-family:var(--font-system);font-size:16px;font-weight:600}
+:where(.f-16-fw-800){font-family:var(--font-system);font-size:16px;font-weight:800}
+:where(.f-17-fw-400){font-family:var(--font-system);font-size:17px;font-weight:400}
+:where(.f-17-fw-600){font-family:var(--font-system);font-size:17px;font-weight:600}
+:where(.f-17-fw-800){font-family:var(--font-system);font-size:17px;font-weight:800}
+:where(.f-18-fw-400){font-family:var(--font-system);font-size:18px;font-weight:400}
+:where(.f-18-fw-600){font-family:var(--font-system);font-size:18px;font-weight:600}
+:where(.f-19-fw-800){font-family:var(--font-system);font-size:19px;font-weight:800}
+:where(.f-20-fw-700){font-family:var(--font-system);font-size:20px;font-weight:700}
+:where(.f-21-fw-600){font-family:var(--font-system);font-size:21px;font-weight:600}
+:where(.f-21-fw-700){font-family:var(--font-system);font-size:21px;font-weight:700}
+:where(.f-22-fw-600){font-family:var(--font-system);font-size:22px;font-weight:600}
+:where(.f-24-fw-600){font-family:var(--font-system);font-size:24px;font-weight:600}
+:where(.f-24-fw-700){font-family:var(--font-system);font-size:24px;font-weight:700}
+:where(.f-28-fw-600){font-family:var(--font-system);font-size:28px;font-weight:600}
+:where(.f-30-fw-400){font-family:var(--font-system);font-size:30px;font-weight:400}
+:where(.f-32-fw-600){font-family:var(--font-system);font-size:32px;font-weight:600}
+:where(.f-36-fw-600){font-family:var(--font-system);font-size:36px;font-weight:600}
+:where(.f-38-fw-400){font-family:var(--font-system);font-size:38px;font-weight:400}
+:where(.f-40-fw-800){font-family:var(--font-system);font-size:40px;font-weight:800}
+:where(.f-48-fw-400){font-family:var(--font-system);font-size:48px;font-weight:400}
+:where(.f-64-fw-400){font-family:var(--font-system);font-size:64px;font-weight:400}
+:where(.Righteous-22){font-family:var(--font-righteous);font-size:22px;font-weight:400}
+:where(.fas-35){font-family:var(--font-faSolid);font-size:35px;font-weight:900}
+:where(.far-18){font-family:var(--font-faRegular);font-size:18px;font-weight:400}
+:where(.fas-10){font-family:var(--font-faSolid);font-size:10px;font-weight:900}
+:where(.far-10){font-family:var(--font-faRegular);font-size:10px;font-weight:400}
+
+html,body{margin:0;background:var(--background);color:var(--text);font-family:var(--font-system);font-size:12px}
+*{box-sizing:border-box}
+#root{width:100%;padding:12px 0 16px}
+.pv-cap{font:400 12px/16px var(--font-system);color:var(--cGray);padding:14px 20px 6px;direction:ltr;text-align:left}
+.pv-lang{font:600 12px/16px var(--font-system);color:var(--text);padding:18px 20px 0;letter-spacing:.04em;direction:ltr;text-align:left}
+.ar{direction:rtl;text-align:right}
+.en{direction:ltr;text-align:left}
+.c{text-align:center}
+img{display:block}
+.fa{font-style:normal;line-height:1}
+.fas{font-family:var(--font-faSolid);font-weight:900}
+.far{font-family:var(--font-faRegular);font-weight:400}
+.nowrap{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+.row{width:var(--rowWidthFraction);margin:10px auto 0;height:var(--selectableBarHeight);background:var(--bar);border-radius:var(--radius);display:grid;align-items:center;direction:ltr}
+.row.mt20{margin-top:20px}
+.ltr{grid-template-columns:1fr 5fr 2fr}
+.rtl{grid-template-columns:2fr 5fr 1fr}
+.cell{display:flex;justify-content:center;align-items:center}
+.t{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:2px 0}
+.mirror{transform:scaleX(-1)}
+.sw{justify-self:end;margin-right:var(--switchTrailingMargin);width:51px;height:31px;border-radius:var(--switchTrack);position:relative}
+.sw.on{background:var(--switch-trackOnWhite)}
+.sw.off{background:var(--switch-trackOff)}
+.sw i{position:absolute;top:2px;width:27px;height:27px;border-radius:50%;background:var(--switch-thumb);box-shadow:var(--switchThumb)}
+.sw.on i{left:22px}.sw.off i{left:2px}
+.ptb{height:var(--pageTitleBarHeight);display:grid;grid-template-columns:1fr 5fr 1fr;align-items:center;direction:ltr}
+.ptb img{width:var(--closeButtonSize);height:var(--closeButtonSize);object-fit:contain}
+.page{background:var(--background);border-top:1px solid var(--bar);border-bottom:1px solid var(--bar);position:relative}
+
+.scr{position:relative;height:763px;background:var(--background);overflow:hidden;border-top:1px solid var(--bar);border-bottom:1px solid var(--bar)}
+.grid1{display:grid;grid-template-columns:1fr;height:100%;direction:ltr}
+.cl{display:flex;align-items:center;justify-content:center;min-height:0;min-width:0;overflow:hidden;position:relative}
+.top{align-items:flex-start}.bot{align-items:flex-end}
+.ill{height:100%;object-fit:contain}
+.btn{display:flex;align-items:center;justify-content:center;padding:0 var(--buttonHorizontalPadding);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.kb{background:var(--blue);color:var(--text)}
+.ky{background:var(--buttonYellow);color:var(--black)}
+.closei{width:var(--closeButtonSize);height:var(--closeButtonSize);object-fit:contain}
+.t1{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:var(--labelVerticalPadding) 0}
+.tw{padding:var(--labelVerticalPadding) 0}
+.u{text-decoration:underline}
+.sheet{position:relative;overflow:hidden}
+.ph{border:1px dashed var(--cGray);color:var(--cGray);font:400 11px/14px var(--font-system);display:flex;align-items:center;justify-content:center;text-align:center;padding:4px;direction:ltr}
+
+.bar5{position:absolute;left:25%;width:50%;height:5px;border-radius:2.5px;background:var(--splashBar-track);overflow:hidden;direction:ltr}
+.bar5 i{position:absolute;left:0;top:0;height:5px;border-radius:2.5px;background:var(--splashBar-fill)}
+.tm{position:relative;width:20px;height:20px;border-radius:50%;overflow:hidden;flex:none}
+.tm img{position:absolute;inset:0;width:100%;height:100%}
+</style>
+</head>
+<body>
+<div id="root">
+<div class="pv-lang">English</div><div class="pv-cap">Server not reachable, over the splash. The card covers the splash bar here (see Splash bar).</div><div class="scr" style="background:linear-gradient(to bottom,var(--splashTop) 20%,var(--splashBottom) 100%);display:flex;flex-direction:column;justify-content:flex-end"><div class="bar5" style="top:75%"><i style="width:40%"></i></div><div style="position:relative;z-index:1;margin:var(--bootNoticeMargin);padding:var(--bootNoticePadding);background:var(--bar);border-radius:var(--bootNoticeRadius)"><div class="tw f-17-fw-600" dir="ltr" style="text-align:center">Can&#x27;t reach the server</div><div class="tw f-14-fw-400" dir="ltr" style="text-align:center;color:var(--bootNoticeBody);margin-top:6px">We&#x27;re still trying. On restricted networks this can take a little longer.</div><div class="btn f-15-fw-600" dir="ltr" style="height:40px;margin:16px var(--buttonMargin-horizontal) var(--buttonMargin-vertical);background:var(--blue);color:var(--bootNoticeButtonTitle);border-radius:var(--bootNoticeButtonRadius)">Try again</div></div></div><div class="pv-cap">Offline</div><div class="scr" style="background:linear-gradient(to bottom,var(--splashTop) 20%,var(--splashBottom) 100%);display:flex;flex-direction:column;justify-content:flex-end"><div class="bar5" style="top:75%"><i style="width:40%"></i></div><div style="position:relative;z-index:1;margin:var(--bootNoticeMargin);padding:var(--bootNoticePadding);background:var(--bar);border-radius:var(--bootNoticeRadius)"><div class="tw f-17-fw-600" dir="ltr" style="text-align:center">No internet connection</div><div class="tw f-14-fw-400" dir="ltr" style="text-align:center;color:var(--bootNoticeBody);margin-top:6px">Check your connection — we&#x27;ll continue as soon as you&#x27;re back online.</div><div class="btn f-15-fw-600" dir="ltr" style="height:40px;margin:16px var(--buttonMargin-horizontal) var(--buttonMargin-vertical);background:var(--blue);color:var(--bootNoticeButtonTitle);border-radius:var(--bootNoticeButtonRadius)">Try again</div></div></div><div class="pv-lang">Arabic (right to left)</div><div class="pv-cap">Server not reachable</div><div class="scr" style="background:linear-gradient(to bottom,var(--splashTop) 20%,var(--splashBottom) 100%);display:flex;flex-direction:column;justify-content:flex-end"><div class="bar5" style="top:75%"><i style="width:40%"></i></div><div style="position:relative;z-index:1;margin:var(--bootNoticeMargin);padding:var(--bootNoticePadding);background:var(--bar);border-radius:var(--bootNoticeRadius)"><div class="tw f-17-fw-600" dir="rtl" style="text-align:center">تعذّر الوصول إلى الخادم</div><div class="tw f-14-fw-400" dir="rtl" style="text-align:center;color:var(--bootNoticeBody);margin-top:6px">ما زلنا نحاول. قد يستغرق ذلك وقتًا أطول على الشبكات المقيّدة.</div><div class="btn f-15-fw-600" dir="rtl" style="height:40px;margin:16px var(--buttonMargin-horizontal) var(--buttonMargin-vertical);background:var(--blue);color:var(--bootNoticeButtonTitle);border-radius:var(--bootNoticeButtonRadius)">إعادة المحاولة</div></div></div><div class="pv-cap">Offline</div><div class="scr" style="background:linear-gradient(to bottom,var(--splashTop) 20%,var(--splashBottom) 100%);display:flex;flex-direction:column;justify-content:flex-end"><div class="bar5" style="top:75%"><i style="width:40%"></i></div><div style="position:relative;z-index:1;margin:var(--bootNoticeMargin);padding:var(--bootNoticePadding);background:var(--bar);border-radius:var(--bootNoticeRadius)"><div class="tw f-17-fw-600" dir="rtl" style="text-align:center">لا يوجد اتصال بالإنترنت</div><div class="tw f-14-fw-400" dir="rtl" style="text-align:center;color:var(--bootNoticeBody);margin-top:6px">تحقّق من اتصالك — سنتابع فور عودتك إلى الإنترنت.</div><div class="btn f-15-fw-600" dir="rtl" style="height:40px;margin:16px var(--buttonMargin-horizontal) var(--buttonMargin-vertical);background:var(--blue);color:var(--bootNoticeButtonTitle);border-radius:var(--bootNoticeButtonRadius)">إعادة المحاولة</div></div></div>
+</div>
+<script>/* Static rendition: the Swift view cannot run in a browser. Nothing to mount. */</script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Securezone VPN · design review</title>
+<link rel="stylesheet" href="viewer/viewer.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <svg viewBox="0 0 24 24" class="logo" aria-hidden="true"><path d="M12 3 5 6v5c0 4.5 3 8.3 7 10 4-1.7 7-5.5 7-10V6z"/><path d="m9 12 2 2 4-4"/></svg>
+    <b>Securezone VPN</b><span class="dim">Design review</span>
+  </div>
+  <nav class="pages" id="pages" role="tablist" aria-label="Pages"></nav>
+  <div class="tools">
+    <button id="btn-comment" class="tbtn" title="Comment mode (C): click a spot on a frame to leave a note">
+      <svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>Comment</span>
+    </button>
+    <div class="zoom" id="zoom-box">
+      <button id="zoom-out" class="tbtn icon" title="Zoom out (−)"><svg viewBox="0 0 24 24"><path d="M5 12h14"/></svg></button>
+      <button id="zoom-val" class="tbtn val" title="Zoom to 100 % (1)">100 %</button>
+      <button id="zoom-in" class="tbtn icon" title="Zoom in (+)"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></button>
+      <button id="btn-fit" class="tbtn" title="Show all frames (0)">Fit all</button>
+    </div>
+    <button id="btn-help" class="tbtn icon" title="How to review"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.2a2.5 2.5 0 0 1 4.8.9c0 1.7-2.4 2.2-2.4 3.6M12 17h.01"/></svg></button>
+  </div>
+</header>
+<div class="banner" id="banner">
+  <span><b>Design for review.</b> Prices in the frames are samples; the App Store sets the real price in each country. Source: commit <code id="src-commit"></code> on branch <code id="src-branch"></code>.</span>
+  <button class="x" id="banner-x" title="Hide" aria-label="Hide">×</button>
+</div>
+<main class="app">
+  <aside class="side">
+    <div class="side-tabs" id="side-tabs">
+      <button data-tab="list" class="on"><span id="list-label">Frames</span> <i id="n-list"></i></button>
+      <button data-tab="comments">Comments <i id="n-comments"></i></button>
+    </div>
+    <div class="side-body" id="tab-list">
+      <div class="search"><input id="search" type="search" placeholder="Search  ( / )" autocomplete="off"></div>
+      <div id="list" class="list"></div>
+    </div>
+    <div class="side-body" id="tab-comments" hidden>
+      <div class="cbar">
+        <button id="c-copy" class="tbtn primary">Copy all</button>
+        <button id="c-clear" class="tbtn">Delete all</button>
+      </div>
+      <p class="chint" id="c-hint"></p>
+      <div id="c-list" class="clist"></div>
+    </div>
+  </aside>
+  <section class="stage" id="stage" tabindex="-1">
+    <div class="status" id="status"></div>
+  </section>
+  <section class="dspage" id="dspage" hidden></section>
+</main>
+
+<div class="focus" id="focus" hidden>
+  <div class="fbar">
+    <button id="f-prev" class="tbtn icon" title="Previous (←)"><svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg></button>
+    <button id="f-next" class="tbtn icon" title="Next (→)"><svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></button>
+    <div class="ftitle"><b id="f-title"></b><span id="f-sub"></span></div>
+    <div class="seg" id="f-scale">
+      <button data-s="fit" class="on" title="Fit the frame to the window width">Fit width</button>
+      <button data-s="1" title="Real size">100 %</button>
+    </div>
+    <button id="f-comment" class="tbtn" title="Comment mode (C)"><svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>Comment</span></button>
+    <button id="f-copy" class="tbtn" title="Copy a link to this frame"><svg viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg><span>Copy link</span></button>
+    <a id="f-open" class="tbtn" target="_blank" rel="noopener" title="Open the frame alone in a new tab"><svg viewBox="0 0 24 24"><path d="M15 3h6v6M10 14 21 3M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg><span>Open alone</span></a>
+    <button id="f-close" class="tbtn icon" title="Close (Esc)"><svg viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+  </div>
+  <div class="fbody">
+    <div class="fscroll" id="f-scroll">
+      <div class="fframe" id="f-frame">
+        <iframe id="f-iframe" title="Frame" loading="eager"></iframe>
+        <div class="fcatch" id="f-catch"></div>
+        <div class="fpins" id="f-pins"></div>
+      </div>
+      <article class="fdoc md" id="f-doc" hidden></article>
+    </div>
+    <aside class="freadme md" id="f-readme" hidden></aside>
+  </div>
+</div>
+
+<div class="pop" id="pop" hidden>
+  <div class="pop-h"><b id="pop-n"></b><span id="pop-t"></span></div>
+  <textarea id="pop-text" rows="4" placeholder="What should change here?"></textarea>
+  <div class="pop-f">
+    <button id="pop-del" class="tbtn danger">Delete</button>
+    <span class="fsp"></span>
+    <button id="pop-cancel" class="tbtn">Cancel</button>
+    <button id="pop-save" class="tbtn primary" title="Ctrl + Enter">Save</button>
+  </div>
+</div>
+
+<div class="modal" id="help" hidden>
+  <div class="card">
+    <button class="x" id="help-x" aria-label="Close">×</button>
+    <h2>How to review</h2>
+    <ol>
+      <li><b>Pick a page.</b> At the top: <i>Screens</i> (every screen of the app) and <i>Paywalls</i> (every paywall, offer and Adapty screen, per placement and audience), each for iPhone, iPad and Mac, and the <i>Design system</i>.</li>
+      <li><b>Find a frame.</b> Use the list on the left, or move around the canvas. Each row on the canvas is one screen or one placement with its states: English first, then Arabic.</li>
+      <li><b>Look closely.</b> Double-click a frame to open it at full size. Use ← and → to go to the next frame.</li>
+      <li><b>Comment.</b> Press <kbd>C</kbd> (or <i>Comment</i>) and click the spot you mean. Write your note and save. A numbered pin marks the spot.</li>
+      <li><b>Send.</b> Open <i>Comments</i> on the left, press <i>Copy all</i> and paste the text into the task or the card. The designer gets the frame names and the exact spots.</li>
+    </ol>
+    <p class="dim">Comments stay only in this browser until you copy them. Frame links: <code>#f=&lt;frame&gt;</code> selects a frame, <code>#open=&lt;frame&gt;</code> opens it, <code>#p=&lt;page&gt;</code> opens a page, <code>#ds=&lt;card&gt;</code> opens a Design System card.</p>
+    <h3>Keys</h3>
+    <table class="keys">
+      <tr><td>Scroll / drag</td><td>Move the canvas</td></tr>
+      <tr><td><kbd>Ctrl</kbd> or <kbd>⌘</kbd> + scroll, pinch</td><td>Zoom</td></tr>
+      <tr><td><kbd>+</kbd> <kbd>−</kbd> <kbd>1</kbd> <kbd>0</kbd></td><td>Zoom in, out, 100 %, show all</td></tr>
+      <tr><td><kbd>←</kbd> <kbd>→</kbd></td><td>Previous / next frame</td></tr>
+      <tr><td><kbd>Enter</kbd></td><td>Open the selected frame</td></tr>
+      <tr><td><kbd>C</kbd></td><td>Comment mode on / off</td></tr>
+      <tr><td><kbd>/</kbd></td><td>Search</td></tr>
+      <tr><td><kbd>Esc</kbd></td><td>Close</td></tr>
+    </table>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="viewer/viewer.js"></script>
+</body>
+</html>

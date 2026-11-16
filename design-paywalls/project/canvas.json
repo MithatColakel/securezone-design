@@ -1,0 +1,1803 @@
+{
+  "v": 3,
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-11-12T17:45:00Z"
+  },
+  "title": "Securezone VPN Paywall'ları",
+  "launch": {
+    "view": "canvas",
+    "page": "iphone"
+  },
+  "pages": [
+    {
+      "id": "iphone",
+      "name": "iPhone"
+    },
+    {
+      "id": "ipad",
+      "name": "iPad"
+    },
+    {
+      "id": "mac",
+      "name": "Mac"
+    }
+  ],
+  "boards": {
+    "Main.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 880,
+      "h": 560,
+      "page": "iphone",
+      "title": "Securezone VPN Paywall'ları"
+    },
+    "iPhone-sz_k4_trial_setup-P7TrialTimeline-Default-EN.dc.html": {
+      "x": 0,
+      "y": 1900,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_k4_trial_setup · Offer — P7 trial timeline · trial timeline · EN"
+    },
+    "iPhone-sz_k4_trial_setup-P7TrialTimeline-Default-AR.dc.html": {
+      "x": 482,
+      "y": 1900,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_k4_trial_setup · Offer — P7 trial timeline · trial timeline · AR"
+    },
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-StartsNow-EN.dc.html": {
+      "x": 0,
+      "y": 3174,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, starts now · EN"
+    },
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-EN.dc.html": {
+      "x": 482,
+      "y": 3174,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, at renewal · EN"
+    },
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-StartsNow-AR.dc.html": {
+      "x": 964,
+      "y": 3174,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, starts now · AR"
+    },
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-AR.dc.html": {
+      "x": 1446,
+      "y": 3174,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, at renewal · AR"
+    },
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-EN.dc.html": {
+      "x": 0,
+      "y": 4448,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, starts now · EN"
+    },
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-EN.dc.html": {
+      "x": 482,
+      "y": 4448,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, at renewal · EN"
+    },
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-AR.dc.html": {
+      "x": 964,
+      "y": 4448,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, starts now · AR"
+    },
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-AR.dc.html": {
+      "x": 1446,
+      "y": 4448,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, at renewal · AR"
+    },
+    "iPhone-sz_z1_time_wall-P1TimeWall-FormerSubscriber-EN.dc.html": {
+      "x": 0,
+      "y": 5722,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · former subscriber · EN"
+    },
+    "iPhone-sz_z1_time_wall-P1TimeWall-FormerSubscriber-AR.dc.html": {
+      "x": 482,
+      "y": 5722,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · former subscriber · AR"
+    },
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmA-EN.dc.html": {
+      "x": 0,
+      "y": 6996,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm A, monthly + 1 week free · EN"
+    },
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmA-AR.dc.html": {
+      "x": 482,
+      "y": 6996,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm A, monthly + 1 week free · AR"
+    },
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmB-EN.dc.html": {
+      "x": 0,
+      "y": 8270,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm B, weekly + 3 days free · EN"
+    },
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmB-AR.dc.html": {
+      "x": 482,
+      "y": 8270,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm B, weekly + 3 days free · AR"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · prices loaded, no plan · EN"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loading-EN.dc.html": {
+      "x": 482,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · prices loading · EN"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-Weekly-EN.dc.html": {
+      "x": 964,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · on weekly · EN"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-WeeklyTrial-EN.dc.html": {
+      "x": 1446,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · in weekly trial · EN"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loaded-AR.dc.html": {
+      "x": 1928,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · prices loaded, no plan · AR"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loading-AR.dc.html": {
+      "x": 2410,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · prices loading · AR"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-Weekly-AR.dc.html": {
+      "x": 2892,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · on weekly · AR"
+    },
+    "iPhone-BILLING_PERIOD-BillingPeriod-WeeklyTrial-AR.dc.html": {
+      "x": 3374,
+      "y": 9544,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "BILLING_PERIOD · Billing Period · in weekly trial · AR"
+    },
+    "iPhone-GET_PREMIUM-GetPremium-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM · Get Premium · prices loaded · EN"
+    },
+    "iPhone-GET_PREMIUM-GetPremium-Loading-EN.dc.html": {
+      "x": 482,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM · Get Premium · prices loading · EN"
+    },
+    "iPhone-GET_PREMIUM-GetPremium-PurchaseFailed-EN.dc.html": {
+      "x": 964,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM · Get Premium · purchase failed alert · EN"
+    },
+    "iPhone-GET_PREMIUM-GetPremium-Loaded-AR.dc.html": {
+      "x": 1446,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM · Get Premium · prices loaded · AR"
+    },
+    "iPhone-GET_PREMIUM-GetPremium-Loading-AR.dc.html": {
+      "x": 1928,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM · Get Premium · prices loading · AR"
+    },
+    "iPhone-GET_PREMIUM-GetPremium-PurchaseFailed-AR.dc.html": {
+      "x": 2410,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM · Get Premium · purchase failed alert · AR"
+    },
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 12092,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loaded · EN"
+    },
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-EN.dc.html": {
+      "x": 482,
+      "y": 12092,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loading · EN"
+    },
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-AR.dc.html": {
+      "x": 964,
+      "y": 12092,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loaded · AR"
+    },
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-AR.dc.html": {
+      "x": 1446,
+      "y": 12092,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loading · AR"
+    },
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 13366,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loaded · EN"
+    },
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loading-EN.dc.html": {
+      "x": 482,
+      "y": 13366,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loading · EN"
+    },
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loaded-AR.dc.html": {
+      "x": 964,
+      "y": 13366,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loaded · AR"
+    },
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loading-AR.dc.html": {
+      "x": 1446,
+      "y": 13366,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loading · AR"
+    },
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 14640,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loaded · EN"
+    },
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-EN.dc.html": {
+      "x": 482,
+      "y": 14640,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loading · EN"
+    },
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-AR.dc.html": {
+      "x": 964,
+      "y": 14640,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loaded · AR"
+    },
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-AR.dc.html": {
+      "x": 1446,
+      "y": 14640,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loading · AR"
+    },
+    "iPhone-SERVER_FULL-ServersFull-Trial-EN.dc.html": {
+      "x": 0,
+      "y": 15914,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "SERVER_FULL · Servers full · free trial · EN"
+    },
+    "iPhone-SERVER_FULL-ServersFull-NoTrial-EN.dc.html": {
+      "x": 482,
+      "y": 15914,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "SERVER_FULL · Servers full · no trial · EN"
+    },
+    "iPhone-SERVER_FULL-ServersFull-Loading-EN.dc.html": {
+      "x": 964,
+      "y": 15914,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "SERVER_FULL · Servers full · price loading · EN"
+    },
+    "iPhone-SERVER_FULL-ServersFull-Trial-AR.dc.html": {
+      "x": 1446,
+      "y": 15914,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "SERVER_FULL · Servers full · free trial · AR"
+    },
+    "iPhone-SERVER_FULL-ServersFull-NoTrial-AR.dc.html": {
+      "x": 1928,
+      "y": 15914,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "SERVER_FULL · Servers full · no trial · AR"
+    },
+    "iPhone-SERVER_FULL-ServersFull-Loading-AR.dc.html": {
+      "x": 2410,
+      "y": 15914,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "SERVER_FULL · Servers full · price loading · AR"
+    },
+    "iPhone-NoPlacement-G1PremiumActive-Default-EN.dc.html": {
+      "x": 0,
+      "y": 17188,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Release B · no placement · Offer — G1 Premium is active · Premium is active · EN"
+    },
+    "iPhone-NoPlacement-G4LowRating-Default-EN.dc.html": {
+      "x": 482,
+      "y": 17188,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Release B · no placement · Offer — G4 low rating · low rating · EN"
+    },
+    "iPhone-NoPlacement-G1PremiumActive-Default-AR.dc.html": {
+      "x": 964,
+      "y": 17188,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Release B · no placement · Offer — G1 Premium is active · Premium is active · AR"
+    },
+    "iPhone-NoPlacement-G4LowRating-Default-AR.dc.html": {
+      "x": 1446,
+      "y": 17188,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Release B · no placement · Offer — G4 low rating · low rating · AR"
+    },
+    "iPhone-PushOrOneLink-GetPremiumTemplate-Default-EN.dc.html": {
+      "x": 0,
+      "y": 18462,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Adapty template · GetPremium · push or OneLink only · operator screenshot, not redrawn · EN"
+    },
+    "iPhone-PushOrOneLink-GetPremiumWeekyTemplate-Default-EN.dc.html": {
+      "x": 482,
+      "y": 18462,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Adapty template · GetPremiumWeeky · push or OneLink only · operator screenshot, not redrawn · EN"
+    },
+    "iPhone-PushOrOneLink-OnboardingTemplate-Default-EN.dc.html": {
+      "x": 964,
+      "y": 18462,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Adapty template · Onboarding · push or OneLink only · operator screenshot, not redrawn · EN"
+    },
+    "iPhone-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-EN.dc.html": {
+      "x": 0,
+      "y": 19736,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Introdutory Offer · INTRODUCTORY_DEAL_1 · app (retired deal) · product loaded · EN"
+    },
+    "iPhone-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-AR.dc.html": {
+      "x": 482,
+      "y": 19736,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Introdutory Offer · INTRODUCTORY_DEAL_1 · app (retired deal) · product loaded · AR"
+    },
+    "iPhone-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-EN.dc.html": {
+      "x": 0,
+      "y": 21010,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Promotional Deal 2 · PROMOTIONAL_DEAL_2 · app (retired deal) · countdown at 00:40 · EN"
+    },
+    "iPhone-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-AR.dc.html": {
+      "x": 482,
+      "y": 21010,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Promotional Deal 2 · PROMOTIONAL_DEAL_2 · app (retired deal) · countdown at 00:40 · AR"
+    },
+    "iPhone-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-EN.dc.html": {
+      "x": 0,
+      "y": 22284,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Promotional Deal 3 · PROMOTIONAL_DEAL_3 · app (retired deal) · countdown at 04:00 · EN"
+    },
+    "iPhone-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-AR.dc.html": {
+      "x": 482,
+      "y": 22284,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Promotional Deal 3 · PROMOTIONAL_DEAL_3 · app (retired deal) · countdown at 04:00 · AR"
+    },
+    "iPhone-ramadan_2026-RamadanOffer-Default-EN.dc.html": {
+      "x": 0,
+      "y": 23558,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Ramadan_Promotional_Offer · ramadan_2026 · Adapty paywall · EN"
+    },
+    "iPhone-ramadan_2026-RamadanOffer-Default-AR.dc.html": {
+      "x": 482,
+      "y": 23558,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Draft — not live — Ramadan_Promotional_Offer · ramadan_2026 · Adapty paywall · AR"
+    },
+    "iPad-sz_k4_trial_setup-P7TrialTimeline-Default-EN.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_k4_trial_setup · Offer — P7 trial timeline · trial timeline · EN"
+    },
+    "iPad-sz_k4_trial_setup-P7TrialTimeline-Default-AR.dc.html": {
+      "x": 1112,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_k4_trial_setup · Offer — P7 trial timeline · trial timeline · AR"
+    },
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-StartsNow-EN.dc.html": {
+      "x": 0,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, starts now · EN"
+    },
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-EN.dc.html": {
+      "x": 1112,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, at renewal · EN"
+    },
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-StartsNow-AR.dc.html": {
+      "x": 2224,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, starts now · AR"
+    },
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-AR.dc.html": {
+      "x": 3336,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s2_trial_cancel · Offer — P5 save offer · S2, at renewal · AR"
+    },
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-EN.dc.html": {
+      "x": 0,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, starts now · EN"
+    },
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-EN.dc.html": {
+      "x": 1112,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, at renewal · EN"
+    },
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-AR.dc.html": {
+      "x": 2224,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, starts now · AR"
+    },
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-AR.dc.html": {
+      "x": 3336,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_s3_weekly_cancel · Offer — P5 save offer · S3, at renewal · AR"
+    },
+    "iPad-sz_z1_time_wall-P1TimeWall-FormerSubscriber-EN.dc.html": {
+      "x": 0,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · former subscriber · EN"
+    },
+    "iPad-sz_z1_time_wall-P1TimeWall-FormerSubscriber-AR.dc.html": {
+      "x": 1112,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · former subscriber · AR"
+    },
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmA-EN.dc.html": {
+      "x": 0,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm A, monthly + 1 week free · EN"
+    },
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmA-AR.dc.html": {
+      "x": 1112,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm A, monthly + 1 week free · AR"
+    },
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmB-EN.dc.html": {
+      "x": 0,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm B, weekly + 3 days free · EN"
+    },
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmB-AR.dc.html": {
+      "x": 1112,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "sz_z1_time_wall · Offer — P1 time wall · arm B, weekly + 3 days free · AR"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · prices loaded, no plan · EN"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-Loading-EN.dc.html": {
+      "x": 1112,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · prices loading · EN"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-Weekly-EN.dc.html": {
+      "x": 2224,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · on weekly · EN"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-WeeklyTrial-EN.dc.html": {
+      "x": 3336,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · in weekly trial · EN"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-Loaded-AR.dc.html": {
+      "x": 4448,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · prices loaded, no plan · AR"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-Loading-AR.dc.html": {
+      "x": 5560,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · prices loading · AR"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-Weekly-AR.dc.html": {
+      "x": 6672,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · on weekly · AR"
+    },
+    "iPad-BILLING_PERIOD-BillingPeriod-WeeklyTrial-AR.dc.html": {
+      "x": 7784,
+      "y": 10656,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "BILLING_PERIOD · Billing Period · in weekly trial · AR"
+    },
+    "iPad-GET_PREMIUM-GetPremium-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM · Get Premium · prices loaded · EN"
+    },
+    "iPad-GET_PREMIUM-GetPremium-Loading-EN.dc.html": {
+      "x": 1112,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM · Get Premium · prices loading · EN"
+    },
+    "iPad-GET_PREMIUM-GetPremium-PurchaseFailed-EN.dc.html": {
+      "x": 2224,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM · Get Premium · purchase failed alert · EN"
+    },
+    "iPad-GET_PREMIUM-GetPremium-Loaded-AR.dc.html": {
+      "x": 3336,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM · Get Premium · prices loaded · AR"
+    },
+    "iPad-GET_PREMIUM-GetPremium-Loading-AR.dc.html": {
+      "x": 4448,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM · Get Premium · prices loading · AR"
+    },
+    "iPad-GET_PREMIUM-GetPremium-PurchaseFailed-AR.dc.html": {
+      "x": 5560,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM · Get Premium · purchase failed alert · AR"
+    },
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loaded · EN"
+    },
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-EN.dc.html": {
+      "x": 1112,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loading · EN"
+    },
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-AR.dc.html": {
+      "x": 2224,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loaded · AR"
+    },
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-AR.dc.html": {
+      "x": 3336,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "GET_PREMIUM_WEEK · Get Premium Week · price loading · AR"
+    },
+    "iPad-ONBOARDING_START-OnboardingPage4-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loaded · EN"
+    },
+    "iPad-ONBOARDING_START-OnboardingPage4-Loading-EN.dc.html": {
+      "x": 1112,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loading · EN"
+    },
+    "iPad-ONBOARDING_START-OnboardingPage4-Loaded-AR.dc.html": {
+      "x": 2224,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loaded · AR"
+    },
+    "iPad-ONBOARDING_START-OnboardingPage4-Loading-AR.dc.html": {
+      "x": 3336,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "ONBOARDING_START · Onboarding · page 4, price loading · AR"
+    },
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-EN.dc.html": {
+      "x": 0,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loaded · EN"
+    },
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-EN.dc.html": {
+      "x": 1112,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loading · EN"
+    },
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-AR.dc.html": {
+      "x": 2224,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loaded · AR"
+    },
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-AR.dc.html": {
+      "x": 3336,
+      "y": 17760,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "PROMOTIONAL_DEAL_1 · Promotional deal · price loading · AR"
+    },
+    "iPad-SERVER_FULL-ServersFull-Trial-EN.dc.html": {
+      "x": 0,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "SERVER_FULL · Servers full · free trial · EN"
+    },
+    "iPad-SERVER_FULL-ServersFull-NoTrial-EN.dc.html": {
+      "x": 1112,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "SERVER_FULL · Servers full · no trial · EN"
+    },
+    "iPad-SERVER_FULL-ServersFull-Loading-EN.dc.html": {
+      "x": 2224,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "SERVER_FULL · Servers full · price loading · EN"
+    },
+    "iPad-SERVER_FULL-ServersFull-Trial-AR.dc.html": {
+      "x": 3336,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "SERVER_FULL · Servers full · free trial · AR"
+    },
+    "iPad-SERVER_FULL-ServersFull-NoTrial-AR.dc.html": {
+      "x": 4448,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "SERVER_FULL · Servers full · no trial · AR"
+    },
+    "iPad-SERVER_FULL-ServersFull-Loading-AR.dc.html": {
+      "x": 5560,
+      "y": 19536,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "SERVER_FULL · Servers full · price loading · AR"
+    },
+    "iPad-NoPlacement-G1PremiumActive-Default-EN.dc.html": {
+      "x": 0,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Release B · no placement · Offer — G1 Premium is active · Premium is active · EN"
+    },
+    "iPad-NoPlacement-G4LowRating-Default-EN.dc.html": {
+      "x": 1112,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Release B · no placement · Offer — G4 low rating · low rating · EN"
+    },
+    "iPad-NoPlacement-G1PremiumActive-Default-AR.dc.html": {
+      "x": 2224,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Release B · no placement · Offer — G1 Premium is active · Premium is active · AR"
+    },
+    "iPad-NoPlacement-G4LowRating-Default-AR.dc.html": {
+      "x": 3336,
+      "y": 21312,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Release B · no placement · Offer — G4 low rating · low rating · AR"
+    },
+    "iPad-BILLING_PERIOD-SettingsSheetBillingPeriod-Default-EN.dc.html": {
+      "x": 0,
+      "y": 23888,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · BILLING_PERIOD · iPad Settings sheet · Billing Period · EN"
+    },
+    "iPad-BILLING_PERIOD-SettingsSheetBillingPeriod-Default-AR.dc.html": {
+      "x": 1456,
+      "y": 23888,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Approved, not built — VPN-589 · BILLING_PERIOD · iPad Settings sheet · Billing Period · AR"
+    },
+    "iPad-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-EN.dc.html": {
+      "x": 0,
+      "y": 25320,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Introdutory Offer · INTRODUCTORY_DEAL_1 · app (retired deal) · product loaded · EN"
+    },
+    "iPad-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-AR.dc.html": {
+      "x": 1112,
+      "y": 25320,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Introdutory Offer · INTRODUCTORY_DEAL_1 · app (retired deal) · product loaded · AR"
+    },
+    "iPad-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-EN.dc.html": {
+      "x": 0,
+      "y": 27096,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Promotional Deal 2 · PROMOTIONAL_DEAL_2 · app (retired deal) · countdown at 00:40 · EN"
+    },
+    "iPad-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-AR.dc.html": {
+      "x": 1112,
+      "y": 27096,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Promotional Deal 2 · PROMOTIONAL_DEAL_2 · app (retired deal) · countdown at 00:40 · AR"
+    },
+    "iPad-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-EN.dc.html": {
+      "x": 0,
+      "y": 28872,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Promotional Deal 3 · PROMOTIONAL_DEAL_3 · app (retired deal) · countdown at 04:00 · EN"
+    },
+    "iPad-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-AR.dc.html": {
+      "x": 1112,
+      "y": 28872,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Promotional Deal 3 · PROMOTIONAL_DEAL_3 · app (retired deal) · countdown at 04:00 · AR"
+    },
+    "iPad-ramadan_2026-RamadanOffer-Default-EN.dc.html": {
+      "x": 0,
+      "y": 30648,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Ramadan_Promotional_Offer · ramadan_2026 · Adapty paywall · EN"
+    },
+    "iPad-ramadan_2026-RamadanOffer-Default-AR.dc.html": {
+      "x": 1112,
+      "y": 30648,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Draft — not live — Ramadan_Promotional_Offer · ramadan_2026 · Adapty paywall · AR"
+    },
+    "Mac-NoPlacement-Paywall-WeeklyTrial-EN.dc.html": {
+      "x": 0,
+      "y": 400,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: paywall · weekly trial · EN"
+    },
+    "Mac-NoPlacement-Paywall-WeeklyTrial-AR.dc.html": {
+      "x": 600,
+      "y": 400,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Approved, not built — VPN-589 · Window: paywall · weekly trial · AR"
+    },
+    "Mac-NoPlacement-P5SaveOffer-Default-EN.dc.html": {
+      "x": 0,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · P5 save offer · EN"
+    },
+    "Mac-NoPlacement-P7TrialTimeline-Default-EN.dc.html": {
+      "x": 600,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · P7 trial timeline · EN"
+    },
+    "Mac-NoPlacement-G1PremiumActive-Default-EN.dc.html": {
+      "x": 1200,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · G1 Premium is active · EN"
+    },
+    "Mac-NoPlacement-G4LowRating-Default-EN.dc.html": {
+      "x": 1800,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · G4 low rating · EN"
+    },
+    "Mac-NoPlacement-P5SaveOffer-Default-AR.dc.html": {
+      "x": 2400,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · P5 save offer · AR"
+    },
+    "Mac-NoPlacement-P7TrialTimeline-Default-AR.dc.html": {
+      "x": 3000,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · P7 trial timeline · AR"
+    },
+    "Mac-NoPlacement-G1PremiumActive-Default-AR.dc.html": {
+      "x": 3600,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · G1 Premium is active · AR"
+    },
+    "Mac-NoPlacement-G4LowRating-Default-AR.dc.html": {
+      "x": 4200,
+      "y": 1900,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · G4 low rating · AR"
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "iPhone-sz_k4_trial_setup-P7TrialTimeline-Default-EN.dc.html",
+    "iPhone-sz_k4_trial_setup-P7TrialTimeline-Default-AR.dc.html",
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-StartsNow-EN.dc.html",
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-EN.dc.html",
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-StartsNow-AR.dc.html",
+    "iPhone-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-AR.dc.html",
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-EN.dc.html",
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-EN.dc.html",
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-AR.dc.html",
+    "iPhone-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-AR.dc.html",
+    "iPhone-sz_z1_time_wall-P1TimeWall-FormerSubscriber-EN.dc.html",
+    "iPhone-sz_z1_time_wall-P1TimeWall-FormerSubscriber-AR.dc.html",
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmA-EN.dc.html",
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmA-AR.dc.html",
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmB-EN.dc.html",
+    "iPhone-sz_z1_time_wall-P1TimeWall-ArmB-AR.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loaded-EN.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loading-EN.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-Weekly-EN.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-WeeklyTrial-EN.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loaded-AR.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-Loading-AR.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-Weekly-AR.dc.html",
+    "iPhone-BILLING_PERIOD-BillingPeriod-WeeklyTrial-AR.dc.html",
+    "iPhone-GET_PREMIUM-GetPremium-Loaded-EN.dc.html",
+    "iPhone-GET_PREMIUM-GetPremium-Loading-EN.dc.html",
+    "iPhone-GET_PREMIUM-GetPremium-PurchaseFailed-EN.dc.html",
+    "iPhone-GET_PREMIUM-GetPremium-Loaded-AR.dc.html",
+    "iPhone-GET_PREMIUM-GetPremium-Loading-AR.dc.html",
+    "iPhone-GET_PREMIUM-GetPremium-PurchaseFailed-AR.dc.html",
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-EN.dc.html",
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-EN.dc.html",
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-AR.dc.html",
+    "iPhone-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-AR.dc.html",
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loaded-EN.dc.html",
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loading-EN.dc.html",
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loaded-AR.dc.html",
+    "iPhone-ONBOARDING_START-OnboardingPage4-Loading-AR.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-EN.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-EN.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-AR.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-AR.dc.html",
+    "iPhone-SERVER_FULL-ServersFull-Trial-EN.dc.html",
+    "iPhone-SERVER_FULL-ServersFull-NoTrial-EN.dc.html",
+    "iPhone-SERVER_FULL-ServersFull-Loading-EN.dc.html",
+    "iPhone-SERVER_FULL-ServersFull-Trial-AR.dc.html",
+    "iPhone-SERVER_FULL-ServersFull-NoTrial-AR.dc.html",
+    "iPhone-SERVER_FULL-ServersFull-Loading-AR.dc.html",
+    "iPhone-NoPlacement-G1PremiumActive-Default-EN.dc.html",
+    "iPhone-NoPlacement-G4LowRating-Default-EN.dc.html",
+    "iPhone-NoPlacement-G1PremiumActive-Default-AR.dc.html",
+    "iPhone-NoPlacement-G4LowRating-Default-AR.dc.html",
+    "iPhone-PushOrOneLink-GetPremiumTemplate-Default-EN.dc.html",
+    "iPhone-PushOrOneLink-GetPremiumWeekyTemplate-Default-EN.dc.html",
+    "iPhone-PushOrOneLink-OnboardingTemplate-Default-EN.dc.html",
+    "iPhone-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-EN.dc.html",
+    "iPhone-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-AR.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-EN.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-AR.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-EN.dc.html",
+    "iPhone-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-AR.dc.html",
+    "iPhone-ramadan_2026-RamadanOffer-Default-EN.dc.html",
+    "iPhone-ramadan_2026-RamadanOffer-Default-AR.dc.html",
+    "iPad-sz_k4_trial_setup-P7TrialTimeline-Default-EN.dc.html",
+    "iPad-sz_k4_trial_setup-P7TrialTimeline-Default-AR.dc.html",
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-StartsNow-EN.dc.html",
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-EN.dc.html",
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-StartsNow-AR.dc.html",
+    "iPad-sz_s2_trial_cancel-P5SaveOffer-AtRenewal-AR.dc.html",
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-EN.dc.html",
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-EN.dc.html",
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-StartsNow-AR.dc.html",
+    "iPad-sz_s3_weekly_cancel-P5SaveOffer-AtRenewal-AR.dc.html",
+    "iPad-sz_z1_time_wall-P1TimeWall-FormerSubscriber-EN.dc.html",
+    "iPad-sz_z1_time_wall-P1TimeWall-FormerSubscriber-AR.dc.html",
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmA-EN.dc.html",
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmA-AR.dc.html",
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmB-EN.dc.html",
+    "iPad-sz_z1_time_wall-P1TimeWall-ArmB-AR.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-Loaded-EN.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-Loading-EN.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-Weekly-EN.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-WeeklyTrial-EN.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-Loaded-AR.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-Loading-AR.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-Weekly-AR.dc.html",
+    "iPad-BILLING_PERIOD-BillingPeriod-WeeklyTrial-AR.dc.html",
+    "iPad-GET_PREMIUM-GetPremium-Loaded-EN.dc.html",
+    "iPad-GET_PREMIUM-GetPremium-Loading-EN.dc.html",
+    "iPad-GET_PREMIUM-GetPremium-PurchaseFailed-EN.dc.html",
+    "iPad-GET_PREMIUM-GetPremium-Loaded-AR.dc.html",
+    "iPad-GET_PREMIUM-GetPremium-Loading-AR.dc.html",
+    "iPad-GET_PREMIUM-GetPremium-PurchaseFailed-AR.dc.html",
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-EN.dc.html",
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-EN.dc.html",
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loaded-AR.dc.html",
+    "iPad-GET_PREMIUM_WEEK-GetPremiumWeek-Loading-AR.dc.html",
+    "iPad-ONBOARDING_START-OnboardingPage4-Loaded-EN.dc.html",
+    "iPad-ONBOARDING_START-OnboardingPage4-Loading-EN.dc.html",
+    "iPad-ONBOARDING_START-OnboardingPage4-Loaded-AR.dc.html",
+    "iPad-ONBOARDING_START-OnboardingPage4-Loading-AR.dc.html",
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-EN.dc.html",
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-EN.dc.html",
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loaded-AR.dc.html",
+    "iPad-PROMOTIONAL_DEAL_1-PromotionalDeal-Loading-AR.dc.html",
+    "iPad-SERVER_FULL-ServersFull-Trial-EN.dc.html",
+    "iPad-SERVER_FULL-ServersFull-NoTrial-EN.dc.html",
+    "iPad-SERVER_FULL-ServersFull-Loading-EN.dc.html",
+    "iPad-SERVER_FULL-ServersFull-Trial-AR.dc.html",
+    "iPad-SERVER_FULL-ServersFull-NoTrial-AR.dc.html",
+    "iPad-SERVER_FULL-ServersFull-Loading-AR.dc.html",
+    "iPad-NoPlacement-G1PremiumActive-Default-EN.dc.html",
+    "iPad-NoPlacement-G4LowRating-Default-EN.dc.html",
+    "iPad-NoPlacement-G1PremiumActive-Default-AR.dc.html",
+    "iPad-NoPlacement-G4LowRating-Default-AR.dc.html",
+    "iPad-BILLING_PERIOD-SettingsSheetBillingPeriod-Default-EN.dc.html",
+    "iPad-BILLING_PERIOD-SettingsSheetBillingPeriod-Default-AR.dc.html",
+    "iPad-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-EN.dc.html",
+    "iPad-INTRODUCTORY_DEAL_1-IntroductoryDeal-ProductLoaded-AR.dc.html",
+    "iPad-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-EN.dc.html",
+    "iPad-PROMOTIONAL_DEAL_2-PromotionalDeal2-Countdown-AR.dc.html",
+    "iPad-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-EN.dc.html",
+    "iPad-PROMOTIONAL_DEAL_3-PromotionalDeal3-Countdown-AR.dc.html",
+    "iPad-ramadan_2026-RamadanOffer-Default-EN.dc.html",
+    "iPad-ramadan_2026-RamadanOffer-Default-AR.dc.html",
+    "Mac-NoPlacement-Paywall-WeeklyTrial-EN.dc.html",
+    "Mac-NoPlacement-Paywall-WeeklyTrial-AR.dc.html",
+    "Mac-NoPlacement-P5SaveOffer-Default-EN.dc.html",
+    "Mac-NoPlacement-P7TrialTimeline-Default-EN.dc.html",
+    "Mac-NoPlacement-G1PremiumActive-Default-EN.dc.html",
+    "Mac-NoPlacement-G4LowRating-Default-EN.dc.html",
+    "Mac-NoPlacement-P5SaveOffer-Default-AR.dc.html",
+    "Mac-NoPlacement-P7TrialTimeline-Default-AR.dc.html",
+    "Mac-NoPlacement-G1PremiumActive-Default-AR.dc.html",
+    "Mac-NoPlacement-G4LowRating-Default-AR.dc.html"
+  ],
+  "notes": {
+    "iphone-Products": {
+      "x": 960,
+      "y": 0,
+      "w": 1800,
+      "page": "iphone",
+      "fill": "teal",
+      "size": "m",
+      "text": "Products and offers — App Store Connect (read 2026-11-12, VPN-730) and the Adapty export (2026-11-12)\nPrices on the frames are samples. The App Store sets the real price per storefront. The prices below are the United States storefront. Adapty's USD value is not the store price.\nAdapty's offer ids are not in App Store Connect. They are matched by the remote config offer_id (sz_*), by the paywall name (Promotional Deal 1–3) and by the text (Ramadan, \"3 days free\").\n\n• Weekly · com.digitstudios.securezonevpn.week · 1 week · $8.99 · introductory: free trial, 3 days · promotional: promotional1 (pay up front, 1 month, $0.99; Adapty 2a256fe3, Promotional Deal 1), sz_week_back20_2w (pay as you go, 1 week × 2, $7.29; Adapty 26afe87d, sz_p1_z1_old), WeeklyPromotional2 (free trial, 3 days; Adapty 2ca2dbd6, Ramadan) · placements: GET_PREMIUM, GET_PREMIUM_WEEK, SERVER_FULL, BILLING_PERIOD, ONBOARDING_START, PROMOTIONAL_DEAL_1, sz_z1_time_wall, sz_k4_trial_setup, the push / OneLink placements, ramadan_2026 (not live)\n• Monthly · com.digitstudios.securezonevpn.month · 1 month · $14.99 · introductory: free trial, 3 days · promotional: sz_month_save25_1m (pay as you go, 1 month, $11.49; Adapty 164dc3a6, sz_p5_s2), sz_month_3m35 (pay up front, 3 months, $29.49; Adapty d84828f2, sz_p5_s3), promotional2 and promotional3 (pay as you go, 1 month, $0.99; Adapty 0c7acae2 and 9dd6c4d0, Promotional Deal 2 and 3, not live) · placements: GET_PREMIUM, SERVER_FULL, BILLING_PERIOD, ONBOARDING_START, sz_z1_time_wall (arm B, former subscriber), sz_s2_trial_cancel, sz_s3_weekly_cancel\n• Monthly 1-week trial · com.digitstudios.securezonevpn.month.trial1w · 1 month · $14.99 · introductory: free trial, 1 week · no promotional offer · App Store state READY_TO_SUBMIT (not approved yet) · placements: sz_z1_time_wall (arm A), sz_k4_trial_setup\n• Yearly · com.digitstudios.securezonevpn.year · 1 year · $79.99 · introductory: free trial, 3 days · no promotional offer · placements: GET_PREMIUM, SERVER_FULL, BILLING_PERIOD, ONBOARDING_START, sz_z1_time_wall\n• Monthly Introductory · com.digitstudios.securezonevpn.monthly.introductory · 1 month · $8.99 · group Promotions · no introductory or promotional offer · only in \"Introdutory Offer\" (INTRODUCTORY_DEAL_1, retired, not live)\nWin-back offers: none. Offer codes: 3, all from 2024; their codes are expired or inactive."
+    },
+    "iphone-k4": {
+      "x": 0,
+      "y": 1600,
+      "text": "sz_k4_trial_setup · Board test segment · App (P7 trial timeline) · flow szf_p7_k4",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone"
+    },
+    "iphone-k4-note": {
+      "x": 1004,
+      "y": 1900,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_k4_trial_setup: priority 0 sz_holdout and priority 2 All users get flow szf_off: no offer page. Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "iphone-s2": {
+      "x": 0,
+      "y": 2874,
+      "text": "sz_s2_trial_cancel · Board test segment · App (P5 save offer, S2) · flow szf_p5_s2",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-s2-note": {
+      "x": 1968,
+      "y": 3174,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_s2_trial_cancel: priority 0 sz_holdout and priority 2 All users get flow szf_off: no offer page. Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "iphone-s3": {
+      "x": 0,
+      "y": 4148,
+      "text": "sz_s3_weekly_cancel · Board test segment · App (P5 save offer, S3) · flow szf_p5_s3",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-s3-note": {
+      "x": 1968,
+      "y": 4448,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_s3_weekly_cancel: priority 0 sz_holdout and priority 2 All users get flow szf_off: no offer page. Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "iphone-z1old": {
+      "x": 0,
+      "y": 5422,
+      "text": "sz_z1_time_wall · sz_old_sub · App (P1 time wall, former subscriber) · flow szf_p1_z1_old",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone"
+    },
+    "iphone-z1old-note": {
+      "x": 1004,
+      "y": 5722,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_z1_time_wall: priority 0 sz_holdout and priority 6 All users get flow szf_off. szf_off means no offer page: the app shows No time left (screen canvas, row \"No time left\"). Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "iphone-z1a": {
+      "x": 0,
+      "y": 6696,
+      "text": "sz_z1_time_wall · sz_z1a_new_lo, sz_z1a_new_hi · App (P1 time wall, arm A) · flow szf_p1_z1_a",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone"
+    },
+    "iphone-z1b": {
+      "x": 0,
+      "y": 7970,
+      "text": "sz_z1_time_wall · sz_z1b_new_lo, sz_z1b_new_hi · App (P1 time wall, arm B) · flow szf_p1_z1_b",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone"
+    },
+    "iphone-billing": {
+      "x": 0,
+      "y": 9244,
+      "text": "BILLING_PERIOD · All users · App (Billing Period) · paywall GetPremium",
+      "kind": "title1",
+      "maxW": 3776,
+      "page": "iphone"
+    },
+    "iphone-getpremium": {
+      "x": 0,
+      "y": 10518,
+      "text": "GET_PREMIUM · All users · App (Get Premium) · paywall GetPremium",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-getpremium-note": {
+      "x": 2932,
+      "y": 10818,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Purchase failed: UIKitDialogPresenter.alert, the same on every app-drawn paywall (EntitlementsAlert.purchaseFailed). One example here."
+    },
+    "iphone-getpremiumweek": {
+      "x": 0,
+      "y": 11792,
+      "text": "GET_PREMIUM_WEEK · All users · App (Get Premium Week) · paywall GetPremiumWeeky",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-onboarding": {
+      "x": 0,
+      "y": 13066,
+      "text": "ONBOARDING_START · All users · App (onboarding page 4) · paywall Onboarding",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-promo1": {
+      "x": 0,
+      "y": 14340,
+      "text": "PROMOTIONAL_DEAL_1 · All users · App (Promotional deal, opened by a push) · paywall Promotional Deal 1",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-serverfull": {
+      "x": 0,
+      "y": 15614,
+      "text": "SERVER_FULL · All users · App (Servers full) · paywall GetPremium",
+      "kind": "title1",
+      "maxW": 2812,
+      "page": "iphone"
+    },
+    "iphone-releaseb": {
+      "x": 0,
+      "y": 16888,
+      "text": "Release B · no placement · App (G1 Premium is active, G4 low rating) · no product",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-push": {
+      "x": 0,
+      "y": 18162,
+      "text": "Push or OneLink only · All users · Adapty paywall (Adapty template, not designed)",
+      "kind": "title1",
+      "maxW": 1366,
+      "page": "iphone"
+    },
+    "iphone-push-note": {
+      "x": 1486,
+      "y": 18462,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Adapty draws a placement only when a push or a OneLink names it (PopupQueue.swift:207, DeepLinkTarget.swift:110 → AdaptyAdapter.presentPaywall). Then Adapty shows its own paywall:\n• GetPremium template: APP_START, DID_YOU_LOVE_US, SETTINGS_PAGE, WATCH_ADS_PREMIUM, and GET_PREMIUM, SERVER_FULL, BILLING_PERIOD by push.\n• GetPremiumWeeky template: HOME_PAGE_TOP, SERVER_MENU, and GET_PREMIUM_WEEK by push.\n• Onboarding template: ONBOARDING_END, and ONBOARDING_START by push.\nThese three are Adapty's untouched templates (English only, sample texts, links to google.com). See Proposals on VPN-726."
+    },
+    "iphone-draft-IntroductoryDeal": {
+      "x": 0,
+      "y": 19436,
+      "text": "Draft — not live — Introdutory Offer · INTRODUCTORY_DEAL_1 · All users · app (PromotionDealView)",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone",
+      "color": "gray"
+    },
+    "iphone-draft-IntroductoryDeal-note": {
+      "x": 1004,
+      "y": 19736,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: INTRODUCTORY_DEAL_1 is retired (PopupKind.retiredDealPlacements, VPN-225); a push or OneLink for it opens GET_PREMIUM. PromotionDealView still has the screen. It never reads the offer, so the three price lines stay empty (NSKitText: a missing price makes the line empty). Product Monthly Introductory has no introductory or promotional offer in App Store Connect."
+    },
+    "iphone-draft-PromotionalDeal2": {
+      "x": 0,
+      "y": 20710,
+      "text": "Draft — not live — Promotional Deal 2 · PROMOTIONAL_DEAL_2 · All users · app (PromotionDealView)",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone",
+      "color": "gray"
+    },
+    "iphone-draft-PromotionalDeal2-note": {
+      "x": 1004,
+      "y": 21010,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: PROMOTIONAL_DEAL_2 is retired (VPN-225: fake countdown); it opens GET_PREMIUM. 60 s countdown, shown at 00:40. Prices: App Store Connect US, offer promotional2 (pay as you go, 1 month, $0.99) on Monthly ($14.99)."
+    },
+    "iphone-draft-PromotionalDeal3": {
+      "x": 0,
+      "y": 21984,
+      "text": "Draft — not live — Promotional Deal 3 · PROMOTIONAL_DEAL_3 · All users · app (PromotionDealView)",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone",
+      "color": "gray"
+    },
+    "iphone-draft-PromotionalDeal3-note": {
+      "x": 1004,
+      "y": 22284,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: PROMOTIONAL_DEAL_3 is retired (VPN-225: fake countdown); it opens GET_PREMIUM. 300 s countdown, shown at 04:00. Prices: App Store Connect US, offer promotional3 (pay as you go, 1 month, $0.99) on Monthly ($14.99). Its texts say \"a week\" and \"/week\"; the product is monthly."
+    },
+    "iphone-draft-ramadan": {
+      "x": 0,
+      "y": 23258,
+      "text": "Draft — not live — Ramadan_Promotional_Offer · ramadan_2026 · All users · Adapty paywall",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone",
+      "color": "gray"
+    },
+    "iphone-draft-ramadan-note": {
+      "x": 1004,
+      "y": 23558,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: no code names ramadan_2026; only a push could. Texts: Adapty's English and Arabic locales, exactly (faults kept). Layout and colours: measured from Adapty's preview screenshots, not exact. Hero: cropped from those screenshots; the original file is not in the export."
+    },
+    "ipad-Products": {
+      "x": 0,
+      "y": -900,
+      "w": 1800,
+      "page": "ipad",
+      "fill": "teal",
+      "size": "m",
+      "text": "Products and offers: see the note at the top of the iPhone page."
+    },
+    "ipad-k4": {
+      "x": 0,
+      "y": -300,
+      "text": "sz_k4_trial_setup · Board test segment · App (P7 trial timeline) · flow szf_p7_k4",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-k4-note": {
+      "x": 2264,
+      "y": 0,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_k4_trial_setup: priority 0 sz_holdout and priority 2 All users get flow szf_off: no offer page. Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "ipad-s2": {
+      "x": 0,
+      "y": 1476,
+      "text": "sz_s2_trial_cancel · Board test segment · App (P5 save offer, S2) · flow szf_p5_s2",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-s2-note": {
+      "x": 4488,
+      "y": 1776,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_s2_trial_cancel: priority 0 sz_holdout and priority 2 All users get flow szf_off: no offer page. Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "ipad-s3": {
+      "x": 0,
+      "y": 3252,
+      "text": "sz_s3_weekly_cancel · Board test segment · App (P5 save offer, S3) · flow szf_p5_s3",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-s3-note": {
+      "x": 4488,
+      "y": 3552,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_s3_weekly_cancel: priority 0 sz_holdout and priority 2 All users get flow szf_off: no offer page. Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "ipad-z1old": {
+      "x": 0,
+      "y": 5028,
+      "text": "sz_z1_time_wall · sz_old_sub · App (P1 time wall, former subscriber) · flow szf_p1_z1_old",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-z1old-note": {
+      "x": 2264,
+      "y": 5328,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "sz_z1_time_wall: priority 0 sz_holdout and priority 6 All users get flow szf_off. szf_off means no offer page: the app shows No time left (screen canvas, row \"No time left\"). Segment rules: the Adapty export gives only the segment names and their order, not the rules."
+    },
+    "ipad-z1a": {
+      "x": 0,
+      "y": 6804,
+      "text": "sz_z1_time_wall · sz_z1a_new_lo, sz_z1a_new_hi · App (P1 time wall, arm A) · flow szf_p1_z1_a",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-z1b": {
+      "x": 0,
+      "y": 8580,
+      "text": "sz_z1_time_wall · sz_z1b_new_lo, sz_z1b_new_hi · App (P1 time wall, arm B) · flow szf_p1_z1_b",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-billing": {
+      "x": 0,
+      "y": 10356,
+      "text": "BILLING_PERIOD · All users · App (Billing Period) · paywall GetPremium",
+      "kind": "title1",
+      "maxW": 8816,
+      "page": "ipad"
+    },
+    "ipad-getpremium": {
+      "x": 0,
+      "y": 12132,
+      "text": "GET_PREMIUM · All users · App (Get Premium) · paywall GetPremium",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-getpremium-note": {
+      "x": 6712,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Purchase failed: UIKitDialogPresenter.alert, the same on every app-drawn paywall (EntitlementsAlert.purchaseFailed). One example here."
+    },
+    "ipad-getpremiumweek": {
+      "x": 0,
+      "y": 13908,
+      "text": "GET_PREMIUM_WEEK · All users · App (Get Premium Week) · paywall GetPremiumWeeky",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-onboarding": {
+      "x": 0,
+      "y": 15684,
+      "text": "ONBOARDING_START · All users · App (onboarding page 4) · paywall Onboarding",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-promo1": {
+      "x": 0,
+      "y": 17460,
+      "text": "PROMOTIONAL_DEAL_1 · All users · App (Promotional deal, opened by a push) · paywall Promotional Deal 1",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-serverfull": {
+      "x": 0,
+      "y": 19236,
+      "text": "SERVER_FULL · All users · App (Servers full) · paywall GetPremium",
+      "kind": "title1",
+      "maxW": 6592,
+      "page": "ipad"
+    },
+    "ipad-releaseb": {
+      "x": 0,
+      "y": 21012,
+      "text": "Release B · no placement · App (G1 Premium is active, G4 low rating) · no product",
+      "kind": "title1",
+      "maxW": 4368,
+      "page": "ipad"
+    },
+    "ipad-push": {
+      "x": 0,
+      "y": 22788,
+      "w": 1400,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Push or OneLink only (Adapty templates GetPremium, GetPremiumWeeky, Onboarding): no iPad screenshot from the operator. See the iPhone page."
+    },
+    "ipad-blk-VPN589": {
+      "x": 0,
+      "y": 23188,
+      "text": "Approved, not built — VPN-589",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "orange"
+    },
+    "ipad-VPN589-billing": {
+      "x": 0,
+      "y": 23588,
+      "text": "Approved, not built — VPN-589 · BILLING_PERIOD · iPad Settings sheet",
+      "kind": "title1",
+      "maxW": 2832,
+      "page": "ipad",
+      "color": "orange"
+    },
+    "ipad-draft-IntroductoryDeal": {
+      "x": 0,
+      "y": 25020,
+      "text": "Draft — not live — Introdutory Offer · INTRODUCTORY_DEAL_1 · All users · app (PromotionDealView)",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad",
+      "color": "gray"
+    },
+    "ipad-draft-IntroductoryDeal-note": {
+      "x": 2264,
+      "y": 25320,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: INTRODUCTORY_DEAL_1 is retired (PopupKind.retiredDealPlacements, VPN-225); a push or OneLink for it opens GET_PREMIUM. PromotionDealView still has the screen. It never reads the offer, so the three price lines stay empty (NSKitText: a missing price makes the line empty). Product Monthly Introductory has no introductory or promotional offer in App Store Connect."
+    },
+    "ipad-draft-PromotionalDeal2": {
+      "x": 0,
+      "y": 26796,
+      "text": "Draft — not live — Promotional Deal 2 · PROMOTIONAL_DEAL_2 · All users · app (PromotionDealView)",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad",
+      "color": "gray"
+    },
+    "ipad-draft-PromotionalDeal2-note": {
+      "x": 2264,
+      "y": 27096,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: PROMOTIONAL_DEAL_2 is retired (VPN-225: fake countdown); it opens GET_PREMIUM. 60 s countdown, shown at 00:40. Prices: App Store Connect US, offer promotional2 (pay as you go, 1 month, $0.99) on Monthly ($14.99)."
+    },
+    "ipad-draft-PromotionalDeal3": {
+      "x": 0,
+      "y": 28572,
+      "text": "Draft — not live — Promotional Deal 3 · PROMOTIONAL_DEAL_3 · All users · app (PromotionDealView)",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad",
+      "color": "gray"
+    },
+    "ipad-draft-PromotionalDeal3-note": {
+      "x": 2264,
+      "y": 28872,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: PROMOTIONAL_DEAL_3 is retired (VPN-225: fake countdown); it opens GET_PREMIUM. 300 s countdown, shown at 04:00. Prices: App Store Connect US, offer promotional3 (pay as you go, 1 month, $0.99) on Monthly ($14.99). Its texts say \"a week\" and \"/week\"; the product is monthly."
+    },
+    "ipad-draft-ramadan": {
+      "x": 0,
+      "y": 30348,
+      "text": "Draft — not live — Ramadan_Promotional_Offer · ramadan_2026 · All users · Adapty paywall",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad",
+      "color": "gray"
+    },
+    "ipad-draft-ramadan-note": {
+      "x": 2264,
+      "y": 30648,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Not live: no code names ramadan_2026; only a push could. Texts: Adapty's English and Arabic locales, exactly (faults kept). Layout and colours: measured from Adapty's preview screenshots, not exact. Hero: cropped from those screenshots; the original file is not in the export."
+    },
+    "mac-note": {
+      "x": 0,
+      "y": -900,
+      "w": 1800,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "The Mac app asks Adapty for no placement. Its paywall and offer frames are not built yet: they are in an \"Approved, not built\" block and a \"Proposal\" block, moved here from the screen canvas with their block names."
+    },
+    "mac-blk-VPN589": {
+      "x": 0,
+      "y": -300,
+      "text": "Approved, not built — VPN-589",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "orange"
+    },
+    "mac-VPN589-paywall": {
+      "x": 0,
+      "y": 100,
+      "text": "Approved, not built — VPN-589 · Window: paywall",
+      "kind": "title1",
+      "maxW": 1120,
+      "page": "mac"
+    },
+    "mac-blk-VPN710": {
+      "x": 0,
+      "y": 1200,
+      "text": "Proposal — VPN-710",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-VPN710-offers": {
+      "x": 0,
+      "y": 1600,
+      "text": "Proposal — VPN-710 · M5 offer moments (premium-only Mac)",
+      "kind": "title1",
+      "maxW": 4720,
+      "page": "mac"
+    }
+  }
+}
