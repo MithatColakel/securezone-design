@@ -831,6 +831,422 @@
       "h": 700,
       "page": "mac",
       "title": "Proposal — VPN-710 · M5 offer moments (premium-only Mac) · G4 low rating · AR"
+    },
+    "iPhone-Proposal726-GetPremium-Default-EN.dc.html": {
+      "x": 2848,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · GetPremium · Adapty paywall · yearly selected, trial eligible · iPhone · EN"
+    },
+    "iPhone-Proposal726-GetPremium-Default-AR.dc.html": {
+      "x": 3330,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · GetPremium · Adapty paywall · yearly selected, trial eligible · iPhone · AR"
+    },
+    "iPhone-Proposal726-GetPremiumFix-Default-AR.dc.html": {
+      "x": 4692,
+      "y": 10818,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · Get Premium fix (app) · iPhone · AR"
+    },
+    "iPhone-Proposal726-GetPremiumWeeky-Default-EN.dc.html": {
+      "x": 2088,
+      "y": 12092,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · GetPremiumWeeky · Adapty paywall · weekly, trial eligible · iPhone · EN"
+    },
+    "iPhone-Proposal726-GetPremiumWeeky-Default-AR.dc.html": {
+      "x": 2570,
+      "y": 12092,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · GetPremiumWeeky · Adapty paywall · weekly, trial eligible · iPhone · AR"
+    },
+    "iPhone-Proposal726-Onboarding-Default-EN.dc.html": {
+      "x": 2088,
+      "y": 13366,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · Onboarding · Adapty paywall · weekly selected, trial eligible · iPhone · EN"
+    },
+    "iPhone-Proposal726-Onboarding-Default-AR.dc.html": {
+      "x": 2570,
+      "y": 13366,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · Onboarding · Adapty paywall · weekly selected, trial eligible · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_p7_k4-Default-EN.dc.html": {
+      "x": 1884,
+      "y": 1900,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p7_k4 · Adapty flow · sz_k4_trial_setup, information only · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_p7_k4-Default-AR.dc.html": {
+      "x": 2366,
+      "y": 1900,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p7_k4 · Adapty flow · sz_k4_trial_setup, information only · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_off-Default-EN.dc.html": {
+      "x": 3728,
+      "y": 1900,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_off · Adapty flow · all four sz_* placements, holdout and All users · the GetPremiumWeeky design · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_off-Default-AR.dc.html": {
+      "x": 4210,
+      "y": 1900,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_off · Adapty flow · all four sz_* placements, holdout and All users · the GetPremiumWeeky design · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_p5_s2-Default-EN.dc.html": {
+      "x": 2848,
+      "y": 3174,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p5_s2 · Adapty flow · sz_s2_trial_cancel, monthly, offer sz_month_save25_1m · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_p5_s2-Default-AR.dc.html": {
+      "x": 3330,
+      "y": 3174,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p5_s2 · Adapty flow · sz_s2_trial_cancel, monthly, offer sz_month_save25_1m · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_p5_s3-Default-EN.dc.html": {
+      "x": 2848,
+      "y": 4448,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p5_s3 · Adapty flow · sz_s3_weekly_cancel, monthly, offer sz_month_3m35 · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_p5_s3-Default-AR.dc.html": {
+      "x": 3330,
+      "y": 4448,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p5_s3 · Adapty flow · sz_s3_weekly_cancel, monthly, offer sz_month_3m35 · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_p1_z1_old-Default-EN.dc.html": {
+      "x": 1884,
+      "y": 5722,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p1_z1_old · Adapty flow · sz_z1_time_wall · sz_old_sub, weekly, welcome-back price · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_p1_z1_old-Default-AR.dc.html": {
+      "x": 2366,
+      "y": 5722,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p1_z1_old · Adapty flow · sz_z1_time_wall · sz_old_sub, weekly, welcome-back price · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_p1_z1_a-Default-EN.dc.html": {
+      "x": 1124,
+      "y": 6996,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p1_z1_a · Adapty flow · sz_z1_time_wall · z1a, monthly, 1 week free · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_p1_z1_a-Default-AR.dc.html": {
+      "x": 1606,
+      "y": 6996,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p1_z1_a · Adapty flow · sz_z1_time_wall · z1a, monthly, 1 week free · iPhone · AR"
+    },
+    "iPhone-Proposal726-szf_p1_z1_b-Default-EN.dc.html": {
+      "x": 1124,
+      "y": 8270,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p1_z1_b · Adapty flow · sz_z1_time_wall · z1b, weekly, 3 days free · iPhone · EN"
+    },
+    "iPhone-Proposal726-szf_p1_z1_b-Default-AR.dc.html": {
+      "x": 1606,
+      "y": 8270,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · szf_p1_z1_b · Adapty flow · sz_z1_time_wall · z1b, weekly, 3 days free · iPhone · AR"
+    },
+    "iPhone-Proposal726-Ramadan-Default-EN.dc.html": {
+      "x": 1884,
+      "y": 20236,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · Ramadan_Promotional_Offer · Adapty paywall · ramadan_2026 (not live), weekly, 3 days free · iPhone · EN"
+    },
+    "iPhone-Proposal726-Ramadan-Default-AR.dc.html": {
+      "x": 2366,
+      "y": 20236,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-726 · Ramadan_Promotional_Offer · Adapty paywall · ramadan_2026 (not live), weekly, 3 days free · iPhone · AR"
+    },
+    "iPad-Proposal726-GetPremium-Default-EN.dc.html": {
+      "x": 4256,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · GetPremium · Adapty paywall · yearly selected, trial eligible · iPad · EN"
+    },
+    "iPad-Proposal726-GetPremium-Default-AR.dc.html": {
+      "x": 5368,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · GetPremium · Adapty paywall · yearly selected, trial eligible · iPad · AR"
+    },
+    "iPad-Proposal726-GetPremium-Landscape-EN.dc.html": {
+      "x": 6480,
+      "y": 12432,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · GetPremium · Adapty paywall · iPad landscape · EN"
+    },
+    "iPad-Proposal726-GetPremiumFix-Portrait-EN.dc.html": {
+      "x": 8816,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Get Premium fix (app) · iPad portrait · EN"
+    },
+    "iPad-Proposal726-GetPremiumFix-Portrait-AR.dc.html": {
+      "x": 9928,
+      "y": 12432,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Get Premium fix (app) · iPad portrait · AR"
+    },
+    "iPad-Proposal726-GetPremiumFix-Landscape-EN.dc.html": {
+      "x": 11040,
+      "y": 12432,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Get Premium fix (app) · iPad landscape · EN"
+    },
+    "iPad-Proposal726-GetPremiumFix-Landscape-AR.dc.html": {
+      "x": 12496,
+      "y": 12432,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Get Premium fix (app) · iPad landscape · AR"
+    },
+    "iPad-Proposal726-GetPremiumWeeky-Default-EN.dc.html": {
+      "x": 3496,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · GetPremiumWeeky · Adapty paywall · weekly, trial eligible · iPad · EN"
+    },
+    "iPad-Proposal726-GetPremiumWeeky-Default-AR.dc.html": {
+      "x": 4608,
+      "y": 14208,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · GetPremiumWeeky · Adapty paywall · weekly, trial eligible · iPad · AR"
+    },
+    "iPad-Proposal726-GetPremiumWeeky-Landscape-EN.dc.html": {
+      "x": 5720,
+      "y": 14208,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · GetPremiumWeeky · Adapty paywall · iPad landscape · EN"
+    },
+    "iPad-Proposal726-Onboarding-Default-EN.dc.html": {
+      "x": 3496,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Onboarding · Adapty paywall · weekly selected, trial eligible · iPad · EN"
+    },
+    "iPad-Proposal726-Onboarding-Default-AR.dc.html": {
+      "x": 4608,
+      "y": 15984,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Onboarding · Adapty paywall · weekly selected, trial eligible · iPad · AR"
+    },
+    "iPad-Proposal726-Onboarding-Landscape-EN.dc.html": {
+      "x": 5720,
+      "y": 15984,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Onboarding · Adapty paywall · iPad landscape · EN"
+    },
+    "iPad-Proposal726-szf_p7_k4-Default-EN.dc.html": {
+      "x": 3144,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p7_k4 · Adapty flow · sz_k4_trial_setup, information only · iPad · EN"
+    },
+    "iPad-Proposal726-szf_p7_k4-Default-AR.dc.html": {
+      "x": 4256,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p7_k4 · Adapty flow · sz_k4_trial_setup, information only · iPad · AR"
+    },
+    "iPad-Proposal726-szf_off-Default-EN.dc.html": {
+      "x": 6248,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_off · Adapty flow · all four sz_* placements, holdout and All users · the GetPremiumWeeky design · iPad · EN"
+    },
+    "iPad-Proposal726-szf_off-Default-AR.dc.html": {
+      "x": 7360,
+      "y": 0,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_off · Adapty flow · all four sz_* placements, holdout and All users · the GetPremiumWeeky design · iPad · AR"
+    },
+    "iPad-Proposal726-szf_p5_s2-Default-EN.dc.html": {
+      "x": 5368,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p5_s2 · Adapty flow · sz_s2_trial_cancel, monthly, offer sz_month_save25_1m · iPad · EN"
+    },
+    "iPad-Proposal726-szf_p5_s2-Default-AR.dc.html": {
+      "x": 6480,
+      "y": 1776,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p5_s2 · Adapty flow · sz_s2_trial_cancel, monthly, offer sz_month_save25_1m · iPad · AR"
+    },
+    "iPad-Proposal726-szf_p5_s3-Default-EN.dc.html": {
+      "x": 5368,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p5_s3 · Adapty flow · sz_s3_weekly_cancel, monthly, offer sz_month_3m35 · iPad · EN"
+    },
+    "iPad-Proposal726-szf_p5_s3-Default-AR.dc.html": {
+      "x": 6480,
+      "y": 3552,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p5_s3 · Adapty flow · sz_s3_weekly_cancel, monthly, offer sz_month_3m35 · iPad · AR"
+    },
+    "iPad-Proposal726-szf_p1_z1_old-Default-EN.dc.html": {
+      "x": 3144,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p1_z1_old · Adapty flow · sz_z1_time_wall · sz_old_sub, weekly, welcome-back price · iPad · EN"
+    },
+    "iPad-Proposal726-szf_p1_z1_old-Default-AR.dc.html": {
+      "x": 4256,
+      "y": 5328,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p1_z1_old · Adapty flow · sz_z1_time_wall · sz_old_sub, weekly, welcome-back price · iPad · AR"
+    },
+    "iPad-Proposal726-szf_p1_z1_a-Default-EN.dc.html": {
+      "x": 2384,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p1_z1_a · Adapty flow · sz_z1_time_wall · z1a, monthly, 1 week free · iPad · EN"
+    },
+    "iPad-Proposal726-szf_p1_z1_a-Default-AR.dc.html": {
+      "x": 3496,
+      "y": 7104,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p1_z1_a · Adapty flow · sz_z1_time_wall · z1a, monthly, 1 week free · iPad · AR"
+    },
+    "iPad-Proposal726-szf_p1_z1_b-Default-EN.dc.html": {
+      "x": 2384,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p1_z1_b · Adapty flow · sz_z1_time_wall · z1b, weekly, 3 days free · iPad · EN"
+    },
+    "iPad-Proposal726-szf_p1_z1_b-Default-AR.dc.html": {
+      "x": 3496,
+      "y": 8880,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · szf_p1_z1_b · Adapty flow · sz_z1_time_wall · z1b, weekly, 3 days free · iPad · AR"
+    },
+    "iPad-Proposal726-Ramadan-Default-EN.dc.html": {
+      "x": 3144,
+      "y": 25820,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Ramadan_Promotional_Offer · Adapty paywall · ramadan_2026 (not live), weekly, 3 days free · iPad · EN"
+    },
+    "iPad-Proposal726-Ramadan-Default-AR.dc.html": {
+      "x": 4256,
+      "y": 25820,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-726 · Ramadan_Promotional_Offer · Adapty paywall · ramadan_2026 (not live), weekly, 3 days free · iPad · AR"
     }
   },
   "order": [
@@ -934,7 +1350,59 @@
     "Mac-NoPlacement-P5SaveOffer-Default-AR.dc.html",
     "Mac-NoPlacement-P7TrialTimeline-Default-AR.dc.html",
     "Mac-NoPlacement-G1PremiumActive-Default-AR.dc.html",
-    "Mac-NoPlacement-G4LowRating-Default-AR.dc.html"
+    "Mac-NoPlacement-G4LowRating-Default-AR.dc.html",
+    "iPhone-Proposal726-GetPremium-Default-EN.dc.html",
+    "iPhone-Proposal726-GetPremium-Default-AR.dc.html",
+    "iPhone-Proposal726-GetPremiumFix-Default-AR.dc.html",
+    "iPhone-Proposal726-GetPremiumWeeky-Default-EN.dc.html",
+    "iPhone-Proposal726-GetPremiumWeeky-Default-AR.dc.html",
+    "iPhone-Proposal726-Onboarding-Default-EN.dc.html",
+    "iPhone-Proposal726-Onboarding-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_p7_k4-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_p7_k4-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_off-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_off-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_p5_s2-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_p5_s2-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_p5_s3-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_p5_s3-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_p1_z1_old-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_p1_z1_old-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_p1_z1_a-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_p1_z1_a-Default-AR.dc.html",
+    "iPhone-Proposal726-szf_p1_z1_b-Default-EN.dc.html",
+    "iPhone-Proposal726-szf_p1_z1_b-Default-AR.dc.html",
+    "iPhone-Proposal726-Ramadan-Default-EN.dc.html",
+    "iPhone-Proposal726-Ramadan-Default-AR.dc.html",
+    "iPad-Proposal726-GetPremium-Default-EN.dc.html",
+    "iPad-Proposal726-GetPremium-Default-AR.dc.html",
+    "iPad-Proposal726-GetPremium-Landscape-EN.dc.html",
+    "iPad-Proposal726-GetPremiumFix-Portrait-EN.dc.html",
+    "iPad-Proposal726-GetPremiumFix-Portrait-AR.dc.html",
+    "iPad-Proposal726-GetPremiumFix-Landscape-EN.dc.html",
+    "iPad-Proposal726-GetPremiumFix-Landscape-AR.dc.html",
+    "iPad-Proposal726-GetPremiumWeeky-Default-EN.dc.html",
+    "iPad-Proposal726-GetPremiumWeeky-Default-AR.dc.html",
+    "iPad-Proposal726-GetPremiumWeeky-Landscape-EN.dc.html",
+    "iPad-Proposal726-Onboarding-Default-EN.dc.html",
+    "iPad-Proposal726-Onboarding-Default-AR.dc.html",
+    "iPad-Proposal726-Onboarding-Landscape-EN.dc.html",
+    "iPad-Proposal726-szf_p7_k4-Default-EN.dc.html",
+    "iPad-Proposal726-szf_p7_k4-Default-AR.dc.html",
+    "iPad-Proposal726-szf_off-Default-EN.dc.html",
+    "iPad-Proposal726-szf_off-Default-AR.dc.html",
+    "iPad-Proposal726-szf_p5_s2-Default-EN.dc.html",
+    "iPad-Proposal726-szf_p5_s2-Default-AR.dc.html",
+    "iPad-Proposal726-szf_p5_s3-Default-EN.dc.html",
+    "iPad-Proposal726-szf_p5_s3-Default-AR.dc.html",
+    "iPad-Proposal726-szf_p1_z1_old-Default-EN.dc.html",
+    "iPad-Proposal726-szf_p1_z1_old-Default-AR.dc.html",
+    "iPad-Proposal726-szf_p1_z1_a-Default-EN.dc.html",
+    "iPad-Proposal726-szf_p1_z1_a-Default-AR.dc.html",
+    "iPad-Proposal726-szf_p1_z1_b-Default-EN.dc.html",
+    "iPad-Proposal726-szf_p1_z1_b-Default-AR.dc.html",
+    "iPad-Proposal726-Ramadan-Default-EN.dc.html",
+    "iPad-Proposal726-Ramadan-Default-AR.dc.html"
   ],
   "notes": {
     "iphone-Products": {
@@ -1411,6 +1879,438 @@
       "fill": "teal",
       "size": "m",
       "text": "Frames are screenshots, not redrawn (board, 2026-11-15).\n• Offer moments (sz_* rows, Release B) and the loading states: VPN-723 screen gallery, master@5c650e22 = 5.0.7 (4), iPhone 17 Pro and iPad Pro 13\" simulators, dark.\n• iPhone loaded states (Get Premium, Get Premium Week, onboarding page 4, Promotional Deal 1, Servers full, Billing Period): VPN-671 screen gallery, 3e506e01 = 5.0.6 (2). Their views and texts are unchanged up to master 34c04ab6, except a dimmed buy button while products load (VPN-690), which only the loading state shows.\n• Push or OneLink only and the Ramadan draft: Adapty's builder previews from the operator.\nA state with no screenshot has no frame; the missing list is in the paywalls document on VPN-726."
+    },
+    "p726-iphone-GetPremium-t": {
+      "x": 2848,
+      "y": 10518,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · GetPremium (Adapty paywall) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-GetPremium-n": {
+      "x": 3812,
+      "y": 10818,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "GetPremium · Adapty Flow & Paywall Builder · placements APP_START, BILLING_PERIOD, DID_YOU_LOVE_US, GET_PREMIUM, SERVER_FULL, SETTINGS_PAGE, WATCH_ADS_PREMIUM (All users) · products Weekly, Yearly (default), Monthly; trial: the 3-day introductory free trial of each product when the user is eligible. Replaces the untouched Adapty template. Model: the app's Get Premium. Shown only by a push or a OneLink that names one of these placements (the app draws its own Get Premium on its own paths). Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-GetPremiumFix-t": {
+      "x": 4692,
+      "y": 10518,
+      "w": 402,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · Get Premium fix (app) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-GetPremiumFix-n": {
+      "x": 5174,
+      "y": 10818,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Get Premium fix (app, GetPremiumViews.swift), QA O3–O5 on VPN-589: (1) the header (✕, title, Restore) leaves the ScrollView and stays pinned; (2) the picture is capped (iPad portrait 440 pt high, landscape 230 pt) so the plans and the button show with no scroll; the button, its line and the terms are pinned at the bottom; (3) ✕ gets the VoiceOver label Close / إغلاق (string OFFERS.LOW_RATING.CLOSE exists); (4) Arabic: the plan cards are mirrored (week on the right) and one digit style (Latin, as the App Store prices): \"1\", \"12\", \"100\", \"3\", \"24\"; \"12 شهرًا\" for \"12 months\"; (5) the line under the button in cGray #b3b7c3 (9.81:1) instead of darkLight #6e6e6e (3.86:1). Everything else as built. iPad sheet size measured from the VPN-723 screenshot (x 48–984 pt, top 75 pt); landscape: the same width, app behind not drawn. Texts kept as in the app, the typo \"acknowdledge\" too (see Proposals on VPN-726)."
+    },
+    "p726-iphone-GetPremiumWeeky-t": {
+      "x": 2088,
+      "y": 11792,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · GetPremiumWeeky (Adapty paywall) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-GetPremiumWeeky-n": {
+      "x": 3052,
+      "y": 12092,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "GetPremiumWeeky · Adapty Flow & Paywall Builder · placements GET_PREMIUM_WEEK, HOME_PAGE_TOP, SERVER_MENU (All users) · product Weekly; 3-day introductory free trial when eligible. Replaces the untouched Adapty template. Model: the app's Get Premium Week. Shown only by a push or a OneLink. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-Onboarding-t": {
+      "x": 2088,
+      "y": 13066,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · Onboarding (Adapty paywall) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-Onboarding-n": {
+      "x": 3052,
+      "y": 13366,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Onboarding · Adapty Flow & Paywall Builder · placements ONBOARDING_START, ONBOARDING_END (All users) · products Weekly (default), Monthly, Yearly; 3-day introductory free trial when eligible. Replaces the untouched Adapty template. Model: the app's onboarding page 4 (\"Start Now!\", \"Proceed with Basic\" closes). Shown only by a push or a OneLink. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-szf_p7_k4-t": {
+      "x": 1884,
+      "y": 1600,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p7_k4 (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_p7_k4-n": {
+      "x": 2848,
+      "y": 1900,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p7_k4 · Adapty Flow · placement sz_k4_trial_setup, audience Board test segment · products Monthly 1-week trial, Weekly (unchanged; no purchase on this screen) · no offer. Model: the app's P7 trial timeline. Information only: \"Got it\" closes. No \"Connect now\" (Adapty cannot start the VPN) and no Restore (nothing to buy). The charge line is a product text of the default product (tags work only in product texts). App P7 page stays as approved."
+    },
+    "p726-iphone-szf_off-t": {
+      "x": 3728,
+      "y": 1600,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_off (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_off-n": {
+      "x": 4692,
+      "y": 1900,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_off · Adapty Flow · all four sz_* placements: sz_holdout (priority 0) and All users (last) · product Weekly. Proposal: szf_off shows the GetPremiumWeeky design (same product). Better: no push names an sz_* placement, so holdout users never see a paywall from it (see Proposals on VPN-726). Board decides."
+    },
+    "p726-iphone-szf_p5_s2-t": {
+      "x": 2848,
+      "y": 2874,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p5_s2 (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_p5_s2-n": {
+      "x": 3812,
+      "y": 3174,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p5_s2 · Adapty Flow · placement sz_s2_trial_cancel, audience Board test segment · product Monthly with promotional offer sz_month_save25_1m (Adapty 164dc3a6, pay as you go, 1 month). Model: the app's P5 save offer. The percentage is not on the screen (no tag gives it): the offer price and the full price are. \"No thanks\" closes. App P5 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-szf_p5_s3-t": {
+      "x": 2848,
+      "y": 4148,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p5_s3 (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_p5_s3-n": {
+      "x": 3812,
+      "y": 4448,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p5_s3 · Adapty Flow · placement sz_s3_weekly_cancel, audience Board test segment · product Monthly with promotional offer sz_month_3m35 (Adapty d84828f2, pay up front, 3 months). Model: the app's P5 save offer. \"No thanks\" closes. App P5 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-szf_p1_z1_old-t": {
+      "x": 1884,
+      "y": 5422,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p1_z1_old (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_p1_z1_old-n": {
+      "x": 2848,
+      "y": 5722,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p1_z1_old · Adapty Flow · placement sz_z1_time_wall, audience sz_old_sub · products Weekly (default, promotional offer sz_week_back20_2w, Adapty 26afe87d, pay as you go, 1 week × 2), Monthly and Yearly behind \"View more plans\". Model: the app's P1 time wall. Shown only by a push, so the title is not \"Your free minutes are up\" and there is no video strip (Adapty cannot show a rewarded video). App P1 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-szf_p1_z1_a-t": {
+      "x": 1124,
+      "y": 6696,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p1_z1_a (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_p1_z1_a-n": {
+      "x": 2088,
+      "y": 6996,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p1_z1_a · Adapty Flow · placement sz_z1_time_wall, audiences sz_z1a_new_lo, sz_z1a_new_hi · products Monthly 1-week trial (default, 1-week free trial), Weekly and Yearly behind \"View more plans\". Model: the app's P1 time wall, arm A. No date on the timeline (the flow has no date tag): \"In 1 week\". App P1 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-szf_p1_z1_b-t": {
+      "x": 1124,
+      "y": 7970,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p1_z1_b (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-szf_p1_z1_b-n": {
+      "x": 2088,
+      "y": 8270,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p1_z1_b · Adapty Flow · placement sz_z1_time_wall, audiences sz_z1b_new_lo, sz_z1b_new_hi · products Weekly (default, 3-day free trial), Monthly and Yearly behind \"View more plans\". Model: the app's P1 time wall, arm B. App P1 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-iphone-Ramadan-t": {
+      "x": 1884,
+      "y": 19936,
+      "w": 884,
+      "page": "iphone",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · Ramadan_Promotional_Offer (Adapty paywall, not live) — waits for the board; nobody builds it before approval."
+    },
+    "p726-iphone-Ramadan-n": {
+      "x": 2848,
+      "y": 20236,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Ramadan_Promotional_Offer · Adapty Flow & Paywall Builder · placement ramadan_2026 (not live), All users · product Weekly with promotional offer WeeklyPromotional2 (Adapty 2ca2dbd6, free trial 3 days). Model: the app's Get Premium Week. The app has no Ramadan artwork: the picture is the app's onboarding4 illustration and a \"Ramadan special\" tag. A Ramadan picture needs new artwork (see Proposals). Arabic text corrected (no \".s\", the missing space, \"Restore\" translated). Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-GetPremium-t": {
+      "x": 4256,
+      "y": 12132,
+      "w": 3600,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · GetPremium (Adapty paywall) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-GetPremium-n": {
+      "x": 7936,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "GetPremium · Adapty Flow & Paywall Builder · placements APP_START, BILLING_PERIOD, DID_YOU_LOVE_US, GET_PREMIUM, SERVER_FULL, SETTINGS_PAGE, WATCH_ADS_PREMIUM (All users) · products Weekly, Yearly (default), Monthly; trial: the 3-day introductory free trial of each product when the user is eligible. Replaces the untouched Adapty template. Model: the app's Get Premium. Shown only by a push or a OneLink that names one of these placements (the app draws its own Get Premium on its own paths). Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-GetPremiumFix-t": {
+      "x": 8816,
+      "y": 12132,
+      "w": 5056,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · Get Premium fix (app) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-GetPremiumFix-n": {
+      "x": 13952,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Get Premium fix (app, GetPremiumViews.swift), QA O3–O5 on VPN-589: (1) the header (✕, title, Restore) leaves the ScrollView and stays pinned; (2) the picture is capped (iPad portrait 440 pt high, landscape 230 pt) so the plans and the button show with no scroll; the button, its line and the terms are pinned at the bottom; (3) ✕ gets the VoiceOver label Close / إغلاق (string OFFERS.LOW_RATING.CLOSE exists); (4) Arabic: the plan cards are mirrored (week on the right) and one digit style (Latin, as the App Store prices): \"1\", \"12\", \"100\", \"3\", \"24\"; \"12 شهرًا\" for \"12 months\"; (5) the line under the button in cGray #b3b7c3 (9.81:1) instead of darkLight #6e6e6e (3.86:1). Everything else as built. iPad sheet size measured from the VPN-723 screenshot (x 48–984 pt, top 75 pt); landscape: the same width, app behind not drawn. Texts kept as in the app, the typo \"acknowdledge\" too (see Proposals on VPN-726)."
+    },
+    "p726-ipad-GetPremiumWeeky-t": {
+      "x": 3496,
+      "y": 13908,
+      "w": 3600,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · GetPremiumWeeky (Adapty paywall) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-GetPremiumWeeky-n": {
+      "x": 7176,
+      "y": 14208,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "GetPremiumWeeky · Adapty Flow & Paywall Builder · placements GET_PREMIUM_WEEK, HOME_PAGE_TOP, SERVER_MENU (All users) · product Weekly; 3-day introductory free trial when eligible. Replaces the untouched Adapty template. Model: the app's Get Premium Week. Shown only by a push or a OneLink. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-Onboarding-t": {
+      "x": 3496,
+      "y": 15684,
+      "w": 3600,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · Onboarding (Adapty paywall) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-Onboarding-n": {
+      "x": 7176,
+      "y": 15984,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Onboarding · Adapty Flow & Paywall Builder · placements ONBOARDING_START, ONBOARDING_END (All users) · products Weekly (default), Monthly, Yearly; 3-day introductory free trial when eligible. Replaces the untouched Adapty template. Model: the app's onboarding page 4 (\"Start Now!\", \"Proceed with Basic\" closes). Shown only by a push or a OneLink. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-szf_p7_k4-t": {
+      "x": 3144,
+      "y": -300,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p7_k4 (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_p7_k4-n": {
+      "x": 5368,
+      "y": 0,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p7_k4 · Adapty Flow · placement sz_k4_trial_setup, audience Board test segment · products Monthly 1-week trial, Weekly (unchanged; no purchase on this screen) · no offer. Model: the app's P7 trial timeline. Information only: \"Got it\" closes. No \"Connect now\" (Adapty cannot start the VPN) and no Restore (nothing to buy). The charge line is a product text of the default product (tags work only in product texts). App P7 page stays as approved."
+    },
+    "p726-ipad-szf_off-t": {
+      "x": 6248,
+      "y": -300,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_off (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_off-n": {
+      "x": 8472,
+      "y": 0,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_off · Adapty Flow · all four sz_* placements: sz_holdout (priority 0) and All users (last) · product Weekly. Proposal: szf_off shows the GetPremiumWeeky design (same product). Better: no push names an sz_* placement, so holdout users never see a paywall from it (see Proposals on VPN-726). Board decides."
+    },
+    "p726-ipad-szf_p5_s2-t": {
+      "x": 5368,
+      "y": 1476,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p5_s2 (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_p5_s2-n": {
+      "x": 7592,
+      "y": 1776,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p5_s2 · Adapty Flow · placement sz_s2_trial_cancel, audience Board test segment · product Monthly with promotional offer sz_month_save25_1m (Adapty 164dc3a6, pay as you go, 1 month). Model: the app's P5 save offer. The percentage is not on the screen (no tag gives it): the offer price and the full price are. \"No thanks\" closes. App P5 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-szf_p5_s3-t": {
+      "x": 5368,
+      "y": 3252,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p5_s3 (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_p5_s3-n": {
+      "x": 7592,
+      "y": 3552,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p5_s3 · Adapty Flow · placement sz_s3_weekly_cancel, audience Board test segment · product Monthly with promotional offer sz_month_3m35 (Adapty d84828f2, pay up front, 3 months). Model: the app's P5 save offer. \"No thanks\" closes. App P5 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-szf_p1_z1_old-t": {
+      "x": 3144,
+      "y": 5028,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p1_z1_old (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_p1_z1_old-n": {
+      "x": 5368,
+      "y": 5328,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p1_z1_old · Adapty Flow · placement sz_z1_time_wall, audience sz_old_sub · products Weekly (default, promotional offer sz_week_back20_2w, Adapty 26afe87d, pay as you go, 1 week × 2), Monthly and Yearly behind \"View more plans\". Model: the app's P1 time wall. Shown only by a push, so the title is not \"Your free minutes are up\" and there is no video strip (Adapty cannot show a rewarded video). App P1 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-szf_p1_z1_a-t": {
+      "x": 2384,
+      "y": 6804,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p1_z1_a (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_p1_z1_a-n": {
+      "x": 4608,
+      "y": 7104,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p1_z1_a · Adapty Flow · placement sz_z1_time_wall, audiences sz_z1a_new_lo, sz_z1a_new_hi · products Monthly 1-week trial (default, 1-week free trial), Weekly and Yearly behind \"View more plans\". Model: the app's P1 time wall, arm A. No date on the timeline (the flow has no date tag): \"In 1 week\". App P1 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-szf_p1_z1_b-t": {
+      "x": 2384,
+      "y": 8580,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · szf_p1_z1_b (Adapty flow) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-szf_p1_z1_b-n": {
+      "x": 4608,
+      "y": 8880,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "szf_p1_z1_b · Adapty Flow · placement sz_z1_time_wall, audiences sz_z1b_new_lo, sz_z1b_new_hi · products Weekly (default, 3-day free trial), Monthly and Yearly behind \"View more plans\". Model: the app's P1 time wall, arm B. App P1 page stays as approved. Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
+    },
+    "p726-ipad-Ramadan-t": {
+      "x": 3144,
+      "y": 25520,
+      "w": 2144,
+      "page": "ipad",
+      "fill": "blue",
+      "size": "l",
+      "text": "Proposal — VPN-726 · Ramadan_Promotional_Offer (Adapty paywall, not live) — waits for the board; nobody builds it before approval."
+    },
+    "p726-ipad-Ramadan-n": {
+      "x": 5368,
+      "y": 25820,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Ramadan_Promotional_Offer · Adapty Flow & Paywall Builder · placement ramadan_2026 (not live), All users · product Weekly with promotional offer WeeklyPromotional2 (Adapty 2ca2dbd6, free trial 3 days). Model: the app's Get Premium Week. The app has no Ramadan artwork: the picture is the app's onboarding4 illustration and a \"Ramadan special\" tag. A Ramadan picture needs new artwork (see Proposals). Arabic text corrected (no \".s\", the missing space, \"Restore\" translated). Prices, trial and offer lengths on the frames are samples (United States storefront). In Adapty they are product tags, never typed: see the adapty-build document on VPN-726."
     }
   }
 }
