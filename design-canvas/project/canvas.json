@@ -3039,6 +3039,70 @@
       "h": 700,
       "page": "mac",
       "title": "Proposal — VPN-827 · Mac primary button · disabled, Retry counts down · AR"
+    },
+    "Mac-VPNPermission855-PanelPrompt-EN.dc.html": {
+      "x": 0,
+      "y": 18790,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · menu bar panel: Connect, macOS prompt at once (stand-in) · EN"
+    },
+    "Mac-VPNPermission855-WindowPrompt-EN.dc.html": {
+      "x": 500,
+      "y": 18790,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: Connect, macOS prompt at once (stand-in) · EN"
+    },
+    "Mac-VPNPermission855-Help-EN.dc.html": {
+      "x": 1100,
+      "y": 18790,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: after Don’t Allow, help (macOS prompt stand-in, Allow marked) · EN"
+    },
+    "Mac-VPNPermission855-NoPrompt-EN.dc.html": {
+      "x": 1700,
+      "y": 18790,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: no macOS prompt (macOS error), help with the settings path · EN"
+    },
+    "Mac-VPNPermission855-PanelPrompt-AR.dc.html": {
+      "x": 2300,
+      "y": 18790,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · menu bar panel: Connect, macOS prompt at once (stand-in) · AR"
+    },
+    "Mac-VPNPermission855-WindowPrompt-AR.dc.html": {
+      "x": 2800,
+      "y": 18790,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: Connect, macOS prompt at once (stand-in) · AR"
+    },
+    "Mac-VPNPermission855-Help-AR.dc.html": {
+      "x": 3400,
+      "y": 18790,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: after Don’t Allow, help (macOS prompt stand-in, Allow marked) · AR"
+    },
+    "Mac-VPNPermission855-NoPrompt-AR.dc.html": {
+      "x": 4000,
+      "y": 18790,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: no macOS prompt (macOS error), help with the settings path · AR"
     }
   },
   "order": [
@@ -3418,7 +3482,15 @@
     "Mac-PrimaryButton-Disabled-EN.dc.html",
     "Mac-PrimaryButton-Normal-AR.dc.html",
     "Mac-PrimaryButton-Pressed-AR.dc.html",
-    "Mac-PrimaryButton-Disabled-AR.dc.html"
+    "Mac-PrimaryButton-Disabled-AR.dc.html",
+    "Mac-VPNPermission855-PanelPrompt-EN.dc.html",
+    "Mac-VPNPermission855-WindowPrompt-EN.dc.html",
+    "Mac-VPNPermission855-Help-EN.dc.html",
+    "Mac-VPNPermission855-NoPrompt-EN.dc.html",
+    "Mac-VPNPermission855-PanelPrompt-AR.dc.html",
+    "Mac-VPNPermission855-WindowPrompt-AR.dc.html",
+    "Mac-VPNPermission855-Help-AR.dc.html",
+    "Mac-VPNPermission855-NoPrompt-AR.dc.html"
   ],
   "notes": {
     "iphone-Splash": {
@@ -4230,6 +4302,59 @@
       "fill": "gray",
       "size": "l",
       "text": "Mac primary button (.m-btn.blue): 44 high, radius 22, 14 bold, padding 0 28. Shape, size and gradient stay.\nToday: white #ffffff on the gradient #5db9eb → #6f8fee (connectGradientTop / connectGradientBottom) = 2.19:1 to 3.07:1. Fails 4.5:1.\nProposal (contrast measured, WCAG 2 formula, at both gradient ends):\n- Normal: text #080b13 (background token) on #5db9eb → #6f8fee = 9.00:1 to 6.41:1.\n- Pressed: the gradient with 15% white on top, #75c4ee → #85a0f1, text #080b13 = 10.20:1 to 7.77:1. A lighter press, as dark-mode Mac buttons do. Not opacity 0.5 (the iOS press), because that drops the text below 4.5:1.\n- Disabled: #3c4970 (buttonDisabled token), text #ffffff = 8.83:1. Not opacity 0.5. Example: Retry counts down (ALERTS.NETWORK_BLOCKED_RETRY_IN \"Retry in %@\" / \"إعادة المحاولة بعد %@\").\n- An icon in the button (Settings › Support \"Report an Issue\") takes the text colour: same ratios, at least 3:1.\nPrecedent: dark text on light blue is in the app already: the update page button #0b1020 on #839ff2 = 7.40:1; the yellow premium button #080b13 on #ffc700.\nNot proposed: white text would need the gradient about 35% darker (#3c7899 → #485d9b, 4.84:1 to 6.34:1). That changes the brand colour.\nNew tokens: none. New values: pressed gradient #75c4ee → #85a0f1 (gradient + 15% #ffffff).\nMac frames that use this button (screen canvas, 30): Mac-FirstLaunch-Privacy (Confirm Agreement), Mac-FirstLaunch-Permission (Continue), Mac-FirstLaunch-Denied (Try Again), Mac-Launch-Offline (Try again), Mac-Launch-Unreachable (Try again), Mac-Launch-NetworkBlocked (Retry), Mac-Launch-UpdateRequired (Update), Mac-Rating-High and Mac-Rating-Low (Send feedback), Mac-Rating-RateUs (YES), Mac-Report-Slow (Send), Mac-Billing-Grace and Mac-Billing-Paused (Update payment), Mac-Settings-Account (Manage Subscription), Mac-Settings-Support (Report an Issue, Send); each EN and AR.\nPaywall canvas (6): Mac-NoPlacement-G1PremiumActive-Default, -G4LowRating-Default, -P7TrialTimeline-Default, EN and AR.\nNot this button: Mac-UpdateRequired-Window / -MenuBar (VPN-768) use the update page button (#0b1020 on #839ff2, passes)."
+    },
+    "mac-blk-ProposalVPN855": {
+      "x": 0,
+      "y": 17790,
+      "text": "Proposal — VPN-855",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-ProposalVPN855-Permission": {
+      "x": 0,
+      "y": 18490,
+      "text": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt",
+      "kind": "title1",
+      "maxW": 4520,
+      "page": "mac"
+    },
+    "mac-ProposalVPN855-flow": {
+      "x": 4600,
+      "y": 18790,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Flow (board: \"Mac follows\" on the VPN-817 card, 2026-11-16; approval 6501f8fe items 8 + 9). The Mac does what VPN-817 does on iOS. Built after VPN-589 merges.\n1. First launch: Welcome (privacy) stays. \"Confirm Agreement\" no longer opens the \"VPN permission\" step: the window goes on as after Allow today (no premium: the paywall with the trial, board S3; premium: the menu bar panel).\n2. Prompt: Connect with no VPN configuration (the ring in the menu bar panel or in the window, the menu command, Cmd+Return). The status turns Connecting and macOS shows its prompt at once. No primer. The prompt is macOS's own, in the middle of the screen; the app draws nothing over it. Frames PanelPrompt and WindowPrompt show where the press comes from.\n3. Allow, then (if the Mac asks) the password or Touch ID: the press goes on and connects.\n4. Help: \"Don't Allow\" (macOS answers \"denied\"). The app window opens (if closed) with the help page, like \"Network blocked\": a picture of the macOS prompt with Allow ringed in #ffc700 (Brand.premium), step 2 is the Mac's confirm step. Try Again asks macOS again at once (a new prompt, no primer). Not Now or ✕ closes the page; the window and the panel show Not connected. This replaces the \"permission denied\" page (Mac-FirstLaunch-Denied).\n5. NoPrompt: macOS gave an error and showed no prompt (for example a device-management profile). Same page, with an icon instead of the picture, the macOS settings path, Try Again, Open System Settings (System Settings › VPN, MacDesignModel.vpnSettingsURL, as today) and Not Now.\n6. \"Connect when the app opens\" (Settings › General): with no VPN configuration it does not start the prompt by itself; the prompt comes on the first click. Question for SecurezoneiOS: does the app know \"no configuration\" before it connects on open?\nStand-in: the macOS prompt picture is a drawing (VPN-589 drawing, MacFirstLaunchView.systemAlertSample, with the app icon file iTunesArtwork.png). Its colours (#2a2d35, Allow #0a84ff) are macOS's, not ours. Its Arabic wording is not checked. SecurezoneiOS takes the real macOS prompt on the Mac (English and Arabic) and uses it in place of the drawing, with Allow ringed, as on iOS (board choice \"Real iOS prompt picture\")."
+    },
+    "mac-ProposalVPN855-texts": {
+      "x": 5320,
+      "y": 18790,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. NEW = a new user text for the board to approve. EN / AR.\nHelp page\n- Title: ALERTS.VPN_PERMISSION_DENIED_TITLE \"VPN configuration not added\" / \"لم تتم إضافة إعداد VPN\" (existing).\n- Message: \"Securezone VPN can’t connect without a VPN configuration.\" / \"لا يمكن لـ Securezone VPN الاتصال بدون إعداد VPN.\" (VPN-817 text, on the board card).\n- Step 1: \"Click Try Again, then click Allow.\" / \"انقر «إعادة المحاولة» ثم انقر «السماح».\" NEW (Mac: click, انقر, as the VPN-589 Mac texts).\n- Step 2, the Mac's confirm step: \"If your Mac asks, enter your password or use Touch ID.\" / \"إذا طلب جهاز Mac ذلك، أدخل كلمة السر أو استخدم Touch ID.\" NEW here (the words are VPN-589 permStep3).\n- Buttons: ALERTS.VPN_PERMISSION_DENIED_RETRY \"Try Again\" / \"إعادة المحاولة\", ALERTS.VPN_PERMISSION_DENIED_CANCEL \"Not Now\" / \"ليس الآن\" (existing; VPN-817 buttons).\nNo-prompt page\n- Title: \"macOS did not show the VPN prompt\" / \"لم يعرض macOS نافذة إذن VPN\" NEW (VPN-817 title with macOS).\n- Message: \"New VPN configurations may be blocked on this Mac.\" / \"قد تكون إضافة إعدادات VPN جديدة محظورة على جهاز Mac هذا.\" NEW (VPN-817 message with \"this Mac\").\n- Tip, the macOS settings path: \"See System Settings › VPN and System Settings › General › Device Management. Then click Try Again.\" / \"راجع إعدادات النظام › VPN وإعدادات النظام › عام › إدارة الجهاز. ثم انقر «إعادة المحاولة».\" NEW. Path from web search results (macOS 13 and later; macOS 15: General › Device Management). SecurezoneiOS checks the path names on the Mac in English and Arabic.\n- Link: \"Open System Settings\" / \"فتح إعدادات النظام\" (VPN-589, existing).\nLeave the app: permTitle, permBody, permStep1, permStep2, continueButton, notNow (\"Not now\", first launch only) and deniedBody (MacText, VPN-589). permStep3 moves to step 2.\nButton: the Mac primary button of VPN-827 (board approved): text #080b13 on #5db9eb → #6f8fee, 9.00:1 to 6.41:1.\nContrast (WCAG 2): white on #080b13 19.67:1; #b3b7c3 on #080b13 9.81:1; white on the card #171d2e 16.78:1; link #7f9fef on #080b13 7.59:1; step numbers #080b13 on #6f8fee 6.41:1 (VPN-589 had white, 3.2:1); icons #5db9eb on #171d2e 7.67:1, #ffc700 on #080b13 12.57:1.\nFonts: the runner has no SF fonts; the renders use a stand-in. Righteous has no Arabic letters, so Arabic titles fall back, as in the VPN-589 frames."
+    },
+    "mac-ProposalVPN855-popups": {
+      "x": 6040,
+      "y": 18790,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Popups and the permission flow (as VPN-817).\nThe Mac has no ads and no Gift popup. What can open by itself on the Mac: the paywall page (no premium), the rating card after a session (VPN-710 M3, proposal), the update page or band (VPN-768, proposal) and notice bands.\n1. Hold: from the Connect press until the flow ends, none of these opens. They wait and open after the flow, in their order.\n2. The flow ends when: macOS says Allow and the press goes on; or the user clicks Not Now or ✕; or the help page closes in any other way.\n3. While macOS's prompt is up the app is not active; anything that arrives waits (rule 1).\n4. The help page fills the window and counts as \"a page on screen\", so nothing else opens over it.\n5. Try Again asks macOS directly. It does not go through the Connect ring. A second click while macOS is asking does nothing.\n6. If the press connects, waiting items open when the status shows Connected."
+    },
+    "mac-FirstLaunch-VPN855": {
+      "x": 3600,
+      "y": 2820,
+      "w": 520,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-855 (below): the \"VPN permission\" frames (Mac-FirstLaunch-Permission EN and AR) leave the flow: Connect opens the macOS prompt at once. The \"permission denied\" frames (Mac-FirstLaunch-Denied EN and AR) are replaced by the help page. Privacy stays. These frames stay as approved until the board approves and the change is on the default branch."
     }
   }
 }
