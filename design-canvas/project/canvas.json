@@ -3119,6 +3119,86 @@
       "h": 1307,
       "page": "ipad",
       "title": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle · 785 pt window · AR (Arabic system: the window buttons at the top right)"
+    },
+    "iPhone-NetworkBlocked908-RetryCountdown-EN.dc.html": {
+      "x": 0,
+      "y": 35736,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-908 · iOS disabled button: white title · Network blocked, Retry counting down · EN"
+    },
+    "iPhone-NetworkBlocked908-RetryCountdown-AR.dc.html": {
+      "x": 482,
+      "y": 35736,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-908 · iOS disabled button: white title · Network blocked, Retry counting down · AR"
+    },
+    "iPad-NetworkBlocked908-RetryCountdown-EN.dc.html": {
+      "x": 0,
+      "y": 57100,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iOS disabled button: white title · Network blocked, Retry counting down · EN"
+    },
+    "iPad-NetworkBlocked908-RetryCountdown-AR.dc.html": {
+      "x": 1112,
+      "y": 57100,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iOS disabled button: white title · Network blocked, Retry counting down · AR"
+    },
+    "iPad-MainWindow908-Column700-EN.dc.html": {
+      "x": 0,
+      "y": 59176,
+      "w": 700,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iPad server column, free user · 700 pt window · EN"
+    },
+    "iPad-MainWindow908-Column781-EN.dc.html": {
+      "x": 780,
+      "y": 59176,
+      "w": 781,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iPad server column, free user · 781 pt window · EN"
+    },
+    "iPad-MainWindow908-Column830-EN.dc.html": {
+      "x": 1641,
+      "y": 59176,
+      "w": 830,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iPad server column, free user · 830 pt window · EN"
+    },
+    "iPad-MainWindow908-Column700-AR.dc.html": {
+      "x": 2551,
+      "y": 59176,
+      "w": 700,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iPad server column, free user · 700 pt window · AR (Arabic system: the window buttons at the top right)"
+    },
+    "iPad-MainWindow908-Column781-AR.dc.html": {
+      "x": 3331,
+      "y": 59176,
+      "w": 781,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iPad server column, free user · 781 pt window · AR (Arabic system: the window buttons at the top right)"
+    },
+    "iPad-MainWindow908-Column830-AR.dc.html": {
+      "x": 4192,
+      "y": 59176,
+      "w": 830,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Proposal — VPN-908 · iPad server column, free user · 830 pt window · AR (Arabic system: the window buttons at the top right)"
     }
   },
   "order": [
@@ -3508,7 +3588,17 @@
     "Mac-VPNPermission855-PanelPrompt-AR.dc.html",
     "Mac-VPNPermission855-WindowPrompt-AR.dc.html",
     "Mac-VPNPermission855-Help-AR.dc.html",
-    "Mac-VPNPermission855-NoPrompt-AR.dc.html"
+    "Mac-VPNPermission855-NoPrompt-AR.dc.html",
+    "iPhone-NetworkBlocked908-RetryCountdown-EN.dc.html",
+    "iPhone-NetworkBlocked908-RetryCountdown-AR.dc.html",
+    "iPad-NetworkBlocked908-RetryCountdown-EN.dc.html",
+    "iPad-NetworkBlocked908-RetryCountdown-AR.dc.html",
+    "iPad-MainWindow908-Column700-EN.dc.html",
+    "iPad-MainWindow908-Column781-EN.dc.html",
+    "iPad-MainWindow908-Column830-EN.dc.html",
+    "iPad-MainWindow908-Column700-AR.dc.html",
+    "iPad-MainWindow908-Column781-AR.dc.html",
+    "iPad-MainWindow908-Column830-AR.dc.html"
   ],
   "notes": {
     "iphone-Splash": {
@@ -4399,6 +4489,129 @@
       "fill": "gray",
       "size": "l",
       "text": "Get Premium capsule in a wide window (QA O-B, design review of 2026-11-16).\nToday (build 23780acc): the capsule is at most the main column less 2 × 68 pt (English) or 2 × 48 pt (Arabic). When the texts do not fit, the subtitle is cut with \"…\". English: cut in windows of 700–814 pt (\"No Ads,…\" at 700 pt). Arabic: cut in windows of 700–858 pt.\nProposal: the capsule shows the subtitle only when the whole capsule fits. When it does not fit, the capsule shows the diamond, \"Get Premium\" / \"تمتع بالأفضل\" and the chevron (about 177 pt wide). No subtitle and no \"…\". The tap, the colours, the 42 pt height and the maximum width do not change.\nNo change: full screen (the whole capsule fits), windows narrower than 700 pt (the iPhone banner), the iPhone.\nFrames: a 785 × 1307 pt window at the top of the screen; the status bar covers the top 32 pt. The window buttons are the system's closed controls, drawn as a stand-in. They are not an app element. The column under them starts below them (build 23780acc, design PASS); the other column does not move. The vertical spacing follows the approved VPN-589 wide-window frames."
+    },
+    "iphone-blk-ProposalVPN908": {
+      "x": 0,
+      "y": 34736,
+      "text": "Proposal — VPN-908",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-ProposalVPN908-Button": {
+      "x": 0,
+      "y": 35436,
+      "text": "Proposal — VPN-908 · iOS disabled button: white title (4.5:1 or more)",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone"
+    },
+    "iphone-ProposalVPN908-Button-note": {
+      "x": 964,
+      "y": 35736,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "iOS disabled button (NSButton kind .disabled, Palette.buttonDisabled #3c4970). The app uses it on one screen: \"Network blocked\" while Retry counts down.\nToday: black #000000 (Palette.black) on #3c4970 = 2.38:1. Fails 4.5:1.\nProposal: white #ffffff (Palette.text) on #3c4970 = 8.83:1. This is the Mac disabled button (VPN-827). Background, 55 pt height, radius 18, 16 pt semibold, text and countdown do not change. cGray #b3b7c3 was checked too: 4.4:1, fails.\nChange in code: NSButtonKind.disabled title = Palette.text. The design system updates the buttonDisabled and black usage notes after the build.\nChanges these current frames: iPhone-NetworkBlocked-RetryCountdown EN and AR, iPad-NetworkBlocked-RetryCountdown EN and AR."
+    },
+    "iphone-NetworkBlocked-VPN908": {
+      "x": 1928,
+      "y": 11152,
+      "w": 520,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the Retry button title turns white (8.83:1). These frames stay as built until the board approves and the change is on the default branch."
+    },
+    "ipad-blk-ProposalVPN908": {
+      "x": 0,
+      "y": 56100,
+      "text": "Proposal — VPN-908",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "blue"
+    },
+    "ipad-ProposalVPN908-Button": {
+      "x": 0,
+      "y": 56800,
+      "text": "Proposal — VPN-908 · iOS disabled button: white title (4.5:1 or more)",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-ProposalVPN908-Button-note": {
+      "x": 2224,
+      "y": 57100,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "iOS disabled button (NSButton kind .disabled, Palette.buttonDisabled #3c4970). The app uses it on one screen: \"Network blocked\" while Retry counts down.\nToday: black #000000 (Palette.black) on #3c4970 = 2.38:1. Fails 4.5:1.\nProposal: white #ffffff (Palette.text) on #3c4970 = 8.83:1. This is the Mac disabled button (VPN-827). Background, 55 pt height, radius 18, 16 pt semibold, text and countdown do not change. cGray #b3b7c3 was checked too: 4.4:1, fails.\nChange in code: NSButtonKind.disabled title = Palette.text. The design system updates the buttonDisabled and black usage notes after the build.\nChanges these current frames: iPhone-NetworkBlocked-RetryCountdown EN and AR, iPad-NetworkBlocked-RetryCountdown EN and AR."
+    },
+    "ipad-ProposalVPN908-Column": {
+      "x": 0,
+      "y": 58876,
+      "text": "Proposal — VPN-908 · iPad server column in 700–830 pt windows: no signal icon, the lock in the tick place, names on up to 2 lines",
+      "kind": "title1",
+      "maxW": 5022,
+      "page": "ipad"
+    },
+    "ipad-ProposalVPN908-Column-note": {
+      "x": 5102,
+      "y": 59176,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "iPad server column in a window of 700–830 pt (VPN-589 ipad-check O1).\nToday (rc/5.0.8): the column is 36 % of the window, 300…400 pt; from 700 to 832 pt it is 300 pt. A row is flag, name, lock (free user, Premium row), signal icon, tick, 12 pt apart. The name gets 87 pt on a locked row and 112 pt on an open row, so names are cut: \"United Kin…\", \"Netherlan…\", \"الولايات المت…\", \"المملكة المت…\".\nWidths of the names (15 pt semibold, measured on the board's test iPad full screen): United Kingdom 115 pt, Netherlands 88 pt, الولايات المتحدة الأمريكية 160 pt, المملكة المتحدة 104 pt. United Arab Emirates and الإمارات العربية المتحدة are as long.\nProposal (fewer icons; the column width rule does not change):\n1. No signal icon in the iPad column. It is the same picture (wifi.png) on every row and shows no measured signal.\n2. A locked row shows the yellow lock (13 pt) in the place of the tick (22 pt slot). A locked row is never selected (a tap opens Premium Week), so its tick circle is always empty.\n3. The name can take 2 lines (18 pt line height). The row stays 56 pt.\nResult: the name gets 144 pt on every row of a 300 pt column. Long names are whole; the longest take 2 lines.\nNot chosen: a larger minimum width. To fit 160 pt on one line the column must be 373 pt; then a 700 pt window leaves 326 pt for the main screen, less than an iPhone SE (375 pt).\nNo change: the iPhone server list, the Auto row, the Start Subscription card, the search field, the column width rule.\nFrames: free user (the worst case), 700, 781 and 830 pt windows, 1307 pt high, as the VPN-589 window frames. The Get Premium capsule follows the VPN-589 window rule (whole in English at 830 pt). The list content is a sample with the longest names; the real list comes from server data.\nChanges these current frames (the column only): iPad-Main-Landscape* and iPad-Main-PortraitPremium EN and AR, iPad-MainWindow589-NoPremium785 EN and AR, iPad-SettingsSheet-* and iPad-ReportSheet-* (the column behind the sheet)."
+    },
+    "ipad-NetworkBlocked-VPN908": {
+      "x": 4448,
+      "y": 12432,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the Retry button title turns white (8.83:1). These frames stay as built until the board approves and the change is on the default branch."
+    },
+    "ipad-Main-VPN908": {
+      "x": 11640,
+      "y": 42648,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
+    },
+    "ipad-SettingsSheet-VPN908": {
+      "x": 17472,
+      "y": 44424,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
+    },
+    "ipad-ReportSheet-VPN908": {
+      "x": 5136,
+      "y": 46556,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
+    },
+    "ipad-Window589-VPN908": {
+      "x": 2450,
+      "y": 54284,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
     }
   }
 }
