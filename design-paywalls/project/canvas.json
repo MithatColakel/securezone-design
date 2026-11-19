@@ -1254,7 +1254,7 @@
       "w": 402,
       "h": 874,
       "page": "iphone",
-      "title": "Proposal — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPhone · AR"
+      "title": "Approved, not built — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPhone · AR"
     },
     "iPhone-Proposal980-szf_p1_z1_b_sa-Default-EN.dc.html": {
       "x": 482,
@@ -1262,7 +1262,7 @@
       "w": 402,
       "h": 874,
       "page": "iphone",
-      "title": "Proposal — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPhone · EN"
+      "title": "Approved, not built — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPhone · EN"
     },
     "iPad-Proposal980-szf_p1_z1_b_sa-Default-AR.dc.html": {
       "x": 0,
@@ -1270,7 +1270,7 @@
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Proposal — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPad · AR"
+      "title": "Approved, not built — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPad · AR"
     },
     "iPad-Proposal980-szf_p1_z1_b_sa-Default-EN.dc.html": {
       "x": 1112,
@@ -1278,7 +1278,7 @@
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Proposal — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPad · EN"
+      "title": "Approved, not built — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPad · EN"
     },
     "iPhone-Proposal1032-PushWait-Loading-EN.dc.html": {
       "x": 0,
@@ -2387,19 +2387,20 @@
     "iphone-blk-VPN980": {
       "x": 0,
       "y": 21600,
-      "text": "Proposal — VPN-980",
+      "text": "Approved, not built — VPN-980",
       "kind": "title1",
       "maxW": 2400,
       "page": "iphone",
-      "color": "blue"
+      "color": "orange"
     },
     "iphone-VPN980-sa": {
       "x": 0,
       "y": 22000,
-      "text": "Proposal — VPN-980 · sz_z1_time_wall · store country SA, new trial users (arm B) · flow szf_p1_z1_b_sa",
+      "text": "Approved, not built — VPN-980 · sz_z1_time_wall · store country SA, new trial users (arm B) · flow szf_p1_z1_b_sa",
       "kind": "title1",
       "maxW": 884,
-      "page": "iphone"
+      "page": "iphone",
+      "color": "orange"
     },
     "iphone-VPN980-sa-n": {
       "x": 1004,
@@ -2408,24 +2409,25 @@
       "page": "iphone",
       "fill": "gray",
       "size": "m",
-      "text": "Proposal — VPN-980 · Saudi trial flow variant · waits for the board's card; nobody builds it before approval.\n\nPlacement: sz_z1_time_wall (Z1, the first time wall of the day). It carries today's trial offer for new users: arm B = Weekly with the 3-day free trial (OfferMomentRules.swift, \"control offer\").\nAudience (new, the operator makes it): store country SA, never subscribed, the arm B buckets (sz_z1b_new_lo, sz_z1b_new_hi). Arm A users (Monthly 1-week trial) and former subscribers stay as they are, so no product changes.\nProducts: the same as arm B: Weekly com.digitstudios.securezonevpn.week (default, introductory free trial 3 days); Monthly and Yearly stay in the paywall, not shown. Prices only from Adapty's product tags; $8.99 on the frames is a sample (United States storefront). Saudi users see their store price.\nA/B (the operator sets it): control = today's screen at this placement (row \"sz_z1_time_wall · arm B\" above: the app's P1); variant = flow szf_p1_z1_b_sa (these frames). 50/50 in the SA audience. Measure: trials cancelled within 1 hour (today 42 % of 422 Saudi trials) and trial to paid (today 11.8 %).\nArabic first: the flow's default locale is ar; English devices get en. Arabic texts are the source; English follows them.\n\nWhat changes against the control: only the timeline (today, reminder day, first charge) and the reminder line above the button. Title, subtitle, plan card, video row, button, terms and links are today's texts.\n\nTexts (AR | EN), NEW = new text:\n• اليوم: وصول كامل | Today: full access (app, OFFERS.TRIAL_SETUP.TODAY)\n• NEW تبدأ تجربتك المجانية الآن. | Your free trial starts now.\n• NEW بعد يومين: نذكّرك | In 2 days: we remind you\n• NEW نرسل لك إشعارًا بأن تجربتك تنتهي غدًا. | We send you a notification that your trial ends tomorrow.\n• NEW بعد 3 أيام: أول دفعة بقيمة {price} | In 3 days: first charge of {price} (the app writes the date; a flow has no date tag)\n• NEW ألغِ قبل ذلك من إعدادات iPhone ولن تدفع شيئًا. | Cancel before then in iPhone Settings and you pay nothing. (iPad: إعدادات iPad | iPad Settings)\n• NEW سنذكّرك قبل يوم واحد من أول دفعة | We remind you 1 day before the first charge\nThe step texts fit only a 3-day trial. If the trial length changes, they change too.\n\nReminder push (BackendEngineer, VPN-952), draft text for the board:\n• Title: تنتهي تجربتك المجانية غدًا | Your free trial ends tomorrow\n• Body: تبدأ خطتك الأسبوعية في Securezone VPN غدًا. لا تريد المتابعة؟ ألغِ اليوم من الإعدادات ولن تدفع شيئًا. | Your weekly Securezone VPN plan starts tomorrow. Don't want to keep it? Cancel today in Settings and you pay nothing.\n• When: 24 h before the first charge (48 h after the trial starts), only to variant users whose trial still renews. Language: the device language, Arabic when unknown. No price in the push.\n• Tap: opens the App Store subscription page through the app's link securezonevpn://offer?moment=g2 (exists: OfferMomentCoordinator.openLink).\n\nNeeds an app change before users can see it: at this placement the app draws its own P1 from the paywall's remote config (OfferMomentCoordinator.timeWallRequested → OfferMomentScreen). It opens an Adapty flow only from a push (AdaptyAdapter.presentPaywall). So the variant needs the iOS app to show the flow at the time wall and to handle two flow actions: \"watch video\" (rewarded video, a custom action: Adapty cannot play it) and close (back to No time left). See the hand-off on VPN-980.\nIcons: Tabler icons (lock-open, bell, credit-card, player-play, chevron), the Adapty builder's icon set."
+      "text": "Approved, not built — VPN-980 · Saudi trial flow variant · approved by the board on 2026-11-18 10:05Z (VPN-980 card). Built in Adapty as the draft flow szf_p1_z1_b_sa on no placement (VPN-1024, 2026-11-19); not live. Users see it only after the app change (VPN-987) and the reminder push (VPN-952) are live, and the operator sets the audience and the A/B test.\n\nPlacement: sz_z1_time_wall (Z1, the first time wall of the day). It carries today's trial offer for new users: arm B = Weekly with the 3-day free trial (OfferMomentRules.swift, \"control offer\").\nAudience (new, the operator makes it): store country SA, never subscribed, the arm B buckets (sz_z1b_new_lo, sz_z1b_new_hi). Arm A users (Monthly 1-week trial) and former subscribers stay as they are, so no product changes.\nProducts: the same as arm B: Weekly com.digitstudios.securezonevpn.week (default, introductory free trial 3 days); Monthly and Yearly stay in the paywall, not shown. Prices only from Adapty's product tags; $8.99 on the frames is a sample (United States storefront). Saudi users see their store price.\nA/B (the operator sets it): control = today's screen at this placement (row \"sz_z1_time_wall · arm B\" above: the app's P1); variant = flow szf_p1_z1_b_sa (these frames). 50/50 in the SA audience. Measure: trials cancelled within 1 hour (today 42 % of 422 Saudi trials) and trial to paid (today 11.8 %).\nArabic first: the flow's default locale is ar; English devices get en. Arabic texts are the source; English follows them.\n\nWhat changes against the control: only the timeline (today, reminder day, first charge) and the reminder line above the button. Title, subtitle, plan card, video row, button, terms and links are today's texts.\n\nTexts (AR | EN), NEW = new text:\n• اليوم: وصول كامل | Today: full access (app, OFFERS.TRIAL_SETUP.TODAY)\n• NEW تبدأ تجربتك المجانية الآن. | Your free trial starts now.\n• NEW بعد يومين: نذكّرك | In 2 days: we remind you\n• NEW نرسل لك إشعارًا بأن تجربتك تنتهي غدًا. | We send you a notification that your trial ends tomorrow.\n• NEW بعد 3 أيام: أول دفعة بقيمة {price} | In 3 days: first charge of {price} (the app writes the date; a flow has no date tag)\n• NEW ألغِ قبل ذلك من إعدادات iPhone ولن تدفع شيئًا. | Cancel before then in iPhone Settings and you pay nothing. (iPad: إعدادات iPad | iPad Settings)\n• NEW سنذكّرك قبل يوم واحد من أول دفعة | We remind you 1 day before the first charge\nThe step texts fit only a 3-day trial. If the trial length changes, they change too.\n\nReminder push (BackendEngineer, VPN-952), draft text for the board:\n• Title: تنتهي تجربتك المجانية غدًا | Your free trial ends tomorrow\n• Body: تبدأ خطتك الأسبوعية في Securezone VPN غدًا. لا تريد المتابعة؟ ألغِ اليوم من الإعدادات ولن تدفع شيئًا. | Your weekly Securezone VPN plan starts tomorrow. Don't want to keep it? Cancel today in Settings and you pay nothing.\n• When: 24 h before the first charge (48 h after the trial starts), only to variant users whose trial still renews. Language: the device language, Arabic when unknown. No price in the push.\n• Tap: opens the App Store subscription page through the app's link securezonevpn://offer?moment=g2 (exists: OfferMomentCoordinator.openLink).\n\nNeeds an app change before users can see it: at this placement the app draws its own P1 from the paywall's remote config (OfferMomentCoordinator.timeWallRequested → OfferMomentScreen). It opens an Adapty flow only from a push (AdaptyAdapter.presentPaywall). So the variant needs the iOS app to show the flow at the time wall and to handle two flow actions: \"watch video\" (rewarded video, a custom action: Adapty cannot play it) and close (back to No time left). See the hand-off on VPN-980.\nIcons: Tabler icons (lock-open, bell, credit-card, player-play, chevron), the Adapty builder's icon set."
     },
     "ipad-blk-VPN980": {
       "x": 0,
       "y": 27700,
-      "text": "Proposal — VPN-980",
+      "text": "Approved, not built — VPN-980",
       "kind": "title1",
       "maxW": 2400,
       "page": "ipad",
-      "color": "blue"
+      "color": "orange"
     },
     "ipad-VPN980-sa": {
       "x": 0,
       "y": 28100,
-      "text": "Proposal — VPN-980 · sz_z1_time_wall · store country SA, new trial users (arm B) · flow szf_p1_z1_b_sa",
+      "text": "Approved, not built — VPN-980 · sz_z1_time_wall · store country SA, new trial users (arm B) · flow szf_p1_z1_b_sa",
       "kind": "title1",
       "maxW": 2144,
-      "page": "ipad"
+      "page": "ipad",
+      "color": "orange"
     },
     "ipad-VPN980-sa-n": {
       "x": 2264,
@@ -2434,7 +2436,7 @@
       "page": "ipad",
       "fill": "gray",
       "size": "m",
-      "text": "Proposal — VPN-980 · Saudi trial flow variant · waits for the board's card; nobody builds it before approval.\n\nPlacement: sz_z1_time_wall (Z1, the first time wall of the day). It carries today's trial offer for new users: arm B = Weekly with the 3-day free trial (OfferMomentRules.swift, \"control offer\").\nAudience (new, the operator makes it): store country SA, never subscribed, the arm B buckets (sz_z1b_new_lo, sz_z1b_new_hi). Arm A users (Monthly 1-week trial) and former subscribers stay as they are, so no product changes.\nProducts: the same as arm B: Weekly com.digitstudios.securezonevpn.week (default, introductory free trial 3 days); Monthly and Yearly stay in the paywall, not shown. Prices only from Adapty's product tags; $8.99 on the frames is a sample (United States storefront). Saudi users see their store price.\nA/B (the operator sets it): control = today's screen at this placement (row \"sz_z1_time_wall · arm B\" above: the app's P1); variant = flow szf_p1_z1_b_sa (these frames). 50/50 in the SA audience. Measure: trials cancelled within 1 hour (today 42 % of 422 Saudi trials) and trial to paid (today 11.8 %).\nArabic first: the flow's default locale is ar; English devices get en. Arabic texts are the source; English follows them.\n\nWhat changes against the control: only the timeline (today, reminder day, first charge) and the reminder line above the button. Title, subtitle, plan card, video row, button, terms and links are today's texts.\n\nTexts (AR | EN), NEW = new text:\n• اليوم: وصول كامل | Today: full access (app, OFFERS.TRIAL_SETUP.TODAY)\n• NEW تبدأ تجربتك المجانية الآن. | Your free trial starts now.\n• NEW بعد يومين: نذكّرك | In 2 days: we remind you\n• NEW نرسل لك إشعارًا بأن تجربتك تنتهي غدًا. | We send you a notification that your trial ends tomorrow.\n• NEW بعد 3 أيام: أول دفعة بقيمة {price} | In 3 days: first charge of {price} (the app writes the date; a flow has no date tag)\n• NEW ألغِ قبل ذلك من إعدادات iPhone ولن تدفع شيئًا. | Cancel before then in iPhone Settings and you pay nothing. (iPad: إعدادات iPad | iPad Settings)\n• NEW سنذكّرك قبل يوم واحد من أول دفعة | We remind you 1 day before the first charge\nThe step texts fit only a 3-day trial. If the trial length changes, they change too.\n\nReminder push (BackendEngineer, VPN-952), draft text for the board:\n• Title: تنتهي تجربتك المجانية غدًا | Your free trial ends tomorrow\n• Body: تبدأ خطتك الأسبوعية في Securezone VPN غدًا. لا تريد المتابعة؟ ألغِ اليوم من الإعدادات ولن تدفع شيئًا. | Your weekly Securezone VPN plan starts tomorrow. Don't want to keep it? Cancel today in Settings and you pay nothing.\n• When: 24 h before the first charge (48 h after the trial starts), only to variant users whose trial still renews. Language: the device language, Arabic when unknown. No price in the push.\n• Tap: opens the App Store subscription page through the app's link securezonevpn://offer?moment=g2 (exists: OfferMomentCoordinator.openLink).\n\nNeeds an app change before users can see it: at this placement the app draws its own P1 from the paywall's remote config (OfferMomentCoordinator.timeWallRequested → OfferMomentScreen). It opens an Adapty flow only from a push (AdaptyAdapter.presentPaywall). So the variant needs the iOS app to show the flow at the time wall and to handle two flow actions: \"watch video\" (rewarded video, a custom action: Adapty cannot play it) and close (back to No time left). See the hand-off on VPN-980.\nIcons: Tabler icons (lock-open, bell, credit-card, player-play, chevron), the Adapty builder's icon set."
+      "text": "Approved, not built — VPN-980 · Saudi trial flow variant · approved by the board on 2026-11-18 10:05Z (VPN-980 card). Built in Adapty as the draft flow szf_p1_z1_b_sa on no placement (VPN-1024, 2026-11-19); not live. Users see it only after the app change (VPN-987) and the reminder push (VPN-952) are live, and the operator sets the audience and the A/B test.\n\nPlacement: sz_z1_time_wall (Z1, the first time wall of the day). It carries today's trial offer for new users: arm B = Weekly with the 3-day free trial (OfferMomentRules.swift, \"control offer\").\nAudience (new, the operator makes it): store country SA, never subscribed, the arm B buckets (sz_z1b_new_lo, sz_z1b_new_hi). Arm A users (Monthly 1-week trial) and former subscribers stay as they are, so no product changes.\nProducts: the same as arm B: Weekly com.digitstudios.securezonevpn.week (default, introductory free trial 3 days); Monthly and Yearly stay in the paywall, not shown. Prices only from Adapty's product tags; $8.99 on the frames is a sample (United States storefront). Saudi users see their store price.\nA/B (the operator sets it): control = today's screen at this placement (row \"sz_z1_time_wall · arm B\" above: the app's P1); variant = flow szf_p1_z1_b_sa (these frames). 50/50 in the SA audience. Measure: trials cancelled within 1 hour (today 42 % of 422 Saudi trials) and trial to paid (today 11.8 %).\nArabic first: the flow's default locale is ar; English devices get en. Arabic texts are the source; English follows them.\n\nWhat changes against the control: only the timeline (today, reminder day, first charge) and the reminder line above the button. Title, subtitle, plan card, video row, button, terms and links are today's texts.\n\nTexts (AR | EN), NEW = new text:\n• اليوم: وصول كامل | Today: full access (app, OFFERS.TRIAL_SETUP.TODAY)\n• NEW تبدأ تجربتك المجانية الآن. | Your free trial starts now.\n• NEW بعد يومين: نذكّرك | In 2 days: we remind you\n• NEW نرسل لك إشعارًا بأن تجربتك تنتهي غدًا. | We send you a notification that your trial ends tomorrow.\n• NEW بعد 3 أيام: أول دفعة بقيمة {price} | In 3 days: first charge of {price} (the app writes the date; a flow has no date tag)\n• NEW ألغِ قبل ذلك من إعدادات iPhone ولن تدفع شيئًا. | Cancel before then in iPhone Settings and you pay nothing. (iPad: إعدادات iPad | iPad Settings)\n• NEW سنذكّرك قبل يوم واحد من أول دفعة | We remind you 1 day before the first charge\nThe step texts fit only a 3-day trial. If the trial length changes, they change too.\n\nReminder push (BackendEngineer, VPN-952), draft text for the board:\n• Title: تنتهي تجربتك المجانية غدًا | Your free trial ends tomorrow\n• Body: تبدأ خطتك الأسبوعية في Securezone VPN غدًا. لا تريد المتابعة؟ ألغِ اليوم من الإعدادات ولن تدفع شيئًا. | Your weekly Securezone VPN plan starts tomorrow. Don't want to keep it? Cancel today in Settings and you pay nothing.\n• When: 24 h before the first charge (48 h after the trial starts), only to variant users whose trial still renews. Language: the device language, Arabic when unknown. No price in the push.\n• Tap: opens the App Store subscription page through the app's link securezonevpn://offer?moment=g2 (exists: OfferMomentCoordinator.openLink).\n\nNeeds an app change before users can see it: at this placement the app draws its own P1 from the paywall's remote config (OfferMomentCoordinator.timeWallRequested → OfferMomentScreen). It opens an Adapty flow only from a push (AdaptyAdapter.presentPaywall). So the variant needs the iOS app to show the flow at the time wall and to handle two flow actions: \"watch video\" (rewarded video, a custom action: Adapty cannot play it) and close (back to No time left). See the hand-off on VPN-980.\nIcons: Tabler icons (lock-open, bell, credit-card, player-play, chevron), the Adapty builder's icon set."
     },
     "iphone-blk-VPN1032": {
       "x": 0,
