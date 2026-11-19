@@ -1279,6 +1279,38 @@
       "h": 1376,
       "page": "ipad",
       "title": "Proposal — VPN-980 · szf_p1_z1_b_sa · Adapty flow · sz_z1_time_wall · SA new trial users · weekly, 3 days free · iPad · EN"
+    },
+    "iPhone-Proposal1032-PushWait-Loading-EN.dc.html": {
+      "x": 0,
+      "y": 24500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1032 · push tap: Home (free, idle) under the page spinner until the paywall, flow or offer shows · iPhone · EN"
+    },
+    "iPhone-Proposal1032-PushWait-Loading-AR.dc.html": {
+      "x": 482,
+      "y": 24500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1032 · push tap: Home (free, idle) under the page spinner until the paywall, flow or offer shows · iPhone · AR"
+    },
+    "iPad-Proposal1032-PushWait-Loading-EN.dc.html": {
+      "x": 0,
+      "y": 31100,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1032 · push tap: Home (free, idle) under the page spinner until the paywall, flow or offer shows · iPad · EN"
+    },
+    "iPad-Proposal1032-PushWait-Loading-AR.dc.html": {
+      "x": 1112,
+      "y": 31100,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1032 · push tap: Home (free, idle) under the page spinner until the paywall, flow or offer shows · iPad · AR"
     }
   },
   "order": [
@@ -1438,7 +1470,11 @@
     "iPhone-Proposal980-szf_p1_z1_b_sa-Default-AR.dc.html",
     "iPhone-Proposal980-szf_p1_z1_b_sa-Default-EN.dc.html",
     "iPad-Proposal980-szf_p1_z1_b_sa-Default-AR.dc.html",
-    "iPad-Proposal980-szf_p1_z1_b_sa-Default-EN.dc.html"
+    "iPad-Proposal980-szf_p1_z1_b_sa-Default-EN.dc.html",
+    "iPhone-Proposal1032-PushWait-Loading-EN.dc.html",
+    "iPhone-Proposal1032-PushWait-Loading-AR.dc.html",
+    "iPad-Proposal1032-PushWait-Loading-EN.dc.html",
+    "iPad-Proposal1032-PushWait-Loading-AR.dc.html"
   ],
   "notes": {
     "iphone-Products": {
@@ -2399,6 +2435,58 @@
       "fill": "gray",
       "size": "m",
       "text": "Proposal — VPN-980 · Saudi trial flow variant · waits for the board's card; nobody builds it before approval.\n\nPlacement: sz_z1_time_wall (Z1, the first time wall of the day). It carries today's trial offer for new users: arm B = Weekly with the 3-day free trial (OfferMomentRules.swift, \"control offer\").\nAudience (new, the operator makes it): store country SA, never subscribed, the arm B buckets (sz_z1b_new_lo, sz_z1b_new_hi). Arm A users (Monthly 1-week trial) and former subscribers stay as they are, so no product changes.\nProducts: the same as arm B: Weekly com.digitstudios.securezonevpn.week (default, introductory free trial 3 days); Monthly and Yearly stay in the paywall, not shown. Prices only from Adapty's product tags; $8.99 on the frames is a sample (United States storefront). Saudi users see their store price.\nA/B (the operator sets it): control = today's screen at this placement (row \"sz_z1_time_wall · arm B\" above: the app's P1); variant = flow szf_p1_z1_b_sa (these frames). 50/50 in the SA audience. Measure: trials cancelled within 1 hour (today 42 % of 422 Saudi trials) and trial to paid (today 11.8 %).\nArabic first: the flow's default locale is ar; English devices get en. Arabic texts are the source; English follows them.\n\nWhat changes against the control: only the timeline (today, reminder day, first charge) and the reminder line above the button. Title, subtitle, plan card, video row, button, terms and links are today's texts.\n\nTexts (AR | EN), NEW = new text:\n• اليوم: وصول كامل | Today: full access (app, OFFERS.TRIAL_SETUP.TODAY)\n• NEW تبدأ تجربتك المجانية الآن. | Your free trial starts now.\n• NEW بعد يومين: نذكّرك | In 2 days: we remind you\n• NEW نرسل لك إشعارًا بأن تجربتك تنتهي غدًا. | We send you a notification that your trial ends tomorrow.\n• NEW بعد 3 أيام: أول دفعة بقيمة {price} | In 3 days: first charge of {price} (the app writes the date; a flow has no date tag)\n• NEW ألغِ قبل ذلك من إعدادات iPhone ولن تدفع شيئًا. | Cancel before then in iPhone Settings and you pay nothing. (iPad: إعدادات iPad | iPad Settings)\n• NEW سنذكّرك قبل يوم واحد من أول دفعة | We remind you 1 day before the first charge\nThe step texts fit only a 3-day trial. If the trial length changes, they change too.\n\nReminder push (BackendEngineer, VPN-952), draft text for the board:\n• Title: تنتهي تجربتك المجانية غدًا | Your free trial ends tomorrow\n• Body: تبدأ خطتك الأسبوعية في Securezone VPN غدًا. لا تريد المتابعة؟ ألغِ اليوم من الإعدادات ولن تدفع شيئًا. | Your weekly Securezone VPN plan starts tomorrow. Don't want to keep it? Cancel today in Settings and you pay nothing.\n• When: 24 h before the first charge (48 h after the trial starts), only to variant users whose trial still renews. Language: the device language, Arabic when unknown. No price in the push.\n• Tap: opens the App Store subscription page through the app's link securezonevpn://offer?moment=g2 (exists: OfferMomentCoordinator.openLink).\n\nNeeds an app change before users can see it: at this placement the app draws its own P1 from the paywall's remote config (OfferMomentCoordinator.timeWallRequested → OfferMomentScreen). It opens an Adapty flow only from a push (AdaptyAdapter.presentPaywall). So the variant needs the iOS app to show the flow at the time wall and to handle two flow actions: \"watch video\" (rewarded video, a custom action: Adapty cannot play it) and close (back to No time left). See the hand-off on VPN-980.\nIcons: Tabler icons (lock-open, bell, credit-card, player-play, chevron), the Adapty builder's icon set."
+    },
+    "iphone-blk-VPN1032": {
+      "x": 0,
+      "y": 23800,
+      "text": "Proposal — VPN-1032",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-VPN1032-row": {
+      "x": 0,
+      "y": 24200,
+      "text": "Proposal — VPN-1032 · push tap: loading box until the paywall, flow or offer shows",
+      "kind": "title1",
+      "maxW": 884,
+      "page": "iphone"
+    },
+    "iphone-VPN1032-n": {
+      "x": 1004,
+      "y": 24500,
+      "w": 960,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "m",
+      "text": "Proposal — VPN-1032 · loading box after a push tap · waits for the board's card; nobody builds it before approval.\n\nToday (VPN-1005): after a push tap that opens an Adapty paywall, flow or offer, Home stays as it was, with no sign of loading, and takes taps. The wait is 0.1–1.3 s on a fast network, up to about 5 s on a slow one, up to about 40 s the first time a paywall shows on a device. A failed load shows nothing. A tap during the wait can lose the offer, and Connect does not connect.\n\nThe box: the app's own page spinner, NSPageSpinner (Design System card NSPageSpinner; SZDesign/Controls/NSSpinner.swift). Scrim spinnerScrim rgba(0, 0, 0, 0.703) over the whole screen, safe areas included; the white system activity indicator (medium, tinted text #ffffff, box activityIndicatorSize 30 pt) in the centre. No new component, no new token.\nTexts: none. No new text (EN and AR). VoiceOver reads the system label of the indicator.\nArabic: nothing mirrors; Home under it is the current Arabic Home.\n\nWhere the box shows:\n• Paywall and flow pushes: over any Home tab (Home, Settings, Profile), from the push tap until the paywall or flow is on screen.\n• Offer pushes: until the offer page P1, P5 or P7 is on screen.\n• Cold start: from the end of the splash (it does not show on top of the splash).\n• iPhone and iPad (same path). Mac: no frames, the Mac app gets no pushes.\n\nThe screen under the box takes no touches: no tab change, no Connect, no server change (NSPageSpinner already takes every tap). A new push tap during the wait replaces the old request.\n\nTime limit: 8 s from the push tap (cold start: from the end of the splash). Reason: it covers the slow-network case (about 5 s) with margin; a longer block keeps the user from the VPN for too long. A load that fails before 8 s ends the wait at once. A paywall that arrives after the limit does not show.\n\nAfter the time limit or a failed load, the board chooses:\n(a) the app's own Get Premium screen (current frames iPhone-GET_PREMIUM-GetPremium-Loaded-EN and -AR, no change), or\n(b) nothing: the box goes away and Home stays.\nRecommended: (a). The user tapped a push to see an offer; (a) still shows them a way to buy, and the failure is not silent. For offer pushes, (a) shows the normal Get Premium prices, not the offer price.\n\nFrames: the current Home free idle frame (screen canvas, Home — notices · page spinner) is the same picture; these frames are its copy for this proposal."
+    },
+    "ipad-blk-VPN1032": {
+      "x": 0,
+      "y": 30400,
+      "text": "Proposal — VPN-1032",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "blue"
+    },
+    "ipad-VPN1032-row": {
+      "x": 0,
+      "y": 30800,
+      "text": "Proposal — VPN-1032 · push tap: loading box until the paywall, flow or offer shows",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-VPN1032-n": {
+      "x": 2264,
+      "y": 31100,
+      "w": 960,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "m",
+      "text": "Proposal — VPN-1032 · loading box after a push tap · waits for the board's card; nobody builds it before approval.\n\nToday (VPN-1005): after a push tap that opens an Adapty paywall, flow or offer, Home stays as it was, with no sign of loading, and takes taps. The wait is 0.1–1.3 s on a fast network, up to about 5 s on a slow one, up to about 40 s the first time a paywall shows on a device. A failed load shows nothing. A tap during the wait can lose the offer, and Connect does not connect.\n\nThe box: the app's own page spinner, NSPageSpinner (Design System card NSPageSpinner; SZDesign/Controls/NSSpinner.swift). Scrim spinnerScrim rgba(0, 0, 0, 0.703) over the whole screen, safe areas included; the white system activity indicator (medium, tinted text #ffffff, box activityIndicatorSize 30 pt) in the centre. No new component, no new token.\nTexts: none. No new text (EN and AR). VoiceOver reads the system label of the indicator.\nArabic: nothing mirrors; Home under it is the current Arabic Home.\n\nWhere the box shows:\n• Paywall and flow pushes: over any Home tab (Home, Settings, Profile), from the push tap until the paywall or flow is on screen.\n• Offer pushes: until the offer page P1, P5 or P7 is on screen.\n• Cold start: from the end of the splash (it does not show on top of the splash).\n• iPhone and iPad (same path). Mac: no frames, the Mac app gets no pushes.\n\nThe screen under the box takes no touches: no tab change, no Connect, no server change (NSPageSpinner already takes every tap). A new push tap during the wait replaces the old request.\n\nTime limit: 8 s from the push tap (cold start: from the end of the splash). Reason: it covers the slow-network case (about 5 s) with margin; a longer block keeps the user from the VPN for too long. A load that fails before 8 s ends the wait at once. A paywall that arrives after the limit does not show.\n\nAfter the time limit or a failed load, the board chooses:\n(a) the app's own Get Premium screen (current frames iPhone-GET_PREMIUM-GetPremium-Loaded-EN and -AR, no change), or\n(b) nothing: the box goes away and Home stays.\nRecommended: (a). The user tapped a push to see an offer; (a) still shows them a way to buy, and the failure is not silent. For offer pushes, (a) shows the normal Get Premium prices, not the offer price.\n\nFrames: the current Home free idle frame (screen canvas, Home — notices · page spinner) is the same picture; these frames are its copy for this proposal."
     }
   }
 }
