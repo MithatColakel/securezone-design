@@ -1696,22 +1696,6 @@
       "page": "ipad",
       "title": "Built in Adapty — VPN-980 · szf_p1_z1_b_sa · draft szf_p1_z1_b_sa, not live, no placement · Adapty preview render 2026-11-19/20, sample US prices · iPad · AR"
     },
-    "iPhone-Proposal1064-BlackFriday-Offer-EN.dc.html": {
-      "x": 0,
-      "y": 26500,
-      "w": 402,
-      "h": 874,
-      "page": "iphone",
-      "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · Offer: subscribed before · EN"
-    },
-    "iPhone-Proposal1064-BlackFriday-NoOffer-EN.dc.html": {
-      "x": 964,
-      "y": 26500,
-      "w": 402,
-      "h": 874,
-      "page": "iphone",
-      "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · No offer: can get neither · EN"
-    },
     "iPhone-Proposal1064-BlackFriday-Loading-EN.dc.html": {
       "x": 1446,
       "y": 26500,
@@ -1727,22 +1711,6 @@
       "h": 874,
       "page": "iphone",
       "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · Load failed, from the release after 5.0.8: the app's Get Premium · EN"
-    },
-    "iPhone-Proposal1064-BlackFriday-Offer-AR.dc.html": {
-      "x": 2410,
-      "y": 26500,
-      "w": 402,
-      "h": 874,
-      "page": "iphone",
-      "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · Offer: subscribed before · AR"
-    },
-    "iPhone-Proposal1064-BlackFriday-NoOffer-AR.dc.html": {
-      "x": 3374,
-      "y": 26500,
-      "w": 402,
-      "h": 874,
-      "page": "iphone",
-      "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · No offer: can get neither · AR"
     },
     "iPhone-Proposal1064-BlackFriday-Loading-AR.dc.html": {
       "x": 3856,
@@ -1760,21 +1728,53 @@
       "page": "iphone",
       "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · Load failed, from the release after 5.0.8: the app's Get Premium · AR"
     },
-    "iPhone-Proposal1064-BlackFriday-Trial-EN.dc.html": {
+    "iPhone-Proposal1064-BlackFriday2-Offer-EN.dc.html": {
+      "x": 0,
+      "y": 26500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · Offer: subscribed before · EN"
+    },
+    "iPhone-Proposal1064-BlackFriday2-Trial-EN.dc.html": {
       "x": 482,
       "y": 26500,
       "w": 402,
       "h": 874,
       "page": "iphone",
-      "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · Free trial: never subscribed · EN"
+      "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · Free trial: never subscribed · EN"
     },
-    "iPhone-Proposal1064-BlackFriday-Trial-AR.dc.html": {
+    "iPhone-Proposal1064-BlackFriday2-NoOffer-EN.dc.html": {
+      "x": 964,
+      "y": 26500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · No offer: can get neither · EN"
+    },
+    "iPhone-Proposal1064-BlackFriday2-Offer-AR.dc.html": {
+      "x": 2410,
+      "y": 26500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · Offer: subscribed before · AR"
+    },
+    "iPhone-Proposal1064-BlackFriday2-Trial-AR.dc.html": {
       "x": 2892,
       "y": 26500,
       "w": 402,
       "h": 874,
       "page": "iphone",
-      "title": "Proposal — VPN-1064 · Black Friday · Adapty flow · black_friday_flow (new) · users who are not premium · Free trial: never subscribed · AR"
+      "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · Free trial: never subscribed · AR"
+    },
+    "iPhone-Proposal1064-BlackFriday2-NoOffer-AR.dc.html": {
+      "x": 3374,
+      "y": 26500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · No offer: can get neither · AR"
     }
   },
   "order": [
@@ -1987,14 +1987,14 @@
     "iPad-Built726-szf_off-Default-AR.dc.html",
     "iPad-Built980-szf_p1_z1_b_sa-Default-EN.dc.html",
     "iPad-Built980-szf_p1_z1_b_sa-Default-AR.dc.html",
-    "iPhone-Proposal1064-BlackFriday-Offer-EN.dc.html",
-    "iPhone-Proposal1064-BlackFriday-Trial-EN.dc.html",
-    "iPhone-Proposal1064-BlackFriday-NoOffer-EN.dc.html",
+    "iPhone-Proposal1064-BlackFriday2-Offer-EN.dc.html",
+    "iPhone-Proposal1064-BlackFriday2-Trial-EN.dc.html",
+    "iPhone-Proposal1064-BlackFriday2-NoOffer-EN.dc.html",
     "iPhone-Proposal1064-BlackFriday-Loading-EN.dc.html",
     "iPhone-Proposal1064-BlackFriday-LoadFailed-EN.dc.html",
-    "iPhone-Proposal1064-BlackFriday-Offer-AR.dc.html",
-    "iPhone-Proposal1064-BlackFriday-Trial-AR.dc.html",
-    "iPhone-Proposal1064-BlackFriday-NoOffer-AR.dc.html",
+    "iPhone-Proposal1064-BlackFriday2-Offer-AR.dc.html",
+    "iPhone-Proposal1064-BlackFriday2-Trial-AR.dc.html",
+    "iPhone-Proposal1064-BlackFriday2-NoOffer-AR.dc.html",
     "iPhone-Proposal1064-BlackFriday-Loading-AR.dc.html",
     "iPhone-Proposal1064-BlackFriday-LoadFailed-AR.dc.html"
   ],
@@ -3240,7 +3240,7 @@
     "iphone-VPN1064-row": {
       "x": 0,
       "y": 26200,
-      "text": "Proposal — VPN-1064 · Black Friday · placement black_friday_flow (new) · users who are not premium · flow (new)",
+      "text": "Proposal — VPN-1064 · Black Friday (redesign, 2026-11-21) · placement black_friday_flow (new) · users who are not premium · flow (new)",
       "kind": "title1",
       "maxW": 3856,
       "page": "iphone"
@@ -3252,7 +3252,7 @@
       "page": "iphone",
       "fill": "gray",
       "size": "m",
-      "text": "Proposal — VPN-1064 · Black Friday flow · plans, offer, placement, audience, iPad. Waits for the board's card; nobody builds it before approval. Board approval 91bce63e, item 3 (2026-11-21).\n\nPlacement: black_friday_flow, a new flow placement (the operator makes it). A push opens the flow by its placement (data.target = \"black_friday_flow\").\nApp versions: only Securezone 5.0.8 and later can show an Adapty flow (Adapty.getFlow, SDK 4.3.2). The store version 5.0.6 (2) (Adapty SDK 3.15.7) has no flows: a push tap there shows nothing. On 11-27 only users with 5.0.8 see this flow. No app change for 5.0.8.\nLanguage: 5.0.8 sends no language to Adapty, so the flow shows English on every phone, Arabic phones too. Arabic shows from the version with PR #58 (VPN-972), planned for the release after 5.0.8. The Arabic frames show that version.\nAudience: only users who are not premium. Never show this flow to a premium user (board rule, 2026-11-21). The operator sets this audience on the placement. The push campaign of 11-27 is a separate board decision.\nDates: build 11-23 (SecurezoneiOS, draft), live 11-26, Black Friday 11-27. The end date of the offer is the board's choice.\n\nWho sees which state (Apple's offer rules, pm-card-facts on VPN-1064):\n• Offer: not premium, and subscribed before. A promotional offer goes only to people who have or had a subscription in the group. It is not clear if a user who only had a free trial counts; Adapty answers it.\n• Free trial: not premium, and never subscribed. They can get only the plan's introductory offer (Securezone: a 3-day free trial on Yearly, Weekly and Monthly). Apple applies it by itself at purchase. Probably most free users.\n• No offer: not premium, and can get neither (for example a past subscriber who used the offer already, and had the trial).\n\nPlans and offers: choices for the card. The board picks; Project Manager adds the Adapty product ids and offer ids.\nPlan 1 (first row, selected, with the pill):\n A. Yearly (com.digitstudios.securezonevpn.year) with a NEW promotional offer: a very low price for the first year (pay up front, 1 year). It does not exist yet: new offer, made by the operator in App Store Connect. Recommended: it is the strongest Black Friday deal, it is paid up front for a full year, and it is what the board's rule for users who are not premium allows.\n B. Yearly with its existing introductory offer: free trial, 3 days (only for users who never had an introductory offer in the group). With B, the Free trial frames are the main state.\n C. Weekly (com.digitstudios.securezonevpn.week) with the existing promotional offer promotional1 (pay up front, 1 month; Adapty 2a256fe3).\n D. Monthly (com.digitstudios.securezonevpn.month) with the existing promotional offer promotional2 (pay as you go, 1 month; Adapty 0c7acae2, today not live).\nReach: A, C and D reach only people who subscribed before. B reaches only people who never subscribed. With A, C or D, a user who never subscribed sees the Free trial state.\n E. Yearly as a NEW Black Friday product (made by the operator), with the first-year price as its introductory offer and the same price as a promotional offer for past subscribers. Everyone who is not premium can get the deal. Apple must approve the new product first; the board submits it. With E, the Offer frames show for both groups, and the free trial shows only on the Weekly row (\"3 days free, then [price] / week\").\nPlan 2 (second row, no offer): Weekly (on the frames), Monthly, or none (then one row only).\nThe texts on the Offer frames fit choice A (and E). With B, C or D the offer words change (for example \"3 days free\" or \"first month for [offer price]\"). I change them before the build. Offer lengths are words in the text, never the field offer_full_duration (SDK 4.3.2 draws it as an empty line, VPN-1024).\nPrices are never typed. A dashed box is a product field: price = the plan's App Store price, offer price = the offer's price, price per week = the Yearly price per week. Each storefront shows its own App Store price.\n\nStates (EN left, AR right):\n1. Offer: the user can get the offer. Yearly with the offer is selected.\n2. Free trial: the user never subscribed. Same screen; the Yearly row (selected) and the Weekly row show \"3 days free\" and \"then [price] / year\" or \"/ week\", the pill \"Best value\", the button \"Start my free trial\", and the line \"3 days free, then [price] / year. Renews automatically. Cancel anytime.\" These are the trial texts of the approved Get Premium flow.\n3. No offer: the user can get neither the offer nor the trial. Same screen; only the product texts change: Yearly at its normal price, the pill \"Best value\", the button \"Continue\". Tag, headline, subtitle and features stay the same, so they are true in every state. The tag BLACK FRIDAY names the campaign; it does not promise a price.\n4. Loading (from the release after 5.0.8): after the push tap, Home under the app's page spinner NSPageSpinner, up to 8 s (approved on VPN-1032; build VPN-1040). VPN-1040 is in backlog for the first release after 5.0.8; no store version has it on 11-26. Until then, Home stays as it is, with no sign of loading (about 0.1–5 s, up to about 40 s the first time).\n5. Load failed, or 8 s passed (from the release after 5.0.8): the app's own Get Premium (VPN-1040, choice a), with normal prices and no Black Friday offer. Until then, nothing shows and Home stays.\nWeekly selected (no frame): button \"Continue\", line \"[price] / week. Renews automatically. Cancel anytime.\"\n\niPad: the flow has one layout for iPhone and iPad. On iPad the content stays one centred column of about 560 pt; ✕ and Restore are at the screen edges; the button, its line and the links are pinned at the bottom, with empty space above them (as the built flows on the iPad page, for example \"Built in Adapty — VPN-726 · Ramadan\"). iPad gets QA and simulator pictures only, no device test. Mac: no frames; the Mac app gets no pushes.\n\nDesign: the tokens and parts of the 12 approved flows. Background #080b13; plan card #171d2e, radius 18; accent #ffc700 (tag, pill, selected border and radio, button) with text #000000 on it (13.42:1); white text #ffffff (19.67:1 on #080b13, 16.78:1 on #171d2e); secondary text #b3b7c3 (9.81:1 on #080b13, 8.37:1 on #171d2e); Restore #7f9fef (7.59:1 on #080b13). Picture: the app's gift illustration (Illustrations/gift.png, PNG). Ticks: Icons/thickyellow.png. ✕: Icons/close.png. No new token, no new component. The app has no Black Friday artwork (see Proposals on VPN-1064).\nArabic: English is the first (default) language, Arabic the second. \"Mirror for RTL\" on in every container, as in the 12 flows. Texts that can wrap are centred (headline, subtitle, renewal line). Features, plan names, plan lines and pills fit on one line."
+      "text": "Proposal — VPN-1064 · Black Friday flow, redesign (board, 2026-11-21 ~19:20Z: \"nothing on it shows that it is for Black Friday\"). Waits for the board's frames card; nobody builds it before approval. Board approval 91bce63e, item 3. The rejected frames (BlackFriday-Offer/-Trial/-NoOffer) are removed; git keeps them. The new frames have new names (BlackFriday2-…).\n\nWhat is new:\n• Content made for Black Friday: the headline \"Shop Black Friday safely\", the subtitle and the 4 feature lines say why a VPN matters on Black Friday: people shop and pay on mall, café and hotel Wi-Fi. They promise no price, so they are true in all 3 states.\n• Campaign artwork, drawn for this task: a shopping bag with a gold shield and lock, price tags, gold light and sparkles on black. PNG, no text in it, one picture for English and Arabic: design-paywalls/assets/campaign/BlackFriday-hero.png (1086 × 510 px = 362 × 170 pt at 3×). Own drawing (SVG made on the runner, rendered to PNG). No stock image, no brand or Apple mark. Glow and gradients are inside the PNG, so the flow needs only an image.\n• Campaign colours: true black background, gold accent. They stay in line with the app (its gold #ffc700 and its tick and close icons), as the board allows. Colours live in this block only; the Design System does not change.\n• Offer state: the pill \"Until 30 Nov\" (board's end date), the button \"Get the Black Friday price\".\n• No offer state: the button \"Protect my shopping\".\n\nBoard's answers (2026-11-21 ~19:00Z): offer 1 = choice A, a new first-year price on Yearly for past subscribers; first-year price $19.99 in the US (75 % off; the screen never types it: it is the offer price field, each storefront has its own price); end date Monday 30 November; Arabic on 11-27: yes, PR #58 goes into 5.0.8 (2). Arabic tag: الجمعة البيضاء.\n\nPlacement: black_friday_flow, a new flow placement (the operator makes it). A push opens the flow by its placement (data.target = \"black_friday_flow\"). The screen also works without a push (for example at app open on special days, VPN-1075, not part of this task): no text refers to a push.\nApp versions: only Securezone 5.0.8 and later can show an Adapty flow (SDK 4.3.2). The store version 5.0.6 (2) (Adapty SDK 3.15.7) has no flows: a push tap there shows nothing.\nLanguage: 5.0.8 (2) has PR #58 (VPN-972), so Arabic phones see the Arabic flow. English is the first (default) language, Arabic the second.\nAudience: only users who are not premium. Never show this flow to a premium user. 5.0.8 opens a stored push tap's screen with no premium check (VPN-871), so the push audience and the Adapty audience must both leave premium users out.\nDates: build 11-23 (SecurezoneiOS, draft), live 11-26, Black Friday 11-27, the offer ends Monday 11-30.\n\nWho sees which state (Apple's offer rules, pm-card-facts on VPN-1064):\n• Offer: not premium, and subscribed before. Apple gives a promotional offer only to people who have or had a subscription in the group. If a user who only had a free trial counts: Adapty answers it.\n• Free trial: not premium, and never subscribed. They get the plan's introductory offer (3 days free on Yearly and Weekly). Apple applies it by itself at purchase. Probably most free users.\n• No offer: not premium, and can get neither (for example a past subscriber who had the trial and cannot get the offer).\nOnly the plan texts, the pill, the button and the line under it change with the state. Tag, artwork, headline, subtitle and features are the same in all 3 states.\n\nPlans and offers (the board chose A on 2026-11-21; Project Manager adds the Adapty ids):\n A. CHOSEN. Yearly (com.digitstudios.securezonevpn.year) with a NEW promotional offer: first-year price, pay up front, 1 year. SecurezoneiOS makes it in App Store Connect on the Securezone Mac by 11-22; the offer id goes into Securezone's Adapty.\n B. Yearly with its existing 3-day free trial (only users who never subscribed).\n C. Weekly (com.digitstudios.securezonevpn.week) with promotional1 (pay up front, 1 month).\n D. Monthly (com.digitstudios.securezonevpn.month) with promotional2 (pay as you go, 1 month; not live today).\n E. Yearly as a new Black Friday product with the first-year price as introductory and promotional offer (Apple review first).\nReach: A, C and D reach only people who subscribed before. B reaches only people who never subscribed. E reaches both.\nPlan 2 (second row, no offer): my proposal is Weekly (on the frames): a short plan next to the yearly deal makes the yearly price stand out, and it carries the 3-day free trial for new users. Other choices: Monthly, or none (one row only). This is the one open choice for the card.\nPrices are never typed. A dashed box is a product field: price = the plan's App Store price, offer price = the offer's price, price per week = the Yearly price per week.\n\nStates (EN left, AR right): Offer · Free trial · No offer · Loading · Load failed. Loading and Load failed are unchanged: they show the app, not this screen (from the release after 5.0.8, VPN-1040). Until then Home stays as it is while the flow loads, and nothing shows if it fails.\nWeekly selected (no frame): button as in the state; the line \"[price] / week. Renews automatically. Cancel anytime.\" (Free trial: \"3 days free, then [price] / week. …\").\n\nLayout (top to bottom): ✕ (start side) and Restore (end side); tag BLACK FRIDAY | الجمعة البيضاء (gold box, black text, letter spacing 2); artwork 362 × 170 pt, full width; headline 26 pt heavy, centred, one line; subtitle 15 pt, centred, one line; features in 2 columns × 2 rows with gold ticks, one line each; 2 plan rows (radius 16, border 2); the selected row has a gold border and a dark gold fill, the plan name with the pill next to it; gold button 56 pt, radius 16; renewal line 12 pt, centred; Terms of Use · Privacy Policy.\nColours (this block only): background #000000; plan row #15151a, border #2c2c33 (decoration only; the row fill and the radio show the row); selected row #1d1a0d, border #ffc700; text #ffffff; secondary text #b5b5bf; gold #ffc700 (tag, pill, button, offer line, Restore, radio, ticks) with text #000000 on it.\nContrast (all ≥ 4.5:1): #ffffff on #000000 21.0, on #15151a 18.2, on #1d1a0d 17.42; #b5b5bf on #000000 10.33, on #15151a 8.95, on #1d1a0d 8.56; #ffc700 on #000000 13.42, on #15151a 11.63, on #1d1a0d 11.13; #000000 on #ffc700 13.42. Radio ring #b5b5bf on #15151a 8.95 (≥ 3:1).\nAssets: artwork ../assets/campaign/BlackFriday-hero.png (new, this block only); ticks Icons/thickyellow.png and ✕ Icons/close.png from the Design System (the app's own files).\nArabic: \"Mirror for RTL\" on in every container. Headline, subtitle, features, plan names, plan lines, pills and button fit on one line. Only the renewal line wraps; it is centred, as in the 12 built flows.\n\niPad: one layout for iPhone and iPad. On iPad the content is one centred column of about 560 pt; the artwork keeps its 362 × 170 pt size, centred, on the black background (it has a black edge, so no seam shows); ✕ and Restore are at the screen edges; the button, its line and the links are at the bottom. iPad gets QA and simulator pictures only, no device test. Mac: no frames; the Mac app gets no pushes."
     },
     "iphone-VPN1064-texts": {
       "x": 5860,
@@ -3261,7 +3261,7 @@
       "page": "iphone",
       "fill": "gray",
       "size": "m",
-      "text": "Texts (EN | AR). The board approves them on the card. NEW = new text; the others are already in the approved flows. [field] = product field, never typed.\n• Close (VoiceOver of ✕) | إغلاق\n• Restore | استعادة المشتريات (restores purchases)\n• NEW BLACK FRIDAY | الجمعة البيضاء (\"White Friday\": the name that Gulf stores use for Black Friday. Choice for the board: الجمعة السوداء, the literal name.)\n• NEW Go Premium today | اشترك في بريميوم اليوم\n• NEW Unlimited, fast and private on every network. | اتصال بلا حدود وسريع وخاص على كل شبكة.\n• Unlimited & fast connection | اتصال سريع وغير محدود\n• Secure streaming and browsing | بث وتصفح آمن\n• No ads | من دون إعلانات\n• 100+ virtual locations | أكثر من 100 موقع افتراضي\n• Yearly | سنوي\n• Weekly | أسبوعي\n• NEW [offer price] for the first year | [offer price] للسنة الأولى\n• NEW then [price] / year | ثم [price] في السنة\n• NEW pill Black Friday | الجمعة البيضاء\n• Get my offer (button, offer) | احصل على العرض\n• Start my free trial (button, free trial) | ابدأ تجربتي المجانية\n• NEW [offer price] for the first year, then [price] / year. Renews automatically. Cancel anytime. | [offer price] للسنة الأولى، ثم [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\nFree trial (texts of the approved Get Premium flow, except the \"then\" lines):\n• 3 days free (Yearly and Weekly rows) | 3 أيام مجانًا\n• then [price] / year (same text as in Offer) | ثم [price] في السنة\n• NEW then [price] / week | ثم [price] في الأسبوع\n• 3 days free, then [price] / year. Renews automatically. Cancel anytime. | 3 أيام مجانًا، ثم [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\n• Weekly selected: 3 days free, then [price] / week. Renews automatically. Cancel anytime. | 3 أيام مجانًا، ثم [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\nNo offer, and Weekly:\n• [price] / year | [price] في السنة\n• [price per week] / week | [price per week] في الأسبوع\n• [price] / week | [price] في الأسبوع\n• pill Best value | الأفضل قيمة\n• Continue (button) | متابعة\n• [price] / year. Renews automatically. Cancel anytime. | [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\n• NEW [price] / week. Renews automatically. Cancel anytime. | [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\nLinks:\n• Terms of Use | شروط الاستخدام → https://securezonevpn.app/content/vpn/terms-of-use.html\n• Privacy Policy | سياسة الخصوصية → https://securezonevpn.app/content/vpn/privacy-policy.html\n(The same pages as the app's Settings, SettingsConstants in Navigation.swift.)\nLoading and Load failed: no new text (the page spinner has none; Get Premium is the app's own screen)."
+      "text": "Texts (EN | AR). The board approves them on the card. NEW = new text; the others are already in the approved flows. [field] = product field, never typed.\nSame in every state:\n• Close (VoiceOver of ✕) | إغلاق\n• Restore | استعادة المشتريات\n• BLACK FRIDAY (tag) | الجمعة البيضاء (board's choice)\n• NEW Shop Black Friday safely | تسوّق بأمان في الجمعة البيضاء\n• NEW Keep your shopping private on every network. | حافظ على خصوصية تسوّقك على كل شبكة.\n• NEW Safe on public Wi-Fi | أمان على Wi-Fi العام\n• NEW Private shopping | تسوّق بخصوصية\n• NEW Unlimited and fast | سريع وغير محدود\n• 100+ virtual locations | أكثر من 100 موقع افتراضي\n• Yearly | سنوي\n• Weekly | أسبوعي\n• Terms of Use | شروط الاستخدام → https://securezonevpn.app/content/vpn/terms-of-use.html\n• Privacy Policy | سياسة الخصوصية → https://securezonevpn.app/content/vpn/privacy-policy.html\nOffer (subscribed before):\n• NEW pill Until 30 Nov | حتى 30 نوفمبر\n• [offer price] for the first year | [offer price] للسنة الأولى\n• then [price] / year | ثم [price] في السنة\n• [price] / week (Weekly row) | [price] في الأسبوع\n• NEW Get the Black Friday price (button) | احصل على سعر الجمعة البيضاء\n• [offer price] for the first year, then [price] / year. Renews automatically. Cancel anytime. | [offer price] للسنة الأولى، ثم [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\nFree trial (never subscribed):\n• pill Best value | الأفضل قيمة\n• 3 days free (Yearly and Weekly rows) | 3 أيام مجانًا\n• then [price] / year | ثم [price] في السنة\n• then [price] / week | ثم [price] في الأسبوع\n• Start my free trial (button) | ابدأ تجربتي المجانية\n• 3 days free, then [price] / year. Renews automatically. Cancel anytime. | 3 أيام مجانًا، ثم [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\n• Weekly selected: 3 days free, then [price] / week. Renews automatically. Cancel anytime. | 3 أيام مجانًا، ثم [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\nNo offer (can get neither):\n• pill Best value | الأفضل قيمة\n• [price] / year | [price] في السنة\n• [price per week] / week | [price per week] في الأسبوع\n• [price] / week (Weekly row) | [price] في الأسبوع\n• NEW Protect my shopping (button) | احمِ تسوّقي\n• [price] / year. Renews automatically. Cancel anytime. | [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\n• Weekly selected: [price] / week. Renews automatically. Cancel anytime. | [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت.\nRemoved from the rejected design: \"Go Premium today\", \"Unlimited, fast and private on every network.\", the pill \"Black Friday\", \"Get my offer\", \"Continue\".\nLoading and Load failed: no new text."
     },
     "iphone-VPN1064-q": {
       "x": 6860,
@@ -3270,7 +3270,7 @@
       "page": "iphone",
       "fill": "teal",
       "size": "m",
-      "text": "Builder questions, with Project Manager's answers (2026-11-21). Confirmations go to SecurezoneiOS at the build.\n1. Can a product text, the pill and the button switch when the user cannot get the offer? YES. The built flows switch texts on is_pay_up_front (szf_p5_s3: a pay-up-front offer, with its line for users who cannot get it), is_pay_as_you_go and is_free_trial (QA PASS, VPN-1024). So the three states Offer, Free trial and No offer are one flow.\n2. Offer price field: offer_price is in the built flows, and the board's phone test of 11-21 reported no empty price. SecurezoneiOS confirms it at the build.\n3. Promotional offer for a user who never subscribed: NO. Apple gives a promotional offer only to people who have or had a subscription. These users see the Free trial state (choice A, C or D), or the deal itself with choice E.\n4. Yearly with both offers: only a past subscriber who never had a trial can get both. Adapty then applies the promotional offer that the flow attaches to the plan. SecurezoneiOS confirms it at the build.\n5. Price per week (No offer, Yearly): prod_price_per_week draws on SDK 4.3.2 (VPN-1024). SecurezoneiOS at the build.\n6. Radio circles on the plan rows: if the builder has no radio state, the selected border alone shows the choice. SecurezoneiOS at the build."
+      "text": "Builder questions (SecurezoneiOS at the build, before 11-23). Answers from Project Manager (2026-11-21) where known.\n1. Texts per state: YES. The built flows switch texts on is_pay_up_front, is_pay_as_you_go and is_free_trial (QA PASS, VPN-1024). Here the pill, the plan lines, the button and the renewal line switch.\n2. offer_price is in the built flows (no empty price in the board's phone test of 11-21). Confirm on SDK 4.3.2.\n3. A promotional offer never goes to a user who never subscribed: they see the Free trial state.\n4. A past subscriber who never had a trial: Adapty applies the promotional offer that the flow attaches to the Yearly plan. Confirm at the build.\n5. prod_price_per_week draws on SDK 4.3.2 (No offer, Yearly row). Confirm.\n6. Radio state on the plan rows: if the builder has none, the selected border and fill alone show the choice.\n7. NEW: a pill inside a horizontal stack next to the plan name (not overlapping the border). If the builder cannot, put the pill at the end of the row.\n8. NEW: a dark gold fill (#1d1a0d) on the selected row only. If the builder cannot fill by selection, use #15151a for both rows; the gold border shows the choice.\n9. NEW: the artwork is one PNG, 1086 × 510 px, shown at 362 × 170 pt, aspect fit, centred (no background image). Confirm that a PNG of about this size loads quickly enough after a push tap.\n10. NEW: \"Until 30 Nov\" is plain text, not a countdown. It is true only if the offer stops at the end of Monday 30 November. Who removes the offer or the placement then, and at what time (time zone)? Project Manager or the operator."
     },
     "ipad-blk-VPN1064": {
       "x": 0,
@@ -3288,7 +3288,7 @@
       "page": "ipad",
       "fill": "gray",
       "size": "m",
-      "text": "Proposal — VPN-1064 · Black Friday flow · no iPad frames. The flow has one layout for iPhone and iPad: see the iPhone page, block \"Proposal — VPN-1064\", note \"iPad\". iPad gets QA and simulator pictures only, no device test."
+      "text": "Proposal — VPN-1064 · Black Friday flow (redesign) · no iPad frames. The flow has one layout for iPhone and iPad: see the iPhone page, block \"Proposal — VPN-1064\", the main note, part \"iPad\". iPad gets QA and simulator pictures only, no device test."
     }
   }
 }
