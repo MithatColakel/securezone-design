@@ -1807,6 +1807,102 @@
       "h": 874,
       "page": "iphone",
       "title": "Proposal — VPN-1064 · Black Friday (redesign) · Adapty flow · black_friday_flow (new) · users who are not premium · Offer: subscribed before · pill without a date · option for the board's card, not the build sheet · AR"
+    },
+    "iPhone-Proposal1145-P1TimeWall-ArmA-EN.dc.html": {
+      "x": 0,
+      "y": 30500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm A, Monthly + 1 week free (bucket 60: TestFlight and App Review) · billed price is the main price · iPhone · EN"
+    },
+    "iPhone-Proposal1145-P1TimeWall-FormerSubscriber-EN.dc.html": {
+      "x": 482,
+      "y": 30500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · former subscriber, Weekly + sz_week_back20_2w · billed price is the main price · iPhone · EN"
+    },
+    "iPhone-Proposal1145-P1TimeWall-ArmB-EN.dc.html": {
+      "x": 964,
+      "y": 30500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm B, Weekly + 3 days free (same card rule) · billed price is the main price · iPhone · EN"
+    },
+    "iPhone-Proposal1145-P1TimeWall-ArmA-AR.dc.html": {
+      "x": 1446,
+      "y": 30500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm A, Monthly + 1 week free (bucket 60: TestFlight and App Review) · billed price is the main price · iPhone · AR"
+    },
+    "iPhone-Proposal1145-P1TimeWall-FormerSubscriber-AR.dc.html": {
+      "x": 1928,
+      "y": 30500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · former subscriber, Weekly + sz_week_back20_2w · billed price is the main price · iPhone · AR"
+    },
+    "iPhone-Proposal1145-P1TimeWall-ArmB-AR.dc.html": {
+      "x": 2410,
+      "y": 30500,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm B, Weekly + 3 days free (same card rule) · billed price is the main price · iPhone · AR"
+    },
+    "iPad-Proposal1145-P1TimeWall-ArmA-EN.dc.html": {
+      "x": 0,
+      "y": 35500,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm A, Monthly + 1 week free (bucket 60: TestFlight and App Review) · billed price is the main price · iPad · EN"
+    },
+    "iPad-Proposal1145-P1TimeWall-FormerSubscriber-EN.dc.html": {
+      "x": 1112,
+      "y": 35500,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · former subscriber, Weekly + sz_week_back20_2w · billed price is the main price · iPad · EN"
+    },
+    "iPad-Proposal1145-P1TimeWall-ArmB-EN.dc.html": {
+      "x": 2224,
+      "y": 35500,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm B, Weekly + 3 days free (same card rule) · billed price is the main price · iPad · EN"
+    },
+    "iPad-Proposal1145-P1TimeWall-ArmA-AR.dc.html": {
+      "x": 3336,
+      "y": 35500,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm A, Monthly + 1 week free (bucket 60: TestFlight and App Review) · billed price is the main price · iPad · AR"
+    },
+    "iPad-Proposal1145-P1TimeWall-FormerSubscriber-AR.dc.html": {
+      "x": 4448,
+      "y": 35500,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · former subscriber, Weekly + sz_week_back20_2w · billed price is the main price · iPad · AR"
+    },
+    "iPad-Proposal1145-P1TimeWall-ArmB-AR.dc.html": {
+      "x": 5560,
+      "y": 35500,
+      "w": 1032,
+      "h": 1376,
+      "page": "ipad",
+      "title": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · arm B, Weekly + 3 days free (same card rule) · billed price is the main price · iPad · AR"
     }
   },
   "order": [
@@ -2032,7 +2128,19 @@
     "iPhone-Proposal1064-BlackFriday2-OfferWeekly-EN.dc.html",
     "iPhone-Proposal1064-BlackFriday2-OfferNoDate-EN.dc.html",
     "iPhone-Proposal1064-BlackFriday2-OfferWeekly-AR.dc.html",
-    "iPhone-Proposal1064-BlackFriday2-OfferNoDate-AR.dc.html"
+    "iPhone-Proposal1064-BlackFriday2-OfferNoDate-AR.dc.html",
+    "iPhone-Proposal1145-P1TimeWall-ArmA-EN.dc.html",
+    "iPhone-Proposal1145-P1TimeWall-FormerSubscriber-EN.dc.html",
+    "iPhone-Proposal1145-P1TimeWall-ArmB-EN.dc.html",
+    "iPhone-Proposal1145-P1TimeWall-ArmA-AR.dc.html",
+    "iPhone-Proposal1145-P1TimeWall-FormerSubscriber-AR.dc.html",
+    "iPhone-Proposal1145-P1TimeWall-ArmB-AR.dc.html",
+    "iPad-Proposal1145-P1TimeWall-ArmA-EN.dc.html",
+    "iPad-Proposal1145-P1TimeWall-FormerSubscriber-EN.dc.html",
+    "iPad-Proposal1145-P1TimeWall-ArmB-EN.dc.html",
+    "iPad-Proposal1145-P1TimeWall-ArmA-AR.dc.html",
+    "iPad-Proposal1145-P1TimeWall-FormerSubscriber-AR.dc.html",
+    "iPad-Proposal1145-P1TimeWall-ArmB-AR.dc.html"
   ],
   "notes": {
     "iphone-Products": {
@@ -3333,6 +3441,76 @@
       "kind": "title1",
       "maxW": 1848,
       "page": "iphone"
+    },
+    "iphone-blk-VPN1145": {
+      "x": 0,
+      "y": 29800,
+      "text": "Proposal — VPN-1145",
+      "kind": "title1",
+      "maxW": 3856,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-VPN1145-row": {
+      "x": 0,
+      "y": 30200,
+      "text": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · billed price is the main price: arm A, former subscriber, arm B · EN then AR",
+      "kind": "title1",
+      "maxW": 3856,
+      "page": "iphone"
+    },
+    "iphone-VPN1145-n": {
+      "x": 2892,
+      "y": 30500,
+      "w": 960,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "m",
+      "text": "Proposal — VPN-1145 · P1 time wall (app-drawn, sz_z1_time_wall): the billed price is the main price · fix for App Review rule 3.1.2 (guideline check R5, R6 on build 5.0.8 (2)) · waits for the board's frames card; SecurezoneiOS builds it in 5.0.8 (3) after approval.\n\nCurrent rows (screenshots 5.0.7 (4), same P1 code as 5.0.8 (2)): rows \"P1 time wall, former subscriber\", \"arm A\", \"arm B\" above.\n\nWhat changes (only the plan card and one timeline line; every other part of P1 stays as built):\n1. Plan card, every arm. Top line: plan name (14 pt regular, cGray #b3b7c3) and the badge (unchanged) on the trailing side. Under it the billed price with its period: 18 pt semibold, text #ffffff (the style the plan name has today). It is the largest price on the page (timeline 14 pt, footer 11 pt).\n   • Arm A: \"$14.99/month\". The calculated per-week value ($3.46/week) is gone.\n   • Former subscribers: \"$7.29/week for 2 weeks\" (main line), then \"then $8.99/week\" (14 pt, cGray). The billed offer price comes first.\n   • Arm B: \"$8.99/week\" (the same value as today; only the card order changes, because the card is shared).\n2. Timeline, arms A and B: the charge line gives the period: \"November 30: first charge of $14.99/month\". The existing text OFFERS.TRIAL_SETUP.FIRST_CHARGE stays; its price value becomes the price with its period. Former subscribers have no timeline (as built).\n\nNo new component and no new token: the card uses OfferPanel, OfferBadge, Palette.text, Palette.cGray and the sizes 18/14 that P1 already has. Card padding 18 (as built; frames show 16 vertical to fit the extra line, builder may keep 18).\n\nPrices: the app takes them from the App Store at run time. The frames show the United States storefront: Monthly $14.99, Weekly $8.99, offer sz_week_back20_2w $7.29/week for 2 weeks (18% off, rounded down). In Arabic the price is the App Store's own string, digits as the store gives them (\"$14.99\", left to right inside the right-to-left line). Dates are samples (week trial from 11-23, 3-day trial from 11-23).\n\niPad: P1 shows on iPad (gallery iPad shots). Same code, full width; iPad frames on the iPad page, same block name. \"iPhone Settings\" on iPad is as built (not part of this change).\n\nWho sees each frame: Arm A = new users in buckets of arm A, which includes TestFlight and App Review installs (bucket 60). Former subscribers = sz_old_sub (offer sz_week_back20_2w). Arm B = new users in arm B buckets.\n\nRenders use a fallback font (no Apple fonts on the runner). Sizes and weights come from OfferMomentViews.swift at ios/5.0.8+2."
+    },
+    "iphone-VPN1145-texts": {
+      "x": 3892,
+      "y": 30500,
+      "w": 960,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "m",
+      "text": "Texts (EN | AR). NEW = new text for the build. The others exist (Localizable.xcstrings at ios/5.0.8+2).\nPlan card:\n• NEW OFFERS.PLAN.PER_MONTH: \"%1$@/month\" | \"%1$@ شهريًا\" → \"$14.99/month\" | \"$14.99 شهريًا\" (arm A main price)\n• OFFERS.PLAN.PER_WEEK (exists): \"%1$@/week\" | \"%1$@ في الأسبوع\" → \"$8.99/week\" (arm B main price). Its old use, the per-week value of the monthly plan, is removed.\n• NEW OFFERS.TIME_WALL.OFFER_PRICE: \"%1$@/week for 2 weeks\" | \"%1$@ في الأسبوع لمدة أسبوعين\" → \"$7.29/week for 2 weeks\" (former subscribers, main price)\n• NEW OFFERS.TIME_WALL.THEN_PRICE: \"then %1$@/week\" | \"ثم %1$@ في الأسبوع\" → \"then $8.99/week\" (former subscribers, second line)\n• Plan names (exist, now 14 pt grey on the top line): Monthly | شهري · Weekly | أسبوعي\n• Badges (unchanged): 1 week free | أسبوع مجانًا · 3 days free | 3 أيام مجانًا · 18% off for 2 weeks | خصم 18% لمدة أسبوعين\nTimeline (arms A and B):\n• OFFERS.TRIAL_SETUP.FIRST_CHARGE (exists, text unchanged): \"%1$@: first charge of %2$@\" | \"%1$@: أول دفعة بقيمة %2$@\". New value of %2$@ = the main price with its period → \"November 30: first charge of $14.99/month\" | \"30 نوفمبر: أول دفعة بقيمة $14.99 شهريًا\"; arm B \"November 26: first charge of $8.99/week\" | \"26 نوفمبر: أول دفعة بقيمة $8.99 في الأسبوع\". P7 (trial setup page) uses the same text with the bare price; it is not changed here.\nUnchanged (for reference): title, subtitles, \"Premium: no limits\", \"Today: full access\", the cancel line, the video strip, buttons, footer terms (TERMS_MONTHLY_TRIAL, TERMS_WEEKLY_TRIAL, TERMS_DISCOUNT), Restore · Terms of Use · Privacy Policy."
+    },
+    "ipad-blk-VPN1145": {
+      "x": 0,
+      "y": 34800,
+      "text": "Proposal — VPN-1145",
+      "kind": "title1",
+      "maxW": 3856,
+      "page": "ipad",
+      "color": "blue"
+    },
+    "ipad-VPN1145-row": {
+      "x": 0,
+      "y": 35200,
+      "text": "Proposal — VPN-1145 · sz_z1_time_wall · P1 time wall (app) · billed price is the main price: arm A, former subscriber, arm B · EN then AR",
+      "kind": "title1",
+      "maxW": 3856,
+      "page": "ipad"
+    },
+    "ipad-VPN1145-n": {
+      "x": 6672,
+      "y": 35500,
+      "w": 960,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "m",
+      "text": "Proposal — VPN-1145 · P1 time wall (app-drawn, sz_z1_time_wall): the billed price is the main price · fix for App Review rule 3.1.2 (guideline check R5, R6 on build 5.0.8 (2)) · waits for the board's frames card; SecurezoneiOS builds it in 5.0.8 (3) after approval.\n\nCurrent rows (screenshots 5.0.7 (4), same P1 code as 5.0.8 (2)): rows \"P1 time wall, former subscriber\", \"arm A\", \"arm B\" above.\n\nWhat changes (only the plan card and one timeline line; every other part of P1 stays as built):\n1. Plan card, every arm. Top line: plan name (14 pt regular, cGray #b3b7c3) and the badge (unchanged) on the trailing side. Under it the billed price with its period: 18 pt semibold, text #ffffff (the style the plan name has today). It is the largest price on the page (timeline 14 pt, footer 11 pt).\n   • Arm A: \"$14.99/month\". The calculated per-week value ($3.46/week) is gone.\n   • Former subscribers: \"$7.29/week for 2 weeks\" (main line), then \"then $8.99/week\" (14 pt, cGray). The billed offer price comes first.\n   • Arm B: \"$8.99/week\" (the same value as today; only the card order changes, because the card is shared).\n2. Timeline, arms A and B: the charge line gives the period: \"November 30: first charge of $14.99/month\". The existing text OFFERS.TRIAL_SETUP.FIRST_CHARGE stays; its price value becomes the price with its period. Former subscribers have no timeline (as built).\n\nNo new component and no new token: the card uses OfferPanel, OfferBadge, Palette.text, Palette.cGray and the sizes 18/14 that P1 already has. Card padding 18 (as built; frames show 16 vertical to fit the extra line, builder may keep 18).\n\nPrices: the app takes them from the App Store at run time. The frames show the United States storefront: Monthly $14.99, Weekly $8.99, offer sz_week_back20_2w $7.29/week for 2 weeks (18% off, rounded down). In Arabic the price is the App Store's own string, digits as the store gives them (\"$14.99\", left to right inside the right-to-left line). Dates are samples (week trial from 11-23, 3-day trial from 11-23).\n\niPad: P1 shows on iPad (gallery iPad shots). Same code, full width; iPad frames on the iPad page, same block name. \"iPhone Settings\" on iPad is as built (not part of this change).\n\nWho sees each frame: Arm A = new users in buckets of arm A, which includes TestFlight and App Review installs (bucket 60). Former subscribers = sz_old_sub (offer sz_week_back20_2w). Arm B = new users in arm B buckets.\n\nRenders use a fallback font (no Apple fonts on the runner). Sizes and weights come from OfferMomentViews.swift at ios/5.0.8+2."
+    },
+    "ipad-VPN1145-texts": {
+      "x": 7672,
+      "y": 35500,
+      "w": 960,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "m",
+      "text": "Texts (EN | AR). NEW = new text for the build. The others exist (Localizable.xcstrings at ios/5.0.8+2).\nPlan card:\n• NEW OFFERS.PLAN.PER_MONTH: \"%1$@/month\" | \"%1$@ شهريًا\" → \"$14.99/month\" | \"$14.99 شهريًا\" (arm A main price)\n• OFFERS.PLAN.PER_WEEK (exists): \"%1$@/week\" | \"%1$@ في الأسبوع\" → \"$8.99/week\" (arm B main price). Its old use, the per-week value of the monthly plan, is removed.\n• NEW OFFERS.TIME_WALL.OFFER_PRICE: \"%1$@/week for 2 weeks\" | \"%1$@ في الأسبوع لمدة أسبوعين\" → \"$7.29/week for 2 weeks\" (former subscribers, main price)\n• NEW OFFERS.TIME_WALL.THEN_PRICE: \"then %1$@/week\" | \"ثم %1$@ في الأسبوع\" → \"then $8.99/week\" (former subscribers, second line)\n• Plan names (exist, now 14 pt grey on the top line): Monthly | شهري · Weekly | أسبوعي\n• Badges (unchanged): 1 week free | أسبوع مجانًا · 3 days free | 3 أيام مجانًا · 18% off for 2 weeks | خصم 18% لمدة أسبوعين\nTimeline (arms A and B):\n• OFFERS.TRIAL_SETUP.FIRST_CHARGE (exists, text unchanged): \"%1$@: first charge of %2$@\" | \"%1$@: أول دفعة بقيمة %2$@\". New value of %2$@ = the main price with its period → \"November 30: first charge of $14.99/month\" | \"30 نوفمبر: أول دفعة بقيمة $14.99 شهريًا\"; arm B \"November 26: first charge of $8.99/week\" | \"26 نوفمبر: أول دفعة بقيمة $8.99 في الأسبوع\". P7 (trial setup page) uses the same text with the bare price; it is not changed here.\nUnchanged (for reference): title, subtitles, \"Premium: no limits\", \"Today: full access\", the cancel line, the video strip, buttons, footer terms (TERMS_MONTHLY_TRIAL, TERMS_WEEKLY_TRIAL, TERMS_DISCOUNT), Restore · Terms of Use · Privacy Policy."
     }
   }
 }
