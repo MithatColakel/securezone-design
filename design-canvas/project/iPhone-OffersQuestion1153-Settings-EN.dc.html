@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<title>Proposal — VPN-1153 · offers question and its Settings switch · Settings: new Notifications section, switch off (before an answer, or after No) · EN</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+body{margin:0}
+@font-face{font-family:'Righteous';src:url('../../design-system/project/fonts/Righteous-Regular.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Solid';src:url('../../design-system/project/fonts/fa-solid-900.ttf');font-weight:900;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Regular';src:url('../../design-system/project/fonts/fa-regular-400.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Brands';src:url('../../design-system/project/fonts/fa-brands-400.ttf');font-weight:400;font-style:normal}
+:where(.f-14-fw-300){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:14px;font-weight:300}
+:where(.f-15-fw-400){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:15px;font-weight:400}
+:where(.f-15-fw-500){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:15px;font-weight:500}
+:where(.f-17-fw-600){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:17px;font-weight:600}
+:where(.f-32-fw-600){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:32px;font-weight:600}
+*{box-sizing:border-box}
+img{display:block}
+.cell{margin:0}
+.phone{position:relative;overflow:hidden;outline:0}
+.abs{position:absolute}
+.sb{position:absolute;left:0;top:0;width:150px;height:62px;display:flex;align-items:center;justify-content:center;padding-top:6px;color:#ffffff;direction:ltr;pointer-events:none}
+.tb26{position:absolute;left:0;right:0;top:795px;height:53px}
+.tb26-pill{position:absolute;top:0;width:93px;height:53px;border-radius:26.5px;background:#2c2c34}
+.tb26-i{position:absolute;top:15px;width:24px;height:23px;background:#ffffff;-webkit-mask:var(--m) center/contain no-repeat;mask:var(--m) center/contain no-repeat}
+.k-SettingsScreen .row{width:90%;margin:10px auto 0;height:52.5px;background:#171d2e;border-radius:18px;display:grid;align-items:center;direction:ltr}
+.k-SettingsScreen .row.mt20{margin-top:20px}
+.k-SettingsScreen .ltr{grid-template-columns:1fr 5fr 2fr}
+.k-SettingsScreen .cell{display:flex;justify-content:center;align-items:center}
+.k-SettingsScreen .t{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding:2px 0}
+.k-SettingsScreen .sw{justify-self:end;margin-right:10px;width:51px;height:31px;border-radius:15.5px;position:relative}
+.k-SettingsScreen .sw.on{background:#81cafa}
+.k-SettingsScreen .sw.off{background:rgba(74, 74, 74, 0.4)}
+.k-SettingsScreen .sw i{position:absolute;top:2px;width:27px;height:27px;border-radius:50%;background:#ffffff;box-shadow:0 2px 4px rgba(0, 0, 0, 0.2)}
+.k-SettingsScreen .sw.on i{left:22px}
+.k-SettingsScreen .sw.off i{left:2px}
+.k-SettingsScreen .page{background:#080b13;border-top:1px solid #171d2e;border-bottom:1px solid #171d2e;position:relative}
+.k-SettingsScreen .col{width:90%;margin:0 auto}
+.k-SettingsScreen .st{margin:20px 0 20px}
+.k-SettingsScreen .sec{padding:2px 0}
+.phone .page{border:0 !important}
+.k-SettingsScreen .st{height:41.333px;line-height:41.333px}
+.k-SettingsScreen .sec{height:21px;line-height:21px;padding:0}
+.k-SettingsScreen .col{display:flex;flex-direction:column}
+.m-homeicon{--m:url('../../design-system/project/assets/Icons/homeicon.png')}
+.m-profileicon{--m:url('../../design-system/project/assets/Icons/profileicon.png')}
+.m-settingsicon{--m:url('../../design-system/project/assets/Icons/settingsicon.png')}
+
+</style>
+</helmet>
+<div class="phone" dir="ltr" style="position:relative;overflow:hidden;box-sizing:border-box;color:#ffffff;font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;font-size:12px;width:402px;height:874px;background:#080b13"><div class="abs" style="left:0px;top:62px;width:402px;"><div class="k-SettingsScreen"><div class="page"><div class="col"><div class="f-32-fw-600 st" dir="ltr" style="text-align:left">Settings</div><div class="f-14-fw-300 sec" dir="ltr" style="text-align:left;margin-top:15px">Protocol Preferences</div></div><div class="row ltr mt20"><div class="t f-15-fw-400" dir="ltr" style="grid-column:2;grid-row:1;text-align:left">Smart Protocol</div><div style="grid-column:3;grid-row:1;display:flex;justify-content:flex-end"><div class="sw on"><i></i></div></div></div><div class="row ltr"><div class="t f-15-fw-500" dir="ltr" style="grid-column:2;grid-row:1;text-align:left">Protocols</div><div class="cell" style="grid-column:3;grid-row:1"><img alt="" class="" src="../../design-system/project/assets/Icons/rightarrow.png" style="width:20px;height:20px"/></div></div><div class="col"><div class="f-14-fw-300 sec" dir="ltr" style="text-align:left;margin-top:20px">System Settings</div></div><div class="row ltr mt20"><div class="t f-15-fw-400" dir="ltr" style="grid-column:2;grid-row:1;text-align:left">Kill Switch</div><div style="grid-column:3;grid-row:1;display:flex;justify-content:flex-end"><div class="sw off"><i></i></div></div></div><div class="row ltr"><div class="t f-15-fw-400" dir="ltr" style="grid-column:2;grid-row:1;text-align:left">Auto Server Location</div><div style="grid-column:3;grid-row:1;display:flex;justify-content:flex-end"><div class="sw on"><i></i></div></div></div><div class="col"><div class="f-14-fw-300 sec" dir="ltr" style="text-align:left;margin-top:20px">Notifications</div></div><div class="row ltr mt20"><div class="t f-15-fw-400" dir="ltr" style="grid-column:2;grid-row:1;text-align:left">Offers and promotions</div><div style="grid-column:3;grid-row:1;display:flex;justify-content:flex-end"><div class="sw off"><i></i></div></div></div><div style="height:20px"></div></div></div></div><div class="tb26"><div class="tb26-pill" style="left:154.5px"></div><i class="tb26-i m-homeicon" style="left:103px;"></i><i class="tb26-i m-settingsicon" style="left:189px;"></i><i class="tb26-i m-profileicon" style="left:275px;"></i></div><div class="sb f-17-fw-600">9:41</div></div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview": {"width": 402, "height": 874}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

@@ -3199,6 +3199,70 @@
       "h": 1307,
       "page": "ipad",
       "title": "Proposal — VPN-908 · iPad server column, free user · 830 pt window · AR (Arabic system: the window buttons at the top right)"
+    },
+    "iPhone-OffersQuestion1153-OverHome-EN.dc.html": {
+      "x": 0,
+      "y": 38336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · after the onboarding: the question over Home (first Home after the update or after the onboarding; nothing chosen) · EN"
+    },
+    "iPhone-OffersQuestion1153-Settings-EN.dc.html": {
+      "x": 482,
+      "y": 38336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · Settings: new Notifications section, switch off (before an answer, or after No) · EN"
+    },
+    "iPhone-OffersQuestion1153-OverHome-AR.dc.html": {
+      "x": 964,
+      "y": 38336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · after the onboarding: the question over Home (first Home after the update or after the onboarding; nothing chosen) · AR"
+    },
+    "iPhone-OffersQuestion1153-Settings-AR.dc.html": {
+      "x": 1446,
+      "y": 38336,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · Settings: new Notifications section, switch off (before an answer, or after No) · AR"
+    },
+    "Mac-OffersQuestion1153-OverHome-EN.dc.html": {
+      "x": 0,
+      "y": 21190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · after the onboarding: the question over Home (first Home after the update or after the onboarding; nothing chosen) · EN"
+    },
+    "Mac-OffersQuestion1153-Settings-EN.dc.html": {
+      "x": 600,
+      "y": 21190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · Settings: new Notifications section, switch off (before an answer, or after No) · EN"
+    },
+    "Mac-OffersQuestion1153-OverHome-AR.dc.html": {
+      "x": 1200,
+      "y": 21190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · after the onboarding: the question over Home (first Home after the update or after the onboarding; nothing chosen) · AR"
+    },
+    "Mac-OffersQuestion1153-Settings-AR.dc.html": {
+      "x": 1800,
+      "y": 21190,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1153 · offers question and its Settings switch · Settings: new Notifications section, switch off (before an answer, or after No) · AR"
     }
   },
   "order": [
@@ -3598,7 +3662,15 @@
     "iPad-MainWindow908-Column830-EN.dc.html",
     "iPad-MainWindow908-Column700-AR.dc.html",
     "iPad-MainWindow908-Column781-AR.dc.html",
-    "iPad-MainWindow908-Column830-AR.dc.html"
+    "iPad-MainWindow908-Column830-AR.dc.html",
+    "iPhone-OffersQuestion1153-OverHome-EN.dc.html",
+    "iPhone-OffersQuestion1153-Settings-EN.dc.html",
+    "iPhone-OffersQuestion1153-OverHome-AR.dc.html",
+    "iPhone-OffersQuestion1153-Settings-AR.dc.html",
+    "Mac-OffersQuestion1153-OverHome-EN.dc.html",
+    "Mac-OffersQuestion1153-Settings-EN.dc.html",
+    "Mac-OffersQuestion1153-OverHome-AR.dc.html",
+    "Mac-OffersQuestion1153-Settings-AR.dc.html"
   ],
   "notes": {
     "iphone-Splash": {
@@ -4612,6 +4684,94 @@
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
+    },
+    "iphone-blk-ProposalVPN1153": {
+      "x": 0,
+      "y": 37336,
+      "text": "Proposal — VPN-1153",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-ProposalVPN1153-Row": {
+      "x": 0,
+      "y": 38036,
+      "text": "Proposal — VPN-1153 · offers question and its Settings switch",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-ProposalVPN1153-flow": {
+      "x": 1928,
+      "y": 38336,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Flow (board, approval 13a52177 item 1 (b), 2026-11-23). Apple rule 4.5.4: promotional pushes only to users who said yes in the app, with a way to say no later.\n\n1. When: the first time Home shows AFTER the onboarding. New users: after the last onboarding step (Proceed with Basic or a purchase). Users who update: the first Home after the update. Never during the splash, the agreement or the onboarding; nothing in the onboarding changes.\n2. It never shows on top of another popup, a paywall or an offer page. If one of these shows on that Home, the question waits for the next Home.\n3. The question shows until the user answers it. There is no close button and no swipe to close.\n4. No and Yes are equal: same size, same style, same colour, side by side. Nothing is chosen for the user. In Arabic the order mirrors (No on the right).\n5. Yes: the app sends \"yes\" to the backend; the Settings switch is on. No: the app sends \"no\"; the switch is off.\n6. Settings tab: a new section \"Notifications\" after \"System Settings\", with one switch row \"Offers and promotions\". Before an answer the switch is off. On = yes, off = no (the same backend answer). The same section shows in the \"under notice\" state of the Settings tab.\n7. The iOS push prompt does not move. Today it comes at the end of boot, before the onboarding; this change does not touch it and adds no second iOS prompt. If iOS notifications are off, the answer is still stored.\n8. Service notifications (connection, account) do not change and do not depend on this answer.\n\nLook (existing tokens and components; no new token):\n• Sheet over Home: UIKit sheet, radius 20 (SheetPresenter), background #171d2e (Palette.bar), padding 28 top, 24 sides, 42 bottom. Backdrop black 70 % (Palette.drawerBackdrop, as Rate us).\n• Title 21 pt bold #ffffff (as the connection rating title), 16.78:1. Message 15 pt regular #b3b7c3 (cGray), 8.37:1.\n• Buttons: NSButton kind .gray (#2f3442, title #56a3f2, 4.68:1), 50 pt high, radius 16, 10 pt apart, two equal columns (as the No time panel), 16 pt semibold.\n• Note line: 13 pt #b3b7c3, 8.37:1.\n• Settings row: NSBarRow + NSUISwitch (off: #4a4a4a 40 %), section header 14 pt light, as the other rows.\n• New in code: one popup kind (the sheet layout) and one Settings row. No new token.\n\niPad: the same views. The sheet shows as iPad's centred form sheet, and Settings is the iPad Settings sheet with the same rows. No own frame needed; I can add iPad frames if the board wants them.\n\nRenders use a fallback font (no Apple fonts on the runner). Sizes and weights come from the code (rc dea2dc2b)."
+    },
+    "iphone-ProposalVPN1153-texts": {
+      "x": 2648,
+      "y": 38336,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. NEW = a new user text for the board to approve. EN | AR. Key names are proposals for the build.\n\nQuestion (over Home)\n• NEW PROMO_PUSH.QUESTION.TITLE: \"Offers and promotions\" | \"العروض والحملات الترويجية\"\n• NEW PROMO_PUSH.QUESTION.BODY: \"Do you want notifications about Securezone offers and promotions?\" | \"هل تريد تلقي إشعارات عن عروض Securezone وحملاتها الترويجية؟\"\n• NEW PROMO_PUSH.QUESTION.NO: \"No\" | \"لا\"\n• NEW PROMO_PUSH.QUESTION.YES: \"Yes\" | \"نعم\"\n• NEW PROMO_PUSH.QUESTION.NOTE: \"You can change this at any time in Settings.\" | \"يمكنك تغيير ذلك في أي وقت من الإعدادات.\"\n\nSettings\n• NEW SETTINGS.NOTIFICATIONS_TITLE (section): \"Notifications\" | \"الإشعارات\"\n• NEW SETTINGS.PROMO_PUSH (switch row): \"Offers and promotions\" | \"العروض والحملات الترويجية\"\n• \"Settings\" in the note is the tab's own name: SETTINGS.TITLE \"Settings\" | \"الإعدادات\".\n\nNo text promises an offer: the question asks only about notifications. \"Securezone\" stays in Latin letters in Arabic, as in the app's other Arabic texts.\nThe app has 6 more languages (de, es, fr, he, ja, pt); this card gives EN and AR only."
+    },
+    "mac-blk-ProposalVPN1153": {
+      "x": 0,
+      "y": 20190,
+      "text": "Proposal — VPN-1153",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-ProposalVPN1153-Row": {
+      "x": 0,
+      "y": 20890,
+      "text": "Proposal — VPN-1153 · offers question and its Settings switch",
+      "kind": "title1",
+      "maxW": 2320,
+      "page": "mac"
+    },
+    "mac-ProposalVPN1153-flow": {
+      "x": 2400,
+      "y": 21190,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Flow: the same as the iPhone block (Proposal — VPN-1153 on the iPhone page), on the Mac window.\n\n1. When: the first time the Mac window shows Home after the first launch (Welcome and VPN permission), or the first time after the update. Never during the first launch steps.\n2. Never on top of another popup or the paywall. It shows until the user answers. No and Yes are equal.\n3. Settings › General: a new section \"Notifications\" after \"System Settings\", with one switch row \"Offers and promotions\". Off before an answer. On = yes, off = no.\n\nLook (existing styles; no new token):\n• Card on the window: #171d2e, radius 18 (Mac card radius), padding 24, 40 pt from the window sides, centred. Backdrop black 70 %.\n• Title 17 pt semibold #ffffff (16.78:1). Message 13 pt #b3b7c3 (8.37:1).\n• Buttons: the Mac neutral capsule (PrimaryButtonStyle, destructive variant: white 12 % fill), 44 high, radius 22, 14 pt bold #ffffff (11.47:1 on the fill), two equal columns, 10 pt apart.\n• Note line: 11 pt #8a8f9c (caption), 5.19:1.\n• Settings row: the General tab toggle row (#171d2e, radius 12, 13 pt semibold) with BrandSwitchStyle off; section header 12 pt semibold #b3b7c3.\n\nOpen question: the native Mac app (on its branches) has no push today. If the Mac sends no promotional pushes, it needs no question yet; these frames are ready for the day it does. The base frames are the Mac window of \"Approved, not built — VPN-589\".\nTexts: as the iPhone block. Renders use a fallback font."
+    },
+    "mac-ProposalVPN1153-texts": {
+      "x": 3120,
+      "y": 21190,
+      "w": 640,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. NEW = a new user text for the board to approve. EN | AR. Key names are proposals for the build.\n\nQuestion (over Home)\n• NEW PROMO_PUSH.QUESTION.TITLE: \"Offers and promotions\" | \"العروض والحملات الترويجية\"\n• NEW PROMO_PUSH.QUESTION.BODY: \"Do you want notifications about Securezone offers and promotions?\" | \"هل تريد تلقي إشعارات عن عروض Securezone وحملاتها الترويجية؟\"\n• NEW PROMO_PUSH.QUESTION.NO: \"No\" | \"لا\"\n• NEW PROMO_PUSH.QUESTION.YES: \"Yes\" | \"نعم\"\n• NEW PROMO_PUSH.QUESTION.NOTE: \"You can change this at any time in Settings.\" | \"يمكنك تغيير ذلك في أي وقت من الإعدادات.\"\n\nSettings\n• NEW SETTINGS.NOTIFICATIONS_TITLE (section): \"Notifications\" | \"الإشعارات\"\n• NEW SETTINGS.PROMO_PUSH (switch row): \"Offers and promotions\" | \"العروض والحملات الترويجية\"\n• \"Settings\" in the note is the tab's own name: SETTINGS.TITLE \"Settings\" | \"الإعدادات\".\n\nNo text promises an offer: the question asks only about notifications. \"Securezone\" stays in Latin letters in Arabic, as in the app's other Arabic texts.\nThe app has 6 more languages (de, es, fr, he, ja, pt); this card gives EN and AR only."
+    },
+    "iphone-Settings-VPN1153": {
+      "x": 1928,
+      "y": 21944,
+      "w": 520,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1153 (below): a new section \"Notifications\" with the switch \"Offers and promotions\" after \"System Settings\". These frames stay as built until the board approves and the change is on the default branch."
+    },
+    "mac-Settings-VPN1153": {
+      "x": 6000,
+      "y": 5620,
+      "w": 520,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1153 (below): a new section \"Notifications\" with the switch \"Offers and promotions\" after \"System Settings\". These frames stay as built until the board approves and the change is on the default branch."
     }
   }
 }
