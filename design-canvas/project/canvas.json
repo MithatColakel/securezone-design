@@ -3295,6 +3295,182 @@
       "h": 1032,
       "page": "ipad",
       "title": "Proposal — VPN-1153 · offers question and its Settings switch · Settings: new Notifications section, switch off (before an answer, or after No) · AR"
+    },
+    "iPhone-HomeAuto1179-BeforeConnect-EN.dc.html": {
+      "x": 0,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (a) before Connect: the app's own pick from launch · EN"
+    },
+    "iPhone-HomeAuto1179-Connecting-EN.dc.html": {
+      "x": 482,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (b) connecting: no change until Connected · EN"
+    },
+    "iPhone-HomeAuto1179-ConnectedSameCountry-EN.dc.html": {
+      "x": 964,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (c) connected, the server is in the country of the launch pick · EN"
+    },
+    "iPhone-HomeAuto1179-ConnectedOtherCountry-EN.dc.html": {
+      "x": 1446,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (d) connected, the server is in another country · EN"
+    },
+    "iPhone-HomeAuto1179-AfterDisconnect-EN.dc.html": {
+      "x": 1928,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (e) after a disconnect: the bar keeps the server the user got · EN"
+    },
+    "iPhone-ServerList1179-ConnectedOtherCountry-EN.dc.html": {
+      "x": 2410,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Server list, premium user on Auto · (d) connected in another country: the Auto row shows the flag of the server the user got; the tick stays on Auto · EN"
+    },
+    "iPhone-HomeAuto1179-BeforeConnect-AR.dc.html": {
+      "x": 2892,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (a) before Connect: the app's own pick from launch · AR"
+    },
+    "iPhone-HomeAuto1179-Connecting-AR.dc.html": {
+      "x": 3374,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (b) connecting: no change until Connected · AR"
+    },
+    "iPhone-HomeAuto1179-ConnectedSameCountry-AR.dc.html": {
+      "x": 3856,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (c) connected, the server is in the country of the launch pick · AR"
+    },
+    "iPhone-HomeAuto1179-ConnectedOtherCountry-AR.dc.html": {
+      "x": 4338,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (d) connected, the server is in another country · AR"
+    },
+    "iPhone-HomeAuto1179-AfterDisconnect-AR.dc.html": {
+      "x": 4820,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Home, premium user on Auto · (e) after a disconnect: the bar keeps the server the user got · AR"
+    },
+    "iPhone-ServerList1179-ConnectedOtherCountry-AR.dc.html": {
+      "x": 5302,
+      "y": 40610,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1179 · Server list, premium user on Auto · (d) connected in another country: the Auto row shows the flag of the server the user got; the tick stays on Auto · AR"
+    },
+    "iPad-HomeAuto1179-BeforeConnect-EN.dc.html": {
+      "x": 0,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (a) before Connect: the app's own pick from launch · landscape · EN"
+    },
+    "iPad-HomeAuto1179-Connecting-EN.dc.html": {
+      "x": 1456,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (b) connecting: no change until Connected · landscape · EN"
+    },
+    "iPad-HomeAuto1179-ConnectedSameCountry-EN.dc.html": {
+      "x": 2912,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (c) connected, the server is in the country of the launch pick · landscape · EN"
+    },
+    "iPad-HomeAuto1179-ConnectedOtherCountry-EN.dc.html": {
+      "x": 4368,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (d) connected, the server is in another country · landscape · EN"
+    },
+    "iPad-HomeAuto1179-AfterDisconnect-EN.dc.html": {
+      "x": 5824,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (e) after a disconnect: the bar keeps the server the user got · landscape · EN"
+    },
+    "iPad-HomeAuto1179-BeforeConnect-AR.dc.html": {
+      "x": 7280,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (a) before Connect: the app's own pick from launch · landscape · AR"
+    },
+    "iPad-HomeAuto1179-Connecting-AR.dc.html": {
+      "x": 8736,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (b) connecting: no change until Connected · landscape · AR"
+    },
+    "iPad-HomeAuto1179-ConnectedSameCountry-AR.dc.html": {
+      "x": 10192,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (c) connected, the server is in the country of the launch pick · landscape · AR"
+    },
+    "iPad-HomeAuto1179-ConnectedOtherCountry-AR.dc.html": {
+      "x": 11648,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (d) connected, the server is in another country · landscape · AR"
+    },
+    "iPad-HomeAuto1179-AfterDisconnect-AR.dc.html": {
+      "x": 13104,
+      "y": 65332,
+      "w": 1376,
+      "h": 1032,
+      "page": "ipad",
+      "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (e) after a disconnect: the bar keeps the server the user got · landscape · AR"
     }
   },
   "order": [
@@ -3706,7 +3882,29 @@
     "iPad-OffersQuestion1153-OverHome-EN.dc.html",
     "iPad-OffersQuestion1153-Settings-EN.dc.html",
     "iPad-OffersQuestion1153-OverHome-AR.dc.html",
-    "iPad-OffersQuestion1153-Settings-AR.dc.html"
+    "iPad-OffersQuestion1153-Settings-AR.dc.html",
+    "iPhone-HomeAuto1179-BeforeConnect-EN.dc.html",
+    "iPhone-HomeAuto1179-Connecting-EN.dc.html",
+    "iPhone-HomeAuto1179-ConnectedSameCountry-EN.dc.html",
+    "iPhone-HomeAuto1179-ConnectedOtherCountry-EN.dc.html",
+    "iPhone-HomeAuto1179-AfterDisconnect-EN.dc.html",
+    "iPhone-ServerList1179-ConnectedOtherCountry-EN.dc.html",
+    "iPhone-HomeAuto1179-BeforeConnect-AR.dc.html",
+    "iPhone-HomeAuto1179-Connecting-AR.dc.html",
+    "iPhone-HomeAuto1179-ConnectedSameCountry-AR.dc.html",
+    "iPhone-HomeAuto1179-ConnectedOtherCountry-AR.dc.html",
+    "iPhone-HomeAuto1179-AfterDisconnect-AR.dc.html",
+    "iPhone-ServerList1179-ConnectedOtherCountry-AR.dc.html",
+    "iPad-HomeAuto1179-BeforeConnect-EN.dc.html",
+    "iPad-HomeAuto1179-Connecting-EN.dc.html",
+    "iPad-HomeAuto1179-ConnectedSameCountry-EN.dc.html",
+    "iPad-HomeAuto1179-ConnectedOtherCountry-EN.dc.html",
+    "iPad-HomeAuto1179-AfterDisconnect-EN.dc.html",
+    "iPad-HomeAuto1179-BeforeConnect-AR.dc.html",
+    "iPad-HomeAuto1179-Connecting-AR.dc.html",
+    "iPad-HomeAuto1179-ConnectedSameCountry-AR.dc.html",
+    "iPad-HomeAuto1179-ConnectedOtherCountry-AR.dc.html",
+    "iPad-HomeAuto1179-AfterDisconnect-AR.dc.html"
   ],
   "notes": {
     "iphone-Splash": {
@@ -4852,6 +5050,112 @@
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-1153 (below): on the \"Connection\" page, a new section \"Notifications\" with the switch \"Offers and promotions\" after \"System Settings\". These frames stay as they are until the board approves."
+    },
+    "iphone-blk-ProposalVPN1179": {
+      "x": 0,
+      "y": 39610,
+      "text": "Proposal — VPN-1179",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-ProposalVPN1179-Row": {
+      "x": 0,
+      "y": 40310,
+      "text": "Proposal — VPN-1179 · the home bar shows the server that premium Auto got at Connect",
+      "kind": "title1",
+      "maxW": 5704,
+      "page": "iphone"
+    },
+    "iphone-ProposalVPN1179-flow": {
+      "x": 5784,
+      "y": 40610,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "What changes (board, second card on VPN-1134, Q3 rejected, 2026-11-24): the app shows the server it got.\n\nWho: premium users on Auto only (no saved choice, or Auto chosen in the list). Start state: 5.0.8 (3), \"Auto Location\" and the tick on the Auto row after a restart (VPN-1067).\n\n1. Before Connect (a): no change. The bar shows \"Auto Location\" over the country of the app's own pick (made at launch or at a list load), with its flag.\n2. Connecting (b): no change. The bar keeps the app's pick. One Connect can try more than one server; the bar does not jump between them.\n3. Connected (c, d): the bar shows the flag and the country of the server the user is connected to (the served server of the press: server._id of the /file answer). The change comes at the moment the state becomes Connected. Same country (c): the user sees no change. Another country (d): the flag and the country change. \"Auto Location\" stays, so the user knows that the app chose.\n4. Server list in (d) and (e): the Auto row takes the flag of the served server. The tick stays on the Auto row. The country row (here Germany) gets no tick: the user did not pick it.\n5. After a disconnect (e): the bar keeps the server the user got. The app uses it as its Auto pick for the next Connect. The next pick of the app (next launch or next list load) replaces it, as today.\n6. A failed Connect: no change. The bar keeps the app's pick.\n7. A new server while Connected (reroute, network change): the bar follows, by rule 3.\n8. If the served server has no row in the app's list, the bar keeps the app's pick (question for SecurezoneiOS: can this happen?).\n\nNo change: free users (their bar stays \"Auto Location / Quick Access\"), a server picked by hand, the Mac app, the onboarding, the Connect button, the IP and PING bar.\n\nLook: no new token and no new component on the iPhone. The bar is today's Auto layout of ServerSelectButton: \"Auto Location\" 12 pt medium over the country 13 pt bold, #ffffff on #171d2e (16.78:1), flag 30 × 30, chevron 20 × 20. Arabic: flag on the right, text aligned right, chevron on the left, as today.\n\niPad: see Proposal — VPN-1179 on the iPad page (the server column's Auto row gets the country).\n\nFrames: launch pick Netherlands; served server in another country Germany. Example data only. Renders use a fallback font (no Apple fonts on the runner); sizes and weights come from the code (master and rc/5.0.8)."
+    },
+    "iphone-ProposalVPN1179-texts": {
+      "x": 6504,
+      "y": 40610,
+      "w": 640,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. No new text. Every text is an existing key, EN | AR:\n• Home bar, line 1: MAIN_PAGE.SERVER_SELECT.AUTO_LOCATION: \"Auto Location\" | \"موقع تلقائي\"\n• Home bar, line 2, and iPad Auto row, line 2: SERVERS.LIST.<descriptionKey> of the served server, e.g. \"Germany\" | \"ألمانيا\", \"Netherlands\" | \"هولندا\"\n• Server list Auto row and iPad Auto row, line 1: SERVERS.CATEGORIES.AUTO: \"Auto Location\" | \"موقع تلقائي\"\n• Connect button: today's texts (CONNECTING | جاري الاتصال, STOP | إيقاف)."
+    },
+    "iphone-HomePremium-VPN1179": {
+      "x": 1928,
+      "y": 7330,
+      "w": 520,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1179 (below): for a premium user on Auto, the home bar shows the server the user got at Connect. These frames stay as built until the board approves and the change is on the default branch."
+    },
+    "iphone-ServerList-VPN1179": {
+      "x": 2892,
+      "y": 12426,
+      "w": 520,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1179 (below): for a premium user on Auto, the Auto row takes the flag of the server the user got; the tick stays on Auto. These frames stay as built until the board approves."
+    },
+    "ipad-blk-ProposalVPN1179": {
+      "x": 0,
+      "y": 64332,
+      "text": "Proposal — VPN-1179",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "ipad",
+      "color": "blue"
+    },
+    "ipad-ProposalVPN1179-Row": {
+      "x": 0,
+      "y": 65032,
+      "text": "Proposal — VPN-1179 · the server column shows the server that premium Auto got at Connect",
+      "kind": "title1",
+      "maxW": 14480,
+      "page": "ipad"
+    },
+    "ipad-ProposalVPN1179-flow": {
+      "x": 14560,
+      "y": 65332,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Flow: the same rule as the iPhone block (Proposal — VPN-1179 on the iPhone page). These frames show the iPad of 5.0.8 (IPadLayout.swift on rc/5.0.8): in every window of 700 pt and wider, Home has two columns and no home bar. The server column is the server choice.\n\nToday: the column's Auto row shows a bolt and \"Auto Location\", with no country (ServerSidebarView.swift, rc/5.0.8). So the iPad never shows the country of an Auto server.\n\nThe change: when the Auto row is chosen (a premium user on Auto), it gets a second line with the country, by the iPhone rule:\n• (a) before Connect and (b) connecting: the country of the app's pick.\n• (c, d) connected: the country of the server the user is connected to.\n• (e) after a disconnect: the country of the last server the user got.\nThe tick and the teal edge stay on the Auto row. The country rows get no tick.\n\nNo change: a country picked by hand (the Auto row is not chosen and has one line), free users' column, the main column, the Mac app.\n\nLook (existing tokens; no new token):\n• Line 1: 15 pt semibold #ffffff on #171d2e (16.78:1), as today.\n• Line 2: 13 pt medium #b3b7c3 (Palette.cGray) on #171d2e: 8.37:1. One line, cut with \"…\" if too long.\n• Row height stays 56 pt. In Arabic the lines align right and the row mirrors, as today.\n• New in code: one Text line in the Auto row.\n\nNarrow windows (under 700 pt: Split View, Slide Over) use the iPhone layout: the iPhone frames apply. Portrait: the same two columns (1032 pt wide), so no portrait frame.\nBase frames: \"Approved, not built — VPN-589\" (iPad main, landscape, premium). Renders use a fallback font."
+    },
+    "ipad-ProposalVPN1179-texts": {
+      "x": 15280,
+      "y": 65332,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Texts. No new text. Every text is an existing key, EN | AR:\n• Home bar, line 1: MAIN_PAGE.SERVER_SELECT.AUTO_LOCATION: \"Auto Location\" | \"موقع تلقائي\"\n• Home bar, line 2, and iPad Auto row, line 2: SERVERS.LIST.<descriptionKey> of the served server, e.g. \"Germany\" | \"ألمانيا\", \"Netherlands\" | \"هولندا\"\n• Server list Auto row and iPad Auto row, line 1: SERVERS.CATEGORIES.AUTO: \"Auto Location\" | \"موقع تلقائي\"\n• Connect button: today's texts (CONNECTING | جاري الاتصال, STOP | إيقاف)."
+    },
+    "ipad-HomePremium-VPN1179": {
+      "x": 4448,
+      "y": 8880,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1179 (below): in the wide iPad window, the server column's Auto row shows the country of the server that premium Auto got. In narrow windows the iPhone frames apply."
+    },
+    "ipad-Main-VPN1179": {
+      "x": 12240,
+      "y": 42648,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1179 (below): the Auto row gets a second line with the country of the server that premium Auto got (before Connect: the app's pick)."
     }
   }
 }

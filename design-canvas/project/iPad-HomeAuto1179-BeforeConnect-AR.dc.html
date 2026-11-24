@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<title>Proposal — VPN-1179 · iPad wide window, premium user on Auto · (a) before Connect: the app's own pick from launch · landscape · AR</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+body{margin:0}
+@font-face{font-family:'Righteous';src:url('../../design-system/project/fonts/Righteous-Regular.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Solid';src:url('../../design-system/project/fonts/fa-solid-900.ttf');font-weight:900;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Free Regular';src:url('../../design-system/project/fonts/fa-regular-400.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'Font Awesome 5 Brands';src:url('../../design-system/project/fonts/fa-brands-400.ttf');font-weight:400;font-style:normal}
+:where(.f-14-fw-400){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:14px;font-weight:400}
+:where(.f-14-fw-500){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:14px;font-weight:500}
+:where(.f-17-fw-800){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:17px;font-weight:800}
+:where(.f-19-fw-800){font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;font-size:19px;font-weight:800}
+:where(.Righteous-22){font-family:Righteous, -apple-system, sans-serif;font-size:22px;font-weight:400}
+*{box-sizing:border-box}
+img{display:block}
+.fa{font-style:normal;line-height:1}
+.fas{font-family:"Font Awesome 5 Free Solid";font-weight:900}
+.phone{position:relative;overflow:hidden;outline:0}
+.abs{position:absolute}
+.tb26{position:absolute;left:0;right:0;top:795px;height:53px}
+.tb26-pill{position:absolute;top:0;width:93px;height:53px;border-radius:26.5px;background:#2c2c34}
+.tb26-i{position:absolute;top:15px;width:24px;height:23px;background:#ffffff;-webkit-mask:var(--m) center/contain no-repeat;mask:var(--m) center/contain no-repeat}
+.home{position:absolute;left:0;right:0;display:grid;grid-template-rows:minmax(0,6fr) minmax(0,5fr) minmax(0,4fr) minmax(0,4fr) minmax(0,16fr) minmax(0,2fr) minmax(0,4fr) minmax(0,8fr) minmax(0,4fr);grid-template-columns:100%}
+.home>*{grid-column:1;min-height:0}
+.k-ConnectButton .cb{position:relative;width:390px;height:200px;margin:0 auto}
+.k-ConnectButton .cb svg{position:absolute;inset:0}
+.k-ConnectButton .timer{position:absolute;left:145px;width:100px;top:5px;height:95px;display:grid;grid-template-columns:3fr 1fr 3fr 1fr 3fr;align-items:end;text-align:center;direction:ltr}
+.k-ConnectButton .stop{position:absolute;left:145px;width:100px;top:105px;text-align:center;color:#5edfda}
+.k-InformationBar .ib{position:relative;height:35px;width:100%}
+.k-InformationBar .ib div{position:absolute;top:0;bottom:0;background:#1b1f26;border-radius:10px;display:flex;align-items:center;justify-content:center}
+.k-PremiumHeader .ph{text-align:center;padding:8px 0}
+.k-PremiumHeader .ph-t{font-size:22px;color:#ffffff;line-height:1.25}
+.k-PremiumHeader .ph-p{width:120px;height:25px;margin:10px auto 0;background:#1b1f26;border-radius:18px;display:grid;grid-template-columns:1fr 2fr;direction:ltr}
+.k-PremiumHeader .ph-d{padding:5px;display:flex;justify-content:center}
+.k-PremiumHeader .ph-d img{height:15px;width:auto;object-fit:contain}
+.k-PremiumHeader .ph-l{color:#ffc700;text-align:left;line-height:25px}
+.k-ReportButton .rb-row{display:flex;padding:0 0;background:#080b13}
+.k-ReportButton .rb{width:60px;height:60px;position:relative}
+.k-ReportButton .rb-c{position:absolute;left:0;top:0;width:40px;height:40px;display:flex;align-items:center;justify-content:center;opacity:.7}
+.k-ReportButton .rb-c img{width:20px;height:20px;filter:brightness(0) invert(1)}
+.k-ReportButton .rb-row{background:transparent}
+.k-PremiumHeader .ph{padding:0}
+.ip-side{position:absolute;top:0;bottom:0;background:#131724;padding:0 18px;display:flex;flex-direction:column;gap:14px;overflow:hidden}
+.ip-div{position:absolute;top:0;bottom:0;width:1px;background:rgba(255,255,255,.07)}
+.ip-h1{font:700 26px/32px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff;padding-top:20px}
+.ip-search{height:44px;border-radius:14px;background:#171d2e;display:flex;align-items:center;gap:8px;padding:0 14px;font:400 16px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#b3b7c3}
+.ip-row{height:56px;border-radius:18px;background:#171d2e;display:flex;align-items:center;gap:12px;padding:0 14px;font:600 15px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#ffffff;flex:none}
+.ip-row.sel{box-shadow:inset 0 0 0 1.5px rgba(122,226,218,.85)}
+.ip-grp{display:flex;align-items:center;gap:6px;font:600 14px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#b3b7c3;padding:12px 6px 0}
+.ip-flag{width:30px;height:30px;border-radius:50%;object-fit:cover;flex:none}
+.ip-auto{width:30px;height:30px;border-radius:50%;background:linear-gradient(#5db9eb,#6f8fee);display:flex;align-items:center;justify-content:center;color:#fff;flex:none;font-size:14px}
+.ip-radio{width:22px;height:22px;border-radius:50%;background:#080b13;flex:none;display:flex;align-items:center;justify-content:center;font-size:11px;color:#080b13}
+.ip-radio.on{background:#7ae2da}
+.ip-sp{flex:1}
+.m-homeicon{--m:url('../../design-system/project/assets/Icons/homeicon.png')}
+.m-profileicon{--m:url('../../design-system/project/assets/Icons/profileicon.png')}
+.m-settingsicon{--m:url('../../design-system/project/assets/Icons/settingsicon.png')}
+.ip-two{display:flex;flex-direction:column;gap:1px;min-width:0}
+.ip-sub{font:500 13px -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;color:#b3b7c3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+</style>
+</helmet>
+<div class="phone" dir="ltr" style="position:relative;overflow:hidden;box-sizing:border-box;color:#ffffff;font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;font-size:12px;width:1376px;height:1032px;background:#080b13"><div class="ip-side" dir="rtl" style="left:976px;width:400px"><div class="ip-h1">موقع الخادم</div><div class="ip-search"><span class="fa fas" style="font-size:14px"></span><span>ابحث عن موقع</span></div><div style="display:flex;flex-direction:column;gap:8px"><div class="ip-row sel"><div class="ip-auto"><span class="fa fas"></span></div><div class="ip-two"><span>موقع تلقائي</span><span class="ip-sub">هولندا</span></div><div class="ip-sp"></div><div class="ip-radio on"><span class="fa fas"></span></div></div><div class="ip-grp">مجاني</div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/US.png"/><span style="white-space:nowrap;overflow:hidden">الولايات المتحدة الأمريكية</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-grp"><span class="fa fas" style="font-size:9px;color:#ffc700;transform:rotate(45deg) scale(.8)"></span>بريميوم</div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/DE.png"/><span style="white-space:nowrap;overflow:hidden">ألمانيا</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/GB.png"/><span style="white-space:nowrap;overflow:hidden">المملكة المتحدة</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/NL.png"/><span style="white-space:nowrap;overflow:hidden">هولندا</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/JP.png"/><span style="white-space:nowrap;overflow:hidden">اليابان</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/FR.png"/><span style="white-space:nowrap;overflow:hidden">فرنسا</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/SE.png"/><span style="white-space:nowrap;overflow:hidden">السويد</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/CA.png"/><span style="white-space:nowrap;overflow:hidden">كندا</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/SG.png"/><span style="white-space:nowrap;overflow:hidden">سنغافورة</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/AU.png"/><span style="white-space:nowrap;overflow:hidden">استراليا</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/TR.png"/><span style="white-space:nowrap;overflow:hidden">تركيا</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div><div class="ip-row"><img alt="" class="ip-flag" src="../../design-system/project/assets/Flags/BR.png"/><span style="white-space:nowrap;overflow:hidden">البرازيل</span><div class="ip-sp"></div><img alt="" src="../../design-system/project/assets/Icons/wifi.png" style="width:20px;height:20px;object-fit:contain"/><div class="ip-radio"></div></div></div></div><div class="ip-div" style="left:975px"></div><div class="abs" style="left:207.5px;top:0;width:560px;height:1032px"><div class="home" style="top:24px;height:918px"><div style="grid-row:1;align-self:start"><div class="k-PremiumHeader"><div class="ph"><div class="ph-t Righteous-22">Securezone VPN</div><div class="ph-p"><div class="ph-d"><img alt="" src="../../design-system/project/assets/Icons/diamondicon.png"/></div><div class="ph-l f-14-fw-500">Premium</div></div></div></div></div><div style="grid-row:5;align-self:center;margin-bottom:25px;height:200px"><div class="k-ConnectButton"><div class="cb"><svg height="200" viewbox="0 0 390 200" width="390"><defs><lineargradient gradientunits="userSpaceOnUse" id="cg-disconnected" x1="0" x2="0" y1="30.0" y2="170.0"><stop offset="0.2" stop-color="#5db9eb"></stop><stop offset="1" stop-color="#6f8fee"></stop></lineargradient><lineargradient gradientunits="userSpaceOnUse" id="ci-disconnected" x1="0" x2="0" y1="67.5" y2="132.5"><stop offset="0.2" stop-color="#5db9eb"></stop><stop offset="1" stop-color="#6f8fee"></stop></lineargradient></defs><path d="M 195.0 32.0 A 68 68 0 1 1 194.999 32.0" fill="none" stroke="url(#cg-disconnected)" stroke-width="4"></path><path d="M 208.609 72.705 A 30.5 30.5 0 1 1 180.917 72.946" fill="none" stroke="url(#ci-disconnected)" stroke-width="4"></path><rect fill="url(#cg-disconnected)" height="30" rx="2.5" width="5" x="192.5" y="62.5"></rect></svg></div></div></div><div style="grid-row:1;align-self:center;justify-self:start;width:60px"><div class="k-ReportButton"><div class="rb-row" style="justify-content:flex-start"><div class="rb"><div class="rb-c"><img alt="" src="../../design-system/project/assets/Icons/warning.png"/></div></div></div></div></div></div><div class="tb26" style="top:952px"><div class="tb26-pill" style="left:240.5px"></div><i class="tb26-i m-homeicon" style="left:275px;"></i><i class="tb26-i m-settingsicon" style="left:189px;"></i><i class="tb26-i m-profileicon" style="left:103px;"></i></div></div></div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview": {"width": 1376, "height": 1032}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>
