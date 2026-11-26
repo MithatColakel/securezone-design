@@ -2015,6 +2015,38 @@
       "h": 1376,
       "page": "ipad",
       "title": "Built in Adapty — VPN-1064 · Black Friday · No offer (can get neither) · draft szf_black_friday on no placement, not live (VPN-1078) · Adapty's preview render, render-only copy per state; English with \"Mirror for RTL\" off; sample US prices; DESIGN PASS 2026-11-23 · iPad · AR"
+    },
+    "iPhone-Proposal1265-BlackFriday-Offer-EN.dc.html": {
+      "x": 0,
+      "y": 34100,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1265 · Black Friday · szf_black_friday · Offer: subscribed before · Yearly selected: \"up to 75% off\" in the offer line, button \"Take the offer\", feature line \"Private surfing\" · EN"
+    },
+    "iPhone-Proposal1265-BlackFriday-OfferWeekly-EN.dc.html": {
+      "x": 482,
+      "y": 34100,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1265 · Black Friday · szf_black_friday · Offer: subscribed before · Weekly selected: \"up to 75% off\" on the Yearly row, feature line \"Private surfing\"; the button stays \"Protect my shopping\" · EN"
+    },
+    "iPhone-Proposal1265-BlackFriday-Offer-AR.dc.html": {
+      "x": 964,
+      "y": 34100,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1265 · Black Friday · szf_black_friday · Offer: subscribed before · Yearly selected: \"up to 75% off\" in the offer line, button \"Take the offer\", feature line \"Private surfing\" · AR"
+    },
+    "iPhone-Proposal1265-BlackFriday-OfferWeekly-AR.dc.html": {
+      "x": 1446,
+      "y": 34100,
+      "w": 402,
+      "h": 874,
+      "page": "iphone",
+      "title": "Proposal — VPN-1265 · Black Friday · szf_black_friday · Offer: subscribed before · Weekly selected: \"up to 75% off\" on the Yearly row, feature line \"Private surfing\"; the button stays \"Protect my shopping\" · AR"
     }
   },
   "order": [
@@ -2266,7 +2298,11 @@
     "iPad-Proposal1145-P1TimeWall-ArmB-EN.dc.html",
     "iPad-Proposal1145-P1TimeWall-ArmA-AR.dc.html",
     "iPad-Proposal1145-P1TimeWall-FormerSubscriber-AR.dc.html",
-    "iPad-Proposal1145-P1TimeWall-ArmB-AR.dc.html"
+    "iPad-Proposal1145-P1TimeWall-ArmB-AR.dc.html",
+    "iPhone-Proposal1265-BlackFriday-Offer-EN.dc.html",
+    "iPhone-Proposal1265-BlackFriday-OfferWeekly-EN.dc.html",
+    "iPhone-Proposal1265-BlackFriday-Offer-AR.dc.html",
+    "iPhone-Proposal1265-BlackFriday-OfferWeekly-AR.dc.html"
   ],
   "notes": {
     "iphone-Products": {
@@ -3657,6 +3693,41 @@
       "page": "ipad",
       "color": "orange",
       "text": "Built in Adapty — VPN-1064 · Black Friday · iPad Pro 13 portrait · draft szf_black_friday on no placement, not live (VPN-1078) · Adapty's preview render, render-only copy per state; English with \"Mirror for RTL\" off; sample US prices; DESIGN PASS 2026-11-23"
+    },
+    "iphone-blk-VPN1265": {
+      "x": 0,
+      "y": 33400,
+      "text": "Proposal — VPN-1265",
+      "kind": "title1",
+      "maxW": 3856,
+      "page": "iphone",
+      "color": "blue"
+    },
+    "iphone-VPN1265-row": {
+      "x": 0,
+      "y": 33800,
+      "text": "Proposal — VPN-1265 · Black Friday, 3 text changes from the review of 2026-11-26 · flow szf_black_friday · black_friday_flow and sz_app_open · Offer, Yearly and Weekly selected",
+      "kind": "title1",
+      "maxW": 1848,
+      "page": "iphone"
+    },
+    "iphone-VPN1265-n": {
+      "x": 1928,
+      "y": 34100,
+      "w": 960,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "m",
+      "text": "Proposal — VPN-1265 · Black Friday flow szf_black_friday: 3 text changes from the review of 2026-11-26 and all 8 app languages (board, 2026-11-26). The screen goes live tonight on black_friday_flow and at app open (sz_app_open). Base: the approved frames BlackFriday2 (design-system 4ec93682) and the \"Built in Adapty — VPN-1064\" renders (what users see today). Only texts change: no change to the artwork, the colours or the layout.\n\nThe 3 changes:\n1. Discount, Offer version only, Yearly row only: the offer line becomes \"[offer price] for the first year · up to 75% off\". Wording and place from AppReviewGuard (VPN-1267, PASS): \"Up to\" because the discount is 74.4–75.0 % outside the US; the offer line is the safest place, and the text is the same size and colour as the price, never larger. Never in the Free trial and No offer versions, never on Weekly, never in the headline. The discount words are kept together with no-break spaces, so a wrap breaks before \"up to\".\n2. Feature line 2: \"Private shopping\" → \"Private surfing\" (AR تصفّح بخصوصية), in every version and every language.\n3. Button, Offer version with Yearly selected: \"Get the Black Friday price\" → \"Take the offer\" (AR احصل على العرض). AppReviewGuard: PASS; the line under the button stays and does not change. With Weekly selected the button stays \"Protect my shopping\"; the No offer version does not change.\n\nFrames: 4 (Offer with Yearly selected and Offer with Weekly selected, EN and AR). The Free trial and No offer versions change only in the feature line: no new frames; see the built rows above. iPad: the same changes; the layout does not change (one layout for iPhone and iPad).\n\nLanguages: all 8 app languages (en, ar, de, es, fr, he, ja, pt; knownRegions at 5.0.8 (3)). Every text of the flow is in the note \"Texts — VPN-1265\" on the right. Hebrew is right to left, as Arabic. The 6 other languages were rendered on the runner (not on the canvas): no text is cut off at 402 pt. Some headlines wrap to 2 lines in de, es, fr, pt and ja; the layout holds.\n\nProposal lines for the approval card (P1–P4, each its own yes / no) are at the end of the texts note."
+    },
+    "iphone-VPN1265-texts": {
+      "x": 2968,
+      "y": 34100,
+      "w": 3600,
+      "page": "iphone",
+      "fill": "gray",
+      "size": "m",
+      "text": "Texts — VPN-1265 · szf_black_friday · every text of the flow in the 8 app languages. One column per language: en | ar | de | es | fr | he | ja | pt. CHANGED = new text tonight. [offer price], [price], [price per week] = product fields, never typed. Lengths are words (3 days free). No right-to-left mark in any text. Yearly, Weekly, Restore, Close, Terms of Use and Privacy Policy are the app's own translations (Localizable.xcstrings on master; Arabic Yearly / Weekly as approved). The offer line keeps its discount words together with no-break spaces.\n\nSAME IN EVERY VERSION\nText | en | ar | de | es | fr | he | ja | pt\nClose (VoiceOver of ✕) | Close | إغلاق | Schließen | Cerrar | Fermer | סגור | 閉じる | Fechar\nRestore | Restore | استعادة المشتريات | Käufe laden | Restaurar | Restaurer | שחזור | 復元 | Restaurar\nTag | BLACK FRIDAY | الجمعة البيضاء | BLACK FRIDAY | BLACK FRIDAY | BLACK FRIDAY | בלאק פריידי | ブラックフライデー | BLACK FRIDAY\nHeadline | Shop Black Friday safely | تسوّق بأمان في الجمعة البيضاء | Sicher shoppen am Black Friday | Compra seguro este Black Friday | Black Friday : achetez en sécurité | קונים בבטחה בבלאק פריידי | ブラックフライデーも安全にショッピング | Compre com segurança na Black Friday\nSubtitle | Keep your shopping private on every network. | حافظ على خصوصية تسوّقك على كل شبكة. | Halte deine Einkäufe in jedem Netzwerk privat. | Mantén tus compras privadas en cualquier red. | Gardez vos achats privés sur tous les réseaux. | שמרו על פרטיות הקניות שלכם בכל רשת. | どのネットワークでも買い物をプライベートに。 | Suas compras privadas em qualquer rede.\nFeature line 1 | Safe on public Wi-Fi | أمان على Wi-Fi العام | Sicher in jedem WLAN | Wi-Fi público seguro | Wi-Fi public sécurisé | בטוח ב-Wi-Fi ציבורי | 公共Wi-Fiでも安全 | Wi-Fi público seguro\nCHANGED Feature line 2 | Private surfing | تصفّح بخصوصية | Privat surfen | Navegación privada | Navigation privée | גלישה פרטית | プライベート閲覧 | Navegação privada\nFeature line 3 | Unlimited and fast | سريع وغير محدود | Schnell, unbegrenzt | Ilimitado y rápido | Illimité et rapide | מהיר וללא הגבלה | 高速・無制限 | Ilimitado e rápido\nFeature line 4 | 100+ virtual locations | أكثر من 100 موقع افتراضي | 100+ virtuelle Standorte | Más de 100 ubicaciones | 100+ emplacements | יותר מ-100 מיקומים | 100以上のロケーション | 100+ localizações\nYearly (plan name) | Yearly | سنوي | Jährlich | Anual | Annuel | שנתי | 年間 | Anual\nWeekly (plan name) | Weekly | أسبوعي | Wöchentlich | Semanal | Hebdomadaire | שבועי | 週間 | Semanal\nTerms of Use (link) | Terms of Use | شروط الاستخدام | Nutzungsbedingungen | Condiciones de Uso | Conditions d’utilisation | תנאי השימוש | 利用規約 | Termos de Uso\nPrivacy Policy (link) | Privacy Policy | سياسة الخصوصية | Datenschutzrichtlinie | Políticas de Privacidad | Politique de confidentialité | מדיניות הפרטיות | プライバシーポリシー | Política de Privacidade\n\nOFFER (SUBSCRIBED BEFORE)\nText | en | ar | de | es | fr | he | ja | pt\nOffer · pill on Yearly | Until 30 Nov | حتى 30 نوفمبر | Bis 30. Nov. | Hasta el 30 nov. | Jusqu’au 30 nov. | עד 30 בנובמבר | 11月30日まで | Até 30 nov.\nCHANGED Offer · Yearly row, offer line (gold) | [offer price] for the first year · up to 75% off | [offer price] للسنة الأولى · خصم يصل إلى 75% | [offer price] im ersten Jahr · bis zu 75 % Rabatt | [offer price] el primer año · hasta un 75 % de descuento | [offer price] la première année · jusqu’à 75 % de réduction | [offer price] לשנה הראשונה · עד 75% הנחה | 初年度 [offer price]・最大75%オフ | [offer price] no primeiro ano · até 75% de desconto\nOffer · Yearly row, second line | then [price] / year | ثم [price] في السنة | dann [price] / Jahr | luego [price] / año | puis [price] / an | ולאחר מכן [price] לשנה | その後 [price] / 年 | depois [price] / ano\nOffer and No offer · Weekly row | [price] / week | [price] في الأسبوع | [price] / Woche | [price] / semana | [price] / semaine | [price] לשבוע | [price] / 週 | [price] / semana\nCHANGED Offer · button, Yearly selected | Take the offer | احصل على العرض | Angebot sichern | Aprovechar la oferta | Profiter de l’offre | לקבלת ההצעה | オファーを受け取る | Aproveitar a oferta\nOffer · line under the button, Yearly selected (no change) | [offer price] for the first year, then [price] / year. Renews automatically. Cancel anytime. | [offer price] للسنة الأولى، ثم [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت. | [offer price] im ersten Jahr, dann [price] / Jahr. Verlängert sich automatisch. Jederzeit kündbar. | [offer price] el primer año, luego [price] / año. Se renueva automáticamente. Cancela cuando quieras. | [offer price] la première année, puis [price] / an. Renouvellement automatique. Résiliable à tout moment. | [offer price] לשנה הראשונה, ולאחר מכן [price] לשנה. מתחדש אוטומטית, אפשר לבטל בכל עת. | 初年度 [offer price]、その後 [price] / 年。自動更新、いつでも解約可能。 | [offer price] no primeiro ano, depois [price] / ano. Renovação automática. Cancele quando quiser.\nOffer with Weekly selected, and No offer · button | Protect my shopping | احمِ تسوّقي | Mein Shopping schützen | Proteger mis compras | Protéger mes achats | הגנה על הקניות שלי | ショッピングを保護 | Proteger minhas compras\nWeekly selected (Offer and No offer) · line under the button | [price] / week. Renews automatically. Cancel anytime. | [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت. | [price] / Woche. Verlängert sich automatisch. Jederzeit kündbar. | [price] / semana. Se renueva automáticamente. Cancela cuando quieras. | [price] / semaine. Renouvellement automatique. Résiliable à tout moment. | [price] לשבוע. מתחדש אוטומטית, אפשר לבטל בכל עת. | [price] / 週。自動更新、いつでも解約可能。 | [price] / semana. Renovação automática. Cancele quando quiser.\n\nFREE TRIAL (NEVER SUBSCRIBED)\nText | en | ar | de | es | fr | he | ja | pt\nFree trial and No offer · pill on Yearly | Best value | الأفضل قيمة | Bestes Angebot | Mejor valor | Le plus avantageux | המשתלם ביותר | いちばんお得 | Mais vantajoso\nFree trial · Yearly and Weekly rows, first line | 3 days free | 3 أيام مجانًا | 3 Tage gratis | 3 días gratis | 3 jours gratuits | 3 ימים בחינם | 3日間無料 | 3 dias grátis\nFree trial · Yearly row, second line | then [price] / year | ثم [price] في السنة | dann [price] / Jahr | luego [price] / año | puis [price] / an | ולאחר מכן [price] לשנה | その後 [price] / 年 | depois [price] / ano\nFree trial · Weekly row, second line | then [price] / week | ثم [price] في الأسبوع | dann [price] / Woche | luego [price] / semana | puis [price] / semaine | ולאחר מכן [price] לשבוע | その後 [price] / 週 | depois [price] / semana\nFree trial · button (see proposal P4) | Start my free trial | ابدأ تجربتي المجانية | Gratisphase starten | Iniciar mi prueba gratuita | Commencer mon essai gratuit | התחלת ניסיון חינם | 無料トライアルを開始 | Começar meu teste grátis\nFree trial · line under the button, Yearly selected | 3 days free, then [price] / year. Renews automatically. Cancel anytime. | 3 أيام مجانًا، ثم [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت. | 3 Tage gratis, dann [price] / Jahr. Verlängert sich automatisch. Jederzeit kündbar. | 3 días gratis, luego [price] / año. Se renueva automáticamente. Cancela cuando quieras. | 3 jours gratuits, puis [price] / an. Renouvellement automatique. Résiliable à tout moment. | 3 ימים בחינם, ולאחר מכן [price] לשנה. מתחדש אוטומטית, אפשר לבטל בכל עת. | 3日間無料、その後 [price] / 年。自動更新、いつでも解約可能。 | 3 dias grátis, depois [price] / ano. Renovação automática. Cancele quando quiser.\nFree trial · line under the button, Weekly selected | 3 days free, then [price] / week. Renews automatically. Cancel anytime. | 3 أيام مجانًا، ثم [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت. | 3 Tage gratis, dann [price] / Woche. Verlängert sich automatisch. Jederzeit kündbar. | 3 días gratis, luego [price] / semana. Se renueva automáticamente. Cancela cuando quieras. | 3 jours gratuits, puis [price] / semaine. Renouvellement automatique. Résiliable à tout moment. | 3 ימים בחינם, ולאחר מכן [price] לשבוע. מתחדש אוטומטית, אפשר לבטל בכל עת. | 3日間無料、その後 [price] / 週。自動更新、いつでも解約可能。 | 3 dias grátis, depois [price] / semana. Renovação automática. Cancele quando quiser.\n\nNO OFFER (CAN GET NEITHER)\nText | en | ar | de | es | fr | he | ja | pt\nFree trial and No offer · pill on Yearly | Best value | الأفضل قيمة | Bestes Angebot | Mejor valor | Le plus avantageux | המשתלם ביותר | いちばんお得 | Mais vantajoso\nNo offer · Yearly row, first line | [price] / year | [price] في السنة | [price] / Jahr | [price] / año | [price] / an | [price] לשנה | [price] / 年 | [price] / ano\nNo offer · Yearly row, second line | [price per week] / week | [price per week] في الأسبوع | [price per week] / Woche | [price per week] / semana | [price per week] / semaine | [price per week] לשבוע | [price per week] / 週 | [price per week] / semana\nOffer and No offer · Weekly row | [price] / week | [price] في الأسبوع | [price] / Woche | [price] / semana | [price] / semaine | [price] לשבוע | [price] / 週 | [price] / semana\nOffer with Weekly selected, and No offer · button | Protect my shopping | احمِ تسوّقي | Mein Shopping schützen | Proteger mis compras | Protéger mes achats | הגנה על הקניות שלי | ショッピングを保護 | Proteger minhas compras\nNo offer · line under the button, Yearly selected | [price] / year. Renews automatically. Cancel anytime. | [price] في السنة. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت. | [price] / Jahr. Verlängert sich automatisch. Jederzeit kündbar. | [price] / año. Se renueva automáticamente. Cancela cuando quieras. | [price] / an. Renouvellement automatique. Résiliable à tout moment. | [price] לשנה. מתחדש אוטומטית, אפשר לבטל בכל עת. | [price] / 年。自動更新、いつでも解約可能。 | [price] / ano. Renovação automática. Cancele quando quiser.\nWeekly selected (Offer and No offer) · line under the button | [price] / week. Renews automatically. Cancel anytime. | [price] في الأسبوع. يتجدد تلقائيًا، ويمكنك الإلغاء في أي وقت. | [price] / Woche. Verlängert sich automatisch. Jederzeit kündbar. | [price] / semana. Se renueva automáticamente. Cancela cuando quieras. | [price] / semaine. Renouvellement automatique. Résiliable à tout moment. | [price] לשבוע. מתחדש אוטומטית, אפשר לבטל בכל עת. | [price] / 週。自動更新、いつでも解約可能。 | [price] / semana. Renovação automática. Cancele quando quiser.\n\nPROPOSAL LINES FOR THE APPROVAL CARD (each its own yes / no; not in the frames)\nText | en | ar | de | es | fr | he | ja | pt\nP1 Headline \"Shop Black Friday safely\": follow \"surfing\"? — Recommend NO: keep the headline. Shopping is why Black Friday matters, and the line is true in every version. | Surf Black Friday safely | تصفّح بأمان في الجمعة البيضاء | Sicher surfen am Black Friday | Navega seguro este Black Friday | Black Friday : naviguez en sécurité | גולשים בבטחה בבלאק פריידי | ブラックフライデーも安全にブラウジング | Navegue com segurança na Black Friday\nP2 Subtitle \"Keep your shopping private on every network.\": follow \"surfing\"? — Recommend YES: it then matches the feature line \"Private surfing\". | Keep your surfing private on every network. | حافظ على خصوصية تصفّحك على كل شبكة. | Halte dein Surfen in jedem Netzwerk privat. | Mantén tu navegación privada en cualquier red. | Gardez votre navigation privée sur tous les réseaux. | שמרו על פרטיות הגלישה שלכם בכל רשת. | どのネットワークでも、ブラウジングをプライベートに。 | Mantenha sua navegação privada em qualquer rede.\nP3 Button \"Protect my shopping\" (Offer with Weekly selected; No offer): follow \"surfing\"? — Recommend YES, together with P2. | Protect my surfing | احمِ تصفّحي | Mein Surfen schützen | Proteger mi navegación | Protéger ma navigation | הגנה על הגלישה שלי | ブラウジングを保護 | Proteger minha navegação\nP4 Free trial button (today \"Start my free trial\") — Proposal: short like \"Take the offer\"; says \"free\" because the trial is free; claims no Black Friday price and no length. If NO, \"Start my free trial\" stays. | Try it free | جرّبه مجانًا | Gratis testen | Pruébalo gratis | Essayer gratuitement | נסו בחינם | 無料で試す | Experimente grátis"
     }
   }
 }
