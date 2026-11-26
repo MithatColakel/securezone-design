@@ -3471,6 +3471,134 @@
       "h": 1032,
       "page": "ipad",
       "title": "Proposal — VPN-1179 · iPad wide window, premium user on Auto · (e) after a disconnect: the bar keeps the server the user got · landscape · AR"
+    },
+    "Mac-AppIcon1226-Master-EN.dc.html": {
+      "x": 0,
+      "y": 23590,
+      "w": 1424,
+      "h": 1304,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · master 1024 px on the macOS grid · EN"
+    },
+    "Mac-AppIcon1226-SizesLight-EN.dc.html": {
+      "x": 1504,
+      "y": 23590,
+      "w": 2280,
+      "h": 1880,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · sizes 16–512 pt @1x and @2x · light desktop · EN"
+    },
+    "Mac-AppIcon1226-SizesDark-EN.dc.html": {
+      "x": 3864,
+      "y": 23590,
+      "w": 2280,
+      "h": 1880,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · sizes 16–512 pt @1x and @2x · dark desktop · EN"
+    },
+    "Mac-AppIcon1226-Looks-EN.dc.html": {
+      "x": 6224,
+      "y": 23590,
+      "w": 1360,
+      "h": 1000,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · the 6 looks of macOS 26 and 27 (Default, Dark, Clear, Tinted), 256 px · EN"
+    },
+    "Mac-AppIcon1226-Dock-EN.dc.html": {
+      "x": 0,
+      "y": 26170,
+      "w": 1280,
+      "h": 300,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · in place: the Dock (app open, pointer on the icon) · EN"
+    },
+    "Mac-AppIcon1226-Finder-EN.dc.html": {
+      "x": 1360,
+      "y": 26170,
+      "w": 900,
+      "h": 560,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · in place: a Finder window, Applications, icon view 64 pt, app selected · EN"
+    },
+    "Mac-AppIcon1226-Prompt-EN.dc.html": {
+      "x": 2340,
+      "y": 26170,
+      "w": 420,
+      "h": 300,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · in place: the macOS VPN prompt (stand-in) · EN"
+    },
+    "Mac-AppIcon1226-Dock-AR.dc.html": {
+      "x": 2840,
+      "y": 26170,
+      "w": 1280,
+      "h": 300,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · in place: the Dock (app open, pointer on the icon) · AR"
+    },
+    "Mac-AppIcon1226-Finder-AR.dc.html": {
+      "x": 4200,
+      "y": 26170,
+      "w": 900,
+      "h": 560,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · in place: a Finder window, Applications, icon view 64 pt, app selected · AR"
+    },
+    "Mac-AppIcon1226-Prompt-AR.dc.html": {
+      "x": 5180,
+      "y": 26170,
+      "w": 420,
+      "h": 300,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · Mac app icon · in place: the macOS VPN prompt (stand-in) with macOS’s own Arabic lines · AR"
+    },
+    "Mac-VPNPermission1226-PanelPrompt-EN.dc.html": {
+      "x": 0,
+      "y": 27430,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · menu bar panel: Connect, macOS prompt at once (stand-in) · changed: Mac icon in the prompt · EN"
+    },
+    "Mac-VPNPermission1226-WindowPrompt-EN.dc.html": {
+      "x": 500,
+      "y": 27430,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · window: Connect, macOS prompt at once (stand-in) · changed: Mac icon in the prompt · EN"
+    },
+    "Mac-VPNPermission1226-Help-EN.dc.html": {
+      "x": 1100,
+      "y": 27430,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · window: after Don’t Allow, help (macOS prompt stand-in, Allow marked) · changed: Mac icon in the prompt · EN"
+    },
+    "Mac-VPNPermission1226-PanelPrompt-AR.dc.html": {
+      "x": 1700,
+      "y": 27430,
+      "w": 420,
+      "h": 420,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · menu bar panel: Connect, macOS prompt at once (stand-in) · changed: Mac icon in the prompt, macOS’s own Arabic lines · AR"
+    },
+    "Mac-VPNPermission1226-WindowPrompt-AR.dc.html": {
+      "x": 2200,
+      "y": 27430,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · window: Connect, macOS prompt at once (stand-in) · changed: Mac icon in the prompt, macOS’s own Arabic lines · AR"
+    },
+    "Mac-VPNPermission1226-Help-AR.dc.html": {
+      "x": 2800,
+      "y": 27430,
+      "w": 520,
+      "h": 700,
+      "page": "mac",
+      "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · window: after Don’t Allow, help (macOS prompt stand-in, Allow marked) · changed: Mac icon in the prompt, macOS’s own Arabic lines · AR"
     }
   },
   "order": [
@@ -3904,7 +4032,55 @@
     "iPad-HomeAuto1179-Connecting-AR.dc.html",
     "iPad-HomeAuto1179-ConnectedSameCountry-AR.dc.html",
     "iPad-HomeAuto1179-ConnectedOtherCountry-AR.dc.html",
-    "iPad-HomeAuto1179-AfterDisconnect-AR.dc.html"
+    "iPad-HomeAuto1179-AfterDisconnect-AR.dc.html",
+    "Mac-AppIcon1226-Master-EN.dc.html",
+    "Mac-AppIcon1226-SizesLight-EN.dc.html",
+    "Mac-AppIcon1226-SizesDark-EN.dc.html",
+    "Mac-AppIcon1226-Looks-EN.dc.html",
+    "Mac-AppIcon1226-Dock-EN.dc.html",
+    "Mac-AppIcon1226-Finder-EN.dc.html",
+    "Mac-AppIcon1226-Prompt-EN.dc.html",
+    "Mac-AppIcon1226-Dock-AR.dc.html",
+    "Mac-AppIcon1226-Finder-AR.dc.html",
+    "Mac-AppIcon1226-Prompt-AR.dc.html",
+    "Mac-VPNPermission1226-PanelPrompt-EN.dc.html",
+    "Mac-VPNPermission1226-WindowPrompt-EN.dc.html",
+    "Mac-VPNPermission1226-Help-EN.dc.html",
+    "Mac-VPNPermission1226-PanelPrompt-AR.dc.html",
+    "Mac-VPNPermission1226-WindowPrompt-AR.dc.html",
+    "Mac-VPNPermission1226-Help-AR.dc.html",
+    "Mac-AppIcon1226-Master-EN.dc.html",
+    "Mac-AppIcon1226-SizesLight-EN.dc.html",
+    "Mac-AppIcon1226-SizesDark-EN.dc.html",
+    "Mac-AppIcon1226-Looks-EN.dc.html",
+    "Mac-AppIcon1226-Dock-EN.dc.html",
+    "Mac-AppIcon1226-Finder-EN.dc.html",
+    "Mac-AppIcon1226-Prompt-EN.dc.html",
+    "Mac-AppIcon1226-Dock-AR.dc.html",
+    "Mac-AppIcon1226-Finder-AR.dc.html",
+    "Mac-AppIcon1226-Prompt-AR.dc.html",
+    "Mac-VPNPermission1226-PanelPrompt-EN.dc.html",
+    "Mac-VPNPermission1226-WindowPrompt-EN.dc.html",
+    "Mac-VPNPermission1226-Help-EN.dc.html",
+    "Mac-VPNPermission1226-PanelPrompt-AR.dc.html",
+    "Mac-VPNPermission1226-WindowPrompt-AR.dc.html",
+    "Mac-VPNPermission1226-Help-AR.dc.html",
+    "Mac-AppIcon1226-Master-EN.dc.html",
+    "Mac-AppIcon1226-SizesLight-EN.dc.html",
+    "Mac-AppIcon1226-SizesDark-EN.dc.html",
+    "Mac-AppIcon1226-Looks-EN.dc.html",
+    "Mac-AppIcon1226-Dock-EN.dc.html",
+    "Mac-AppIcon1226-Finder-EN.dc.html",
+    "Mac-AppIcon1226-Prompt-EN.dc.html",
+    "Mac-AppIcon1226-Dock-AR.dc.html",
+    "Mac-AppIcon1226-Finder-AR.dc.html",
+    "Mac-AppIcon1226-Prompt-AR.dc.html",
+    "Mac-VPNPermission1226-PanelPrompt-EN.dc.html",
+    "Mac-VPNPermission1226-WindowPrompt-EN.dc.html",
+    "Mac-VPNPermission1226-Help-EN.dc.html",
+    "Mac-VPNPermission1226-PanelPrompt-AR.dc.html",
+    "Mac-VPNPermission1226-WindowPrompt-AR.dc.html",
+    "Mac-VPNPermission1226-Help-AR.dc.html"
   ],
   "notes": {
     "iphone-Splash": {
@@ -5156,6 +5332,75 @@
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-1179 (below): the Auto row gets a second line with the country of the server that premium Auto got (before Connect: the app's pick)."
+    },
+    "mac-blk-ProposalVPN1226": {
+      "x": 0,
+      "y": 22590,
+      "text": "Proposal — VPN-1226",
+      "kind": "title1",
+      "maxW": 2400,
+      "page": "mac",
+      "color": "blue"
+    },
+    "mac-ProposalVPN1226-Icon": {
+      "x": 0,
+      "y": 23290,
+      "text": "Proposal — VPN-1226 · Mac app icon: master, sizes and looks",
+      "kind": "title1",
+      "maxW": 4000,
+      "page": "mac"
+    },
+    "mac-ProposalVPN1226-InPlace": {
+      "x": 0,
+      "y": 25870,
+      "text": "Proposal — VPN-1226 · the icon in place: Dock, Finder, macOS VPN prompt (EN, then AR)",
+      "kind": "title1",
+      "maxW": 4000,
+      "page": "mac"
+    },
+    "mac-ProposalVPN1226-Permission": {
+      "x": 0,
+      "y": 27130,
+      "text": "Proposal — VPN-1226 · the VPN-855 frames that draw the macOS prompt, with the Mac icon (AR: macOS’s own lines)",
+      "kind": "title1",
+      "maxW": 4000,
+      "page": "mac"
+    },
+    "mac-ProposalVPN1226-spec": {
+      "x": 7664,
+      "y": 23590,
+      "w": 680,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Mac app icon (proposal). Made from the iPhone icon iTunesArtwork@2x.png; not redrawn. The iPhone and iPad icon does not change.\n• Shape: 824 × 824 px continuous-corner square in the 1024 px canvas, 100 px margin, transparent outside. Drop shadow black 30 %, y 10, blur 10. Grid values from web sources on the macOS icon template (no Apple page opened).\n• Background: vertical gradient #6E92EF → #2641A8, measured from the artwork (fit error 0.3 of 255).\n• Files (design-system/project/assets/MacAppIcon/): icon_16x16 … icon_512x512@2x.png (10 files, the macOS asset catalog set) and Contents.json (idiom mac); MacAppIcon-1024.png (master).\n• macOS 26 and 27 draw an icon in 6 looks (Default, Dark, Clear light and dark, Tinted light and dark). An asset catalog icon shows Default only. For the other looks the build needs an Icon Composer .icon file made from 3 layers: MacAppIcon-Layer1-Background, -Layer2-Shield (white shield with its blue glow), -Layer3-Check (1024 px, full bleed; Icon Composer adds the shape). The layers are cut from the artwork pixels (they recompose to the artwork, mean error 0.2 of 255), because the repository has no vector mark.\n• The Dark, Clear and Tinted pictures are approximate. macOS makes them; SecurezoneiOS checks them in Icon Composer's preview on the Mac.\n• Small sizes: at 16 and 32 px the shield and check stay readable on both desktops. Contrast of the white shield on the background behind it: 3.3:1 at its top tip to 7.8:1 at its bottom (icons need 3:1). The top corners of the square (#6E92EF, 2.99:1) touch no shield."
+    },
+    "mac-ProposalVPN1226-place": {
+      "x": 5680,
+      "y": 26170,
+      "w": 680,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "In place. The grey squares are stand-ins for other apps (no other app's icon is drawn). The Dock, Finder and prompt are stand-ins drawn in the frames' style; the board takes the real prompt picture on TestFlight (VPN-922 row T2).\n• Dock: 64 pt slot (Dock size varies), pointer on the icon shows the name, dot = app open.\n• Finder: Applications in icon view, 64 pt, app selected. AR: macOS in Arabic, window buttons on the right, sidebar on the right. The app name stays \"Securezone VPN\" in every language (InfoPlist.strings).\n• Prompt: the icon is drawn 60 px with its transparent margin, so the shape is 48 px, as the VPN-855 drawing. AR uses macOS's own lines (see the next row)."
+    },
+    "mac-ProposalVPN1226-changes": {
+      "x": 3400,
+      "y": 27430,
+      "w": 680,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Changes against the VPN-855 frames (above, current design of the help page and the prompt stand-in). Everything else is the same.\n1. All 6 frames: the prompt shows the Mac icon (icon_128x128.png at 60 px, shape 48 px) in place of the iPhone iTunesArtwork with 11 px corners. After approval SecurezoneiOS replaces PermissionPromptAppIcon.png with icon_128x128.png and draws it at 60 pt, so the shape stays 48 pt as today.\n2. The 3 AR frames: the prompt's title and message are macOS's own 2 lines (VPN-922 design review item 4), from VPN-922 build report §2:\n   Title: يرغب \"Securezone VPN\" في إضافة تكوينات VPN (was: يرغب «Securezone VPN» في إضافة إعدادات VPN)\n   Message: قد تتم فلترة أو مراقبة كل نشاط الشبكة على هذا الـ Mac عند استخدام VPN. (was: قد تتم تصفية كل نشاط الشبكة على جهاز Mac هذا أو مراقبته عند استخدام VPN.)\n   SecurezoneiOS confirms each character (the quote marks) from macOS's NetworkExtension strings in its next VPN-922 hand-back; the frames follow that.\n3. Buttons, Allow mark, steps and the rest of the page: no change. EN text: no change (it is macOS's line word for word)."
+    },
+    "mac-VPN855-VPN1226": {
+      "x": 6760,
+      "y": 18790,
+      "w": 520,
+      "page": "mac",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1226 (below): these frames' macOS prompt takes the new Mac app icon, and in AR macOS's own 2 lines. See the row \"the VPN-855 frames that draw the macOS prompt\"."
     }
   }
 }
