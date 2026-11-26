@@ -2036,7 +2036,7 @@
       "x": 0,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · home, connected · EN"
     },
@@ -2044,7 +2044,7 @@
       "x": 600,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · home, disconnected · EN"
     },
@@ -2052,7 +2052,7 @@
       "x": 1200,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · home, no premium · EN"
     },
@@ -2060,7 +2060,7 @@
       "x": 1800,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · locations · EN"
     },
@@ -2068,7 +2068,7 @@
       "x": 2400,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · locations, search · EN"
     },
@@ -2076,7 +2076,7 @@
       "x": 3000,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · locations, no premium · EN"
     },
@@ -2084,7 +2084,7 @@
       "x": 3600,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · home, connected · AR"
     },
@@ -2092,7 +2092,7 @@
       "x": 4200,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · home, disconnected · AR"
     },
@@ -2100,7 +2100,7 @@
       "x": 4800,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · home, no premium · AR"
     },
@@ -2108,7 +2108,7 @@
       "x": 5400,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · locations · AR"
     },
@@ -2116,7 +2116,7 @@
       "x": 6000,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · locations, search · AR"
     },
@@ -2124,13 +2124,13 @@
       "x": 6600,
       "y": 1720,
       "w": 520,
-      "h": 700,
+      "h": 732,
       "page": "mac",
       "title": "Approved, not built — VPN-589 · Window: home and locations · locations, no premium · AR"
     },
     "Mac-FirstLaunch-Privacy-EN.dc.html": {
       "x": 0,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2138,7 +2138,7 @@
     },
     "Mac-FirstLaunch-Permission-EN.dc.html": {
       "x": 600,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2146,7 +2146,7 @@
     },
     "Mac-FirstLaunch-Denied-EN.dc.html": {
       "x": 1200,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2154,7 +2154,7 @@
     },
     "Mac-FirstLaunch-Privacy-AR.dc.html": {
       "x": 1800,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2162,7 +2162,7 @@
     },
     "Mac-FirstLaunch-Permission-AR.dc.html": {
       "x": 2400,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2170,7 +2170,7 @@
     },
     "Mac-FirstLaunch-Denied-AR.dc.html": {
       "x": 3000,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2178,7 +2178,7 @@
     },
     "Mac-Report-Slow-EN.dc.html": {
       "x": 0,
-      "y": 4520,
+      "y": 4552,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2186,7 +2186,7 @@
     },
     "Mac-Report-Slow-AR.dc.html": {
       "x": 600,
-      "y": 4520,
+      "y": 4552,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2194,7 +2194,7 @@
     },
     "Mac-Settings-General-EN.dc.html": {
       "x": 0,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2202,7 +2202,7 @@
     },
     "Mac-Settings-Protocols-EN.dc.html": {
       "x": 600,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2210,7 +2210,7 @@
     },
     "Mac-Settings-Account-EN.dc.html": {
       "x": 1200,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2218,7 +2218,7 @@
     },
     "Mac-Settings-Support-EN.dc.html": {
       "x": 1800,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2226,7 +2226,7 @@
     },
     "Mac-Settings-Shortcuts-EN.dc.html": {
       "x": 2400,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2234,7 +2234,7 @@
     },
     "Mac-Settings-General-AR.dc.html": {
       "x": 3000,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2242,7 +2242,7 @@
     },
     "Mac-Settings-Protocols-AR.dc.html": {
       "x": 3600,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2250,7 +2250,7 @@
     },
     "Mac-Settings-Account-AR.dc.html": {
       "x": 4200,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2258,7 +2258,7 @@
     },
     "Mac-Settings-Support-AR.dc.html": {
       "x": 4800,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2266,7 +2266,7 @@
     },
     "Mac-Settings-Shortcuts-AR.dc.html": {
       "x": 5400,
-      "y": 5620,
+      "y": 5652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2274,7 +2274,7 @@
     },
     "Mac-MenuBar-NoPremiumFooter-EN.dc.html": {
       "x": 0,
-      "y": 7420,
+      "y": 7452,
       "w": 420,
       "h": 470,
       "page": "mac",
@@ -2282,7 +2282,7 @@
     },
     "Mac-MenuBar-NoPremiumFooter-AR.dc.html": {
       "x": 500,
-      "y": 7420,
+      "y": 7452,
       "w": 420,
       "h": 470,
       "page": "mac",
@@ -2290,7 +2290,7 @@
     },
     "Mac-Settings-AccountNoPremium-EN.dc.html": {
       "x": 0,
-      "y": 8290,
+      "y": 8322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2298,7 +2298,7 @@
     },
     "Mac-Settings-AccountNoPremium-AR.dc.html": {
       "x": 600,
-      "y": 8290,
+      "y": 8322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2306,7 +2306,7 @@
     },
     "Mac-Launch-Loading-EN.dc.html": {
       "x": 0,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2314,7 +2314,7 @@
     },
     "Mac-Launch-Unreachable-EN.dc.html": {
       "x": 600,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2322,7 +2322,7 @@
     },
     "Mac-Launch-Offline-EN.dc.html": {
       "x": 1200,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2330,7 +2330,7 @@
     },
     "Mac-Launch-UpdateRequired-EN.dc.html": {
       "x": 1800,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2338,7 +2338,7 @@
     },
     "Mac-Launch-NetworkBlocked-EN.dc.html": {
       "x": 2400,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2346,7 +2346,7 @@
     },
     "Mac-Launch-Loading-AR.dc.html": {
       "x": 3000,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2354,7 +2354,7 @@
     },
     "Mac-Launch-Unreachable-AR.dc.html": {
       "x": 3600,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2362,7 +2362,7 @@
     },
     "Mac-Launch-Offline-AR.dc.html": {
       "x": 4200,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2370,7 +2370,7 @@
     },
     "Mac-Launch-UpdateRequired-AR.dc.html": {
       "x": 4800,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2378,7 +2378,7 @@
     },
     "Mac-Launch-NetworkBlocked-AR.dc.html": {
       "x": 5400,
-      "y": 10090,
+      "y": 10122,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2386,7 +2386,7 @@
     },
     "Mac-Notices-NoticeBand-EN.dc.html": {
       "x": 0,
-      "y": 11190,
+      "y": 11222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2394,7 +2394,7 @@
     },
     "Mac-Notices-NoInternet-EN.dc.html": {
       "x": 600,
-      "y": 11190,
+      "y": 11222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2402,7 +2402,7 @@
     },
     "Mac-Notices-NoticeBand-AR.dc.html": {
       "x": 1200,
-      "y": 11190,
+      "y": 11222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2410,7 +2410,7 @@
     },
     "Mac-Notices-NoInternet-AR.dc.html": {
       "x": 1800,
-      "y": 11190,
+      "y": 11222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2418,7 +2418,7 @@
     },
     "Mac-Rating-Untouched-EN.dc.html": {
       "x": 0,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2426,7 +2426,7 @@
     },
     "Mac-Rating-Low-EN.dc.html": {
       "x": 600,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2434,7 +2434,7 @@
     },
     "Mac-Rating-High-EN.dc.html": {
       "x": 1200,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2442,7 +2442,7 @@
     },
     "Mac-Rating-RateUs-EN.dc.html": {
       "x": 1800,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2450,7 +2450,7 @@
     },
     "Mac-Rating-Untouched-AR.dc.html": {
       "x": 2400,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2458,7 +2458,7 @@
     },
     "Mac-Rating-Low-AR.dc.html": {
       "x": 3000,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2466,7 +2466,7 @@
     },
     "Mac-Rating-High-AR.dc.html": {
       "x": 3600,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2474,7 +2474,7 @@
     },
     "Mac-Rating-RateUs-AR.dc.html": {
       "x": 4200,
-      "y": 12290,
+      "y": 12322,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2482,7 +2482,7 @@
     },
     "Mac-Billing-Grace-EN.dc.html": {
       "x": 0,
-      "y": 13390,
+      "y": 13422,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2490,7 +2490,7 @@
     },
     "Mac-Billing-Paused-EN.dc.html": {
       "x": 600,
-      "y": 13390,
+      "y": 13422,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2498,7 +2498,7 @@
     },
     "Mac-Billing-Grace-AR.dc.html": {
       "x": 1200,
-      "y": 13390,
+      "y": 13422,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2506,7 +2506,7 @@
     },
     "Mac-Billing-Paused-AR.dc.html": {
       "x": 1800,
-      "y": 13390,
+      "y": 13422,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2850,7 +2850,7 @@
     },
     "Mac-UpdateRequired-Window-EN.dc.html": {
       "x": 0,
-      "y": 15190,
+      "y": 15222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2858,7 +2858,7 @@
     },
     "Mac-UpdateRequired-MenuBar-EN.dc.html": {
       "x": 600,
-      "y": 15190,
+      "y": 15222,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -2866,7 +2866,7 @@
     },
     "Mac-UpdateRecommended-WindowBand-EN.dc.html": {
       "x": 1100,
-      "y": 15190,
+      "y": 15222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2874,7 +2874,7 @@
     },
     "Mac-UpdateRequired-Window-AR.dc.html": {
       "x": 1700,
-      "y": 15190,
+      "y": 15222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2882,7 +2882,7 @@
     },
     "Mac-UpdateRequired-MenuBar-AR.dc.html": {
       "x": 2300,
-      "y": 15190,
+      "y": 15222,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -2890,7 +2890,7 @@
     },
     "Mac-UpdateRecommended-WindowBand-AR.dc.html": {
       "x": 2800,
-      "y": 15190,
+      "y": 15222,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2994,7 +2994,7 @@
     },
     "Mac-PrimaryButton-Normal-EN.dc.html": {
       "x": 0,
-      "y": 16990,
+      "y": 17022,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3002,7 +3002,7 @@
     },
     "Mac-PrimaryButton-Pressed-EN.dc.html": {
       "x": 600,
-      "y": 16990,
+      "y": 17022,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3010,7 +3010,7 @@
     },
     "Mac-PrimaryButton-Disabled-EN.dc.html": {
       "x": 1200,
-      "y": 16990,
+      "y": 17022,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3018,7 +3018,7 @@
     },
     "Mac-PrimaryButton-Normal-AR.dc.html": {
       "x": 1800,
-      "y": 16990,
+      "y": 17022,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3026,7 +3026,7 @@
     },
     "Mac-PrimaryButton-Pressed-AR.dc.html": {
       "x": 2400,
-      "y": 16990,
+      "y": 17022,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3034,7 +3034,7 @@
     },
     "Mac-PrimaryButton-Disabled-AR.dc.html": {
       "x": 3000,
-      "y": 16990,
+      "y": 17022,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3042,7 +3042,7 @@
     },
     "Mac-VPNPermission855-PanelPrompt-EN.dc.html": {
       "x": 0,
-      "y": 18790,
+      "y": 18822,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3050,7 +3050,7 @@
     },
     "Mac-VPNPermission855-WindowPrompt-EN.dc.html": {
       "x": 500,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3058,7 +3058,7 @@
     },
     "Mac-VPNPermission855-Help-EN.dc.html": {
       "x": 1100,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3066,7 +3066,7 @@
     },
     "Mac-VPNPermission855-NoPrompt-EN.dc.html": {
       "x": 1700,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3074,7 +3074,7 @@
     },
     "Mac-VPNPermission855-PanelPrompt-AR.dc.html": {
       "x": 2300,
-      "y": 18790,
+      "y": 18822,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3082,7 +3082,7 @@
     },
     "Mac-VPNPermission855-WindowPrompt-AR.dc.html": {
       "x": 2800,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3090,7 +3090,7 @@
     },
     "Mac-VPNPermission855-Help-AR.dc.html": {
       "x": 3400,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3098,7 +3098,7 @@
     },
     "Mac-VPNPermission855-NoPrompt-AR.dc.html": {
       "x": 4000,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3378,7 +3378,7 @@
     },
     "Mac-AppIcon1226-Master-EN.dc.html": {
       "x": 0,
-      "y": 21190,
+      "y": 21222,
       "w": 1424,
       "h": 1304,
       "page": "mac",
@@ -3386,7 +3386,7 @@
     },
     "Mac-AppIcon1226-SizesLight-EN.dc.html": {
       "x": 1504,
-      "y": 21190,
+      "y": 21222,
       "w": 2280,
       "h": 1880,
       "page": "mac",
@@ -3394,7 +3394,7 @@
     },
     "Mac-AppIcon1226-SizesDark-EN.dc.html": {
       "x": 3864,
-      "y": 21190,
+      "y": 21222,
       "w": 2280,
       "h": 1880,
       "page": "mac",
@@ -3402,7 +3402,7 @@
     },
     "Mac-AppIcon1226-Looks-EN.dc.html": {
       "x": 6224,
-      "y": 21190,
+      "y": 21222,
       "w": 1360,
       "h": 1000,
       "page": "mac",
@@ -3410,7 +3410,7 @@
     },
     "Mac-AppIcon1226-Dock-EN.dc.html": {
       "x": 0,
-      "y": 23770,
+      "y": 23802,
       "w": 1280,
       "h": 300,
       "page": "mac",
@@ -3418,7 +3418,7 @@
     },
     "Mac-AppIcon1226-Finder-EN.dc.html": {
       "x": 1360,
-      "y": 23770,
+      "y": 23802,
       "w": 900,
       "h": 560,
       "page": "mac",
@@ -3426,7 +3426,7 @@
     },
     "Mac-AppIcon1226-Prompt-EN.dc.html": {
       "x": 2340,
-      "y": 23770,
+      "y": 23802,
       "w": 420,
       "h": 300,
       "page": "mac",
@@ -3434,7 +3434,7 @@
     },
     "Mac-AppIcon1226-Dock-AR.dc.html": {
       "x": 2840,
-      "y": 23770,
+      "y": 23802,
       "w": 1280,
       "h": 300,
       "page": "mac",
@@ -3442,7 +3442,7 @@
     },
     "Mac-AppIcon1226-Finder-AR.dc.html": {
       "x": 4200,
-      "y": 23770,
+      "y": 23802,
       "w": 900,
       "h": 560,
       "page": "mac",
@@ -3450,7 +3450,7 @@
     },
     "Mac-AppIcon1226-Prompt-AR.dc.html": {
       "x": 5180,
-      "y": 23770,
+      "y": 23802,
       "w": 420,
       "h": 300,
       "page": "mac",
@@ -3458,7 +3458,7 @@
     },
     "Mac-VPNPermission1226-PanelPrompt-EN.dc.html": {
       "x": 0,
-      "y": 25030,
+      "y": 25062,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3466,7 +3466,7 @@
     },
     "Mac-VPNPermission1226-WindowPrompt-EN.dc.html": {
       "x": 500,
-      "y": 25030,
+      "y": 25062,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3474,7 +3474,7 @@
     },
     "Mac-VPNPermission1226-Help-EN.dc.html": {
       "x": 1100,
-      "y": 25030,
+      "y": 25062,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3482,7 +3482,7 @@
     },
     "Mac-VPNPermission1226-PanelPrompt-AR.dc.html": {
       "x": 1700,
-      "y": 25030,
+      "y": 25062,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3490,7 +3490,7 @@
     },
     "Mac-VPNPermission1226-WindowPrompt-AR.dc.html": {
       "x": 2200,
-      "y": 25030,
+      "y": 25062,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3498,7 +3498,7 @@
     },
     "Mac-VPNPermission1226-Help-AR.dc.html": {
       "x": 2800,
-      "y": 25030,
+      "y": 25062,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -4236,7 +4236,7 @@
     },
     "mac-tbuiltVPN589-FirstLaunch": {
       "x": 0,
-      "y": 2520,
+      "y": 2552,
       "text": "Approved, not built — VPN-589 · Window: first launch",
       "kind": "title1",
       "maxW": 3520,
@@ -4244,7 +4244,7 @@
     },
     "mac-tbuiltVPN589-Report": {
       "x": 0,
-      "y": 4220,
+      "y": 4252,
       "text": "Approved, not built — VPN-589 · Window: Report an Issue",
       "kind": "title1",
       "maxW": 1120,
@@ -4252,7 +4252,7 @@
     },
     "mac-tbuiltVPN589-Settings": {
       "x": 0,
-      "y": 5320,
+      "y": 5352,
       "text": "Approved, not built — VPN-589 · Window: Settings",
       "kind": "title1",
       "maxW": 5920,
@@ -4260,7 +4260,7 @@
     },
     "mac-blk-ProposalVPN589review": {
       "x": 0,
-      "y": 6420,
+      "y": 6452,
       "text": "Approved, not built — VPN-589 review",
       "kind": "title1",
       "maxW": 2400,
@@ -4269,7 +4269,7 @@
     },
     "mac-VPN589review-MenuBar": {
       "x": 0,
-      "y": 7120,
+      "y": 7152,
       "text": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond",
       "kind": "title1",
       "maxW": 920,
@@ -4277,7 +4277,7 @@
     },
     "mac-VPN589review-Settings": {
       "x": 0,
-      "y": 7990,
+      "y": 8022,
       "text": "Approved, not built — VPN-589 review · Settings › Account without premium",
       "kind": "title1",
       "maxW": 1120,
@@ -4285,7 +4285,7 @@
     },
     "mac-blk-ProposalVPN710": {
       "x": 0,
-      "y": 9090,
+      "y": 9122,
       "text": "Proposal — VPN-710",
       "kind": "title1",
       "maxW": 2400,
@@ -4294,7 +4294,7 @@
     },
     "mac-oposalVPN710-Launch": {
       "x": 0,
-      "y": 9790,
+      "y": 9822,
       "text": "Proposal — VPN-710 · M1 launch and blocking states",
       "kind": "title1",
       "maxW": 5920,
@@ -4302,7 +4302,7 @@
     },
     "mac-oposalVPN710-Notices": {
       "x": 0,
-      "y": 10890,
+      "y": 10922,
       "text": "Proposal — VPN-710 · M2 notices in the window",
       "kind": "title1",
       "maxW": 2320,
@@ -4310,7 +4310,7 @@
     },
     "mac-oposalVPN710-Rating": {
       "x": 0,
-      "y": 11990,
+      "y": 12022,
       "text": "Proposal — VPN-710 · M3 after a session",
       "kind": "title1",
       "maxW": 4720,
@@ -4318,7 +4318,7 @@
     },
     "mac-oposalVPN710-Billing": {
       "x": 0,
-      "y": 13090,
+      "y": 13122,
       "text": "Proposal — VPN-710 · M4 billing problems",
       "kind": "title1",
       "maxW": 2320,
@@ -4575,7 +4575,7 @@
     },
     "mac-PaywallsMoved": {
       "x": 0,
-      "y": 3620,
+      "y": 3652,
       "w": 1400,
       "page": "mac",
       "fill": "gray",
@@ -4629,7 +4629,7 @@
     },
     "mac-blk-ProposalVPN768": {
       "x": 0,
-      "y": 14190,
+      "y": 14222,
       "text": "Proposal — VPN-768",
       "kind": "title1",
       "maxW": 2400,
@@ -4638,7 +4638,7 @@
     },
     "mac-ProposalVPN768-Update": {
       "x": 0,
-      "y": 14890,
+      "y": 14922,
       "text": "Proposal — VPN-768 · Mac update required",
       "kind": "title1",
       "maxW": 3320,
@@ -4646,7 +4646,7 @@
     },
     "mac-ProposalVPN768-Update-note": {
       "x": 3400,
-      "y": 15190,
+      "y": 15222,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4761,7 +4761,7 @@
     },
     "mac-blk-ProposalVPN827": {
       "x": 0,
-      "y": 15990,
+      "y": 16022,
       "text": "Proposal — VPN-827",
       "kind": "title1",
       "maxW": 2400,
@@ -4770,7 +4770,7 @@
     },
     "mac-ProposalVPN827-Button": {
       "x": 0,
-      "y": 16690,
+      "y": 16722,
       "text": "Proposal — VPN-827 · Mac primary button (text contrast 4.5:1), shown on \"Network blocked\"",
       "kind": "title1",
       "maxW": 3520,
@@ -4778,7 +4778,7 @@
     },
     "mac-ProposalVPN827-Button-note": {
       "x": 3600,
-      "y": 16990,
+      "y": 17022,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4787,7 +4787,7 @@
     },
     "mac-blk-ProposalVPN855": {
       "x": 0,
-      "y": 17790,
+      "y": 17822,
       "text": "Proposal — VPN-855",
       "kind": "title1",
       "maxW": 2400,
@@ -4796,7 +4796,7 @@
     },
     "mac-ProposalVPN855-Permission": {
       "x": 0,
-      "y": 18490,
+      "y": 18522,
       "text": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt",
       "kind": "title1",
       "maxW": 4520,
@@ -4804,7 +4804,7 @@
     },
     "mac-ProposalVPN855-flow": {
       "x": 4600,
-      "y": 18790,
+      "y": 18822,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4813,7 +4813,7 @@
     },
     "mac-ProposalVPN855-texts": {
       "x": 5320,
-      "y": 18790,
+      "y": 18822,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4822,7 +4822,7 @@
     },
     "mac-ProposalVPN855-popups": {
       "x": 6040,
-      "y": 18790,
+      "y": 18822,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4831,7 +4831,7 @@
     },
     "mac-FirstLaunch-VPN855": {
       "x": 3600,
-      "y": 2820,
+      "y": 2852,
       "w": 520,
       "page": "mac",
       "fill": "gray",
@@ -5095,7 +5095,7 @@
     },
     "mac-blk-ProposalVPN1226": {
       "x": 0,
-      "y": 20190,
+      "y": 20222,
       "text": "Proposal — VPN-1226",
       "kind": "title1",
       "maxW": 2400,
@@ -5104,7 +5104,7 @@
     },
     "mac-ProposalVPN1226-Icon": {
       "x": 0,
-      "y": 20890,
+      "y": 20922,
       "text": "Proposal — VPN-1226 · Mac app icon: master, sizes and looks",
       "kind": "title1",
       "maxW": 4000,
@@ -5112,7 +5112,7 @@
     },
     "mac-ProposalVPN1226-InPlace": {
       "x": 0,
-      "y": 23470,
+      "y": 23502,
       "text": "Proposal — VPN-1226 · the icon in place: Dock, Finder, macOS VPN prompt (EN, then AR)",
       "kind": "title1",
       "maxW": 4000,
@@ -5120,7 +5120,7 @@
     },
     "mac-ProposalVPN1226-Permission": {
       "x": 0,
-      "y": 24730,
+      "y": 24762,
       "text": "Proposal — VPN-1226 · the VPN-855 frames that draw the macOS prompt, with the Mac icon (AR: macOS’s own lines)",
       "kind": "title1",
       "maxW": 4000,
@@ -5128,7 +5128,7 @@
     },
     "mac-ProposalVPN1226-spec": {
       "x": 7664,
-      "y": 21190,
+      "y": 21222,
       "w": 680,
       "page": "mac",
       "fill": "gray",
@@ -5137,7 +5137,7 @@
     },
     "mac-ProposalVPN1226-place": {
       "x": 5680,
-      "y": 23770,
+      "y": 23802,
       "w": 680,
       "page": "mac",
       "fill": "gray",
@@ -5146,7 +5146,7 @@
     },
     "mac-ProposalVPN1226-changes": {
       "x": 3400,
-      "y": 25030,
+      "y": 25062,
       "w": 680,
       "page": "mac",
       "fill": "gray",
@@ -5155,12 +5155,18 @@
     },
     "mac-VPN855-VPN1226": {
       "x": 6760,
-      "y": 18790,
+      "y": 18822,
       "w": 520,
       "page": "mac",
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-1226 (below): these frames' macOS prompt takes the new Mac app icon, and in AR macOS's own 2 lines. See the row \"the VPN-855 frames that draw the macOS prompt\"."
+    },
+    "mac-WindowHome-VPN1255": {
+      "x": 0,
+      "y": 1500,
+      "text": "Redrawn from the build (VPN-1255, code on rc/5.0.8): the window is 520 × 732, a 32 pt transparent title-bar strip (MacWindowChrome) above the 520 × 700 page (BrandMetrics.smallWindow). The home column is 368 pt (MacWindowHome width 400 minus MacPanelView padding 16 on each side) and starts 36 pt below the page top (20 + 16); the footer ends 24 pt above the bottom (8 + 16). Icons in the app are SF Symbols (xmark, power, gearshape, exclamationmark.bubble, diamond, chevron.forward, bolt.fill, lock.fill, magnifyingglass, checkmark, xmark.circle.fill, laptopcomputer.and.iphone) at the code's point sizes. SF Symbols cannot be copied as files: the frames draw the closest Font Awesome glyph at that size, and each glyph names its SF Symbol (data-sf).",
+      "page": "mac"
     }
   }
 }
