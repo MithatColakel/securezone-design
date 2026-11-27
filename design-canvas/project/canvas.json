@@ -1410,7 +1410,7 @@
     },
     "iPad-NetworkBlocked-RetryReady-EN.dc.html": {
       "x": 0,
-      "y": 12432,
+      "y": 14208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1418,7 +1418,7 @@
     },
     "iPad-NetworkBlocked-RetryCountdown-EN.dc.html": {
       "x": 1112,
-      "y": 12432,
+      "y": 14208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1426,7 +1426,7 @@
     },
     "iPad-NetworkBlocked-RetryReady-AR.dc.html": {
       "x": 2224,
-      "y": 12432,
+      "y": 14208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1434,7 +1434,7 @@
     },
     "iPad-NetworkBlocked-RetryCountdown-AR.dc.html": {
       "x": 3336,
-      "y": 12432,
+      "y": 14208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1442,7 +1442,7 @@
     },
     "iPad-Report-NotConnected-EN.dc.html": {
       "x": 0,
-      "y": 15984,
+      "y": 17760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1450,7 +1450,7 @@
     },
     "iPad-Report-Connected-EN.dc.html": {
       "x": 1112,
-      "y": 15984,
+      "y": 17760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1458,7 +1458,7 @@
     },
     "iPad-Report-NotConnected-AR.dc.html": {
       "x": 2224,
-      "y": 15984,
+      "y": 17760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1466,7 +1466,7 @@
     },
     "iPad-Report-Connected-AR.dc.html": {
       "x": 3336,
-      "y": 15984,
+      "y": 17760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1474,7 +1474,7 @@
     },
     "iPad-Gift-Default-EN.dc.html": {
       "x": 0,
-      "y": 24864,
+      "y": 26640,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1482,7 +1482,7 @@
     },
     "iPad-Gift-Default-AR.dc.html": {
       "x": 1112,
-      "y": 24864,
+      "y": 26640,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1490,7 +1490,7 @@
     },
     "iPad-Settings-Default-EN.dc.html": {
       "x": 0,
-      "y": 27240,
+      "y": 30448,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1498,7 +1498,7 @@
     },
     "iPad-Settings-UnderNotice-EN.dc.html": {
       "x": 1112,
-      "y": 27240,
+      "y": 30448,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1506,7 +1506,7 @@
     },
     "iPad-Settings-Default-AR.dc.html": {
       "x": 2224,
-      "y": 27240,
+      "y": 30448,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1514,7 +1514,7 @@
     },
     "iPad-Settings-UnderNotice-AR.dc.html": {
       "x": 3336,
-      "y": 27240,
+      "y": 30448,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1522,7 +1522,7 @@
     },
     "iPad-Profile-Free-EN.dc.html": {
       "x": 0,
-      "y": 29016,
+      "y": 32224,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1530,7 +1530,7 @@
     },
     "iPad-Profile-Premium-EN.dc.html": {
       "x": 1112,
-      "y": 29016,
+      "y": 32224,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1538,7 +1538,7 @@
     },
     "iPad-Profile-UnderNotice-EN.dc.html": {
       "x": 2224,
-      "y": 29016,
+      "y": 32224,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1546,7 +1546,7 @@
     },
     "iPad-Profile-Free-AR.dc.html": {
       "x": 3336,
-      "y": 29016,
+      "y": 32224,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1554,7 +1554,7 @@
     },
     "iPad-Profile-Premium-AR.dc.html": {
       "x": 4448,
-      "y": 29016,
+      "y": 32224,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1562,7 +1562,7 @@
     },
     "iPad-Profile-UnderNotice-AR.dc.html": {
       "x": 5560,
-      "y": 29016,
+      "y": 32224,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1570,7 +1570,7 @@
     },
     "iPad-Protocols-Default-EN.dc.html": {
       "x": 0,
-      "y": 30792,
+      "y": 34000,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1578,7 +1578,7 @@
     },
     "iPad-Protocols-Pinned-EN.dc.html": {
       "x": 1112,
-      "y": 30792,
+      "y": 34000,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1586,7 +1586,7 @@
     },
     "iPad-Protocols-Default-AR.dc.html": {
       "x": 2224,
-      "y": 30792,
+      "y": 34000,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1594,7 +1594,7 @@
     },
     "iPad-Protocols-Pinned-AR.dc.html": {
       "x": 3336,
-      "y": 30792,
+      "y": 34000,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1602,7 +1602,7 @@
     },
     "iPad-Account-Free-EN.dc.html": {
       "x": 0,
-      "y": 32568,
+      "y": 35776,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1610,7 +1610,7 @@
     },
     "iPad-Account-Premium-EN.dc.html": {
       "x": 1112,
-      "y": 32568,
+      "y": 35776,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1618,7 +1618,7 @@
     },
     "iPad-Account-BillingIssue-EN.dc.html": {
       "x": 2224,
-      "y": 32568,
+      "y": 35776,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1626,7 +1626,7 @@
     },
     "iPad-Account-Free-AR.dc.html": {
       "x": 3336,
-      "y": 32568,
+      "y": 35776,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1634,7 +1634,7 @@
     },
     "iPad-Account-Premium-AR.dc.html": {
       "x": 4448,
-      "y": 32568,
+      "y": 35776,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1642,7 +1642,7 @@
     },
     "iPad-Account-BillingIssue-AR.dc.html": {
       "x": 5560,
-      "y": 32568,
+      "y": 35776,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1650,7 +1650,7 @@
     },
     "iPad-Others-Default-EN.dc.html": {
       "x": 0,
-      "y": 36120,
+      "y": 39328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1658,7 +1658,7 @@
     },
     "iPad-Others-Default-AR.dc.html": {
       "x": 1112,
-      "y": 36120,
+      "y": 39328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1666,7 +1666,7 @@
     },
     "iPad-Support-Empty-EN.dc.html": {
       "x": 0,
-      "y": 37896,
+      "y": 41104,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1674,7 +1674,7 @@
     },
     "iPad-Support-Errors-EN.dc.html": {
       "x": 1112,
-      "y": 37896,
+      "y": 41104,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1682,7 +1682,7 @@
     },
     "iPad-Support-Sent-EN.dc.html": {
       "x": 2224,
-      "y": 37896,
+      "y": 41104,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1690,7 +1690,7 @@
     },
     "iPad-Support-Empty-AR.dc.html": {
       "x": 3336,
-      "y": 37896,
+      "y": 41104,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1698,7 +1698,7 @@
     },
     "iPad-Support-Errors-AR.dc.html": {
       "x": 4448,
-      "y": 37896,
+      "y": 41104,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1706,7 +1706,7 @@
     },
     "iPad-Support-Sent-AR.dc.html": {
       "x": 5560,
-      "y": 37896,
+      "y": 41104,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1714,7 +1714,7 @@
     },
     "iPad-UpdateRequired-Default-EN.dc.html": {
       "x": 0,
-      "y": 39672,
+      "y": 42880,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1722,7 +1722,7 @@
     },
     "iPad-UpdateRequired-Default-AR.dc.html": {
       "x": 1112,
-      "y": 39672,
+      "y": 42880,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1730,143 +1730,143 @@
     },
     "iPad-Main-LandscapePremium-EN.dc.html": {
       "x": 0,
-      "y": 42648,
+      "y": 12432,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, premium · EN"
+      "title": "Home — wide window, server column · landscape, premium · EN"
     },
     "iPad-Main-LandscapeNoPremium-EN.dc.html": {
       "x": 1456,
-      "y": 42648,
+      "y": 12432,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, no premium · EN"
+      "title": "Home — wide window, server column · landscape, no premium · EN"
     },
     "iPad-Main-LandscapeSearch-EN.dc.html": {
       "x": 2912,
-      "y": 42648,
+      "y": 12432,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, search · EN"
+      "title": "Home — wide window, server column · landscape, search · EN"
     },
     "iPad-Main-PortraitPremium-EN.dc.html": {
       "x": 4368,
-      "y": 42648,
+      "y": 12432,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · portrait, premium · EN"
+      "title": "Home — wide window, server column · portrait, premium · EN"
     },
     "iPad-Main-LandscapePremium-AR.dc.html": {
-      "x": 5480,
-      "y": 42648,
+      "x": 6345,
+      "y": 12432,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, premium · AR"
+      "title": "Home — wide window, server column · landscape, premium · AR"
     },
     "iPad-Main-LandscapeNoPremium-AR.dc.html": {
-      "x": 6936,
-      "y": 42648,
+      "x": 7801,
+      "y": 12432,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, no premium · AR"
+      "title": "Home — wide window, server column · landscape, no premium · AR"
     },
     "iPad-SettingsSheet-Connection-EN.dc.html": {
       "x": 0,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Connection · EN"
+      "title": "Settings sheet — wide window · Connection · EN"
     },
     "iPad-SettingsSheet-Protocols-EN.dc.html": {
       "x": 1456,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Protocols · EN"
+      "title": "Settings sheet — wide window · Protocols · EN"
     },
     "iPad-SettingsSheet-Account-EN.dc.html": {
       "x": 2912,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Account · EN"
+      "title": "Settings sheet — wide window · Account · EN"
     },
     "iPad-SettingsSheet-Support-EN.dc.html": {
       "x": 4368,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Support · EN"
+      "title": "Settings sheet — wide window · Support · EN"
     },
     "iPad-SettingsSheet-Others-EN.dc.html": {
       "x": 5824,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Others · EN"
+      "title": "Settings sheet — wide window · Others · EN"
     },
     "iPad-SettingsSheet-NoPremium-EN.dc.html": {
       "x": 7280,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · no premium · EN"
+      "title": "Settings sheet — wide window · no premium · EN"
     },
     "iPad-SettingsSheet-Connection-AR.dc.html": {
       "x": 8736,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Connection · AR"
+      "title": "Settings sheet — wide window · Connection · AR"
     },
     "iPad-SettingsSheet-Protocols-AR.dc.html": {
       "x": 10192,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Protocols · AR"
+      "title": "Settings sheet — wide window · Protocols · AR"
     },
     "iPad-SettingsSheet-Account-AR.dc.html": {
       "x": 11648,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Account · AR"
+      "title": "Settings sheet — wide window · Account · AR"
     },
     "iPad-SettingsSheet-Support-AR.dc.html": {
       "x": 13104,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Support · AR"
+      "title": "Settings sheet — wide window · Support · AR"
     },
     "iPad-SettingsSheet-Others-AR.dc.html": {
       "x": 14560,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · Others · AR"
+      "title": "Settings sheet — wide window · Others · AR"
     },
     "iPad-ReportSheet-Portrait-EN.dc.html": {
       "x": 0,
-      "y": 46556,
+      "y": 45856,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1874,7 +1874,7 @@
     },
     "iPad-ReportSheet-Landscape-EN.dc.html": {
       "x": 1112,
-      "y": 46556,
+      "y": 45856,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1882,7 +1882,7 @@
     },
     "iPad-ReportSheet-Portrait-AR.dc.html": {
       "x": 2568,
-      "y": 46556,
+      "y": 45856,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1890,7 +1890,7 @@
     },
     "iPad-FirstLaunch-Agreement-EN.dc.html": {
       "x": 0,
-      "y": 48332,
+      "y": 47632,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1898,7 +1898,7 @@
     },
     "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html": {
       "x": 1112,
-      "y": 48332,
+      "y": 47632,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1906,7 +1906,7 @@
     },
     "iPad-FirstLaunch-Agreement-AR.dc.html": {
       "x": 2568,
-      "y": 48332,
+      "y": 47632,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1914,7 +1914,7 @@
     },
     "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html": {
       "x": 3680,
-      "y": 48332,
+      "y": 47632,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1922,391 +1922,375 @@
     },
     "Mac-MenuBar-Connected-EN.dc.html": {
       "x": 0,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 420,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · connected · EN"
+      "title": "Menu bar panel · connected · EN"
     },
     "Mac-MenuBar-Connecting-EN.dc.html": {
       "x": 500,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 420,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · connecting · EN"
+      "title": "Menu bar panel · connecting · EN"
     },
     "Mac-MenuBar-Disconnected-EN.dc.html": {
       "x": 1000,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 420,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · disconnected · EN"
-    },
-    "Mac-MenuBar-NoPremium-EN.dc.html": {
-      "x": 1500,
-      "y": 700,
-      "w": 420,
-      "h": 470,
-      "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium · EN"
+      "title": "Menu bar panel · disconnected · EN"
     },
     "Mac-MenuBar-Locations-EN.dc.html": {
       "x": 2000,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 620,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · location choice · EN"
+      "title": "Menu bar panel · location choice · EN"
     },
     "Mac-MenuBar-Search-EN.dc.html": {
       "x": 2500,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 620,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · search · EN"
+      "title": "Menu bar panel · search · EN"
     },
     "Mac-MenuBar-NoPremiumList-EN.dc.html": {
       "x": 3000,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 620,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium list · EN"
+      "title": "Menu bar panel · no premium list · EN"
     },
     "Mac-MenuBar-Connected-AR.dc.html": {
       "x": 3500,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 420,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · connected · AR"
+      "title": "Menu bar panel · connected · AR"
     },
     "Mac-MenuBar-Connecting-AR.dc.html": {
       "x": 4000,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 420,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · connecting · AR"
+      "title": "Menu bar panel · connecting · AR"
     },
     "Mac-MenuBar-Disconnected-AR.dc.html": {
       "x": 4500,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 420,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · disconnected · AR"
-    },
-    "Mac-MenuBar-NoPremium-AR.dc.html": {
-      "x": 5000,
-      "y": 700,
-      "w": 420,
-      "h": 470,
-      "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium · AR"
+      "title": "Menu bar panel · disconnected · AR"
     },
     "Mac-MenuBar-Locations-AR.dc.html": {
       "x": 5500,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 620,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · location choice · AR"
+      "title": "Menu bar panel · location choice · AR"
     },
     "Mac-MenuBar-Search-AR.dc.html": {
       "x": 6000,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 620,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · search · AR"
+      "title": "Menu bar panel · search · AR"
     },
     "Mac-MenuBar-NoPremiumList-AR.dc.html": {
       "x": 6500,
-      "y": 700,
+      "y": 1100,
       "w": 420,
       "h": 620,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Menu bar panel · no premium list · AR"
+      "title": "Menu bar panel · no premium list · AR"
     },
     "Mac-WindowHome-HomeConnected-EN.dc.html": {
       "x": 0,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · home, connected · EN"
+      "title": "Window: home and locations · home, connected · EN"
     },
     "Mac-WindowHome-HomeDisconnected-EN.dc.html": {
       "x": 600,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · home, disconnected · EN"
+      "title": "Window: home and locations · home, disconnected · EN"
     },
     "Mac-WindowHome-HomeNoPremium-EN.dc.html": {
       "x": 1200,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · home, no premium · EN"
+      "title": "Window: home and locations · home, no premium · EN"
     },
     "Mac-WindowHome-Locations-EN.dc.html": {
       "x": 1800,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · locations · EN"
+      "title": "Window: home and locations · locations · EN"
     },
     "Mac-WindowHome-LocationsSearch-EN.dc.html": {
       "x": 2400,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, search · EN"
+      "title": "Window: home and locations · locations, search · EN"
     },
     "Mac-WindowHome-LocationsNoPremium-EN.dc.html": {
       "x": 3000,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, no premium · EN"
+      "title": "Window: home and locations · locations, no premium · EN"
     },
     "Mac-WindowHome-HomeConnected-AR.dc.html": {
       "x": 3600,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · home, connected · AR"
+      "title": "Window: home and locations · home, connected · AR"
     },
     "Mac-WindowHome-HomeDisconnected-AR.dc.html": {
       "x": 4200,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · home, disconnected · AR"
+      "title": "Window: home and locations · home, disconnected · AR"
     },
     "Mac-WindowHome-HomeNoPremium-AR.dc.html": {
       "x": 4800,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · home, no premium · AR"
+      "title": "Window: home and locations · home, no premium · AR"
     },
     "Mac-WindowHome-Locations-AR.dc.html": {
       "x": 5400,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · locations · AR"
+      "title": "Window: home and locations · locations · AR"
     },
     "Mac-WindowHome-LocationsSearch-AR.dc.html": {
       "x": 6000,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, search · AR"
+      "title": "Window: home and locations · locations, search · AR"
     },
     "Mac-WindowHome-LocationsNoPremium-AR.dc.html": {
       "x": 6600,
-      "y": 1720,
+      "y": 2120,
       "w": 520,
       "h": 732,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: home and locations · locations, no premium · AR"
+      "title": "Window: home and locations · locations, no premium · AR"
     },
     "Mac-FirstLaunch-Privacy-EN.dc.html": {
       "x": 0,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: first launch · privacy · EN"
+      "title": "Window: first launch · privacy · EN"
     },
     "Mac-FirstLaunch-Permission-EN.dc.html": {
       "x": 600,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: first launch · VPN permission · EN"
+      "title": "Window: first launch · VPN permission · EN"
     },
     "Mac-FirstLaunch-Denied-EN.dc.html": {
       "x": 1200,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: first launch · permission denied · EN"
+      "title": "Window: first launch · permission denied · EN"
     },
     "Mac-FirstLaunch-Privacy-AR.dc.html": {
       "x": 1800,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: first launch · privacy · AR"
+      "title": "Window: first launch · privacy · AR"
     },
     "Mac-FirstLaunch-Permission-AR.dc.html": {
       "x": 2400,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: first launch · VPN permission · AR"
+      "title": "Window: first launch · VPN permission · AR"
     },
     "Mac-FirstLaunch-Denied-AR.dc.html": {
       "x": 3000,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: first launch · permission denied · AR"
+      "title": "Window: first launch · permission denied · AR"
     },
     "Mac-Report-Slow-EN.dc.html": {
       "x": 0,
-      "y": 4552,
+      "y": 3852,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Report an Issue · connection is slow · EN"
+      "title": "Window: Report an Issue · connection is slow · EN"
     },
     "Mac-Report-Slow-AR.dc.html": {
       "x": 600,
-      "y": 4552,
+      "y": 3852,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Report an Issue · connection is slow · AR"
+      "title": "Window: Report an Issue · connection is slow · AR"
     },
     "Mac-Settings-General-EN.dc.html": {
       "x": 0,
-      "y": 5652,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · General · EN"
+      "title": "Window: Settings · General · EN"
     },
     "Mac-Settings-Protocols-EN.dc.html": {
       "x": 600,
-      "y": 5652,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Protocols · EN"
+      "title": "Window: Settings · Protocols · EN"
     },
     "Mac-Settings-Account-EN.dc.html": {
       "x": 1200,
-      "y": 5652,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Account · EN"
+      "title": "Window: Settings · Account · EN"
     },
     "Mac-Settings-Support-EN.dc.html": {
-      "x": 1800,
-      "y": 5652,
+      "x": 2400,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Support · EN"
+      "title": "Window: Settings · Support · EN"
     },
     "Mac-Settings-Shortcuts-EN.dc.html": {
-      "x": 2400,
-      "y": 5652,
+      "x": 3000,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Shortcuts · EN"
+      "title": "Window: Settings · Shortcuts · EN"
     },
     "Mac-Settings-General-AR.dc.html": {
-      "x": 3000,
-      "y": 5652,
+      "x": 3600,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · General · AR"
+      "title": "Window: Settings · General · AR"
     },
     "Mac-Settings-Protocols-AR.dc.html": {
-      "x": 3600,
-      "y": 5652,
+      "x": 4200,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Protocols · AR"
+      "title": "Window: Settings · Protocols · AR"
     },
     "Mac-Settings-Account-AR.dc.html": {
-      "x": 4200,
-      "y": 5652,
+      "x": 4800,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Account · AR"
+      "title": "Window: Settings · Account · AR"
     },
     "Mac-Settings-Support-AR.dc.html": {
-      "x": 4800,
-      "y": 5652,
+      "x": 6000,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Support · AR"
+      "title": "Window: Settings · Support · AR"
     },
     "Mac-Settings-Shortcuts-AR.dc.html": {
-      "x": 5400,
-      "y": 5652,
+      "x": 6600,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 · Window: Settings · Shortcuts · AR"
+      "title": "Window: Settings · Shortcuts · AR"
     },
     "Mac-MenuBar-NoPremiumFooter-EN.dc.html": {
-      "x": 0,
-      "y": 7452,
+      "x": 1500,
+      "y": 1100,
       "w": 420,
       "h": 470,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond · no premium, footer · EN"
+      "title": "Menu bar panel · no premium · EN"
     },
     "Mac-MenuBar-NoPremiumFooter-AR.dc.html": {
-      "x": 500,
-      "y": 7452,
+      "x": 5000,
+      "y": 1100,
       "w": 420,
       "h": 470,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond · no premium, footer · AR"
+      "title": "Menu bar panel · no premium · AR"
     },
     "Mac-Settings-AccountNoPremium-EN.dc.html": {
-      "x": 0,
-      "y": 8322,
+      "x": 1800,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 review · Settings › Account without premium · Account, no premium · EN"
+      "title": "Window: Settings · Account, no premium · EN"
     },
     "Mac-Settings-AccountNoPremium-AR.dc.html": {
-      "x": 600,
-      "y": 8322,
+      "x": 5400,
+      "y": 4952,
       "w": 520,
       "h": 700,
       "page": "mac",
-      "title": "Approved, not built — VPN-589 review · Settings › Account without premium · Account, no premium · AR"
+      "title": "Window: Settings · Account, no premium · AR"
     },
     "Mac-Launch-Loading-EN.dc.html": {
       "x": 0,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2314,7 +2298,7 @@
     },
     "Mac-Launch-Unreachable-EN.dc.html": {
       "x": 600,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2322,7 +2306,7 @@
     },
     "Mac-Launch-Offline-EN.dc.html": {
       "x": 1200,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2330,7 +2314,7 @@
     },
     "Mac-Launch-UpdateRequired-EN.dc.html": {
       "x": 1800,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2338,7 +2322,7 @@
     },
     "Mac-Launch-NetworkBlocked-EN.dc.html": {
       "x": 2400,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2346,7 +2330,7 @@
     },
     "Mac-Launch-Loading-AR.dc.html": {
       "x": 3000,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2354,7 +2338,7 @@
     },
     "Mac-Launch-Unreachable-AR.dc.html": {
       "x": 3600,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2362,7 +2346,7 @@
     },
     "Mac-Launch-Offline-AR.dc.html": {
       "x": 4200,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2370,7 +2354,7 @@
     },
     "Mac-Launch-UpdateRequired-AR.dc.html": {
       "x": 4800,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2378,7 +2362,7 @@
     },
     "Mac-Launch-NetworkBlocked-AR.dc.html": {
       "x": 5400,
-      "y": 10122,
+      "y": 6752,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2386,7 +2370,7 @@
     },
     "Mac-Notices-NoticeBand-EN.dc.html": {
       "x": 0,
-      "y": 11222,
+      "y": 7852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2394,7 +2378,7 @@
     },
     "Mac-Notices-NoInternet-EN.dc.html": {
       "x": 600,
-      "y": 11222,
+      "y": 7852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2402,7 +2386,7 @@
     },
     "Mac-Notices-NoticeBand-AR.dc.html": {
       "x": 1200,
-      "y": 11222,
+      "y": 7852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2410,7 +2394,7 @@
     },
     "Mac-Notices-NoInternet-AR.dc.html": {
       "x": 1800,
-      "y": 11222,
+      "y": 7852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2418,7 +2402,7 @@
     },
     "Mac-Rating-Untouched-EN.dc.html": {
       "x": 0,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2426,7 +2410,7 @@
     },
     "Mac-Rating-Low-EN.dc.html": {
       "x": 600,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2434,7 +2418,7 @@
     },
     "Mac-Rating-High-EN.dc.html": {
       "x": 1200,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2442,7 +2426,7 @@
     },
     "Mac-Rating-RateUs-EN.dc.html": {
       "x": 1800,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2450,7 +2434,7 @@
     },
     "Mac-Rating-Untouched-AR.dc.html": {
       "x": 2400,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2458,7 +2442,7 @@
     },
     "Mac-Rating-Low-AR.dc.html": {
       "x": 3000,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2466,7 +2450,7 @@
     },
     "Mac-Rating-High-AR.dc.html": {
       "x": 3600,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2474,7 +2458,7 @@
     },
     "Mac-Rating-RateUs-AR.dc.html": {
       "x": 4200,
-      "y": 12322,
+      "y": 8952,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2482,7 +2466,7 @@
     },
     "Mac-Billing-Grace-EN.dc.html": {
       "x": 0,
-      "y": 13422,
+      "y": 10052,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2490,7 +2474,7 @@
     },
     "Mac-Billing-Paused-EN.dc.html": {
       "x": 600,
-      "y": 13422,
+      "y": 10052,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2498,7 +2482,7 @@
     },
     "Mac-Billing-Grace-AR.dc.html": {
       "x": 1200,
-      "y": 13422,
+      "y": 10052,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2506,7 +2490,7 @@
     },
     "Mac-Billing-Paused-AR.dc.html": {
       "x": 1800,
-      "y": 13422,
+      "y": 10052,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2514,7 +2498,7 @@
     },
     "iPad-ServerList-Free-EN.dc.html": {
       "x": 0,
-      "y": 14208,
+      "y": 15984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2522,7 +2506,7 @@
     },
     "iPad-ServerList-PremiumGermany-EN.dc.html": {
       "x": 1112,
-      "y": 14208,
+      "y": 15984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2530,7 +2514,7 @@
     },
     "iPad-ServerList-PremiumAuto-EN.dc.html": {
       "x": 2224,
-      "y": 14208,
+      "y": 15984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2538,7 +2522,7 @@
     },
     "iPad-ServerList-Free-AR.dc.html": {
       "x": 3336,
-      "y": 14208,
+      "y": 15984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2546,7 +2530,7 @@
     },
     "iPad-ServerList-PremiumGermany-AR.dc.html": {
       "x": 4448,
-      "y": 14208,
+      "y": 15984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2554,7 +2538,7 @@
     },
     "iPad-ServerList-PremiumAuto-AR.dc.html": {
       "x": 5560,
-      "y": 14208,
+      "y": 15984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2562,7 +2546,7 @@
     },
     "iPad-ConnectionRating-Untouched-EN.dc.html": {
       "x": 0,
-      "y": 17760,
+      "y": 19536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2570,7 +2554,7 @@
     },
     "iPad-ConnectionRating-TwoStars-EN.dc.html": {
       "x": 1112,
-      "y": 17760,
+      "y": 19536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2578,7 +2562,7 @@
     },
     "iPad-ConnectionRating-FiveStars-EN.dc.html": {
       "x": 2224,
-      "y": 17760,
+      "y": 19536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2586,7 +2570,7 @@
     },
     "iPad-ConnectionRating-Untouched-AR.dc.html": {
       "x": 3336,
-      "y": 17760,
+      "y": 19536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2594,7 +2578,7 @@
     },
     "iPad-ConnectionRating-TwoStars-AR.dc.html": {
       "x": 4448,
-      "y": 17760,
+      "y": 19536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2602,7 +2586,7 @@
     },
     "iPad-ConnectionRating-FiveStars-AR.dc.html": {
       "x": 5560,
-      "y": 17760,
+      "y": 19536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2610,7 +2594,7 @@
     },
     "iPad-RateUs-Default-EN.dc.html": {
       "x": 0,
-      "y": 19536,
+      "y": 21312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2618,7 +2602,7 @@
     },
     "iPad-RateUs-Default-AR.dc.html": {
       "x": 1112,
-      "y": 19536,
+      "y": 21312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2626,7 +2610,7 @@
     },
     "iPad-RewardPanel-ZeroOfThree-EN.dc.html": {
       "x": 0,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2634,7 +2618,7 @@
     },
     "iPad-RewardPanel-Progress-EN.dc.html": {
       "x": 1112,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2642,7 +2626,7 @@
     },
     "iPad-RewardPanel-Claim-EN.dc.html": {
       "x": 2224,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2650,7 +2634,7 @@
     },
     "iPad-RewardPanel-AdLoading-EN.dc.html": {
       "x": 3336,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2658,7 +2642,7 @@
     },
     "iPad-RewardPanel-NoAd-EN.dc.html": {
       "x": 4448,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2666,7 +2650,7 @@
     },
     "iPad-RewardPanel-ZeroOfThree-AR.dc.html": {
       "x": 5560,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2674,7 +2658,7 @@
     },
     "iPad-RewardPanel-Progress-AR.dc.html": {
       "x": 6672,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2682,7 +2666,7 @@
     },
     "iPad-RewardPanel-Claim-AR.dc.html": {
       "x": 7784,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2690,7 +2674,7 @@
     },
     "iPad-RewardPanel-AdLoading-AR.dc.html": {
       "x": 8896,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2698,7 +2682,7 @@
     },
     "iPad-RewardPanel-NoAd-AR.dc.html": {
       "x": 10008,
-      "y": 21312,
+      "y": 23088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2706,7 +2690,7 @@
     },
     "iPad-NoTimeLeft-Trial-EN.dc.html": {
       "x": 0,
-      "y": 23088,
+      "y": 24864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2714,7 +2698,7 @@
     },
     "iPad-NoTimeLeft-NoTrial-EN.dc.html": {
       "x": 1112,
-      "y": 23088,
+      "y": 24864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2722,7 +2706,7 @@
     },
     "iPad-NoTimeLeft-Trial-AR.dc.html": {
       "x": 2224,
-      "y": 23088,
+      "y": 24864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2730,7 +2714,7 @@
     },
     "iPad-NoTimeLeft-NoTrial-AR.dc.html": {
       "x": 3336,
-      "y": 23088,
+      "y": 24864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2738,7 +2722,7 @@
     },
     "iPad-BillingGrace-Grace-EN.dc.html": {
       "x": 0,
-      "y": 34344,
+      "y": 37552,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2746,7 +2730,7 @@
     },
     "iPad-BillingGrace-Paused-EN.dc.html": {
       "x": 1112,
-      "y": 34344,
+      "y": 37552,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2754,7 +2738,7 @@
     },
     "iPad-BillingGrace-Grace-AR.dc.html": {
       "x": 2224,
-      "y": 34344,
+      "y": 37552,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2762,31 +2746,31 @@
     },
     "iPad-BillingGrace-Paused-AR.dc.html": {
       "x": 3336,
-      "y": 34344,
+      "y": 37552,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
       "title": "Billing grace and paused · premium paused · AR"
     },
     "iPad-Main-LandscapeSearch-AR.dc.html": {
-      "x": 8392,
-      "y": 42648,
+      "x": 9257,
+      "y": 12432,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · landscape, search · AR"
+      "title": "Home — wide window, server column · landscape, search · AR"
     },
     "iPad-Main-PortraitPremium-AR.dc.html": {
-      "x": 9848,
-      "y": 42648,
+      "x": 10713,
+      "y": 12432,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad main, wide window · portrait, premium · AR"
+      "title": "Home — wide window, server column · portrait, premium · AR"
     },
     "iPad-ReportSheet-Landscape-AR.dc.html": {
       "x": 3680,
-      "y": 46556,
+      "y": 45856,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -2794,11 +2778,11 @@
     },
     "iPad-SettingsSheet-NoPremium-AR.dc.html": {
       "x": 16016,
-      "y": 44424,
+      "y": 29016,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-589 · iPad Settings sheet · no premium · AR"
+      "title": "Settings sheet — wide window · no premium · AR"
     },
     "iPhone-HomeNetworkProblem-Toast-EN.dc.html": {
       "x": 0,
@@ -2850,7 +2834,7 @@
     },
     "Mac-UpdateRequired-Window-EN.dc.html": {
       "x": 0,
-      "y": 15222,
+      "y": 11852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2858,7 +2842,7 @@
     },
     "Mac-UpdateRequired-MenuBar-EN.dc.html": {
       "x": 600,
-      "y": 15222,
+      "y": 11852,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -2866,7 +2850,7 @@
     },
     "Mac-UpdateRecommended-WindowBand-EN.dc.html": {
       "x": 1100,
-      "y": 15222,
+      "y": 11852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2874,7 +2858,7 @@
     },
     "Mac-UpdateRequired-Window-AR.dc.html": {
       "x": 1700,
-      "y": 15222,
+      "y": 11852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2882,7 +2866,7 @@
     },
     "Mac-UpdateRequired-MenuBar-AR.dc.html": {
       "x": 2300,
-      "y": 15222,
+      "y": 11852,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -2890,7 +2874,7 @@
     },
     "Mac-UpdateRecommended-WindowBand-AR.dc.html": {
       "x": 2800,
-      "y": 15222,
+      "y": 11852,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -2946,7 +2930,7 @@
     },
     "iPad-VPNPermission817-Prompt-EN.dc.html": {
       "x": 0,
-      "y": 51308,
+      "y": 50608,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2954,7 +2938,7 @@
     },
     "iPad-VPNPermission817-Help-EN.dc.html": {
       "x": 1112,
-      "y": 51308,
+      "y": 50608,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2962,7 +2946,7 @@
     },
     "iPad-VPNPermission817-NoPrompt-EN.dc.html": {
       "x": 2224,
-      "y": 51308,
+      "y": 50608,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2970,7 +2954,7 @@
     },
     "iPad-VPNPermission817-Prompt-AR.dc.html": {
       "x": 3336,
-      "y": 51308,
+      "y": 50608,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2978,7 +2962,7 @@
     },
     "iPad-VPNPermission817-Help-AR.dc.html": {
       "x": 4448,
-      "y": 51308,
+      "y": 50608,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2986,7 +2970,7 @@
     },
     "iPad-VPNPermission817-NoPrompt-AR.dc.html": {
       "x": 5560,
-      "y": 51308,
+      "y": 50608,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2994,7 +2978,7 @@
     },
     "Mac-PrimaryButton-Normal-EN.dc.html": {
       "x": 0,
-      "y": 17022,
+      "y": 13652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3002,7 +2986,7 @@
     },
     "Mac-PrimaryButton-Pressed-EN.dc.html": {
       "x": 600,
-      "y": 17022,
+      "y": 13652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3010,7 +2994,7 @@
     },
     "Mac-PrimaryButton-Disabled-EN.dc.html": {
       "x": 1200,
-      "y": 17022,
+      "y": 13652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3018,7 +3002,7 @@
     },
     "Mac-PrimaryButton-Normal-AR.dc.html": {
       "x": 1800,
-      "y": 17022,
+      "y": 13652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3026,7 +3010,7 @@
     },
     "Mac-PrimaryButton-Pressed-AR.dc.html": {
       "x": 2400,
-      "y": 17022,
+      "y": 13652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3034,7 +3018,7 @@
     },
     "Mac-PrimaryButton-Disabled-AR.dc.html": {
       "x": 3000,
-      "y": 17022,
+      "y": 13652,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3042,7 +3026,7 @@
     },
     "Mac-VPNPermission855-PanelPrompt-EN.dc.html": {
       "x": 0,
-      "y": 18822,
+      "y": 15452,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3050,7 +3034,7 @@
     },
     "Mac-VPNPermission855-WindowPrompt-EN.dc.html": {
       "x": 500,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3058,7 +3042,7 @@
     },
     "Mac-VPNPermission855-Help-EN.dc.html": {
       "x": 1100,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3066,7 +3050,7 @@
     },
     "Mac-VPNPermission855-NoPrompt-EN.dc.html": {
       "x": 1700,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3074,7 +3058,7 @@
     },
     "Mac-VPNPermission855-PanelPrompt-AR.dc.html": {
       "x": 2300,
-      "y": 18822,
+      "y": 15452,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3082,7 +3066,7 @@
     },
     "Mac-VPNPermission855-WindowPrompt-AR.dc.html": {
       "x": 2800,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3090,7 +3074,7 @@
     },
     "Mac-VPNPermission855-Help-AR.dc.html": {
       "x": 3400,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3098,27 +3082,11 @@
     },
     "Mac-VPNPermission855-NoPrompt-AR.dc.html": {
       "x": 4000,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "h": 700,
       "page": "mac",
       "title": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt · window: no macOS prompt (macOS error), help with the settings path · AR"
-    },
-    "iPad-MainWindow589-NoPremium785-EN.dc.html": {
-      "x": 0,
-      "y": 54284,
-      "w": 785,
-      "h": 1307,
-      "page": "ipad",
-      "title": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle · 785 pt window · EN"
-    },
-    "iPad-MainWindow589-NoPremium785-AR.dc.html": {
-      "x": 865,
-      "y": 54284,
-      "w": 785,
-      "h": 1307,
-      "page": "ipad",
-      "title": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle · 785 pt window · AR (Arabic system: the window buttons at the top right)"
     },
     "iPhone-NetworkBlocked908-RetryCountdown-EN.dc.html": {
       "x": 0,
@@ -3138,7 +3106,7 @@
     },
     "iPad-NetworkBlocked908-RetryCountdown-EN.dc.html": {
       "x": 0,
-      "y": 57100,
+      "y": 53584,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -3146,7 +3114,7 @@
     },
     "iPad-NetworkBlocked908-RetryCountdown-AR.dc.html": {
       "x": 1112,
-      "y": 57100,
+      "y": 53584,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -3154,7 +3122,7 @@
     },
     "iPad-MainWindow908-Column700-EN.dc.html": {
       "x": 0,
-      "y": 59176,
+      "y": 55660,
       "w": 700,
       "h": 1307,
       "page": "ipad",
@@ -3162,7 +3130,7 @@
     },
     "iPad-MainWindow908-Column781-EN.dc.html": {
       "x": 780,
-      "y": 59176,
+      "y": 55660,
       "w": 781,
       "h": 1307,
       "page": "ipad",
@@ -3170,7 +3138,7 @@
     },
     "iPad-MainWindow908-Column830-EN.dc.html": {
       "x": 1641,
-      "y": 59176,
+      "y": 55660,
       "w": 830,
       "h": 1307,
       "page": "ipad",
@@ -3178,7 +3146,7 @@
     },
     "iPad-MainWindow908-Column700-AR.dc.html": {
       "x": 2551,
-      "y": 59176,
+      "y": 55660,
       "w": 700,
       "h": 1307,
       "page": "ipad",
@@ -3186,7 +3154,7 @@
     },
     "iPad-MainWindow908-Column781-AR.dc.html": {
       "x": 3331,
-      "y": 59176,
+      "y": 55660,
       "w": 781,
       "h": 1307,
       "page": "ipad",
@@ -3194,7 +3162,7 @@
     },
     "iPad-MainWindow908-Column830-AR.dc.html": {
       "x": 4192,
-      "y": 59176,
+      "y": 55660,
       "w": 830,
       "h": 1307,
       "page": "ipad",
@@ -3298,7 +3266,7 @@
     },
     "iPad-HomeAuto1179-BeforeConnect-EN.dc.html": {
       "x": 0,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3306,7 +3274,7 @@
     },
     "iPad-HomeAuto1179-Connecting-EN.dc.html": {
       "x": 1456,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3314,7 +3282,7 @@
     },
     "iPad-HomeAuto1179-ConnectedSameCountry-EN.dc.html": {
       "x": 2912,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3322,7 +3290,7 @@
     },
     "iPad-HomeAuto1179-ConnectedOtherCountry-EN.dc.html": {
       "x": 4368,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3330,7 +3298,7 @@
     },
     "iPad-HomeAuto1179-AfterDisconnect-EN.dc.html": {
       "x": 5824,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3338,7 +3306,7 @@
     },
     "iPad-HomeAuto1179-BeforeConnect-AR.dc.html": {
       "x": 7280,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3346,7 +3314,7 @@
     },
     "iPad-HomeAuto1179-Connecting-AR.dc.html": {
       "x": 8736,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3354,7 +3322,7 @@
     },
     "iPad-HomeAuto1179-ConnectedSameCountry-AR.dc.html": {
       "x": 10192,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3362,7 +3330,7 @@
     },
     "iPad-HomeAuto1179-ConnectedOtherCountry-AR.dc.html": {
       "x": 11648,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3370,7 +3338,7 @@
     },
     "iPad-HomeAuto1179-AfterDisconnect-AR.dc.html": {
       "x": 13104,
-      "y": 62900,
+      "y": 59384,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3378,7 +3346,7 @@
     },
     "Mac-AppIcon1226-Master-EN.dc.html": {
       "x": 0,
-      "y": 21222,
+      "y": 17852,
       "w": 1424,
       "h": 1304,
       "page": "mac",
@@ -3386,7 +3354,7 @@
     },
     "Mac-AppIcon1226-SizesLight-EN.dc.html": {
       "x": 1504,
-      "y": 21222,
+      "y": 17852,
       "w": 2280,
       "h": 1880,
       "page": "mac",
@@ -3394,7 +3362,7 @@
     },
     "Mac-AppIcon1226-SizesDark-EN.dc.html": {
       "x": 3864,
-      "y": 21222,
+      "y": 17852,
       "w": 2280,
       "h": 1880,
       "page": "mac",
@@ -3402,7 +3370,7 @@
     },
     "Mac-AppIcon1226-Looks-EN.dc.html": {
       "x": 6224,
-      "y": 21222,
+      "y": 17852,
       "w": 1360,
       "h": 1000,
       "page": "mac",
@@ -3410,7 +3378,7 @@
     },
     "Mac-AppIcon1226-Finder-EN.dc.html": {
       "x": 0,
-      "y": 23802,
+      "y": 20432,
       "w": 900,
       "h": 560,
       "page": "mac",
@@ -3418,7 +3386,7 @@
     },
     "Mac-AppIcon1226-Prompt-EN.dc.html": {
       "x": 980,
-      "y": 23802,
+      "y": 20432,
       "w": 420,
       "h": 300,
       "page": "mac",
@@ -3426,7 +3394,7 @@
     },
     "Mac-AppIcon1226-Finder-AR.dc.html": {
       "x": 1480,
-      "y": 23802,
+      "y": 20432,
       "w": 900,
       "h": 560,
       "page": "mac",
@@ -3434,7 +3402,7 @@
     },
     "Mac-AppIcon1226-Prompt-AR.dc.html": {
       "x": 2460,
-      "y": 23802,
+      "y": 20432,
       "w": 420,
       "h": 300,
       "page": "mac",
@@ -3442,7 +3410,7 @@
     },
     "Mac-VPNPermission1226-PanelPrompt-EN.dc.html": {
       "x": 0,
-      "y": 25062,
+      "y": 21692,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3450,7 +3418,7 @@
     },
     "Mac-VPNPermission1226-WindowPrompt-EN.dc.html": {
       "x": 500,
-      "y": 25062,
+      "y": 21692,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3458,7 +3426,7 @@
     },
     "Mac-VPNPermission1226-Help-EN.dc.html": {
       "x": 1100,
-      "y": 25062,
+      "y": 21692,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3466,7 +3434,7 @@
     },
     "Mac-VPNPermission1226-PanelPrompt-AR.dc.html": {
       "x": 1700,
-      "y": 25062,
+      "y": 21692,
       "w": 420,
       "h": 420,
       "page": "mac",
@@ -3474,7 +3442,7 @@
     },
     "Mac-VPNPermission1226-WindowPrompt-AR.dc.html": {
       "x": 2200,
-      "y": 25062,
+      "y": 21692,
       "w": 520,
       "h": 700,
       "page": "mac",
@@ -3482,11 +3450,27 @@
     },
     "Mac-VPNPermission1226-Help-AR.dc.html": {
       "x": 2800,
-      "y": 25062,
+      "y": 21692,
       "w": 520,
       "h": 700,
       "page": "mac",
       "title": "Proposal — VPN-1226 · VPN-855 frames with the Mac icon · window: after Don’t Allow, help (macOS prompt stand-in, Allow marked) · changed: Mac icon in the prompt, macOS’s own Arabic lines · AR"
+    },
+    "iPad-Main-Window785NoPremium-EN.dc.html": {
+      "x": 5480,
+      "y": 12432,
+      "w": 785,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Home — wide window, server column · 785 pt window, no premium · EN"
+    },
+    "iPad-Main-Window785NoPremium-AR.dc.html": {
+      "x": 11825,
+      "y": 12432,
+      "w": 785,
+      "h": 1307,
+      "page": "ipad",
+      "title": "Home — wide window, server column · 785 pt window, no premium · AR"
     }
   },
   "order": [
@@ -3669,6 +3653,16 @@
     "iPad-HomeNotices-NoticePremium-AR.dc.html",
     "iPad-HomeNotices-NoInternet-AR.dc.html",
     "iPad-HomeNotices-Spinner-AR.dc.html",
+    "iPad-Main-LandscapePremium-EN.dc.html",
+    "iPad-Main-LandscapeNoPremium-EN.dc.html",
+    "iPad-Main-LandscapeSearch-EN.dc.html",
+    "iPad-Main-PortraitPremium-EN.dc.html",
+    "iPad-Main-Window785NoPremium-EN.dc.html",
+    "iPad-Main-LandscapePremium-AR.dc.html",
+    "iPad-Main-LandscapeNoPremium-AR.dc.html",
+    "iPad-Main-LandscapeSearch-AR.dc.html",
+    "iPad-Main-PortraitPremium-AR.dc.html",
+    "iPad-Main-Window785NoPremium-AR.dc.html",
     "iPad-NetworkBlocked-RetryReady-EN.dc.html",
     "iPad-NetworkBlocked-RetryCountdown-EN.dc.html",
     "iPad-NetworkBlocked-RetryReady-AR.dc.html",
@@ -3707,6 +3701,18 @@
     "iPad-NoTimeLeft-NoTrial-AR.dc.html",
     "iPad-Gift-Default-EN.dc.html",
     "iPad-Gift-Default-AR.dc.html",
+    "iPad-SettingsSheet-Connection-EN.dc.html",
+    "iPad-SettingsSheet-Protocols-EN.dc.html",
+    "iPad-SettingsSheet-Account-EN.dc.html",
+    "iPad-SettingsSheet-Support-EN.dc.html",
+    "iPad-SettingsSheet-Others-EN.dc.html",
+    "iPad-SettingsSheet-NoPremium-EN.dc.html",
+    "iPad-SettingsSheet-Connection-AR.dc.html",
+    "iPad-SettingsSheet-Protocols-AR.dc.html",
+    "iPad-SettingsSheet-Account-AR.dc.html",
+    "iPad-SettingsSheet-Support-AR.dc.html",
+    "iPad-SettingsSheet-Others-AR.dc.html",
+    "iPad-SettingsSheet-NoPremium-AR.dc.html",
     "iPad-Settings-Default-EN.dc.html",
     "iPad-Settings-UnderNotice-EN.dc.html",
     "iPad-Settings-Default-AR.dc.html",
@@ -3741,26 +3747,6 @@
     "iPad-Support-Sent-AR.dc.html",
     "iPad-UpdateRequired-Default-EN.dc.html",
     "iPad-UpdateRequired-Default-AR.dc.html",
-    "iPad-Main-LandscapePremium-EN.dc.html",
-    "iPad-Main-LandscapeNoPremium-EN.dc.html",
-    "iPad-Main-LandscapeSearch-EN.dc.html",
-    "iPad-Main-PortraitPremium-EN.dc.html",
-    "iPad-Main-LandscapePremium-AR.dc.html",
-    "iPad-Main-LandscapeNoPremium-AR.dc.html",
-    "iPad-Main-LandscapeSearch-AR.dc.html",
-    "iPad-Main-PortraitPremium-AR.dc.html",
-    "iPad-SettingsSheet-Connection-EN.dc.html",
-    "iPad-SettingsSheet-Protocols-EN.dc.html",
-    "iPad-SettingsSheet-Account-EN.dc.html",
-    "iPad-SettingsSheet-Support-EN.dc.html",
-    "iPad-SettingsSheet-Others-EN.dc.html",
-    "iPad-SettingsSheet-NoPremium-EN.dc.html",
-    "iPad-SettingsSheet-Connection-AR.dc.html",
-    "iPad-SettingsSheet-Protocols-AR.dc.html",
-    "iPad-SettingsSheet-Account-AR.dc.html",
-    "iPad-SettingsSheet-Support-AR.dc.html",
-    "iPad-SettingsSheet-Others-AR.dc.html",
-    "iPad-SettingsSheet-NoPremium-AR.dc.html",
     "iPad-ReportSheet-Portrait-EN.dc.html",
     "iPad-ReportSheet-Landscape-EN.dc.html",
     "iPad-ReportSheet-Portrait-AR.dc.html",
@@ -3769,17 +3755,23 @@
     "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html",
     "iPad-FirstLaunch-Agreement-AR.dc.html",
     "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html",
+    "Mac-FirstLaunch-Privacy-EN.dc.html",
+    "Mac-FirstLaunch-Permission-EN.dc.html",
+    "Mac-FirstLaunch-Denied-EN.dc.html",
+    "Mac-FirstLaunch-Privacy-AR.dc.html",
+    "Mac-FirstLaunch-Permission-AR.dc.html",
+    "Mac-FirstLaunch-Denied-AR.dc.html",
     "Mac-MenuBar-Connected-EN.dc.html",
     "Mac-MenuBar-Connecting-EN.dc.html",
     "Mac-MenuBar-Disconnected-EN.dc.html",
-    "Mac-MenuBar-NoPremium-EN.dc.html",
+    "Mac-MenuBar-NoPremiumFooter-EN.dc.html",
     "Mac-MenuBar-Locations-EN.dc.html",
     "Mac-MenuBar-Search-EN.dc.html",
     "Mac-MenuBar-NoPremiumList-EN.dc.html",
     "Mac-MenuBar-Connected-AR.dc.html",
     "Mac-MenuBar-Connecting-AR.dc.html",
     "Mac-MenuBar-Disconnected-AR.dc.html",
-    "Mac-MenuBar-NoPremium-AR.dc.html",
+    "Mac-MenuBar-NoPremiumFooter-AR.dc.html",
     "Mac-MenuBar-Locations-AR.dc.html",
     "Mac-MenuBar-Search-AR.dc.html",
     "Mac-MenuBar-NoPremiumList-AR.dc.html",
@@ -3795,28 +3787,20 @@
     "Mac-WindowHome-Locations-AR.dc.html",
     "Mac-WindowHome-LocationsSearch-AR.dc.html",
     "Mac-WindowHome-LocationsNoPremium-AR.dc.html",
-    "Mac-FirstLaunch-Privacy-EN.dc.html",
-    "Mac-FirstLaunch-Permission-EN.dc.html",
-    "Mac-FirstLaunch-Denied-EN.dc.html",
-    "Mac-FirstLaunch-Privacy-AR.dc.html",
-    "Mac-FirstLaunch-Permission-AR.dc.html",
-    "Mac-FirstLaunch-Denied-AR.dc.html",
     "Mac-Report-Slow-EN.dc.html",
     "Mac-Report-Slow-AR.dc.html",
     "Mac-Settings-General-EN.dc.html",
     "Mac-Settings-Protocols-EN.dc.html",
     "Mac-Settings-Account-EN.dc.html",
+    "Mac-Settings-AccountNoPremium-EN.dc.html",
     "Mac-Settings-Support-EN.dc.html",
     "Mac-Settings-Shortcuts-EN.dc.html",
     "Mac-Settings-General-AR.dc.html",
     "Mac-Settings-Protocols-AR.dc.html",
     "Mac-Settings-Account-AR.dc.html",
+    "Mac-Settings-AccountNoPremium-AR.dc.html",
     "Mac-Settings-Support-AR.dc.html",
     "Mac-Settings-Shortcuts-AR.dc.html",
-    "Mac-MenuBar-NoPremiumFooter-EN.dc.html",
-    "Mac-MenuBar-NoPremiumFooter-AR.dc.html",
-    "Mac-Settings-AccountNoPremium-EN.dc.html",
-    "Mac-Settings-AccountNoPremium-AR.dc.html",
     "Mac-Launch-Loading-EN.dc.html",
     "Mac-Launch-Unreachable-EN.dc.html",
     "Mac-Launch-Offline-EN.dc.html",
@@ -3861,8 +3845,6 @@
     "iPad-VPNPermission817-Prompt-AR.dc.html",
     "iPad-VPNPermission817-Help-AR.dc.html",
     "iPad-VPNPermission817-NoPrompt-AR.dc.html",
-    "iPad-MainWindow589-NoPremium785-EN.dc.html",
-    "iPad-MainWindow589-NoPremium785-AR.dc.html",
     "Mac-PrimaryButton-Normal-EN.dc.html",
     "Mac-PrimaryButton-Pressed-EN.dc.html",
     "Mac-PrimaryButton-Disabled-EN.dc.html",
@@ -4109,34 +4091,9 @@
       "maxW": 900,
       "page": "iphone"
     },
-    "ipad-blk-ApprovednotbuiltVPN589": {
-      "x": 0,
-      "y": 41648,
-      "text": "Approved, not built — VPN-589",
-      "kind": "title1",
-      "maxW": 2400,
-      "page": "ipad",
-      "color": "orange"
-    },
-    "ipad-tbuiltVPN589-Main": {
-      "x": 0,
-      "y": 42348,
-      "text": "Approved, not built — VPN-589 · iPad main, wide window",
-      "kind": "title1",
-      "maxW": 10880,
-      "page": "ipad"
-    },
-    "ipad-tbuiltVPN589-SettingsSheet": {
-      "x": 0,
-      "y": 44124,
-      "text": "Approved, not built — VPN-589 · iPad Settings sheet",
-      "kind": "title1",
-      "maxW": 17392,
-      "page": "ipad"
-    },
     "ipad-blk-ApprovednotbuiltVPN359": {
       "x": 0,
-      "y": 45556,
+      "y": 44856,
       "text": "Approved, not built — VPN-359",
       "kind": "title1",
       "maxW": 2400,
@@ -4145,7 +4102,7 @@
     },
     "ipad-tbuiltVPN359-ReportSheet": {
       "x": 0,
-      "y": 46256,
+      "y": 45556,
       "text": "Approved, not built — VPN-359 · iPad Report form sheet",
       "kind": "title1",
       "maxW": 5056,
@@ -4153,89 +4110,15 @@
     },
     "ipad-tbuiltVPN359-FirstLaunch": {
       "x": 0,
-      "y": 48032,
+      "y": 47332,
       "text": "Approved, not built — VPN-359 · iPad first launch",
       "kind": "title1",
       "maxW": 5056,
       "page": "ipad"
     },
-    "mac-blk-ApprovednotbuiltVPN589": {
-      "x": 0,
-      "y": -300,
-      "text": "Approved, not built — VPN-589",
-      "kind": "title1",
-      "maxW": 2400,
-      "page": "mac",
-      "color": "orange"
-    },
-    "mac-tbuiltVPN589-MenuBar": {
-      "x": 0,
-      "y": 400,
-      "text": "Approved, not built — VPN-589 · Menu bar panel",
-      "kind": "title1",
-      "maxW": 6920,
-      "page": "mac"
-    },
-    "mac-tbuiltVPN589-WindowHome": {
-      "x": 0,
-      "y": 1420,
-      "text": "Approved, not built — VPN-589 · Window: home and locations",
-      "kind": "title1",
-      "maxW": 7120,
-      "page": "mac"
-    },
-    "mac-tbuiltVPN589-FirstLaunch": {
-      "x": 0,
-      "y": 2552,
-      "text": "Approved, not built — VPN-589 · Window: first launch",
-      "kind": "title1",
-      "maxW": 3520,
-      "page": "mac"
-    },
-    "mac-tbuiltVPN589-Report": {
-      "x": 0,
-      "y": 4252,
-      "text": "Approved, not built — VPN-589 · Window: Report an Issue",
-      "kind": "title1",
-      "maxW": 1120,
-      "page": "mac"
-    },
-    "mac-tbuiltVPN589-Settings": {
-      "x": 0,
-      "y": 5352,
-      "text": "Approved, not built — VPN-589 · Window: Settings",
-      "kind": "title1",
-      "maxW": 5920,
-      "page": "mac"
-    },
-    "mac-blk-ProposalVPN589review": {
-      "x": 0,
-      "y": 6452,
-      "text": "Approved, not built — VPN-589 review",
-      "kind": "title1",
-      "maxW": 2400,
-      "page": "mac",
-      "color": "orange"
-    },
-    "mac-VPN589review-MenuBar": {
-      "x": 0,
-      "y": 7152,
-      "text": "Approved, not built — VPN-589 review · Menu bar panel: footer without diamond",
-      "kind": "title1",
-      "maxW": 920,
-      "page": "mac"
-    },
-    "mac-VPN589review-Settings": {
-      "x": 0,
-      "y": 8022,
-      "text": "Approved, not built — VPN-589 review · Settings › Account without premium",
-      "kind": "title1",
-      "maxW": 1120,
-      "page": "mac"
-    },
     "mac-blk-ProposalVPN710": {
       "x": 0,
-      "y": 9122,
+      "y": 5752,
       "text": "Proposal — VPN-710",
       "kind": "title1",
       "maxW": 2400,
@@ -4244,7 +4127,7 @@
     },
     "mac-oposalVPN710-Launch": {
       "x": 0,
-      "y": 9822,
+      "y": 6452,
       "text": "Proposal — VPN-710 · M1 launch and blocking states",
       "kind": "title1",
       "maxW": 5920,
@@ -4252,7 +4135,7 @@
     },
     "mac-oposalVPN710-Notices": {
       "x": 0,
-      "y": 10922,
+      "y": 7552,
       "text": "Proposal — VPN-710 · M2 notices in the window",
       "kind": "title1",
       "maxW": 2320,
@@ -4260,7 +4143,7 @@
     },
     "mac-oposalVPN710-Rating": {
       "x": 0,
-      "y": 12022,
+      "y": 8652,
       "text": "Proposal — VPN-710 · M3 after a session",
       "kind": "title1",
       "maxW": 4720,
@@ -4268,7 +4151,7 @@
     },
     "mac-oposalVPN710-Billing": {
       "x": 0,
-      "y": 13122,
+      "y": 9752,
       "text": "Proposal — VPN-710 · M4 billing problems",
       "kind": "title1",
       "maxW": 2320,
@@ -4332,7 +4215,7 @@
     },
     "ipad-NetworkBlocked": {
       "x": 0,
-      "y": 12132,
+      "y": 13908,
       "text": "Network blocked",
       "kind": "title1",
       "maxW": 4368,
@@ -4340,7 +4223,7 @@
     },
     "ipad-ServerList": {
       "x": 0,
-      "y": 13908,
+      "y": 15684,
       "text": "Server list",
       "kind": "title1",
       "maxW": 6592,
@@ -4348,7 +4231,7 @@
     },
     "ipad-Report": {
       "x": 0,
-      "y": 15684,
+      "y": 17460,
       "text": "Report an Issue",
       "kind": "title1",
       "maxW": 4368,
@@ -4356,7 +4239,7 @@
     },
     "ipad-ConnectionRating": {
       "x": 0,
-      "y": 17460,
+      "y": 19236,
       "text": "Connection rating",
       "kind": "title1",
       "maxW": 6592,
@@ -4364,7 +4247,7 @@
     },
     "ipad-RateUs": {
       "x": 0,
-      "y": 19236,
+      "y": 21012,
       "text": "Rate us",
       "kind": "title1",
       "maxW": 2144,
@@ -4372,7 +4255,7 @@
     },
     "ipad-RewardPanel": {
       "x": 0,
-      "y": 21012,
+      "y": 22788,
       "text": "Reward panel",
       "kind": "title1",
       "maxW": 11040,
@@ -4380,7 +4263,7 @@
     },
     "ipad-NoTimeLeft": {
       "x": 0,
-      "y": 22788,
+      "y": 24564,
       "text": "No time left",
       "kind": "title1",
       "maxW": 4368,
@@ -4388,7 +4271,7 @@
     },
     "ipad-Gift": {
       "x": 0,
-      "y": 24564,
+      "y": 26340,
       "text": "Gift",
       "kind": "title1",
       "maxW": 2144,
@@ -4396,7 +4279,7 @@
     },
     "ipad-Settings": {
       "x": 0,
-      "y": 26940,
+      "y": 30148,
       "text": "Settings tab",
       "kind": "title1",
       "maxW": 4368,
@@ -4404,7 +4287,7 @@
     },
     "ipad-Profile": {
       "x": 0,
-      "y": 28716,
+      "y": 31924,
       "text": "Profile tab",
       "kind": "title1",
       "maxW": 6592,
@@ -4412,7 +4295,7 @@
     },
     "ipad-Protocols": {
       "x": 0,
-      "y": 30492,
+      "y": 33700,
       "text": "Protocols",
       "kind": "title1",
       "maxW": 4368,
@@ -4420,7 +4303,7 @@
     },
     "ipad-Account": {
       "x": 0,
-      "y": 32268,
+      "y": 35476,
       "text": "Account",
       "kind": "title1",
       "maxW": 6592,
@@ -4428,7 +4311,7 @@
     },
     "ipad-BillingGrace": {
       "x": 0,
-      "y": 34044,
+      "y": 37252,
       "text": "Billing grace and paused",
       "kind": "title1",
       "maxW": 4368,
@@ -4436,7 +4319,7 @@
     },
     "ipad-Others": {
       "x": 0,
-      "y": 35820,
+      "y": 39028,
       "text": "Others",
       "kind": "title1",
       "maxW": 2144,
@@ -4444,7 +4327,7 @@
     },
     "ipad-Support": {
       "x": 0,
-      "y": 37596,
+      "y": 40804,
       "text": "Support",
       "kind": "title1",
       "maxW": 6592,
@@ -4452,7 +4335,7 @@
     },
     "ipad-UpdateRequired": {
       "x": 0,
-      "y": 39372,
+      "y": 42580,
       "text": "Update required",
       "kind": "title1",
       "maxW": 2144,
@@ -4470,22 +4353,13 @@
     },
     "ipad-PaywallsMoved": {
       "x": 0,
-      "y": 26340,
+      "y": 28116,
       "w": 1400,
       "page": "ipad",
       "fill": "gray",
       "size": "xl",
       "bold": true,
       "text": "Paywalls and offers: see the paywall canvas"
-    },
-    "ipad-tbuiltVPN589-Main-search": {
-      "x": 10920,
-      "y": 42648,
-      "w": 640,
-      "page": "ipad",
-      "fill": "gray",
-      "size": "l",
-      "text": "Search: the list keeps the locations whose shown name contains the text. English \"an\" keeps Germany, Netherlands, Japan, France and Canada. Arabic \"ان\" keeps ألمانيا and اليابان."
     },
     "iphone-RewardPanel-lottie": {
       "x": 4780,
@@ -4507,7 +4381,7 @@
     },
     "ipad-RewardPanel-lottie": {
       "x": 11080,
-      "y": 21312,
+      "y": 23088,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4525,7 +4399,7 @@
     },
     "mac-PaywallsMoved": {
       "x": 0,
-      "y": 3652,
+      "y": 2952,
       "w": 1400,
       "page": "mac",
       "fill": "gray",
@@ -4579,7 +4453,7 @@
     },
     "mac-blk-ProposalVPN768": {
       "x": 0,
-      "y": 14222,
+      "y": 10852,
       "text": "Proposal — VPN-768",
       "kind": "title1",
       "maxW": 2400,
@@ -4588,7 +4462,7 @@
     },
     "mac-ProposalVPN768-Update": {
       "x": 0,
-      "y": 14922,
+      "y": 11552,
       "text": "Proposal — VPN-768 · Mac update required",
       "kind": "title1",
       "maxW": 3320,
@@ -4596,7 +4470,7 @@
     },
     "mac-ProposalVPN768-Update-note": {
       "x": 3400,
-      "y": 15222,
+      "y": 11852,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4658,7 +4532,7 @@
     },
     "ipad-blk-ProposalVPN817": {
       "x": 0,
-      "y": 50308,
+      "y": 49608,
       "text": "Proposal — VPN-817",
       "kind": "title1",
       "maxW": 2400,
@@ -4667,7 +4541,7 @@
     },
     "ipad-ProposalVPN817-Permission": {
       "x": 0,
-      "y": 51008,
+      "y": 50308,
       "text": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt",
       "kind": "title1",
       "maxW": 6592,
@@ -4675,7 +4549,7 @@
     },
     "ipad-ProposalVPN817-flow": {
       "x": 6672,
-      "y": 51308,
+      "y": 50608,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4684,7 +4558,7 @@
     },
     "ipad-ProposalVPN817-texts": {
       "x": 7392,
-      "y": 51308,
+      "y": 50608,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4693,7 +4567,7 @@
     },
     "ipad-ProposalVPN817-popups": {
       "x": 8112,
-      "y": 51308,
+      "y": 50608,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4711,7 +4585,7 @@
     },
     "mac-blk-ProposalVPN827": {
       "x": 0,
-      "y": 16022,
+      "y": 12652,
       "text": "Proposal — VPN-827",
       "kind": "title1",
       "maxW": 2400,
@@ -4720,7 +4594,7 @@
     },
     "mac-ProposalVPN827-Button": {
       "x": 0,
-      "y": 16722,
+      "y": 13352,
       "text": "Proposal — VPN-827 · Mac primary button (text contrast 4.5:1), shown on \"Network blocked\"",
       "kind": "title1",
       "maxW": 3520,
@@ -4728,7 +4602,7 @@
     },
     "mac-ProposalVPN827-Button-note": {
       "x": 3600,
-      "y": 17022,
+      "y": 13652,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4737,7 +4611,7 @@
     },
     "mac-blk-ProposalVPN855": {
       "x": 0,
-      "y": 17822,
+      "y": 14452,
       "text": "Proposal — VPN-855",
       "kind": "title1",
       "maxW": 2400,
@@ -4746,7 +4620,7 @@
     },
     "mac-ProposalVPN855-Permission": {
       "x": 0,
-      "y": 18522,
+      "y": 15152,
       "text": "Proposal — VPN-855 · Mac VPN permission: Connect opens the macOS prompt",
       "kind": "title1",
       "maxW": 4520,
@@ -4754,7 +4628,7 @@
     },
     "mac-ProposalVPN855-flow": {
       "x": 4600,
-      "y": 18822,
+      "y": 15452,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4763,7 +4637,7 @@
     },
     "mac-ProposalVPN855-texts": {
       "x": 5320,
-      "y": 18822,
+      "y": 15452,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4772,7 +4646,7 @@
     },
     "mac-ProposalVPN855-popups": {
       "x": 6040,
-      "y": 18822,
+      "y": 15452,
       "w": 640,
       "page": "mac",
       "fill": "gray",
@@ -4781,38 +4655,12 @@
     },
     "mac-FirstLaunch-VPN855": {
       "x": 3600,
-      "y": 2852,
+      "y": 0,
       "w": 520,
       "page": "mac",
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-855 (below): the \"VPN permission\" frames (Mac-FirstLaunch-Permission EN and AR) leave the flow: Connect opens the macOS prompt at once. The \"permission denied\" frames (Mac-FirstLaunch-Denied EN and AR) are replaced by the help page. Privacy stays. These frames stay as approved until the board approves and the change is on the default branch."
-    },
-    "ipad-blk-ProposalVPN589window": {
-      "x": 0,
-      "y": 53284,
-      "text": "Proposal — VPN-589 window",
-      "kind": "title1",
-      "maxW": 2400,
-      "page": "ipad",
-      "color": "blue"
-    },
-    "ipad-ProposalVPN589window-Main": {
-      "x": 0,
-      "y": 53984,
-      "text": "Proposal — VPN-589 window · iPad main, wide window, no premium: the Get Premium capsule without a cut subtitle",
-      "kind": "title1",
-      "maxW": 1650,
-      "page": "ipad"
-    },
-    "ipad-ProposalVPN589window-rule": {
-      "x": 1730,
-      "y": 54284,
-      "w": 640,
-      "page": "ipad",
-      "fill": "gray",
-      "size": "l",
-      "text": "Get Premium capsule in a wide window (QA O-B, design review of 2026-11-16).\nToday (build 23780acc): the capsule is at most the main column less 2 × 68 pt (English) or 2 × 48 pt (Arabic). When the texts do not fit, the subtitle is cut with \"…\". English: cut in windows of 700–814 pt (\"No Ads,…\" at 700 pt). Arabic: cut in windows of 700–858 pt.\nProposal: the capsule shows the subtitle only when the whole capsule fits. When it does not fit, the capsule shows the diamond, \"Get Premium\" / \"تمتع بالأفضل\" and the chevron (about 177 pt wide). No subtitle and no \"…\". The tap, the colours, the 42 pt height and the maximum width do not change.\nNo change: full screen (the whole capsule fits), windows narrower than 700 pt (the iPhone banner), the iPhone.\nFrames: a 785 × 1307 pt window at the top of the screen; the status bar covers the top 32 pt. The window buttons are the system's closed controls, drawn as a stand-in. They are not an app element. The column under them starts below them (build 23780acc, design PASS); the other column does not move. The vertical spacing follows the approved VPN-589 wide-window frames."
     },
     "iphone-blk-ProposalVPN908": {
       "x": 0,
@@ -4851,7 +4699,7 @@
     },
     "ipad-blk-ProposalVPN908": {
       "x": 0,
-      "y": 56100,
+      "y": 52584,
       "text": "Proposal — VPN-908",
       "kind": "title1",
       "maxW": 2400,
@@ -4860,7 +4708,7 @@
     },
     "ipad-ProposalVPN908-Button": {
       "x": 0,
-      "y": 56800,
+      "y": 53284,
       "text": "Proposal — VPN-908 · iOS disabled button: white title (4.5:1 or more)",
       "kind": "title1",
       "maxW": 2144,
@@ -4868,7 +4716,7 @@
     },
     "ipad-ProposalVPN908-Button-note": {
       "x": 2224,
-      "y": 57100,
+      "y": 53584,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4877,7 +4725,7 @@
     },
     "ipad-ProposalVPN908-Column": {
       "x": 0,
-      "y": 58876,
+      "y": 55360,
       "text": "Proposal — VPN-908 · iPad server column in 700–830 pt windows: no signal icon, the lock in the tick place, names on up to 2 lines",
       "kind": "title1",
       "maxW": 5022,
@@ -4885,7 +4733,7 @@
     },
     "ipad-ProposalVPN908-Column-note": {
       "x": 5102,
-      "y": 59176,
+      "y": 55660,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4894,43 +4742,16 @@
     },
     "ipad-NetworkBlocked-VPN908": {
       "x": 4448,
-      "y": 12432,
+      "y": 14208,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
       "size": "l",
       "text": "Proposal — VPN-908 (below): the Retry button title turns white (8.83:1). These frames stay as built until the board approves and the change is on the default branch."
     },
-    "ipad-Main-VPN908": {
-      "x": 11640,
-      "y": 42648,
-      "w": 520,
-      "page": "ipad",
-      "fill": "gray",
-      "size": "l",
-      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
-    },
-    "ipad-SettingsSheet-VPN908": {
-      "x": 17472,
-      "y": 44424,
-      "w": 520,
-      "page": "ipad",
-      "fill": "gray",
-      "size": "l",
-      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
-    },
     "ipad-ReportSheet-VPN908": {
       "x": 5136,
-      "y": 46556,
-      "w": 520,
-      "page": "ipad",
-      "fill": "gray",
-      "size": "l",
-      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
-    },
-    "ipad-Window589-VPN908": {
-      "x": 2450,
-      "y": 54284,
+      "y": 45856,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4992,7 +4813,7 @@
     },
     "ipad-blk-ProposalVPN1179": {
       "x": 0,
-      "y": 61900,
+      "y": 58384,
       "text": "Proposal — VPN-1179",
       "kind": "title1",
       "maxW": 2400,
@@ -5001,7 +4822,7 @@
     },
     "ipad-ProposalVPN1179-Row": {
       "x": 0,
-      "y": 62600,
+      "y": 59084,
       "text": "Proposal — VPN-1179 · the server column shows the server that premium Auto got at Connect",
       "kind": "title1",
       "maxW": 14480,
@@ -5009,7 +4830,7 @@
     },
     "ipad-ProposalVPN1179-flow": {
       "x": 14560,
-      "y": 62900,
+      "y": 59384,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -5018,7 +4839,7 @@
     },
     "ipad-ProposalVPN1179-texts": {
       "x": 15280,
-      "y": 62900,
+      "y": 59384,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -5034,18 +4855,9 @@
       "size": "l",
       "text": "Proposal — VPN-1179 (below): in the wide iPad window, the server column's Auto row shows the country of the server that premium Auto got. In narrow windows the iPhone frames apply."
     },
-    "ipad-Main-VPN1179": {
-      "x": 12240,
-      "y": 42648,
-      "w": 520,
-      "page": "ipad",
-      "fill": "gray",
-      "size": "l",
-      "text": "Proposal — VPN-1179 (below): the Auto row gets a second line with the country of the server that premium Auto got (before Connect: the app's pick)."
-    },
     "mac-blk-ProposalVPN1226": {
       "x": 0,
-      "y": 20222,
+      "y": 16852,
       "text": "Proposal — VPN-1226",
       "kind": "title1",
       "maxW": 2400,
@@ -5054,7 +4866,7 @@
     },
     "mac-ProposalVPN1226-Icon": {
       "x": 0,
-      "y": 20922,
+      "y": 17552,
       "text": "Proposal — VPN-1226 · Mac app icon: master, sizes and looks",
       "kind": "title1",
       "maxW": 4000,
@@ -5062,7 +4874,7 @@
     },
     "mac-ProposalVPN1226-InPlace": {
       "x": 0,
-      "y": 23502,
+      "y": 20132,
       "text": "Proposal — VPN-1226 · the icon in place: Finder, macOS VPN prompt (EN, then AR)",
       "kind": "title1",
       "maxW": 4000,
@@ -5070,7 +4882,7 @@
     },
     "mac-ProposalVPN1226-Permission": {
       "x": 0,
-      "y": 24762,
+      "y": 21392,
       "text": "Proposal — VPN-1226 · the VPN-855 frames that draw the macOS prompt, with the Mac icon (AR: macOS’s own lines)",
       "kind": "title1",
       "maxW": 4000,
@@ -5078,7 +4890,7 @@
     },
     "mac-ProposalVPN1226-spec": {
       "x": 7664,
-      "y": 21222,
+      "y": 17852,
       "w": 680,
       "page": "mac",
       "fill": "gray",
@@ -5087,7 +4899,7 @@
     },
     "mac-ProposalVPN1226-place": {
       "x": 3360,
-      "y": 23802,
+      "y": 20432,
       "w": 680,
       "page": "mac",
       "fill": "gray",
@@ -5096,7 +4908,7 @@
     },
     "mac-ProposalVPN1226-changes": {
       "x": 3400,
-      "y": 25062,
+      "y": 21692,
       "w": 680,
       "page": "mac",
       "fill": "gray",
@@ -5105,7 +4917,7 @@
     },
     "mac-VPN855-VPN1226": {
       "x": 6760,
-      "y": 18822,
+      "y": 15452,
       "w": 520,
       "page": "mac",
       "fill": "gray",
@@ -5113,10 +4925,138 @@
       "text": "Proposal — VPN-1226 (below): these frames' macOS prompt takes the new Mac app icon, and in AR macOS's own 2 lines. See the row \"the VPN-855 frames that draw the macOS prompt\"."
     },
     "mac-WindowHome-VPN1255": {
-      "x": 0,
-      "y": 1500,
+      "x": 7200,
+      "y": 2120,
       "text": "Redrawn from the build (VPN-1255, code on rc/5.0.8): the window is 520 × 732, a 32 pt transparent title-bar strip (MacWindowChrome) above the 520 × 700 page (BrandMetrics.smallWindow). The home column is 368 pt (MacWindowHome width 400 minus MacPanelView padding 16 on each side) and starts 36 pt below the page top (20 + 16); the footer ends 24 pt above the bottom (8 + 16). Icons in the app are SF Symbols (xmark, power, gearshape, exclamationmark.bubble, diamond, chevron.forward, bolt.fill, lock.fill, magnifyingglass, checkmark, xmark.circle.fill, laptopcomputer.and.iphone) at the code's point sizes. SF Symbols cannot be copied as files: the frames draw the closest Font Awesome glyph at that size, and each glyph names its SF Symbol (data-sf).",
       "page": "mac"
+    },
+    "ipad-HomeWide-search": {
+      "x": 14810,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Search: the list keeps the locations whose shown name contains the text. English \"an\" keeps Germany, Netherlands, Japan, France and Canada. Arabic \"ان\" keeps ألمانيا and اليابان."
+    },
+    "ipad-HomeWide-VPN908": {
+      "x": 15530,
+      "y": 12432,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
+    },
+    "ipad-HomeWide-VPN1179": {
+      "x": 16130,
+      "y": 12432,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-1179 (below): the Auto row gets a second line with the country of the server that premium Auto got (before Connect: the app's pick)."
+    },
+    "ipad-HomeWide-capsule": {
+      "x": 13370,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Get Premium capsule in a wide window (built in 5.0.8; VPN-589 window card, board 2026-11-17).\nThe capsule is at most the main column less 2 × 68 pt (English) or 2 × 48 pt (Arabic). It shows the subtitle only when the whole capsule fits in that width. Otherwise it shows the diamond, \"Get Premium\" / \"تمتع بالأفضل\" and the chevron: no subtitle and no \"…\". Pictures of build 41898287: the short capsule in windows of 700 and 785 pt (English and Arabic) and in Arabic at 858 pt; the whole capsule in English at 858 pt and in full screen.\nWindows narrower than 700 pt and the iPhone show the Get Premium banner, not the capsule.\nThe 785 pt frames: a window at the top of the screen; the status bar covers the top 32 pt. The window buttons are the system's closed controls, drawn as a stand-in. They are not an app element."
+    },
+    "ipad-SettingsSheet-908": {
+      "x": 18152,
+      "y": 29016,
+      "w": 520,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Proposal — VPN-908 (below): the server column loses the signal icon, the lock takes the tick place, names can take 2 lines. These frames stay until the board approves and the change is on the default branch."
+    },
+    "mac-FirstLaunch": {
+      "x": 0,
+      "y": -300,
+      "text": "Window: first launch",
+      "kind": "title1",
+      "maxW": 3520,
+      "page": "mac"
+    },
+    "mac-MenuBar": {
+      "x": 0,
+      "y": 800,
+      "text": "Menu bar panel",
+      "kind": "title1",
+      "maxW": 6920,
+      "page": "mac"
+    },
+    "mac-WindowHome": {
+      "x": 0,
+      "y": 1820,
+      "text": "Window: home and locations",
+      "kind": "title1",
+      "maxW": 7120,
+      "page": "mac"
+    },
+    "mac-Report": {
+      "x": 0,
+      "y": 3552,
+      "text": "Window: Report an Issue",
+      "kind": "title1",
+      "maxW": 1120,
+      "page": "mac"
+    },
+    "mac-Settings": {
+      "x": 0,
+      "y": 4652,
+      "text": "Window: Settings",
+      "kind": "title1",
+      "maxW": 7120,
+      "page": "mac"
+    },
+    "ipad-HomeWide-heading": {
+      "x": 14090,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "\"Server Location\" heading (built in 5.0.8, step 6f, commit 1d8c1f78).\nFull screen: the column keeps the 32 pt status bar; the heading is 20 pt below it (52 pt from the top of the screen), in English and Arabic, also after a switch from a window. The frames leave the status bar empty.\nA window: the column under the window buttons starts below them (heading 95 pt from the top of the screen); the other column does not move."
+    },
+    "ipad-HomeWide-scope": {
+      "x": 12650,
+      "y": 12432,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Since 5.0.8 (VPN-589) a window of 700 pt or more, full screen included, shows the server column and this main column (at most 560 pt, centred). Windows narrower than 700 pt keep the iPhone layout with the bottom server bar. The full-screen rows \"Home — free user\", \"Home — premium user\", \"Home — notices\" and \"Server list\" show the layout before 5.0.8; the Home rows wait for the 5.0.8 (3) screenshots (VPN-1205)."
+    },
+    "ipad-SettingsSheet-scope": {
+      "x": 17432,
+      "y": 29016,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Since 5.0.8 (VPN-589) the Settings and the Profile tab open this one sheet in a window of 700 pt or more, full screen included: a list of 320 pt and the page, at most 1000 × 720 pt, over the dimmed window. The rows \"Settings tab\" to \"Support\" below show the full-screen layout before 5.0.8; in 5.0.8 that layout shows only in windows narrower than 700 pt."
+    },
+    "ipad-HomeWide": {
+      "x": 0,
+      "y": 12132,
+      "text": "Home — wide window, server column",
+      "kind": "title1",
+      "maxW": 12610,
+      "page": "ipad"
+    },
+    "ipad-SettingsSheet": {
+      "x": 0,
+      "y": 28716,
+      "text": "Settings sheet — wide window",
+      "kind": "title1",
+      "maxW": 17392,
+      "page": "ipad"
     }
   }
 }
