@@ -1122,7 +1122,7 @@
     },
     "iPad-Onboarding-Page1-EN.dc.html": {
       "x": 0,
-      "y": 3552,
+      "y": 5328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1130,7 +1130,7 @@
     },
     "iPad-Onboarding-Page2-EN.dc.html": {
       "x": 1112,
-      "y": 3552,
+      "y": 5328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1138,7 +1138,7 @@
     },
     "iPad-Onboarding-Page3-EN.dc.html": {
       "x": 2224,
-      "y": 3552,
+      "y": 5328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1146,7 +1146,7 @@
     },
     "iPad-Onboarding-Page1-AR.dc.html": {
       "x": 3336,
-      "y": 3552,
+      "y": 5328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1154,7 +1154,7 @@
     },
     "iPad-Onboarding-Page2-AR.dc.html": {
       "x": 4448,
-      "y": 3552,
+      "y": 5328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1162,7 +1162,7 @@
     },
     "iPad-Onboarding-Page3-AR.dc.html": {
       "x": 5560,
-      "y": 3552,
+      "y": 5328,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1170,7 +1170,7 @@
     },
     "iPad-VPNPermission-Primer-EN.dc.html": {
       "x": 0,
-      "y": 5328,
+      "y": 8536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1178,7 +1178,7 @@
     },
     "iPad-VPNPermission-Denied-EN.dc.html": {
       "x": 1112,
-      "y": 5328,
+      "y": 8536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1186,7 +1186,7 @@
     },
     "iPad-VPNPermission-Primer-AR.dc.html": {
       "x": 2224,
-      "y": 5328,
+      "y": 8536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1194,7 +1194,7 @@
     },
     "iPad-VPNPermission-Denied-AR.dc.html": {
       "x": 3336,
-      "y": 5328,
+      "y": 8536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1202,7 +1202,7 @@
     },
     "iPad-HomeFree-Idle-EN.dc.html": {
       "x": 0,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1210,7 +1210,7 @@
     },
     "iPad-HomeFree-Connecting-EN.dc.html": {
       "x": 1112,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1218,7 +1218,7 @@
     },
     "iPad-HomeFree-ConnectingHint-EN.dc.html": {
       "x": 2224,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1226,7 +1226,7 @@
     },
     "iPad-HomeFree-Connected-EN.dc.html": {
       "x": 3336,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1234,7 +1234,7 @@
     },
     "iPad-HomeFree-Disconnecting-EN.dc.html": {
       "x": 4448,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1242,7 +1242,7 @@
     },
     "iPad-HomeFree-NoTimeLeft-EN.dc.html": {
       "x": 5560,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1250,7 +1250,7 @@
     },
     "iPad-HomeFree-GiftActive-EN.dc.html": {
       "x": 6672,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1258,7 +1258,7 @@
     },
     "iPad-HomeFree-Idle-AR.dc.html": {
       "x": 7784,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1266,7 +1266,7 @@
     },
     "iPad-HomeFree-Connecting-AR.dc.html": {
       "x": 8896,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1274,7 +1274,7 @@
     },
     "iPad-HomeFree-ConnectingHint-AR.dc.html": {
       "x": 10008,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1282,7 +1282,7 @@
     },
     "iPad-HomeFree-Connected-AR.dc.html": {
       "x": 11120,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1290,7 +1290,7 @@
     },
     "iPad-HomeFree-Disconnecting-AR.dc.html": {
       "x": 12232,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1298,7 +1298,7 @@
     },
     "iPad-HomeFree-NoTimeLeft-AR.dc.html": {
       "x": 13344,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1306,7 +1306,7 @@
     },
     "iPad-HomeFree-GiftActive-AR.dc.html": {
       "x": 14456,
-      "y": 7104,
+      "y": 10312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1314,7 +1314,7 @@
     },
     "iPad-HomePremium-Idle-EN.dc.html": {
       "x": 0,
-      "y": 8880,
+      "y": 12088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1322,7 +1322,7 @@
     },
     "iPad-HomePremium-Connected-EN.dc.html": {
       "x": 1112,
-      "y": 8880,
+      "y": 12088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1330,7 +1330,7 @@
     },
     "iPad-HomePremium-Idle-AR.dc.html": {
       "x": 2224,
-      "y": 8880,
+      "y": 12088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1338,7 +1338,7 @@
     },
     "iPad-HomePremium-Connected-AR.dc.html": {
       "x": 3336,
-      "y": 8880,
+      "y": 12088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1346,7 +1346,7 @@
     },
     "iPad-HomeNotices-NoticeFree-EN.dc.html": {
       "x": 0,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1354,7 +1354,7 @@
     },
     "iPad-HomeNotices-NoticePremium-EN.dc.html": {
       "x": 1112,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1362,7 +1362,7 @@
     },
     "iPad-HomeNotices-NoInternet-EN.dc.html": {
       "x": 2224,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1370,7 +1370,7 @@
     },
     "iPad-HomeNotices-Spinner-EN.dc.html": {
       "x": 3336,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1378,7 +1378,7 @@
     },
     "iPad-HomeNotices-NoticeFree-AR.dc.html": {
       "x": 4448,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1386,7 +1386,7 @@
     },
     "iPad-HomeNotices-NoticePremium-AR.dc.html": {
       "x": 5560,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1394,7 +1394,7 @@
     },
     "iPad-HomeNotices-NoInternet-AR.dc.html": {
       "x": 6672,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1402,7 +1402,7 @@
     },
     "iPad-HomeNotices-Spinner-AR.dc.html": {
       "x": 7784,
-      "y": 10656,
+      "y": 13864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1410,7 +1410,7 @@
     },
     "iPad-NetworkBlocked-RetryReady-EN.dc.html": {
       "x": 0,
-      "y": 14208,
+      "y": 17416,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1418,7 +1418,7 @@
     },
     "iPad-NetworkBlocked-RetryCountdown-EN.dc.html": {
       "x": 1112,
-      "y": 14208,
+      "y": 17416,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1426,7 +1426,7 @@
     },
     "iPad-NetworkBlocked-RetryReady-AR.dc.html": {
       "x": 2224,
-      "y": 14208,
+      "y": 17416,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1434,7 +1434,7 @@
     },
     "iPad-NetworkBlocked-RetryCountdown-AR.dc.html": {
       "x": 3336,
-      "y": 14208,
+      "y": 17416,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1442,7 +1442,7 @@
     },
     "iPad-Report-NotConnected-EN.dc.html": {
       "x": 0,
-      "y": 17760,
+      "y": 20968,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1450,7 +1450,7 @@
     },
     "iPad-Report-Connected-EN.dc.html": {
       "x": 1112,
-      "y": 17760,
+      "y": 20968,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1458,7 +1458,7 @@
     },
     "iPad-Report-NotConnected-AR.dc.html": {
       "x": 2224,
-      "y": 17760,
+      "y": 20968,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1466,7 +1466,7 @@
     },
     "iPad-Report-Connected-AR.dc.html": {
       "x": 3336,
-      "y": 17760,
+      "y": 20968,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1474,7 +1474,7 @@
     },
     "iPad-Gift-Default-EN.dc.html": {
       "x": 0,
-      "y": 26640,
+      "y": 31624,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1482,7 +1482,7 @@
     },
     "iPad-Gift-Default-AR.dc.html": {
       "x": 1112,
-      "y": 26640,
+      "y": 31624,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1490,7 +1490,7 @@
     },
     "iPad-Settings-Default-EN.dc.html": {
       "x": 0,
-      "y": 30448,
+      "y": 35432,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1498,7 +1498,7 @@
     },
     "iPad-Settings-UnderNotice-EN.dc.html": {
       "x": 1112,
-      "y": 30448,
+      "y": 35432,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1506,7 +1506,7 @@
     },
     "iPad-Settings-Default-AR.dc.html": {
       "x": 2224,
-      "y": 30448,
+      "y": 35432,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1514,7 +1514,7 @@
     },
     "iPad-Settings-UnderNotice-AR.dc.html": {
       "x": 3336,
-      "y": 30448,
+      "y": 35432,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1522,7 +1522,7 @@
     },
     "iPad-Profile-Free-EN.dc.html": {
       "x": 0,
-      "y": 32224,
+      "y": 37208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1530,7 +1530,7 @@
     },
     "iPad-Profile-Premium-EN.dc.html": {
       "x": 1112,
-      "y": 32224,
+      "y": 37208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1538,7 +1538,7 @@
     },
     "iPad-Profile-UnderNotice-EN.dc.html": {
       "x": 2224,
-      "y": 32224,
+      "y": 37208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1546,7 +1546,7 @@
     },
     "iPad-Profile-Free-AR.dc.html": {
       "x": 3336,
-      "y": 32224,
+      "y": 37208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1554,7 +1554,7 @@
     },
     "iPad-Profile-Premium-AR.dc.html": {
       "x": 4448,
-      "y": 32224,
+      "y": 37208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1562,7 +1562,7 @@
     },
     "iPad-Profile-UnderNotice-AR.dc.html": {
       "x": 5560,
-      "y": 32224,
+      "y": 37208,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1570,7 +1570,7 @@
     },
     "iPad-Protocols-Default-EN.dc.html": {
       "x": 0,
-      "y": 34000,
+      "y": 38984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1578,7 +1578,7 @@
     },
     "iPad-Protocols-Pinned-EN.dc.html": {
       "x": 1112,
-      "y": 34000,
+      "y": 38984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1586,7 +1586,7 @@
     },
     "iPad-Protocols-Default-AR.dc.html": {
       "x": 2224,
-      "y": 34000,
+      "y": 38984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1594,7 +1594,7 @@
     },
     "iPad-Protocols-Pinned-AR.dc.html": {
       "x": 3336,
-      "y": 34000,
+      "y": 38984,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1602,7 +1602,7 @@
     },
     "iPad-Account-Free-EN.dc.html": {
       "x": 0,
-      "y": 35776,
+      "y": 40760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1610,7 +1610,7 @@
     },
     "iPad-Account-Premium-EN.dc.html": {
       "x": 1112,
-      "y": 35776,
+      "y": 40760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1618,7 +1618,7 @@
     },
     "iPad-Account-BillingIssue-EN.dc.html": {
       "x": 2224,
-      "y": 35776,
+      "y": 40760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1626,7 +1626,7 @@
     },
     "iPad-Account-Free-AR.dc.html": {
       "x": 3336,
-      "y": 35776,
+      "y": 40760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1634,7 +1634,7 @@
     },
     "iPad-Account-Premium-AR.dc.html": {
       "x": 4448,
-      "y": 35776,
+      "y": 40760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1642,7 +1642,7 @@
     },
     "iPad-Account-BillingIssue-AR.dc.html": {
       "x": 5560,
-      "y": 35776,
+      "y": 40760,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1650,7 +1650,7 @@
     },
     "iPad-Others-Default-EN.dc.html": {
       "x": 0,
-      "y": 39328,
+      "y": 44312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1658,7 +1658,7 @@
     },
     "iPad-Others-Default-AR.dc.html": {
       "x": 1112,
-      "y": 39328,
+      "y": 44312,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1666,7 +1666,7 @@
     },
     "iPad-Support-Empty-EN.dc.html": {
       "x": 0,
-      "y": 41104,
+      "y": 46088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1674,7 +1674,7 @@
     },
     "iPad-Support-Errors-EN.dc.html": {
       "x": 1112,
-      "y": 41104,
+      "y": 46088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1682,7 +1682,7 @@
     },
     "iPad-Support-Sent-EN.dc.html": {
       "x": 2224,
-      "y": 41104,
+      "y": 46088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1690,7 +1690,7 @@
     },
     "iPad-Support-Empty-AR.dc.html": {
       "x": 3336,
-      "y": 41104,
+      "y": 46088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1698,7 +1698,7 @@
     },
     "iPad-Support-Errors-AR.dc.html": {
       "x": 4448,
-      "y": 41104,
+      "y": 46088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1706,7 +1706,7 @@
     },
     "iPad-Support-Sent-AR.dc.html": {
       "x": 5560,
-      "y": 41104,
+      "y": 46088,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1714,7 +1714,7 @@
     },
     "iPad-UpdateRequired-Default-EN.dc.html": {
       "x": 0,
-      "y": 42880,
+      "y": 47864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1722,7 +1722,7 @@
     },
     "iPad-UpdateRequired-Default-AR.dc.html": {
       "x": 1112,
-      "y": 42880,
+      "y": 47864,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1730,7 +1730,7 @@
     },
     "iPad-Main-LandscapePremium-EN.dc.html": {
       "x": 0,
-      "y": 12432,
+      "y": 15640,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1738,7 +1738,7 @@
     },
     "iPad-Main-LandscapeNoPremium-EN.dc.html": {
       "x": 1456,
-      "y": 12432,
+      "y": 15640,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1746,7 +1746,7 @@
     },
     "iPad-Main-LandscapeSearch-EN.dc.html": {
       "x": 2912,
-      "y": 12432,
+      "y": 15640,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1754,7 +1754,7 @@
     },
     "iPad-Main-PortraitPremium-EN.dc.html": {
       "x": 4368,
-      "y": 12432,
+      "y": 15640,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -1762,7 +1762,7 @@
     },
     "iPad-Main-LandscapePremium-AR.dc.html": {
       "x": 6345,
-      "y": 12432,
+      "y": 15640,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1770,7 +1770,7 @@
     },
     "iPad-Main-LandscapeNoPremium-AR.dc.html": {
       "x": 7801,
-      "y": 12432,
+      "y": 15640,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1778,7 +1778,7 @@
     },
     "iPad-SettingsSheet-Connection-EN.dc.html": {
       "x": 0,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1786,7 +1786,7 @@
     },
     "iPad-SettingsSheet-Protocols-EN.dc.html": {
       "x": 1456,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1794,7 +1794,7 @@
     },
     "iPad-SettingsSheet-Account-EN.dc.html": {
       "x": 2912,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1802,7 +1802,7 @@
     },
     "iPad-SettingsSheet-Support-EN.dc.html": {
       "x": 4368,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1810,7 +1810,7 @@
     },
     "iPad-SettingsSheet-Others-EN.dc.html": {
       "x": 5824,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1818,7 +1818,7 @@
     },
     "iPad-SettingsSheet-NoPremium-EN.dc.html": {
       "x": 7280,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1826,7 +1826,7 @@
     },
     "iPad-SettingsSheet-Connection-AR.dc.html": {
       "x": 8736,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1834,7 +1834,7 @@
     },
     "iPad-SettingsSheet-Protocols-AR.dc.html": {
       "x": 10192,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1842,7 +1842,7 @@
     },
     "iPad-SettingsSheet-Account-AR.dc.html": {
       "x": 11648,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1850,7 +1850,7 @@
     },
     "iPad-SettingsSheet-Support-AR.dc.html": {
       "x": 13104,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1858,7 +1858,7 @@
     },
     "iPad-SettingsSheet-Others-AR.dc.html": {
       "x": 14560,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -1866,59 +1866,59 @@
     },
     "iPad-ReportSheet-Portrait-EN.dc.html": {
       "x": 0,
-      "y": 45856,
+      "y": 22744,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad Report form sheet · portrait · EN"
+      "title": "Report an Issue — form sheet · portrait, not connected · EN"
     },
     "iPad-ReportSheet-Landscape-EN.dc.html": {
       "x": 1112,
-      "y": 45856,
+      "y": 22744,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad Report form sheet · landscape · EN"
+      "title": "Report an Issue — form sheet · landscape, not connected · EN"
     },
     "iPad-ReportSheet-Portrait-AR.dc.html": {
       "x": 2568,
-      "y": 45856,
+      "y": 22744,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad Report form sheet · portrait · AR"
+      "title": "Report an Issue — form sheet · portrait, not connected · AR"
     },
     "iPad-FirstLaunch-Agreement-EN.dc.html": {
       "x": 0,
-      "y": 47632,
+      "y": 3552,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad first launch · agreement · EN"
+      "title": "Agreement — wide window · box ticked · EN"
     },
     "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html": {
-      "x": 1112,
-      "y": 47632,
+      "x": 0,
+      "y": 7104,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad first launch · onboarding, landscape · EN"
+      "title": "Onboarding — wide window · page 1, landscape · EN"
     },
     "iPad-FirstLaunch-Agreement-AR.dc.html": {
-      "x": 2568,
-      "y": 47632,
+      "x": 1112,
+      "y": 3552,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad first launch · agreement · AR"
+      "title": "Agreement — wide window · box ticked · AR"
     },
     "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html": {
-      "x": 3680,
-      "y": 47632,
+      "x": 1456,
+      "y": 7104,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad first launch · onboarding, landscape · AR"
+      "title": "Onboarding — wide window · page 1, landscape · AR"
     },
     "Mac-MenuBar-Connected-EN.dc.html": {
       "x": 0,
@@ -2498,7 +2498,7 @@
     },
     "iPad-ServerList-Free-EN.dc.html": {
       "x": 0,
-      "y": 15984,
+      "y": 19192,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2506,7 +2506,7 @@
     },
     "iPad-ServerList-PremiumGermany-EN.dc.html": {
       "x": 1112,
-      "y": 15984,
+      "y": 19192,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2514,7 +2514,7 @@
     },
     "iPad-ServerList-PremiumAuto-EN.dc.html": {
       "x": 2224,
-      "y": 15984,
+      "y": 19192,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2522,7 +2522,7 @@
     },
     "iPad-ServerList-Free-AR.dc.html": {
       "x": 3336,
-      "y": 15984,
+      "y": 19192,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2530,7 +2530,7 @@
     },
     "iPad-ServerList-PremiumGermany-AR.dc.html": {
       "x": 4448,
-      "y": 15984,
+      "y": 19192,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2538,7 +2538,7 @@
     },
     "iPad-ServerList-PremiumAuto-AR.dc.html": {
       "x": 5560,
-      "y": 15984,
+      "y": 19192,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2546,7 +2546,7 @@
     },
     "iPad-ConnectionRating-Untouched-EN.dc.html": {
       "x": 0,
-      "y": 19536,
+      "y": 24520,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2554,7 +2554,7 @@
     },
     "iPad-ConnectionRating-TwoStars-EN.dc.html": {
       "x": 1112,
-      "y": 19536,
+      "y": 24520,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2562,7 +2562,7 @@
     },
     "iPad-ConnectionRating-FiveStars-EN.dc.html": {
       "x": 2224,
-      "y": 19536,
+      "y": 24520,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2570,7 +2570,7 @@
     },
     "iPad-ConnectionRating-Untouched-AR.dc.html": {
       "x": 3336,
-      "y": 19536,
+      "y": 24520,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2578,7 +2578,7 @@
     },
     "iPad-ConnectionRating-TwoStars-AR.dc.html": {
       "x": 4448,
-      "y": 19536,
+      "y": 24520,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2586,7 +2586,7 @@
     },
     "iPad-ConnectionRating-FiveStars-AR.dc.html": {
       "x": 5560,
-      "y": 19536,
+      "y": 24520,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2594,7 +2594,7 @@
     },
     "iPad-RateUs-Default-EN.dc.html": {
       "x": 0,
-      "y": 21312,
+      "y": 26296,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2602,7 +2602,7 @@
     },
     "iPad-RateUs-Default-AR.dc.html": {
       "x": 1112,
-      "y": 21312,
+      "y": 26296,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2610,7 +2610,7 @@
     },
     "iPad-RewardPanel-ZeroOfThree-EN.dc.html": {
       "x": 0,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2618,7 +2618,7 @@
     },
     "iPad-RewardPanel-Progress-EN.dc.html": {
       "x": 1112,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2626,7 +2626,7 @@
     },
     "iPad-RewardPanel-Claim-EN.dc.html": {
       "x": 2224,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2634,7 +2634,7 @@
     },
     "iPad-RewardPanel-AdLoading-EN.dc.html": {
       "x": 3336,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2642,7 +2642,7 @@
     },
     "iPad-RewardPanel-NoAd-EN.dc.html": {
       "x": 4448,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2650,7 +2650,7 @@
     },
     "iPad-RewardPanel-ZeroOfThree-AR.dc.html": {
       "x": 5560,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2658,7 +2658,7 @@
     },
     "iPad-RewardPanel-Progress-AR.dc.html": {
       "x": 6672,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2666,7 +2666,7 @@
     },
     "iPad-RewardPanel-Claim-AR.dc.html": {
       "x": 7784,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2674,7 +2674,7 @@
     },
     "iPad-RewardPanel-AdLoading-AR.dc.html": {
       "x": 8896,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2682,7 +2682,7 @@
     },
     "iPad-RewardPanel-NoAd-AR.dc.html": {
       "x": 10008,
-      "y": 23088,
+      "y": 28072,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2690,7 +2690,7 @@
     },
     "iPad-NoTimeLeft-Trial-EN.dc.html": {
       "x": 0,
-      "y": 24864,
+      "y": 29848,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2698,7 +2698,7 @@
     },
     "iPad-NoTimeLeft-NoTrial-EN.dc.html": {
       "x": 1112,
-      "y": 24864,
+      "y": 29848,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2706,7 +2706,7 @@
     },
     "iPad-NoTimeLeft-Trial-AR.dc.html": {
       "x": 2224,
-      "y": 24864,
+      "y": 29848,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2714,7 +2714,7 @@
     },
     "iPad-NoTimeLeft-NoTrial-AR.dc.html": {
       "x": 3336,
-      "y": 24864,
+      "y": 29848,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2722,7 +2722,7 @@
     },
     "iPad-BillingGrace-Grace-EN.dc.html": {
       "x": 0,
-      "y": 37552,
+      "y": 42536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2730,7 +2730,7 @@
     },
     "iPad-BillingGrace-Paused-EN.dc.html": {
       "x": 1112,
-      "y": 37552,
+      "y": 42536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2738,7 +2738,7 @@
     },
     "iPad-BillingGrace-Grace-AR.dc.html": {
       "x": 2224,
-      "y": 37552,
+      "y": 42536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2746,7 +2746,7 @@
     },
     "iPad-BillingGrace-Paused-AR.dc.html": {
       "x": 3336,
-      "y": 37552,
+      "y": 42536,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2754,7 +2754,7 @@
     },
     "iPad-Main-LandscapeSearch-AR.dc.html": {
       "x": 9257,
-      "y": 12432,
+      "y": 15640,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -2762,7 +2762,7 @@
     },
     "iPad-Main-PortraitPremium-AR.dc.html": {
       "x": 10713,
-      "y": 12432,
+      "y": 15640,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2770,15 +2770,15 @@
     },
     "iPad-ReportSheet-Landscape-AR.dc.html": {
       "x": 3680,
-      "y": 45856,
+      "y": 22744,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
-      "title": "Approved, not built — VPN-359 · iPad Report form sheet · landscape · AR"
+      "title": "Report an Issue — form sheet · landscape, not connected · AR"
     },
     "iPad-SettingsSheet-NoPremium-AR.dc.html": {
       "x": 16016,
-      "y": 29016,
+      "y": 34000,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -2930,7 +2930,7 @@
     },
     "iPad-VPNPermission817-Prompt-EN.dc.html": {
       "x": 0,
-      "y": 50608,
+      "y": 50840,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2938,7 +2938,7 @@
     },
     "iPad-VPNPermission817-Help-EN.dc.html": {
       "x": 1112,
-      "y": 50608,
+      "y": 50840,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2946,7 +2946,7 @@
     },
     "iPad-VPNPermission817-NoPrompt-EN.dc.html": {
       "x": 2224,
-      "y": 50608,
+      "y": 50840,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2954,7 +2954,7 @@
     },
     "iPad-VPNPermission817-Prompt-AR.dc.html": {
       "x": 3336,
-      "y": 50608,
+      "y": 50840,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2962,7 +2962,7 @@
     },
     "iPad-VPNPermission817-Help-AR.dc.html": {
       "x": 4448,
-      "y": 50608,
+      "y": 50840,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -2970,7 +2970,7 @@
     },
     "iPad-VPNPermission817-NoPrompt-AR.dc.html": {
       "x": 5560,
-      "y": 50608,
+      "y": 50840,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -3106,7 +3106,7 @@
     },
     "iPad-NetworkBlocked908-RetryCountdown-EN.dc.html": {
       "x": 0,
-      "y": 53584,
+      "y": 53816,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -3114,7 +3114,7 @@
     },
     "iPad-NetworkBlocked908-RetryCountdown-AR.dc.html": {
       "x": 1112,
-      "y": 53584,
+      "y": 53816,
       "w": 1032,
       "h": 1376,
       "page": "ipad",
@@ -3122,7 +3122,7 @@
     },
     "iPad-MainWindow908-Column700-EN.dc.html": {
       "x": 0,
-      "y": 55660,
+      "y": 55892,
       "w": 700,
       "h": 1307,
       "page": "ipad",
@@ -3130,7 +3130,7 @@
     },
     "iPad-MainWindow908-Column781-EN.dc.html": {
       "x": 780,
-      "y": 55660,
+      "y": 55892,
       "w": 781,
       "h": 1307,
       "page": "ipad",
@@ -3138,7 +3138,7 @@
     },
     "iPad-MainWindow908-Column830-EN.dc.html": {
       "x": 1641,
-      "y": 55660,
+      "y": 55892,
       "w": 830,
       "h": 1307,
       "page": "ipad",
@@ -3146,7 +3146,7 @@
     },
     "iPad-MainWindow908-Column700-AR.dc.html": {
       "x": 2551,
-      "y": 55660,
+      "y": 55892,
       "w": 700,
       "h": 1307,
       "page": "ipad",
@@ -3154,7 +3154,7 @@
     },
     "iPad-MainWindow908-Column781-AR.dc.html": {
       "x": 3331,
-      "y": 55660,
+      "y": 55892,
       "w": 781,
       "h": 1307,
       "page": "ipad",
@@ -3162,7 +3162,7 @@
     },
     "iPad-MainWindow908-Column830-AR.dc.html": {
       "x": 4192,
-      "y": 55660,
+      "y": 55892,
       "w": 830,
       "h": 1307,
       "page": "ipad",
@@ -3266,7 +3266,7 @@
     },
     "iPad-HomeAuto1179-BeforeConnect-EN.dc.html": {
       "x": 0,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3274,7 +3274,7 @@
     },
     "iPad-HomeAuto1179-Connecting-EN.dc.html": {
       "x": 1456,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3282,7 +3282,7 @@
     },
     "iPad-HomeAuto1179-ConnectedSameCountry-EN.dc.html": {
       "x": 2912,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3290,7 +3290,7 @@
     },
     "iPad-HomeAuto1179-ConnectedOtherCountry-EN.dc.html": {
       "x": 4368,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3298,7 +3298,7 @@
     },
     "iPad-HomeAuto1179-AfterDisconnect-EN.dc.html": {
       "x": 5824,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3306,7 +3306,7 @@
     },
     "iPad-HomeAuto1179-BeforeConnect-AR.dc.html": {
       "x": 7280,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3314,7 +3314,7 @@
     },
     "iPad-HomeAuto1179-Connecting-AR.dc.html": {
       "x": 8736,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3322,7 +3322,7 @@
     },
     "iPad-HomeAuto1179-ConnectedSameCountry-AR.dc.html": {
       "x": 10192,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3330,7 +3330,7 @@
     },
     "iPad-HomeAuto1179-ConnectedOtherCountry-AR.dc.html": {
       "x": 11648,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3338,7 +3338,7 @@
     },
     "iPad-HomeAuto1179-AfterDisconnect-AR.dc.html": {
       "x": 13104,
-      "y": 59384,
+      "y": 59616,
       "w": 1376,
       "h": 1032,
       "page": "ipad",
@@ -3458,7 +3458,7 @@
     },
     "iPad-Main-Window785NoPremium-EN.dc.html": {
       "x": 5480,
-      "y": 12432,
+      "y": 15640,
       "w": 785,
       "h": 1307,
       "page": "ipad",
@@ -3466,7 +3466,7 @@
     },
     "iPad-Main-Window785NoPremium-AR.dc.html": {
       "x": 11825,
-      "y": 12432,
+      "y": 15640,
       "w": 785,
       "h": 1307,
       "page": "ipad",
@@ -3617,12 +3617,16 @@
     "iPad-Agreement-Unticked-EN.dc.html",
     "iPad-Agreement-Ticked-AR.dc.html",
     "iPad-Agreement-Unticked-AR.dc.html",
+    "iPad-FirstLaunch-Agreement-EN.dc.html",
+    "iPad-FirstLaunch-Agreement-AR.dc.html",
     "iPad-Onboarding-Page1-EN.dc.html",
     "iPad-Onboarding-Page2-EN.dc.html",
     "iPad-Onboarding-Page3-EN.dc.html",
     "iPad-Onboarding-Page1-AR.dc.html",
     "iPad-Onboarding-Page2-AR.dc.html",
     "iPad-Onboarding-Page3-AR.dc.html",
+    "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html",
+    "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html",
     "iPad-VPNPermission-Primer-EN.dc.html",
     "iPad-VPNPermission-Denied-EN.dc.html",
     "iPad-VPNPermission-Primer-AR.dc.html",
@@ -3677,6 +3681,10 @@
     "iPad-Report-Connected-EN.dc.html",
     "iPad-Report-NotConnected-AR.dc.html",
     "iPad-Report-Connected-AR.dc.html",
+    "iPad-ReportSheet-Portrait-EN.dc.html",
+    "iPad-ReportSheet-Landscape-EN.dc.html",
+    "iPad-ReportSheet-Portrait-AR.dc.html",
+    "iPad-ReportSheet-Landscape-AR.dc.html",
     "iPad-ConnectionRating-Untouched-EN.dc.html",
     "iPad-ConnectionRating-TwoStars-EN.dc.html",
     "iPad-ConnectionRating-FiveStars-EN.dc.html",
@@ -3747,14 +3755,6 @@
     "iPad-Support-Sent-AR.dc.html",
     "iPad-UpdateRequired-Default-EN.dc.html",
     "iPad-UpdateRequired-Default-AR.dc.html",
-    "iPad-ReportSheet-Portrait-EN.dc.html",
-    "iPad-ReportSheet-Landscape-EN.dc.html",
-    "iPad-ReportSheet-Portrait-AR.dc.html",
-    "iPad-ReportSheet-Landscape-AR.dc.html",
-    "iPad-FirstLaunch-Agreement-EN.dc.html",
-    "iPad-FirstLaunch-OnboardingLandscape-EN.dc.html",
-    "iPad-FirstLaunch-Agreement-AR.dc.html",
-    "iPad-FirstLaunch-OnboardingLandscape-AR.dc.html",
     "Mac-FirstLaunch-Privacy-EN.dc.html",
     "Mac-FirstLaunch-Permission-EN.dc.html",
     "Mac-FirstLaunch-Denied-EN.dc.html",
@@ -4091,31 +4091,6 @@
       "maxW": 900,
       "page": "iphone"
     },
-    "ipad-blk-ApprovednotbuiltVPN359": {
-      "x": 0,
-      "y": 44856,
-      "text": "Approved, not built — VPN-359",
-      "kind": "title1",
-      "maxW": 2400,
-      "page": "ipad",
-      "color": "orange"
-    },
-    "ipad-tbuiltVPN359-ReportSheet": {
-      "x": 0,
-      "y": 45556,
-      "text": "Approved, not built — VPN-359 · iPad Report form sheet",
-      "kind": "title1",
-      "maxW": 5056,
-      "page": "ipad"
-    },
-    "ipad-tbuiltVPN359-FirstLaunch": {
-      "x": 0,
-      "y": 47332,
-      "text": "Approved, not built — VPN-359 · iPad first launch",
-      "kind": "title1",
-      "maxW": 5056,
-      "page": "ipad"
-    },
     "mac-blk-ProposalVPN710": {
       "x": 0,
       "y": 5752,
@@ -4175,7 +4150,7 @@
     },
     "ipad-Onboarding": {
       "x": 0,
-      "y": 3252,
+      "y": 5028,
       "text": "Onboarding",
       "kind": "title1",
       "maxW": 6592,
@@ -4183,7 +4158,7 @@
     },
     "ipad-VPNPermission": {
       "x": 0,
-      "y": 5028,
+      "y": 8236,
       "text": "VPN permission",
       "kind": "title1",
       "maxW": 4368,
@@ -4191,7 +4166,7 @@
     },
     "ipad-HomeFree": {
       "x": 0,
-      "y": 6804,
+      "y": 10012,
       "text": "Home — free user",
       "kind": "title1",
       "maxW": 15488,
@@ -4199,7 +4174,7 @@
     },
     "ipad-HomePremium": {
       "x": 0,
-      "y": 8580,
+      "y": 11788,
       "text": "Home — premium user",
       "kind": "title1",
       "maxW": 4368,
@@ -4207,7 +4182,7 @@
     },
     "ipad-HomeNotices": {
       "x": 0,
-      "y": 10356,
+      "y": 13564,
       "text": "Home — notices",
       "kind": "title1",
       "maxW": 8816,
@@ -4215,7 +4190,7 @@
     },
     "ipad-NetworkBlocked": {
       "x": 0,
-      "y": 13908,
+      "y": 17116,
       "text": "Network blocked",
       "kind": "title1",
       "maxW": 4368,
@@ -4223,7 +4198,7 @@
     },
     "ipad-ServerList": {
       "x": 0,
-      "y": 15684,
+      "y": 18892,
       "text": "Server list",
       "kind": "title1",
       "maxW": 6592,
@@ -4231,7 +4206,7 @@
     },
     "ipad-Report": {
       "x": 0,
-      "y": 17460,
+      "y": 20668,
       "text": "Report an Issue",
       "kind": "title1",
       "maxW": 4368,
@@ -4239,7 +4214,7 @@
     },
     "ipad-ConnectionRating": {
       "x": 0,
-      "y": 19236,
+      "y": 24220,
       "text": "Connection rating",
       "kind": "title1",
       "maxW": 6592,
@@ -4247,7 +4222,7 @@
     },
     "ipad-RateUs": {
       "x": 0,
-      "y": 21012,
+      "y": 25996,
       "text": "Rate us",
       "kind": "title1",
       "maxW": 2144,
@@ -4255,7 +4230,7 @@
     },
     "ipad-RewardPanel": {
       "x": 0,
-      "y": 22788,
+      "y": 27772,
       "text": "Reward panel",
       "kind": "title1",
       "maxW": 11040,
@@ -4263,7 +4238,7 @@
     },
     "ipad-NoTimeLeft": {
       "x": 0,
-      "y": 24564,
+      "y": 29548,
       "text": "No time left",
       "kind": "title1",
       "maxW": 4368,
@@ -4271,7 +4246,7 @@
     },
     "ipad-Gift": {
       "x": 0,
-      "y": 26340,
+      "y": 31324,
       "text": "Gift",
       "kind": "title1",
       "maxW": 2144,
@@ -4279,7 +4254,7 @@
     },
     "ipad-Settings": {
       "x": 0,
-      "y": 30148,
+      "y": 35132,
       "text": "Settings tab",
       "kind": "title1",
       "maxW": 4368,
@@ -4287,7 +4262,7 @@
     },
     "ipad-Profile": {
       "x": 0,
-      "y": 31924,
+      "y": 36908,
       "text": "Profile tab",
       "kind": "title1",
       "maxW": 6592,
@@ -4295,7 +4270,7 @@
     },
     "ipad-Protocols": {
       "x": 0,
-      "y": 33700,
+      "y": 38684,
       "text": "Protocols",
       "kind": "title1",
       "maxW": 4368,
@@ -4303,7 +4278,7 @@
     },
     "ipad-Account": {
       "x": 0,
-      "y": 35476,
+      "y": 40460,
       "text": "Account",
       "kind": "title1",
       "maxW": 6592,
@@ -4311,7 +4286,7 @@
     },
     "ipad-BillingGrace": {
       "x": 0,
-      "y": 37252,
+      "y": 42236,
       "text": "Billing grace and paused",
       "kind": "title1",
       "maxW": 4368,
@@ -4319,7 +4294,7 @@
     },
     "ipad-Others": {
       "x": 0,
-      "y": 39028,
+      "y": 44012,
       "text": "Others",
       "kind": "title1",
       "maxW": 2144,
@@ -4327,7 +4302,7 @@
     },
     "ipad-Support": {
       "x": 0,
-      "y": 40804,
+      "y": 45788,
       "text": "Support",
       "kind": "title1",
       "maxW": 6592,
@@ -4335,7 +4310,7 @@
     },
     "ipad-UpdateRequired": {
       "x": 0,
-      "y": 42580,
+      "y": 47564,
       "text": "Update required",
       "kind": "title1",
       "maxW": 2144,
@@ -4353,7 +4328,7 @@
     },
     "ipad-PaywallsMoved": {
       "x": 0,
-      "y": 28116,
+      "y": 33100,
       "w": 1400,
       "page": "ipad",
       "fill": "gray",
@@ -4381,7 +4356,7 @@
     },
     "ipad-RewardPanel-lottie": {
       "x": 11080,
-      "y": 23088,
+      "y": 28072,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4532,7 +4507,7 @@
     },
     "ipad-blk-ProposalVPN817": {
       "x": 0,
-      "y": 49608,
+      "y": 49840,
       "text": "Proposal — VPN-817",
       "kind": "title1",
       "maxW": 2400,
@@ -4541,7 +4516,7 @@
     },
     "ipad-ProposalVPN817-Permission": {
       "x": 0,
-      "y": 50308,
+      "y": 50540,
       "text": "Proposal — VPN-817 · VPN permission: Connect opens the iOS prompt",
       "kind": "title1",
       "maxW": 6592,
@@ -4549,7 +4524,7 @@
     },
     "ipad-ProposalVPN817-flow": {
       "x": 6672,
-      "y": 50608,
+      "y": 50840,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4558,7 +4533,7 @@
     },
     "ipad-ProposalVPN817-texts": {
       "x": 7392,
-      "y": 50608,
+      "y": 50840,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4567,7 +4542,7 @@
     },
     "ipad-ProposalVPN817-popups": {
       "x": 8112,
-      "y": 50608,
+      "y": 50840,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4576,7 +4551,7 @@
     },
     "ipad-VPNPermission-VPN817": {
       "x": 4448,
-      "y": 5328,
+      "y": 8536,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4699,7 +4674,7 @@
     },
     "ipad-blk-ProposalVPN908": {
       "x": 0,
-      "y": 52584,
+      "y": 52816,
       "text": "Proposal — VPN-908",
       "kind": "title1",
       "maxW": 2400,
@@ -4708,7 +4683,7 @@
     },
     "ipad-ProposalVPN908-Button": {
       "x": 0,
-      "y": 53284,
+      "y": 53516,
       "text": "Proposal — VPN-908 · iOS disabled button: white title (4.5:1 or more)",
       "kind": "title1",
       "maxW": 2144,
@@ -4716,7 +4691,7 @@
     },
     "ipad-ProposalVPN908-Button-note": {
       "x": 2224,
-      "y": 53584,
+      "y": 53816,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4725,7 +4700,7 @@
     },
     "ipad-ProposalVPN908-Column": {
       "x": 0,
-      "y": 55360,
+      "y": 55592,
       "text": "Proposal — VPN-908 · iPad server column in 700–830 pt windows: no signal icon, the lock in the tick place, names on up to 2 lines",
       "kind": "title1",
       "maxW": 5022,
@@ -4733,7 +4708,7 @@
     },
     "ipad-ProposalVPN908-Column-note": {
       "x": 5102,
-      "y": 55660,
+      "y": 55892,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4742,7 +4717,7 @@
     },
     "ipad-NetworkBlocked-VPN908": {
       "x": 4448,
-      "y": 14208,
+      "y": 17416,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4750,8 +4725,8 @@
       "text": "Proposal — VPN-908 (below): the Retry button title turns white (8.83:1). These frames stay as built until the board approves and the change is on the default branch."
     },
     "ipad-ReportSheet-VPN908": {
-      "x": 5136,
-      "y": 45856,
+      "x": 5816,
+      "y": 22744,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4813,7 +4788,7 @@
     },
     "ipad-blk-ProposalVPN1179": {
       "x": 0,
-      "y": 58384,
+      "y": 58616,
       "text": "Proposal — VPN-1179",
       "kind": "title1",
       "maxW": 2400,
@@ -4822,7 +4797,7 @@
     },
     "ipad-ProposalVPN1179-Row": {
       "x": 0,
-      "y": 59084,
+      "y": 59316,
       "text": "Proposal — VPN-1179 · the server column shows the server that premium Auto got at Connect",
       "kind": "title1",
       "maxW": 14480,
@@ -4830,7 +4805,7 @@
     },
     "ipad-ProposalVPN1179-flow": {
       "x": 14560,
-      "y": 59384,
+      "y": 59616,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4839,7 +4814,7 @@
     },
     "ipad-ProposalVPN1179-texts": {
       "x": 15280,
-      "y": 59384,
+      "y": 59616,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4848,7 +4823,7 @@
     },
     "ipad-HomePremium-VPN1179": {
       "x": 4448,
-      "y": 8880,
+      "y": 12088,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4932,7 +4907,7 @@
     },
     "ipad-HomeWide-search": {
       "x": 14810,
-      "y": 12432,
+      "y": 15640,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4941,7 +4916,7 @@
     },
     "ipad-HomeWide-VPN908": {
       "x": 15530,
-      "y": 12432,
+      "y": 15640,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4950,7 +4925,7 @@
     },
     "ipad-HomeWide-VPN1179": {
       "x": 16130,
-      "y": 12432,
+      "y": 15640,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -4959,7 +4934,7 @@
     },
     "ipad-HomeWide-capsule": {
       "x": 13370,
-      "y": 12432,
+      "y": 15640,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -4968,7 +4943,7 @@
     },
     "ipad-SettingsSheet-908": {
       "x": 18152,
-      "y": 29016,
+      "y": 34000,
       "w": 520,
       "page": "ipad",
       "fill": "gray",
@@ -5017,7 +4992,7 @@
     },
     "ipad-HomeWide-heading": {
       "x": 14090,
-      "y": 12432,
+      "y": 15640,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -5026,7 +5001,7 @@
     },
     "ipad-HomeWide-scope": {
       "x": 12650,
-      "y": 12432,
+      "y": 15640,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -5035,7 +5010,7 @@
     },
     "ipad-SettingsSheet-scope": {
       "x": 17432,
-      "y": 29016,
+      "y": 34000,
       "w": 640,
       "page": "ipad",
       "fill": "gray",
@@ -5044,7 +5019,7 @@
     },
     "ipad-HomeWide": {
       "x": 0,
-      "y": 12132,
+      "y": 15340,
       "text": "Home — wide window, server column",
       "kind": "title1",
       "maxW": 12610,
@@ -5052,11 +5027,62 @@
     },
     "ipad-SettingsSheet": {
       "x": 0,
-      "y": 28716,
+      "y": 33700,
       "text": "Settings sheet — wide window",
       "kind": "title1",
       "maxW": 17392,
       "page": "ipad"
+    },
+    "ipad-AgreementWide": {
+      "x": 0,
+      "y": 3252,
+      "text": "Agreement — wide window",
+      "kind": "title1",
+      "maxW": 2144,
+      "page": "ipad"
+    },
+    "ipad-AgreementWide-scope": {
+      "x": 2184,
+      "y": 3552,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Since 5.0.8 (VPN-589) a window of 700 pt or more, full screen included, shows the agreement at most 560 pt wide, centred, on the page colour. The text, the panels and the button keep their iPhone sizes. Windows narrower than 700 pt keep the iPhone layout: the row \"Agreement\" above shows it at full-screen size, as before 5.0.8.\nThe content stays in the safe area: 32 pt status bar, 20 pt home indicator."
+    },
+    "ipad-OnboardingWide": {
+      "x": 0,
+      "y": 6804,
+      "text": "Onboarding — wide window",
+      "kind": "title1",
+      "maxW": 2832,
+      "page": "ipad"
+    },
+    "ipad-OnboardingWide-scope": {
+      "x": 2872,
+      "y": 7104,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Since 5.0.8 (VPN-589) a window of 700 pt or more, full screen included, shows the onboarding at most 560 pt wide, centred, in portrait and in landscape. Windows narrower than 700 pt keep the iPhone layout (row \"Onboarding\" above, as before 5.0.8).\nPrice lines (App Store price, here the US weekly price of the 5.0.8 picture): without a free trial \"Unlock all Premium features.\" over \"<price> per week, cancel anytime\"; with a trial \"Try it free for <length>.\" over \"Then <price> per week\". No line until the App Store gives the price."
+    },
+    "ipad-ReportSheet": {
+      "x": 0,
+      "y": 22444,
+      "text": "Report an Issue — form sheet",
+      "kind": "title1",
+      "maxW": 5056,
+      "page": "ipad"
+    },
+    "ipad-ReportSheet-scope": {
+      "x": 5096,
+      "y": 22744,
+      "w": 640,
+      "page": "ipad",
+      "fill": "gray",
+      "size": "l",
+      "text": "Since 5.0.8 (VPN-589) a window of 520 pt or more, full screen included, opens Report an Issue as a form sheet over the dimmed window: 560 pt wide, centred on the window, 780 pt high in the 5.0.8 pictures (the app asks for at most 560 × 760 pt), corner radius 24, a 1 pt white 10 % edge, the ✕ at the top right (top left in Arabic). The grabber line stays. Connected: \"You are connected\" shows under the text, as in the row \"Report an Issue\" above. Windows narrower than 520 pt keep the page sheet of that row."
     }
   }
 }
